@@ -25347,6 +25347,9 @@
 	<programme channel="动作电影" start="20241114103700 +0800" stop="20241114125200 +0800">
 		<title lang="zh">碟中谍III</title>
 	</programme>
+	<programme channel="动作电影" start="20241114125200 +0800" stop="20241114133100 +0800">
+		<title lang="zh">CRESIOENM纯钛金色碗惠选组-渠道（右）</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -44081,6 +44084,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20241114120900 +0800" stop="20241114125700 +0800">
 		<title lang="zh">头号海12小时干海参超值特惠组-渠道（右）</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20241114125700 +0800" stop="20241114141900 +0800">
+		<title lang="zh">特工使命</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -69723,6 +69729,9 @@
 	<programme channel="纯享4K" start="20241114123100 +0800" stop="20241114131200 +0800">
 		<title lang="zh">远方的家4K 大运河（22）金鸡湖畔新苏州</title>
 	</programme>
+	<programme channel="纯享4K" start="20241114131200 +0800" stop="20241114131800 +0800">
+		<title lang="zh">美丽中国自然4K 河北围场系列 鹿驰于野</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -83982,6 +83991,9 @@
 	<programme channel="黑莓动画" start="20241114123200 +0800" stop="20241114130700 +0800">
 		<title lang="zh">嗨道奇第2季中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241114130700 +0800" stop="20241114133300 +0800">
+		<title lang="zh">熊出没之小小世界</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -85002,6 +85014,9 @@
 	<programme channel="newtv超级体育" start="20241114123500 +0800" stop="20241114125900 +0800">
 		<title lang="zh">艺术里的奥林匹克</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241114125900 +0800" stop="20241114143000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛常规赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -85086,6 +85101,9 @@
 	<programme channel="newtv超级电视剧" start="20241114123000 +0800" stop="20241114131500 +0800">
 		<title lang="zh">09_花开如梦</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241114131500 +0800" stop="20241114135700 +0800">
+		<title lang="zh">42_绝代双骄</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -85133,6 +85151,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241114120500 +0800" stop="20241114125000 +0800">
 		<title lang="zh">15_春闺梦里人</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241114125000 +0800" stop="20241114133700 +0800">
+		<title lang="zh">16_春闺梦里人</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -85248,6 +85269,9 @@
 	<programme channel="newtv古装剧场" start="20241114122700 +0800" stop="20241114131400 +0800">
 		<title lang="zh">33_嫣语赋</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20241114131400 +0800" stop="20241114140000 +0800">
+		<title lang="zh">34_嫣语赋</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -85296,6 +85320,9 @@
 	<programme channel="newtv军旅剧场" start="20241114122700 +0800" stop="20241114131500 +0800">
 		<title lang="zh">山王果有机小分子轻酵刺梨液-渠道（右）</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241114131500 +0800" stop="20241114140000 +0800">
+		<title lang="zh">15_我的父亲我的兵</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -85343,6 +85370,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20241114121100 +0800" stop="20241114125800 +0800">
 		<title lang="zh">45_安家</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20241114125800 +0800" stop="20241114133700 +0800">
+		<title lang="zh">LECEA钛茶仓富硒水杯-渠道（右）</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -85458,6 +85488,9 @@
 	<programme channel="newtv动作电影" start="20241114103700 +0800" stop="20241114125200 +0800">
 		<title lang="zh">碟中谍III</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20241114125200 +0800" stop="20241114133100 +0800">
+		<title lang="zh">CRESIOENM纯钛金色碗惠选组-渠道（右）</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -85511,6 +85544,12 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241114120700 +0800" stop="20241114125500 +0800">
 		<title lang="zh">帕米便携式氢氧一体机-渠道（右）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241114125500 +0800" stop="20241114131600 +0800">
+		<title lang="zh">【相声】《分手快乐》表演：张番、刘铨淼</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241114131600 +0800" stop="20241114133000 +0800">
+		<title lang="zh">【相声】《决赛风波》表演：陈印泉、侯振鹏</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -85662,6 +85701,9 @@
 	<programme channel="newtv军事评论" start="20241114122900 +0800" stop="20241114125400 +0800">
 		<title lang="zh">奋斗正当时</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241114125400 +0800" stop="20241114132000 +0800">
+		<title lang="zh">“兵王”的奋斗强军路</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85733,6 +85775,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241114121200 +0800" stop="20241114130100 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241114130100 +0800" stop="20241114142300 +0800">
+		<title lang="zh">8组选手从陕西街头踏上星光之路 争夺“星光直通卡”（20240928）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -85809,6 +85854,9 @@
 	<programme channel="newtv惊悚悬疑" start="20241114120900 +0800" stop="20241114125700 +0800">
 		<title lang="zh">头号海12小时干海参超值特惠组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20241114125700 +0800" stop="20241114141900 +0800">
+		<title lang="zh">特工使命</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -85835,6 +85883,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20241114114100 +0800" stop="20241114131100 +0800">
 		<title lang="zh">一馔千年</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20241114131100 +0800" stop="20241114135900 +0800">
+		<title lang="zh">山王果有机小分子轻酵刺梨液-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -85946,6 +85997,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241114120500 +0800" stop="20241114124900 +0800">
 		<title lang="zh">43_燕云台</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241114124900 +0800" stop="20241114132200 +0800">
+		<title lang="zh">中国搏击十年</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
