@@ -39,6 +39,9 @@
 	<programme channel="4K综艺" start="20241114133000 +0800" stop="20241114145000 +0800">
 		<title lang="zh">小小的追球20200114</title>
 	</programme>
+	<programme channel="4K综艺" start="20241114145000 +0800" stop="20241114162200 +0800">
+		<title lang="zh">妻子的浪漫旅行第三季20191225</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -46737,6 +46740,9 @@
 	<programme channel="明星大片" start="20241114143400 +0800" stop="20241114145800 +0800">
 		<title lang="zh">22_间谍过家家</title>
 	</programme>
+	<programme channel="明星大片" start="20241114145800 +0800" stop="20241114154800 +0800">
+		<title lang="zh">美国进口RN鱼油酸神经酸-渠道（右）</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -69768,6 +69774,9 @@
 	<programme channel="纯享4K" start="20241114142700 +0800" stop="20241114145100 +0800">
 		<title lang="zh">了不起的冬天4K 第2集 默契</title>
 	</programme>
+	<programme channel="纯享4K" start="20241114145100 +0800" stop="20241114152100 +0800">
+		<title lang="zh">味道4K 原味乡间b7沂水篇</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -85356,6 +85365,9 @@
 	<programme channel="newtv古装剧场" start="20241114140000 +0800" stop="20241114145000 +0800">
 		<title lang="zh">美国进口RN鱼油酸神经酸-渠道（右）</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20241114145000 +0800" stop="20241114153500 +0800">
+		<title lang="zh">01_包青天之七侠五义</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -85409,6 +85421,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20241114140000 +0800" stop="20241114145500 +0800">
 		<title lang="zh">16_我的父亲我的兵</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241114145500 +0800" stop="20241114154000 +0800">
+		<title lang="zh">17_我的父亲我的兵</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -85673,6 +85688,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241114142300 +0800" stop="20241114144900 +0800">
 		<title lang="zh">冒名顶替的岗位</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241114144900 +0800" stop="20241114162300 +0800">
+		<title lang="zh">同仁堂即食海参参王超值组-渠道（右）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -85974,6 +85992,9 @@
 	<programme channel="newtv精品综合" start="20241114143400 +0800" stop="20241114145800 +0800">
 		<title lang="zh">22_间谍过家家</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20241114145800 +0800" stop="20241114154800 +0800">
+		<title lang="zh">美国进口RN鱼油酸神经酸-渠道（右）</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -86165,6 +86186,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241114140400 +0800" stop="20241114145200 +0800">
 		<title lang="zh">帕米便携式氢氧一体机-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241114145200 +0800" stop="20241114153700 +0800">
+		<title lang="zh">11_飞狐外传</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
