@@ -33,6 +33,9 @@
 	<programme channel="4K综艺" start="20241114112300 +0800" stop="20241114121000 +0800">
 		<title lang="zh">小小的追球20200101</title>
 	</programme>
+	<programme channel="4K综艺" start="20241114121000 +0800" stop="20241114133000 +0800">
+		<title lang="zh">小小的追球20200107</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -32829,6 +32832,9 @@
 	<programme channel="咪咕综合体育" start="20241114120000 +0800" stop="20241114121000 +0800">
 		<title lang="zh">2024赛季中超盘点（4）</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20241114121000 +0800" stop="20241114135000 +0800">
+		<title lang="zh">足球世界-24/25赛季中甲 第30轮 大连英博-上海嘉定汇龙</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -44069,6 +44075,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20241114104300 +0800" stop="20241114120900 +0800">
 		<title lang="zh">涉嫌之人</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20241114120900 +0800" stop="20241114125700 +0800">
+		<title lang="zh">头号海12小时干海参超值特惠组-渠道（右）</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -83952,6 +83961,9 @@
 	<programme channel="黑莓动画" start="20241114114300 +0800" stop="20241114120600 +0800">
 		<title lang="zh">百变布鲁可第4季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241114120600 +0800" stop="20241114123200 +0800">
+		<title lang="zh">超级飞侠第15季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -85089,6 +85101,9 @@
 	<programme channel="newtv精品大剧" start="20241114111600 +0800" stop="20241114120500 +0800">
 		<title lang="zh">BEYONPAN健康全钛厨具特惠组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20241114120500 +0800" stop="20241114125000 +0800">
+		<title lang="zh">15_春闺梦里人</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -85287,6 +85302,9 @@
 	<programme channel="newtv家庭剧场" start="20241114111400 +0800" stop="20241114121100 +0800">
 		<title lang="zh">44_安家</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20241114121100 +0800" stop="20241114125800 +0800">
+		<title lang="zh">45_安家</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -85449,6 +85467,9 @@
 	<programme channel="newtv怡伴健康" start="20241114112100 +0800" stop="20241114120700 +0800">
 		<title lang="zh">32_绝密使命</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241114120700 +0800" stop="20241114125500 +0800">
+		<title lang="zh">帕米便携式氢氧一体机-渠道（右）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -85590,6 +85611,9 @@
 	<programme channel="newtv军事评论" start="20241114114200 +0800" stop="20241114120300 +0800">
 		<title lang="zh">走进东海第一哨</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241114120300 +0800" stop="20241114122900 +0800">
+		<title lang="zh">迷彩青春的召唤</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85659,6 +85683,9 @@
 	<programme channel="newtv炫舞未来" start="20241114114500 +0800" stop="20241114121200 +0800">
 		<title lang="zh">被套路的网恋（20220710）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20241114121200 +0800" stop="20241114130100 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -85727,6 +85754,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20241114104300 +0800" stop="20241114120900 +0800">
 		<title lang="zh">涉嫌之人</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20241114120900 +0800" stop="20241114125700 +0800">
+		<title lang="zh">头号海12小时干海参超值特惠组-渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -85859,6 +85889,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241114111800 +0800" stop="20241114120500 +0800">
 		<title lang="zh">同仁堂即食海参会员超值专享组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241114120500 +0800" stop="20241114124900 +0800">
+		<title lang="zh">43_燕云台</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
