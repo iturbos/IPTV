@@ -34569,11 +34569,38 @@
 	<programme channel="国会频道1" start="20241115084700 +0800" stop="20241115090000 +0800">
 		<title lang="zh">週五會議預報</title>
 	</programme>
-	<programme channel="国会频道1" start="20241115090000 +0800" stop="20241115180000 +0800">
+	<programme channel="国会频道1" start="20241115090000 +0800" stop="20241115122900 +0800">
 		<title lang="zh">立法院會議直播</title>
 	</programme>
-	<programme channel="国会频道1" start="20241115180000 +0800" stop="20241115235900 +0800">
-		<title lang="zh">當日立法院會議轉播</title>
+	<programme channel="国会频道1" start="20241115122900 +0800" stop="20241115123400 +0800">
+		<title lang="zh">週五會議預報</title>
+	</programme>
+	<programme channel="国会频道1" start="20241115123400 +0800" stop="20241115130400 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20241115130400 +0800" stop="20241115151700 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20241115151700 +0800" stop="20241115154700 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20241115154700 +0800" stop="20241115180000 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20241115180000 +0800" stop="20241115183000 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20241115183000 +0800" stop="20241115204200 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20241115204200 +0800" stop="20241115211300 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20241115211300 +0800" stop="20241115232500 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20241115232500 +0800" stop="20241115235900 +0800">
+		<title lang="zh">內政委員會</title>
 	</programme>
 	<channel id="国会频道2">
 		<display-name lang="zh">国会频道2</display-name>
@@ -34590,11 +34617,38 @@
 	<programme channel="国会频道2" start="20241115084700 +0800" stop="20241115090000 +0800">
 		<title lang="zh">週五會議預報</title>
 	</programme>
-	<programme channel="国会频道2" start="20241115090000 +0800" stop="20241115180000 +0800">
+	<programme channel="国会频道2" start="20241115090000 +0800" stop="20241115124500 +0800">
 		<title lang="zh">立法院會議直播</title>
 	</programme>
-	<programme channel="国会频道2" start="20241115180000 +0800" stop="20241115235900 +0800">
-		<title lang="zh">當日立法院會議轉播</title>
+	<programme channel="国会频道2" start="20241115124500 +0800" stop="20241115125000 +0800">
+		<title lang="zh">週五會議預報</title>
+	</programme>
+	<programme channel="国会频道2" start="20241115125000 +0800" stop="20241115132000 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20241115132000 +0800" stop="20241115153200 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20241115153200 +0800" stop="20241115160300 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20241115160300 +0800" stop="20241115181500 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20241115181500 +0800" stop="20241115185200 +0800">
+		<title lang="zh">經費稽核委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20241115185200 +0800" stop="20241115192300 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20241115192300 +0800" stop="20241115213500 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20241115213500 +0800" stop="20241115221200 +0800">
+		<title lang="zh">經費稽核委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20241115221200 +0800" stop="20241115235900 +0800">
+		<title lang="zh">社會福利及衛生環境委員會</title>
 	</programme>
 	<channel id="国学">
 		<display-name lang="zh">国学</display-name>
@@ -71721,6 +71775,9 @@
 	<programme channel="纯享4K" start="20241115154200 +0800" stop="20241115161200 +0800">
 		<title lang="zh">味道4K 原味乡间b7英德篇（2）</title>
 	</programme>
+	<programme channel="纯享4K" start="20241115161200 +0800" stop="20241115164000 +0800">
+		<title lang="zh">记住乡愁4K第八季 卖花渔村——满院花香传千年</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -76391,6 +76448,9 @@
 	</programme>
 	<programme channel="超级电影" start="20241115144000 +0800" stop="20241115161200 +0800">
 		<title lang="zh">电影《妈妈你真棒》</title>
+	</programme>
+	<programme channel="超级电影" start="20241115161200 +0800" stop="20241115172900 +0800">
+		<title lang="zh">电影《月球陷阱：地球危机》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -86427,6 +86487,9 @@
 	<programme channel="黑莓电影" start="20241115141300 +0800" stop="20241115160400 +0800">
 		<title lang="zh">驴得水</title>
 	</programme>
+	<programme channel="黑莓电影" start="20241115160400 +0800" stop="20241115172500 +0800">
+		<title lang="zh">老潘的归途</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -87474,6 +87537,9 @@
 	<programme channel="newtv超级电影" start="20241115144000 +0800" stop="20241115161200 +0800">
 		<title lang="zh">电影《妈妈你真棒》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20241115161200 +0800" stop="20241115172900 +0800">
+		<title lang="zh">电影《月球陷阱：地球危机》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -87866,6 +87932,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20241115151200 +0800" stop="20241115160100 +0800">
 		<title lang="zh">AMOS高聚能养生钛锅（新）-渠道（右）</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20241115160100 +0800" stop="20241115165700 +0800">
+		<title lang="zh">04_原来就是你</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
