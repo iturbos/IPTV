@@ -47772,6 +47772,9 @@
 	<programme channel="明星大片" start="20241115112700 +0800" stop="20241115122200 +0800">
 		<title lang="zh">08_锦心似玉</title>
 	</programme>
+	<programme channel="明星大片" start="20241115122200 +0800" stop="20241115134900 +0800">
+		<title lang="zh">侠探锦毛鼠之鹧鸪天</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -65483,6 +65486,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20241115114900 +0800" stop="20241115123700 +0800">
 		<title lang="zh">头号海12小时干海参超值特惠组-渠道（右）</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20241115123700 +0800" stop="20241115133200 +0800">
+		<title lang="zh">27_家有喜妇（DVD版）</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -86271,6 +86277,9 @@
 	<programme channel="黑莓动画" start="20241115115900 +0800" stop="20241115122500 +0800">
 		<title lang="zh">超级飞侠第15季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241115122500 +0800" stop="20241115130000 +0800">
+		<title lang="zh">嗨道奇第2季中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -87291,6 +87300,9 @@
 	<programme channel="newtv超级体育" start="20241115120000 +0800" stop="20241115123500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241115123500 +0800" stop="20241115125500 +0800">
+		<title lang="zh">艺术里的奥林匹克</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -87423,6 +87435,9 @@
 	<programme channel="newtv精品大剧" start="20241115115000 +0800" stop="20241115123400 +0800">
 		<title lang="zh">48_好妻子</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20241115123400 +0800" stop="20241115132100 +0800">
+		<title lang="zh">19_春闺梦里人</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -87486,6 +87501,9 @@
 	<programme channel="newtv精品纪录" start="20241115113400 +0800" stop="20241115123300 +0800">
 		<title lang="zh">03_青海</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241115123300 +0800" stop="20241115131200 +0800">
+		<title lang="zh">川味（四）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -87534,6 +87552,9 @@
 	<programme channel="newtv古装剧场" start="20241115120600 +0800" stop="20241115124600 +0800">
 		<title lang="zh">山王果有机小分子轻酵刺梨液-渠道（右）</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20241115124600 +0800" stop="20241115133100 +0800">
+		<title lang="zh">03_包青天之七侠五义</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -87578,6 +87599,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20241115114200 +0800" stop="20241115123000 +0800">
 		<title lang="zh">山王果有机小分子轻酵刺梨液-渠道（右）</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241115123000 +0800" stop="20241115131600 +0800">
+		<title lang="zh">18_我的父亲我的兵</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -87626,6 +87650,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20241115115500 +0800" stop="20241115124100 +0800">
 		<title lang="zh">50_安家</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20241115124100 +0800" stop="20241115133900 +0800">
+		<title lang="zh">同仁堂即食海参参王超值组-渠道（右）</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -87711,6 +87738,9 @@
 	<programme channel="newtv爱情喜剧" start="20241115114900 +0800" stop="20241115123700 +0800">
 		<title lang="zh">头号海12小时干海参超值特惠组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20241115123700 +0800" stop="20241115133200 +0800">
+		<title lang="zh">27_家有喜妇（DVD版）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -87789,6 +87819,9 @@
 	<programme channel="newtv怡伴健康" start="20241115115700 +0800" stop="20241115124500 +0800">
 		<title lang="zh">帕米便携式氢氧一体机-渠道（右）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241115124500 +0800" stop="20241115134000 +0800">
+		<title lang="zh">02_新边城浪子</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -87836,6 +87869,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20241115115600 +0800" stop="20241115123500 +0800">
 		<title lang="zh">天山南北寻味记</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241115123500 +0800" stop="20241115132400 +0800">
+		<title lang="zh">20_三分野</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -87935,6 +87971,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241115121400 +0800" stop="20241115123600 +0800">
 		<title lang="zh">消防线上的新兵老兵</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241115123600 +0800" stop="20241115125800 +0800">
+		<title lang="zh">炊事班的拿手好戏</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -88056,6 +88095,9 @@
 	<programme channel="newtv精品综合" start="20241115112700 +0800" stop="20241115122200 +0800">
 		<title lang="zh">08_锦心似玉</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20241115122200 +0800" stop="20241115134900 +0800">
+		<title lang="zh">侠探锦毛鼠之鹧鸪天</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -88115,6 +88157,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20241115105700 +0800" stop="20241115122600 +0800">
 		<title lang="zh">一馔千年</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20241115122600 +0800" stop="20241115131400 +0800">
+		<title lang="zh">山王果有机小分子轻酵刺梨液-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
