@@ -84,6 +84,9 @@
 	<programme channel="4K综艺" start="20241115125300 +0800" stop="20241115141400 +0800">
 		<title lang="zh">亲爱的客栈第三季20191213</title>
 	</programme>
+	<programme channel="4K综艺" start="20241115141400 +0800" stop="20241115150800 +0800">
+		<title lang="zh">小小的追球20200129</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -86325,6 +86328,9 @@
 	<programme channel="黑莓动画" start="20241115135200 +0800" stop="20241115141300 +0800">
 		<title lang="zh">一只笨笨的小恐龙</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241115141300 +0800" stop="20241115142200 +0800">
+		<title lang="zh">植物精灵大战僵尸怪</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -86351,6 +86357,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20241115121100 +0800" stop="20241115141300 +0800">
 		<title lang="zh">刺猬索尼克2</title>
+	</programme>
+	<programme channel="黑莓电影" start="20241115141300 +0800" stop="20241115160400 +0800">
+		<title lang="zh">驴得水</title>
 	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
@@ -87312,6 +87321,9 @@
 	<programme channel="newtv超级综艺" start="20241115131700 +0800" stop="20241115141700 +0800">
 		<title lang="zh">选对健康</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241115141700 +0800" stop="20241115150700 +0800">
+		<title lang="zh">一笑一周</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -87501,6 +87513,9 @@
 	<programme channel="newtv精品大剧" start="20241115132100 +0800" stop="20241115140500 +0800">
 		<title lang="zh">20_春闺梦里人</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20241115140500 +0800" stop="20241115145300 +0800">
+		<title lang="zh">头号海12小时干海参超值特惠组-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -87678,6 +87693,9 @@
 	<programme channel="newtv军旅剧场" start="20241115131600 +0800" stop="20241115141100 +0800">
 		<title lang="zh">19_我的父亲我的兵</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241115141100 +0800" stop="20241115145600 +0800">
+		<title lang="zh">20_我的父亲我的兵</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -87779,6 +87797,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20241115132400 +0800" stop="20241115141000 +0800">
 		<title lang="zh">08_画眉</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20241115141000 +0800" stop="20241115145800 +0800">
+		<title lang="zh">头号海12小时干海参超值特惠组-渠道（右）</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -87972,6 +87993,9 @@
 	<programme channel="newtv潮妈辣婆" start="20241115132400 +0800" stop="20241115141200 +0800">
 		<title lang="zh">21_三分野</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241115141200 +0800" stop="20241115151000 +0800">
+		<title lang="zh">同仁堂即食海参参王超值组-渠道（右）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -88083,6 +88107,9 @@
 	<programme channel="newtv军事评论" start="20241115134700 +0800" stop="20241115141300 +0800">
 		<title lang="zh">旗帜指引我战斗 第3集 托举战鹰的地面先锋</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241115141300 +0800" stop="20241115143800 +0800">
+		<title lang="zh">从“菜鸟”到钢铁汽车兵</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -88163,6 +88190,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241115130000 +0800" stop="20241115141000 +0800">
 		<title lang="zh">调皮老师超会模仿 唱歌跳舞体验节日氛围（20240720）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241115141000 +0800" stop="20241115145500 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -88394,6 +88424,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241115132400 +0800" stop="20241115140600 +0800">
 		<title lang="zh">15_飞狐外传</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241115140600 +0800" stop="20241115145400 +0800">
+		<title lang="zh">帕米便携式氢氧一体机-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
