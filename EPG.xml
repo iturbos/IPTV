@@ -25680,6 +25680,9 @@
 	<programme channel="动作电影" start="20241115203600 +0800" stop="20241115210600 +0800">
 		<title lang="zh">八段锦推荐第四期</title>
 	</programme>
+	<programme channel="动作电影" start="20241115210600 +0800" stop="20241115232000 +0800">
+		<title lang="zh">迫降航班</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -66060,6 +66063,9 @@
 	<programme channel="爱情喜剧" start="20241115204200 +0800" stop="20241115211200 +0800">
 		<title lang="zh">八段锦推荐第四期</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20241115211200 +0800" stop="20241115220700 +0800">
+		<title lang="zh">菜刀班尖刀连第15集</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -86994,6 +87000,9 @@
 	<programme channel="黑莓动画" start="20241115204100 +0800" stop="20241115210500 +0800">
 		<title lang="zh">01_德凯奥特曼 普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241115210500 +0800" stop="20241115211900 +0800">
+		<title lang="zh">05_托宝战士之银河侦探1</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -88287,6 +88296,9 @@
 	<programme channel="newtv精品大剧" start="20241115204000 +0800" stop="20241115211000 +0800">
 		<title lang="zh">八段锦推荐第四期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20241115211000 +0800" stop="20241115220500 +0800">
+		<title lang="zh">09_花谢花飞花满天</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -88548,6 +88560,9 @@
 	<programme channel="newtv军旅剧场" start="20241115203200 +0800" stop="20241115211500 +0800">
 		<title lang="zh">36_姐妹情缘</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241115211500 +0800" stop="20241115215900 +0800">
+		<title lang="zh">25_二炮手</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -88710,6 +88725,9 @@
 	<programme channel="newtv热播精选" start="20241115202200 +0800" stop="20241115210800 +0800">
 		<title lang="zh">01_我们的婚姻</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20241115210800 +0800" stop="20241115213800 +0800">
+		<title lang="zh">八段锦推荐第四期</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -88782,6 +88800,9 @@
 	<programme channel="newtv爱情喜剧" start="20241115204200 +0800" stop="20241115211200 +0800">
 		<title lang="zh">八段锦推荐第四期</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20241115211200 +0800" stop="20241115220700 +0800">
+		<title lang="zh">菜刀班尖刀连第15集</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -88829,6 +88850,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20241115203600 +0800" stop="20241115210600 +0800">
 		<title lang="zh">八段锦推荐第四期</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20241115210600 +0800" stop="20241115232000 +0800">
+		<title lang="zh">迫降航班</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -89156,6 +89180,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241115204600 +0800" stop="20241115211300 +0800">
 		<title lang="zh">向深蓝</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241115211300 +0800" stop="20241115214000 +0800">
+		<title lang="zh">探秘新锐“千里眼”</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
