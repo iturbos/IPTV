@@ -32802,6 +32802,9 @@
 	<programme channel="咪咕综合体育" start="20241115110800 +0800" stop="20241115111000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20241115111000 +0800" stop="20241115120000 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -65451,6 +65454,9 @@
 	<programme channel="爱情喜剧" start="20241115093900 +0800" stop="20241115110400 +0800">
 		<title lang="zh">绝杀使徒</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20241115110400 +0800" stop="20241115114900 +0800">
+		<title lang="zh">26_家有喜妇（DVD版）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -86217,6 +86223,9 @@
 	<programme channel="黑莓动画" start="20241115102300 +0800" stop="20241115110900 +0800">
 		<title lang="zh">汪汪队立大功第3季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241115110900 +0800" stop="20241115113500 +0800">
+		<title lang="zh">钶龙战记</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -87609,6 +87618,9 @@
 	<programme channel="newtv爱情喜剧" start="20241115093900 +0800" stop="20241115110400 +0800">
 		<title lang="zh">绝杀使徒</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20241115110400 +0800" stop="20241115114900 +0800">
+		<title lang="zh">26_家有喜妇（DVD版）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -87677,6 +87689,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241115103500 +0800" stop="20241115111200 +0800">
 		<title lang="zh">被告上法庭的姐姐</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241115111200 +0800" stop="20241115115700 +0800">
+		<title lang="zh">01_新边城浪子</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -87809,6 +87824,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241115104600 +0800" stop="20241115110800 +0800">
 		<title lang="zh">超越自我</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241115110800 +0800" stop="20241115113000 +0800">
+		<title lang="zh">战士的第二故乡</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
