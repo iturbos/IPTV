@@ -105,6 +105,9 @@
 	<programme channel="4K综艺" start="20241116213200 +0800" stop="20241116222200 +0800">
 		<title lang="zh">小小的追球20191211</title>
 	</programme>
+	<programme channel="4K综艺" start="20241116222200 +0800" stop="20241116231700 +0800">
+		<title lang="zh">真心大冒险20180407</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -32580,6 +32583,9 @@
 	<programme channel="咪咕足球" start="20241116221000 +0800" stop="20241116222000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20241116222000 +0800" stop="20241116000000 +0800">
+		<title lang="zh">当燃CBA 24/25常规赛 上海久事-北京北汽</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -46826,6 +46832,9 @@
 	</programme>
 	<programme channel="明星大片" start="20241116214600 +0800" stop="20241116223200 +0800">
 		<title lang="zh">04_在暴雪时分</title>
+	</programme>
+	<programme channel="明星大片" start="20241116223200 +0800" stop="20241116231800 +0800">
+		<title lang="zh">05_在暴雪时分</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -64563,6 +64572,9 @@
 	<programme channel="爱情喜剧" start="20241116214200 +0800" stop="20241116223800 +0800">
 		<title lang="zh">菜刀班尖刀连第20集</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20241116223800 +0800" stop="20241116233300 +0800">
+		<title lang="zh">菜刀班尖刀连第21集</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -70646,6 +70658,12 @@
 	</programme>
 	<programme channel="纯享4K" start="20241116215700 +0800" stop="20241116222100 +0800">
 		<title lang="zh">了不起的冬天4K 第5集 刀尖之争</title>
+	</programme>
+	<programme channel="纯享4K" start="20241116222100 +0800" stop="20241116224500 +0800">
+		<title lang="zh">了不起的冬天4K 第6集 气喘吁吁</title>
+	</programme>
+	<programme channel="纯享4K" start="20241116224500 +0800" stop="20241116231500 +0800">
+		<title lang="zh">味道4K 原味乡间b7英德篇（3）</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -85896,6 +85914,9 @@
 	<programme channel="黑莓动画" start="20241116221400 +0800" stop="20241116222700 +0800">
 		<title lang="zh">23_踢踢和奇奇之魔力课堂 第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241116222700 +0800" stop="20241116225100 +0800">
+		<title lang="zh">口碑必看动漫剧场栏目</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -87315,6 +87336,9 @@
 	<programme channel="newtv精品纪录" start="20241116215000 +0800" stop="20241116222900 +0800">
 		<title lang="zh">美国云杉新一代止疼再生精油-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241116222900 +0800" stop="20241116230100 +0800">
+		<title lang="zh">第3集：泰国</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -87401,6 +87425,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20241116215500 +0800" stop="20241116224100 +0800">
 		<title lang="zh">32_美人心计</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20241116224100 +0800" stop="20241116232800 +0800">
+		<title lang="zh">33_美人心计</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -87576,6 +87603,9 @@
 	<programme channel="newtv家庭剧场" start="20241116214900 +0800" stop="20241116224400 +0800">
 		<title lang="zh">27_向幸福出发</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20241116224400 +0800" stop="20241116233800 +0800">
+		<title lang="zh">28_向幸福出发</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -87654,6 +87684,9 @@
 	<programme channel="newtv热播精选" start="20241116213200 +0800" stop="20241116221800 +0800">
 		<title lang="zh">05_我们的婚姻</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20241116221800 +0800" stop="20241116232900 +0800">
+		<title lang="zh">令人心动的offer第4季</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -87725,6 +87758,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20241116214200 +0800" stop="20241116223800 +0800">
 		<title lang="zh">菜刀班尖刀连第20集</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20241116223800 +0800" stop="20241116233300 +0800">
+		<title lang="zh">菜刀班尖刀连第21集</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -87882,6 +87918,9 @@
 	<programme channel="newtv怡伴健康" start="20241116221000 +0800" stop="20241116224000 +0800">
 		<title lang="zh">八段锦推荐第四期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241116224000 +0800" stop="20241116232900 +0800">
+		<title lang="zh">山西清徐学栋vs北京龙腾四海 第3局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -87971,6 +88010,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20241116215900 +0800" stop="20241116224500 +0800">
 		<title lang="zh">25_三十而已</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241116224500 +0800" stop="20241116232500 +0800">
+		<title lang="zh">邻家诗话第4季</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -88127,6 +88169,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241116215700 +0800" stop="20241116222300 +0800">
 		<title lang="zh">深蓝“倍增器”</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241116222300 +0800" stop="20241116225000 +0800">
+		<title lang="zh">战火中淬炼（上）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -88319,6 +88364,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20241116214600 +0800" stop="20241116223200 +0800">
 		<title lang="zh">04_在暴雪时分</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20241116223200 +0800" stop="20241116231800 +0800">
+		<title lang="zh">05_在暴雪时分</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
