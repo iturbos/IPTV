@@ -25179,6 +25179,9 @@
 	<programme channel="动作电影" start="20241116132600 +0800" stop="20241116151400 +0800">
 		<title lang="zh">惊爆缉捕令</title>
 	</programme>
+	<programme channel="动作电影" start="20241116151400 +0800" stop="20241116165400 +0800">
+		<title lang="zh">夺宝家庭</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -44004,6 +44007,9 @@
 	<programme channel="惊悚悬疑" start="20241116133100 +0800" stop="20241116150000 +0800">
 		<title lang="zh">非常四侠之杀手廿一</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20241116150000 +0800" stop="20241116155800 +0800">
+		<title lang="zh">同仁堂即食海参参王超值组-渠道（右）</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -46778,6 +46784,9 @@
 	</programme>
 	<programme channel="明星大片" start="20241116144400 +0800" stop="20241116150800 +0800">
 		<title lang="zh">24_间谍过家家</title>
+	</programme>
+	<programme channel="明星大片" start="20241116150800 +0800" stop="20241116155600 +0800">
+		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -70659,6 +70668,9 @@
 	<programme channel="纯享4K" start="20241116143100 +0800" stop="20241116145500 +0800">
 		<title lang="zh">了不起的冬天4K 第6集 气喘吁吁</title>
 	</programme>
+	<programme channel="纯享4K" start="20241116145500 +0800" stop="20241116152500 +0800">
+		<title lang="zh">味道4K 原味乡间b7英德篇（3）</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -85833,6 +85845,9 @@
 	<programme channel="黑莓动画" start="20241116142000 +0800" stop="20241116145400 +0800">
 		<title lang="zh">张大牙爱搞怪第四季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241116145400 +0800" stop="20241116152300 +0800">
+		<title lang="zh">笨蛋波波与小宝</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -87096,6 +87111,9 @@
 	<programme channel="newtv精品纪录" start="20241116135900 +0800" stop="20241116144700 +0800">
 		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241116144700 +0800" stop="20241116153200 +0800">
+		<title lang="zh">18_我的抗战：生命线</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -87264,6 +87282,9 @@
 	<programme channel="newtv家庭剧场" start="20241116140800 +0800" stop="20241116145600 +0800">
 		<title lang="zh">06_原来就是你</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20241116145600 +0800" stop="20241116154500 +0800">
+		<title lang="zh">BEYONPAN钛锅升级款-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -87311,6 +87332,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20241116140400 +0800" stop="20241116145300 +0800">
 		<title lang="zh">BEYONPAN钛锅升级款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20241116145300 +0800" stop="20241116153800 +0800">
+		<title lang="zh">11_画眉</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -87393,6 +87417,9 @@
 	<programme channel="newtv动作电影" start="20241116132600 +0800" stop="20241116151400 +0800">
 		<title lang="zh">惊爆缉捕令</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20241116151400 +0800" stop="20241116165400 +0800">
+		<title lang="zh">夺宝家庭</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -87455,6 +87482,12 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241116143100 +0800" stop="20241116144700 +0800">
 		<title lang="zh">【相声】《对手戏》表演：王善勇、周培岩</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241116144700 +0800" stop="20241116151400 +0800">
+		<title lang="zh">为争风头惹上祸</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241116151400 +0800" stop="20241116155300 +0800">
+		<title lang="zh">美国云杉新一代止疼再生精油-渠道（右）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -87621,6 +87654,9 @@
 	<programme channel="newtv军事评论" start="20241116142900 +0800" stop="20241116145500 +0800">
 		<title lang="zh">高原汽车兵的特种绝技</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241116145500 +0800" stop="20241116152000 +0800">
+		<title lang="zh">奋斗正当时</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -87750,6 +87786,9 @@
 	<programme channel="newtv精品综合" start="20241116144400 +0800" stop="20241116150800 +0800">
 		<title lang="zh">24_间谍过家家</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20241116150800 +0800" stop="20241116155600 +0800">
+		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -87785,6 +87824,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20241116133100 +0800" stop="20241116150000 +0800">
 		<title lang="zh">非常四侠之杀手廿一</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20241116150000 +0800" stop="20241116155800 +0800">
+		<title lang="zh">同仁堂即食海参参王超值组-渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -87938,6 +87980,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241116140100 +0800" stop="20241116145000 +0800">
 		<title lang="zh">日本SUSUMOTOYA小分子脑活素-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241116145000 +0800" stop="20241116153100 +0800">
+		<title lang="zh">20_飞狐外传</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
