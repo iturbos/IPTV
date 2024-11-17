@@ -108,6 +108,9 @@
 	<programme channel="4K综艺" start="20241117200800 +0800" stop="20241117210900 +0800">
 		<title lang="zh">真心大冒险20180512</title>
 	</programme>
+	<programme channel="4K综艺" start="20241117210900 +0800" stop="20241117224700 +0800">
+		<title lang="zh">真心大冒险20180519</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -44313,6 +44316,9 @@
 	<programme channel="惊悚悬疑" start="20241117194400 +0800" stop="20241117211000 +0800">
 		<title lang="zh">女刑警之叠面角色</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20241117211000 +0800" stop="20241117214000 +0800">
+		<title lang="zh">八段锦推荐第四期</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -47114,6 +47120,9 @@
 	</programme>
 	<programme channel="明星大片" start="20241117201300 +0800" stop="20241117210100 +0800">
 		<title lang="zh">日本SUSUMOTOYA小分子脑活素-渠道（右）</title>
+	</programme>
+	<programme channel="明星大片" start="20241117210100 +0800" stop="20241117214700 +0800">
+		<title lang="zh">06_在暴雪时分</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -71166,6 +71175,9 @@
 	<programme channel="纯享4K" start="20241117202100 +0800" stop="20241117210300 +0800">
 		<title lang="zh">远方的家4K 长江行 古韵夔州 精诚奉节</title>
 	</programme>
+	<programme channel="纯享4K" start="20241117211400 +0800" stop="20241117215400 +0800">
+		<title lang="zh">探索b7发现4K 草原太平公主之谜（2）刺鹅锥</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -86061,6 +86073,9 @@
 	<programme channel="黑莓动画" start="20241117205900 +0800" stop="20241117211200 +0800">
 		<title lang="zh">10_托宝战士之银河侦探1</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241117211200 +0800" stop="20241117211700 +0800">
+		<title lang="zh">06_如果历史是一群喵 第六季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -86102,6 +86117,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20241117190800 +0800" stop="20241117210700 +0800">
 		<title lang="zh">非诚勿扰3</title>
+	</programme>
+	<programme channel="黑莓电影" start="20241117210700 +0800" stop="20241117234200 +0800">
+		<title lang="zh">变形金刚3</title>
 	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
@@ -87345,6 +87363,9 @@
 	<programme channel="newtv精品大剧" start="20241117204300 +0800" stop="20241117211300 +0800">
 		<title lang="zh">八段锦推荐第四期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20241117211300 +0800" stop="20241117220800 +0800">
+		<title lang="zh">17_花谢花飞花满天</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -87518,6 +87539,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20241117202900 +0800" stop="20241117211600 +0800">
 		<title lang="zh">35_美人心计</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20241117211600 +0800" stop="20241117214600 +0800">
+		<title lang="zh">八段锦推荐第四期</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -87756,6 +87780,9 @@
 	<programme channel="newtv热播精选" start="20241117202800 +0800" stop="20241117211400 +0800">
 		<title lang="zh">08_我们的婚姻</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20241117211400 +0800" stop="20241117214400 +0800">
+		<title lang="zh">八段锦推荐第四期</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -87971,6 +87998,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241117203300 +0800" stop="20241117210300 +0800">
 		<title lang="zh">八段锦推荐第四期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241117210300 +0800" stop="20241117214000 +0800">
+		<title lang="zh">山西清徐学栋vs北京龙腾四海 第6局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -88209,6 +88239,9 @@
 	<programme channel="newtv军事评论" start="20241117204900 +0800" stop="20241117211500 +0800">
 		<title lang="zh">“枭龙”飞天</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241117211500 +0800" stop="20241117214200 +0800">
+		<title lang="zh">助力向深蓝</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -88380,6 +88413,9 @@
 	<programme channel="newtv精品综合" start="20241117201300 +0800" stop="20241117210100 +0800">
 		<title lang="zh">日本SUSUMOTOYA小分子脑活素-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20241117210100 +0800" stop="20241117214700 +0800">
+		<title lang="zh">06_在暴雪时分</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -88431,6 +88467,9 @@
 	<programme channel="newtv惊悚悬疑" start="20241117194400 +0800" stop="20241117211000 +0800">
 		<title lang="zh">女刑警之叠面角色</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20241117211000 +0800" stop="20241117214000 +0800">
+		<title lang="zh">八段锦推荐第四期</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -88481,6 +88520,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20241117200100 +0800" stop="20241117211800 +0800">
 		<title lang="zh">开门大吉（2024）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20241117211800 +0800" stop="20241117220700 +0800">
+		<title lang="zh">日本SUSUMOTOYA小分子脑活素-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
