@@ -47082,6 +47082,9 @@
 	<programme channel="明星大片" start="20241117174500 +0800" stop="20241117183000 +0800">
 		<title lang="zh">11_花开如梦</title>
 	</programme>
+	<programme channel="明星大片" start="20241117183000 +0800" stop="20241117190600 +0800">
+		<title lang="zh">跨境品美国云杉前列腺精油-渠道（右）</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -65139,6 +65142,9 @@
 	<programme channel="爱情喜剧" start="20241117172500 +0800" stop="20241117182300 +0800">
 		<title lang="zh">同仁堂即食海参参王超值组-渠道（右）</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20241117182300 +0800" stop="20241117190900 +0800">
+		<title lang="zh">菜刀班尖刀连第23集</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -71106,6 +71112,9 @@
 	<programme channel="纯享4K" start="20241117175400 +0800" stop="20241117182400 +0800">
 		<title lang="zh">寻古中国4K 古蜀记b7璀璨金沙</title>
 	</programme>
+	<programme channel="纯享4K" start="20241117182400 +0800" stop="20241117185400 +0800">
+		<title lang="zh">寻古中国4K 古蜀记b7再续华彩</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -75788,6 +75797,9 @@
 	</programme>
 	<programme channel="超级电影" start="20241117170900 +0800" stop="20241117182900 +0800">
 		<title lang="zh">电影《铁血护卫之异种入侵》</title>
+	</programme>
+	<programme channel="超级电影" start="20241117182900 +0800" stop="20241117193000 +0800">
+		<title lang="zh">电影《特种兵王》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -85965,6 +85977,12 @@
 	<programme channel="黑莓动画" start="20241117181300 +0800" stop="20241117182700 +0800">
 		<title lang="zh">18_龙战士星源</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241117182700 +0800" stop="20241117184100 +0800">
+		<title lang="zh">19_龙战士星源</title>
+	</programme>
+	<programme channel="黑莓动画" start="20241117184100 +0800" stop="20241117185500 +0800">
+		<title lang="zh">19_咖宝车神第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -87027,6 +87045,9 @@
 	<programme channel="newtv超级体育" start="20241117180000 +0800" stop="20241117183500 +0800">
 		<title lang="zh">体育新闻</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241117183500 +0800" stop="20241117190000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季短道速滑世界巡回赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -87059,6 +87080,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20241117170900 +0800" stop="20241117182900 +0800">
 		<title lang="zh">电影《铁血护卫之异种入侵》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20241117182900 +0800" stop="20241117193000 +0800">
+		<title lang="zh">电影《特种兵王》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -87135,6 +87159,9 @@
 	<programme channel="newtv超级电视剧" start="20241117174900 +0800" stop="20241117183400 +0800">
 		<title lang="zh">02_长歌行</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241117183400 +0800" stop="20241117191800 +0800">
+		<title lang="zh">33_春闺梦里人</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -87203,6 +87230,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241117175600 +0800" stop="20241117184100 +0800">
 		<title lang="zh">19_流水迢迢</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241117184100 +0800" stop="20241117191100 +0800">
+		<title lang="zh">【五脏自愈操】推荐第一期</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -87285,6 +87315,9 @@
 	<programme channel="newtv精品纪录" start="20241117181100 +0800" stop="20241117184500 +0800">
 		<title lang="zh">04_钓鱼城</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241117184500 +0800" stop="20241117192200 +0800">
+		<title lang="zh">第三集：生技</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -87353,6 +87386,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20241117173500 +0800" stop="20241117182400 +0800">
 		<title lang="zh">32_长相思</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20241117182400 +0800" stop="20241117191200 +0800">
+		<title lang="zh">33_长相思</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -87423,6 +87459,9 @@
 	<programme channel="newtv军旅剧场" start="20241117175100 +0800" stop="20241117183700 +0800">
 		<title lang="zh">11_天狼星行动</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241117183700 +0800" stop="20241117191900 +0800">
+		<title lang="zh">40_姐妹情缘</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -87492,6 +87531,9 @@
 	<programme channel="newtv家庭剧场" start="20241117172700 +0800" stop="20241117182300 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20241117182300 +0800" stop="20241117190800 +0800">
+		<title lang="zh">31_向幸福出发</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -87555,6 +87597,9 @@
 	<programme channel="newtv热播精选" start="20241117175500 +0800" stop="20241117182600 +0800">
 		<title lang="zh">风味人间 第3季</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20241117182600 +0800" stop="20241117191200 +0800">
+		<title lang="zh">06_我们的婚姻</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -87611,6 +87656,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20241117172500 +0800" stop="20241117182300 +0800">
 		<title lang="zh">同仁堂即食海参参王超值组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20241117182300 +0800" stop="20241117190900 +0800">
+		<title lang="zh">菜刀班尖刀连第23集</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -87738,6 +87786,9 @@
 	<programme channel="newtv怡伴健康" start="20241117174100 +0800" stop="20241117183700 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241117183700 +0800" stop="20241117192100 +0800">
+		<title lang="zh">山西清徐学栋vs北京龙腾四海 第4局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -87809,6 +87860,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20241117175700 +0800" stop="20241117184300 +0800">
 		<title lang="zh">26_三十而已</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241117184300 +0800" stop="20241117193000 +0800">
+		<title lang="zh">27_三十而已</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -87944,6 +87998,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241117180900 +0800" stop="20241117183600 +0800">
 		<title lang="zh">打卡湛江军事博览园</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241117183600 +0800" stop="20241117190300 +0800">
+		<title lang="zh">探秘奇迹成昆线</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -88097,6 +88154,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20241117174500 +0800" stop="20241117183000 +0800">
 		<title lang="zh">11_花开如梦</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20241117183000 +0800" stop="20241117190600 +0800">
+		<title lang="zh">跨境品美国云杉前列腺精油-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -88319,6 +88379,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241117174600 +0800" stop="20241117181600 +0800">
 		<title lang="zh">【五脏自愈操】推荐第一期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241117181600 +0800" stop="20241117185700 +0800">
+		<title lang="zh">26_且试天下</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
