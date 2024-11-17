@@ -93,6 +93,9 @@
 	<programme channel="4K综艺" start="20241117135800 +0800" stop="20241117150100 +0800">
 		<title lang="zh">我最爱的女人们20190525</title>
 	</programme>
+	<programme channel="4K综艺" start="20241117150100 +0800" stop="20241117164000 +0800">
+		<title lang="zh">我最爱的女人们20190531</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -46926,6 +46929,9 @@
 	<programme channel="明星大片" start="20241117140400 +0800" stop="20241117145300 +0800">
 		<title lang="zh">BEYONPAN钛锅升级款-渠道（右）</title>
 	</programme>
+	<programme channel="明星大片" start="20241117145300 +0800" stop="20241117151800 +0800">
+		<title lang="zh">25_间谍过家家</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -64965,6 +64971,9 @@
 	<programme channel="爱情喜剧" start="20241117141500 +0800" stop="20241117151100 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20241117151100 +0800" stop="20241117160600 +0800">
+		<title lang="zh">40_家有喜妇（DVD版）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -70956,6 +70965,9 @@
 	<programme channel="纯享4K" start="20241117142800 +0800" stop="20241117145200 +0800">
 		<title lang="zh">了不起的冬天4K 第8集 小算盘</title>
 	</programme>
+	<programme channel="纯享4K" start="20241117145200 +0800" stop="20241117152200 +0800">
+		<title lang="zh">味道4K 原味乡间b7襄阳篇 1</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -75656,6 +75668,9 @@
 	</programme>
 	<programme channel="超级电影" start="20241117134800 +0800" stop="20241117150300 +0800">
 		<title lang="zh">电影《桃花诗社》</title>
+	</programme>
+	<programme channel="超级电影" start="20241117150300 +0800" stop="20241117170900 +0800">
+		<title lang="zh">电影《滚烫的爱》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -85791,6 +85806,12 @@
 	<programme channel="黑莓动画" start="20241117142800 +0800" stop="20241117150000 +0800">
 		<title lang="zh">笨蛋波波与小宝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241117150000 +0800" stop="20241117151500 +0800">
+		<title lang="zh">坦克世界</title>
+	</programme>
+	<programme channel="黑莓动画" start="20241117151500 +0800" stop="20241117153200 +0800">
+		<title lang="zh">小志和玩具第十二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -86862,6 +86883,9 @@
 	<programme channel="newtv超级电影" start="20241117134800 +0800" stop="20241117150300 +0800">
 		<title lang="zh">电影《桃花诗社》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20241117150300 +0800" stop="20241117170900 +0800">
+		<title lang="zh">电影《滚烫的爱》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -87045,6 +87069,9 @@
 	<programme channel="newtv精品纪录" start="20241117141400 +0800" stop="20241117150200 +0800">
 		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241117150200 +0800" stop="20241117160100 +0800">
+		<title lang="zh">10_津门破晓</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -87102,6 +87129,9 @@
 	<programme channel="newtv古装剧场" start="20241117142900 +0800" stop="20241117151400 +0800">
 		<title lang="zh">13_包青天之七侠五义</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20241117151400 +0800" stop="20241117155900 +0800">
+		<title lang="zh">14_包青天之七侠五义</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -87155,6 +87185,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20241117140900 +0800" stop="20241117145400 +0800">
 		<title lang="zh">27_我的父亲我的兵</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241117145400 +0800" stop="20241117154800 +0800">
+		<title lang="zh">28_我的父亲我的兵</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -87213,6 +87246,9 @@
 	<programme channel="newtv家庭剧场" start="20241117141200 +0800" stop="20241117145900 +0800">
 		<title lang="zh">13_原来就是你</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20241117145900 +0800" stop="20241117154800 +0800">
+		<title lang="zh">BEYONPAN钛锅升级款-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -87264,6 +87300,9 @@
 	<programme channel="newtv热播精选" start="20241117142200 +0800" stop="20241117150700 +0800">
 		<title lang="zh">14_画眉</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20241117150700 +0800" stop="20241117160200 +0800">
+		<title lang="zh">15_画眉</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -87311,6 +87350,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20241117141500 +0800" stop="20241117151100 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20241117151100 +0800" stop="20241117160600 +0800">
+		<title lang="zh">40_家有喜妇（DVD版）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -87410,6 +87452,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241117144600 +0800" stop="20241117145900 +0800">
 		<title lang="zh">小品《占位子》 表演：沈腾 马丽</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241117145900 +0800" stop="20241117152000 +0800">
+		<title lang="zh">小品《新太后大酒楼》 表演：曹颖 江涛 耿为华 等</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -87582,6 +87627,9 @@
 	<programme channel="newtv军事评论" start="20241117144000 +0800" stop="20241117150500 +0800">
 		<title lang="zh">新兵来到滇西北高原</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241117150500 +0800" stop="20241117153000 +0800">
+		<title lang="zh">探访国门前哨班</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -87660,6 +87708,9 @@
 	<programme channel="newtv炫舞未来" start="20241117141600 +0800" stop="20241117150700 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20241117150700 +0800" stop="20241117160500 +0800">
+		<title lang="zh">健身达人“小山药”顺走杨帆话筒 萌宝们“各显神通”（20240605）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -87707,6 +87758,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20241117140400 +0800" stop="20241117145300 +0800">
 		<title lang="zh">BEYONPAN钛锅升级款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20241117145300 +0800" stop="20241117151800 +0800">
+		<title lang="zh">25_间谍过家家</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
