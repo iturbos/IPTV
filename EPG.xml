@@ -93,6 +93,9 @@
 	<programme channel="4K综艺" start="20241118181100 +0800" stop="20241118184700 +0800">
 		<title lang="zh">重返地球20180216</title>
 	</programme>
+	<programme channel="4K综艺" start="20241118184700 +0800" stop="20241118192100 +0800">
+		<title lang="zh">重返地球20180223</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -31814,6 +31817,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20241118182000 +0800" stop="20241118185500 +0800">
 		<title lang="zh">NBA周刊</title>
+	</programme>
+	<programme channel="咪咕足球" start="20241118185500 +0800" stop="20241118193000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -73434,6 +73440,9 @@
 	<programme channel="超级电影" start="20241118173200 +0800" stop="20241118190200 +0800">
 		<title lang="zh">电影《危险元素》</title>
 	</programme>
+	<programme channel="超级电影" start="20241118190200 +0800" stop="20241118202900 +0800">
+		<title lang="zh">电影《黄金蜘蛛城》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -82647,6 +82656,9 @@
 	<programme channel="黑莓动画" start="20241118183900 +0800" stop="20241118185300 +0800">
 		<title lang="zh">21_龙战士星源</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241118185300 +0800" stop="20241118190700 +0800">
+		<title lang="zh">21_咖宝车神第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82682,6 +82694,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20241118165800 +0800" stop="20241118185100 +0800">
 		<title lang="zh">实习警犬物语</title>
+	</programme>
+	<programme channel="黑莓电影" start="20241118185100 +0800" stop="20241118205800 +0800">
+		<title lang="zh">尼罗河上的惨案</title>
 	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
@@ -83631,6 +83646,9 @@
 	<programme channel="newtv超级电影" start="20241118173200 +0800" stop="20241118190200 +0800">
 		<title lang="zh">电影《危险元素》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20241118190200 +0800" stop="20241118202900 +0800">
+		<title lang="zh">电影《黄金蜘蛛城》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -83781,6 +83799,9 @@
 	<programme channel="newtv精品大剧" start="20241118182900 +0800" stop="20241118185900 +0800">
 		<title lang="zh">【五脏自愈操】推荐第一期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20241118185900 +0800" stop="20241118194600 +0800">
+		<title lang="zh">24_流水迢迢</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -83862,6 +83883,9 @@
 	<programme channel="newtv精品纪录" start="20241118182300 +0800" stop="20241118184800 +0800">
 		<title lang="zh">03_钓鱼城</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241118184800 +0800" stop="20241118192200 +0800">
+		<title lang="zh">04_钓鱼城</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -83933,6 +83957,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20241118181200 +0800" stop="20241118185900 +0800">
 		<title lang="zh">01_长相思 第二季</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20241118185900 +0800" stop="20241118192900 +0800">
+		<title lang="zh">【五脏自愈操】推荐第一期</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -84399,6 +84426,9 @@
 	<programme channel="newtv潮妈辣婆" start="20241118180300 +0800" stop="20241118184900 +0800">
 		<title lang="zh">31_三十而已</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241118184900 +0800" stop="20241118193600 +0800">
+		<title lang="zh">32_三十而已</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -84545,6 +84575,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241118183200 +0800" stop="20241118185700 +0800">
 		<title lang="zh">走进机务兵的摇篮</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241118185700 +0800" stop="20241118192200 +0800">
+		<title lang="zh">明星战机重生记</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
