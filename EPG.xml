@@ -84,6 +84,9 @@
 	<programme channel="4K综艺" start="20241118141200 +0800" stop="20241118160400 +0800">
 		<title lang="zh">妻子的浪漫旅行第三季20191120</title>
 	</programme>
+	<programme channel="4K综艺" start="20241118160400 +0800" stop="20241118173900 +0800">
+		<title lang="zh">妻子的浪漫旅行第三季20191127</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -32973,11 +32976,29 @@
 	<programme channel="国会频道1" start="20241118084700 +0800" stop="20241118090000 +0800">
 		<title lang="zh">週一會議預報</title>
 	</programme>
-	<programme channel="国会频道1" start="20241118090000 +0800" stop="20241118180000 +0800">
+	<programme channel="国会频道1" start="20241118090000 +0800" stop="20241118133000 +0800">
 		<title lang="zh">立法院會議直播</title>
 	</programme>
-	<programme channel="国会频道1" start="20241118180000 +0800" stop="20241118235900 +0800">
-		<title lang="zh">當日立法院會議轉播</title>
+	<programme channel="国会频道1" start="20241118133000 +0800" stop="20241118133500 +0800">
+		<title lang="zh">週一會議預報</title>
+	</programme>
+	<programme channel="国会频道1" start="20241118133500 +0800" stop="20241118161000 +0800">
+		<title lang="zh">內政委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20241118161000 +0800" stop="20241118161500 +0800">
+		<title lang="zh">週一會議預報</title>
+	</programme>
+	<programme channel="国会频道1" start="20241118161500 +0800" stop="20241118194700 +0800">
+		<title lang="zh">經濟委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20241118194700 +0800" stop="20241118230300 +0800">
+		<title lang="zh">財政委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20241118230300 +0800" stop="20241118232400 +0800">
+		<title lang="zh">黨團協商</title>
+	</programme>
+	<programme channel="国会频道1" start="20241118232400 +0800" stop="20241118235900 +0800">
+		<title lang="zh">外交及國防委員會</title>
 	</programme>
 	<channel id="国会频道2">
 		<display-name lang="zh">国会频道2</display-name>
@@ -33006,11 +33027,20 @@
 	<programme channel="国会频道2" start="20241118084700 +0800" stop="20241118090000 +0800">
 		<title lang="zh">週一會議預報</title>
 	</programme>
-	<programme channel="国会频道2" start="20241118090000 +0800" stop="20241118180000 +0800">
+	<programme channel="国会频道2" start="20241118090000 +0800" stop="20241118153300 +0800">
 		<title lang="zh">立法院會議直播</title>
 	</programme>
-	<programme channel="国会频道2" start="20241118180000 +0800" stop="20241118235900 +0800">
-		<title lang="zh">當日立法院會議轉播</title>
+	<programme channel="国会频道2" start="20241118153300 +0800" stop="20241118153800 +0800">
+		<title lang="zh">週一會議預報</title>
+	</programme>
+	<programme channel="国会频道2" start="20241118153800 +0800" stop="20241118202300 +0800">
+		<title lang="zh">交通委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20241118202300 +0800" stop="20241118215700 +0800">
+		<title lang="zh">交通委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20241118215700 +0800" stop="20241118235900 +0800">
+		<title lang="zh">交通委員會</title>
 	</programme>
 	<channel id="国学">
 		<display-name lang="zh">国学</display-name>
@@ -42911,6 +42941,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20241118151200 +0800" stop="20241118161000 +0800">
 		<title lang="zh">同仁堂即食海参参王超值组-渠道（右）</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20241118161000 +0800" stop="20241118172500 +0800">
+		<title lang="zh">大明诡事录</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -83160,6 +83193,9 @@
 	<programme channel="newtv超级综艺" start="20241118144500 +0800" stop="20241118160200 +0800">
 		<title lang="zh">星光大道</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241118160200 +0800" stop="20241118170200 +0800">
+		<title lang="zh">小品相声大会</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -83673,6 +83709,9 @@
 	<programme channel="newtv热播精选" start="20241118151500 +0800" stop="20241118161000 +0800">
 		<title lang="zh">18_画眉</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20241118161000 +0800" stop="20241118170500 +0800">
+		<title lang="zh">19_画眉</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -83888,6 +83927,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20241118152700 +0800" stop="20241118161400 +0800">
 		<title lang="zh">06_神隐</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241118161400 +0800" stop="20241118171400 +0800">
+		<title lang="zh">颜值控们的烦恼</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -84200,6 +84242,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20241118151200 +0800" stop="20241118161000 +0800">
 		<title lang="zh">同仁堂即食海参参王超值组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20241118161000 +0800" stop="20241118172500 +0800">
+		<title lang="zh">大明诡事录</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
