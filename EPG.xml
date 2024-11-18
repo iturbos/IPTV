@@ -24954,6 +24954,9 @@
 	<programme channel="动作电影" start="20241118203800 +0800" stop="20241118210800 +0800">
 		<title lang="zh">八段锦推荐第四期</title>
 	</programme>
+	<programme channel="动作电影" start="20241118210800 +0800" stop="20241118223500 +0800">
+		<title lang="zh">武神苏乞儿之红莲虫蛊</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -31835,6 +31838,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20241118193000 +0800" stop="20241118211000 +0800">
 		<title lang="zh">当燃CBA 24/25俱乐部杯小组赛 辽宁本钢-南京头排苏酒</title>
+	</programme>
+	<programme channel="咪咕足球" start="20241118211500 +0800" stop="20241118221500 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -43181,6 +43187,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20241118193700 +0800" stop="20241118210900 +0800">
 		<title lang="zh">人口交易</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20241118210900 +0800" stop="20241118213900 +0800">
+		<title lang="zh">八段锦推荐第四期</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -68949,6 +68958,9 @@
 	<programme channel="纯享4K" start="20241118202700 +0800" stop="20241118210900 +0800">
 		<title lang="zh">远方的家4K 长沙贡玛国家级自然保护区 长沙贡玛：探秘湿地公园 寻找高山雪豹</title>
 	</programme>
+	<programme channel="纯享4K" start="20241118211500 +0800" stop="20241118212000 +0800">
+		<title lang="zh">美丽中国自然4K 最美大湾区系列 仙八色鸫</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -82731,6 +82743,9 @@
 	<programme channel="黑莓动画" start="20241118205700 +0800" stop="20241118211100 +0800">
 		<title lang="zh">11_托宝战士之银河侦探1</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241118211100 +0800" stop="20241118212400 +0800">
+		<title lang="zh">12_托宝战士之银河侦探1</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83904,6 +83919,9 @@
 	<programme channel="newtv精品大剧" start="20241118203600 +0800" stop="20241118210600 +0800">
 		<title lang="zh">八段锦推荐第四期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20241118210600 +0800" stop="20241118220000 +0800">
+		<title lang="zh">21_花谢花飞花满天</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -83997,6 +84015,9 @@
 	<programme channel="newtv精品纪录" start="20241118201700 +0800" stop="20241118210600 +0800">
 		<title lang="zh">日本SUSUMOTOYA小分子脑活素-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241118210600 +0800" stop="20241118214500 +0800">
+		<title lang="zh">08_天山南北寻味记</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -84078,6 +84099,9 @@
 	<programme channel="newtv古装剧场" start="20241118201700 +0800" stop="20241118210300 +0800">
 		<title lang="zh">02_长相思 第二季</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20241118210300 +0800" stop="20241118213300 +0800">
+		<title lang="zh">八段锦推荐第四期</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -84155,6 +84179,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20241118202100 +0800" stop="20241118210600 +0800">
 		<title lang="zh">05_风雷动</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241118210600 +0800" stop="20241118215100 +0800">
+		<title lang="zh">34_二炮手</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -84429,6 +84456,9 @@
 	<programme channel="newtv动作电影" start="20241118203800 +0800" stop="20241118210800 +0800">
 		<title lang="zh">八段锦推荐第四期</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20241118210800 +0800" stop="20241118223500 +0800">
+		<title lang="zh">武神苏乞儿之红莲虫蛊</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -84521,6 +84551,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241118203200 +0800" stop="20241118210200 +0800">
 		<title lang="zh">八段锦推荐第四期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241118210200 +0800" stop="20241118214400 +0800">
+		<title lang="zh">贵州混斗联盟vs重庆洁静精微 第4局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -84768,6 +84801,9 @@
 	<programme channel="newtv军事评论" start="20241118204200 +0800" stop="20241118210900 +0800">
 		<title lang="zh">香山论道</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241118210900 +0800" stop="20241118213500 +0800">
+		<title lang="zh">硬核装备 极限挑战</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84995,6 +85031,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20241118193700 +0800" stop="20241118210900 +0800">
 		<title lang="zh">人口交易</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20241118210900 +0800" stop="20241118213900 +0800">
+		<title lang="zh">八段锦推荐第四期</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
