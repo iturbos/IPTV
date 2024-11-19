@@ -25071,6 +25071,9 @@
 	<programme channel="动作电影" start="20241119191800 +0800" stop="20241119210800 +0800">
 		<title lang="zh">警察故事2013</title>
 	</programme>
+	<programme channel="动作电影" start="20241119210800 +0800" stop="20241119213800 +0800">
+		<title lang="zh">八段锦推荐第四期</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -43458,6 +43461,9 @@
 	<programme channel="惊悚悬疑" start="20241119200000 +0800" stop="20241119210600 +0800">
 		<title lang="zh">侠灵</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20241119210600 +0800" stop="20241119213600 +0800">
+		<title lang="zh">八段锦推荐第四期</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -46388,6 +46394,9 @@
 	</programme>
 	<programme channel="明星大片" start="20241119202700 +0800" stop="20241119211600 +0800">
 		<title lang="zh">日本SUSUMOTOYA小分子脑活素-渠道（右）</title>
+	</programme>
+	<programme channel="明星大片" start="20241119211600 +0800" stop="20241119220200 +0800">
+		<title lang="zh">13_在暴雪时分</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -84234,6 +84243,9 @@
 	<programme channel="黑莓动画" start="20241119204000 +0800" stop="20241119210500 +0800">
 		<title lang="zh">09_德凯奥特曼 普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241119210500 +0800" stop="20241119211900 +0800">
+		<title lang="zh">13_托宝战士之银河侦探1</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -85431,6 +85443,9 @@
 	<programme channel="newtv超级电视剧" start="20241119201700 +0800" stop="20241119210200 +0800">
 		<title lang="zh">28_川流</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241119210200 +0800" stop="20241119214700 +0800">
+		<title lang="zh">29_川流</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -85511,6 +85526,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241119204600 +0800" stop="20241119211600 +0800">
 		<title lang="zh">八段锦推荐第四期</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241119211600 +0800" stop="20241119221000 +0800">
+		<title lang="zh">25_花谢花飞花满天</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -85854,6 +85872,9 @@
 	<programme channel="newtv家庭剧场" start="20241119201900 +0800" stop="20241119210200 +0800">
 		<title lang="zh">47_好妻子</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20241119210200 +0800" stop="20241119213200 +0800">
+		<title lang="zh">八段锦推荐第四期</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -86058,6 +86079,9 @@
 	<programme channel="newtv动作电影" start="20241119191800 +0800" stop="20241119210800 +0800">
 		<title lang="zh">警察故事2013</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20241119210800 +0800" stop="20241119213800 +0800">
+		<title lang="zh">八段锦推荐第四期</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -86156,6 +86180,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241119204100 +0800" stop="20241119211100 +0800">
 		<title lang="zh">八段锦推荐第四期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241119211100 +0800" stop="20241119214600 +0800">
+		<title lang="zh">北京龙腾四海vs贵州混斗联盟 第3局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -86496,6 +86523,9 @@
 	<programme channel="newtv炫舞未来" start="20241119202000 +0800" stop="20241119210900 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20241119210900 +0800" stop="20241119215900 +0800">
+		<title lang="zh">一笑一周（20241001）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -86568,6 +86598,9 @@
 	<programme channel="newtv精品综合" start="20241119202700 +0800" stop="20241119211600 +0800">
 		<title lang="zh">日本SUSUMOTOYA小分子脑活素-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20241119211600 +0800" stop="20241119220200 +0800">
+		<title lang="zh">13_在暴雪时分</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -86618,6 +86651,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20241119200000 +0800" stop="20241119210600 +0800">
 		<title lang="zh">侠灵</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20241119210600 +0800" stop="20241119213600 +0800">
+		<title lang="zh">八段锦推荐第四期</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
