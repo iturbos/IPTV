@@ -75,6 +75,9 @@
 	<programme channel="4K综艺" start="20241119130300 +0800" stop="20241119141600 +0800">
 		<title lang="zh">真心大冒险20180526</title>
 	</programme>
+	<programme channel="4K综艺" start="20241119141600 +0800" stop="20241119152200 +0800">
+		<title lang="zh">真心大冒险20180602</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -63714,6 +63717,9 @@
 	<programme channel="爱情喜剧" start="20241119133100 +0800" stop="20241119140500 +0800">
 		<title lang="zh">10_平安是福</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20241119140500 +0800" stop="20241119143000 +0800">
+		<title lang="zh">11_平安是福</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -69275,6 +69281,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20241119134100 +0800" stop="20241119140900 +0800">
 		<title lang="zh">好吃客4K 北京胡同</title>
+	</programme>
+	<programme channel="纯享4K" start="20241119140900 +0800" stop="20241119143500 +0800">
+		<title lang="zh">好吃客4K 京城洋厨房</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -83544,6 +83553,9 @@
 	<programme channel="黑莓动画" start="20241119135500 +0800" stop="20241119140600 +0800">
 		<title lang="zh">植物精灵大战僵尸怪</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241119140600 +0800" stop="20241119143200 +0800">
+		<title lang="zh">张大牙爱搞怪第四季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -84672,6 +84684,9 @@
 	<programme channel="newtv超级电视剧" start="20241119132700 +0800" stop="20241119141200 +0800">
 		<title lang="zh">19_婆婆来了</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241119141200 +0800" stop="20241119145800 +0800">
+		<title lang="zh">20_婆婆来了</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -84785,6 +84800,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20241119134100 +0800" stop="20241119141100 +0800">
 		<title lang="zh">24_我的抗战：战火红颜</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20241119141100 +0800" stop="20241119145900 +0800">
+		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -84942,6 +84960,9 @@
 	<programme channel="newtv家庭剧场" start="20241119131300 +0800" stop="20241119140200 +0800">
 		<title lang="zh">日本SUSUMOTOYA小分子脑活素-渠道（右）</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20241119140200 +0800" stop="20241119144900 +0800">
+		<title lang="zh">21_原来就是你</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -84990,6 +85011,9 @@
 	<programme channel="newtv热播精选" start="20241119132400 +0800" stop="20241119141300 +0800">
 		<title lang="zh">BEYONPAN钛锅升级款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20241119141300 +0800" stop="20241119145900 +0800">
+		<title lang="zh">20_画眉</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -85037,6 +85061,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20241119133100 +0800" stop="20241119140500 +0800">
 		<title lang="zh">10_平安是福</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20241119140500 +0800" stop="20241119143000 +0800">
+		<title lang="zh">11_平安是福</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -85364,6 +85391,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241119130700 +0800" stop="20241119140700 +0800">
 		<title lang="zh">六旬大爷初登场魅力十足，引得女嘉宾纷纷表白</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241119140700 +0800" stop="20241119145200 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
