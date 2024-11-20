@@ -32403,6 +32403,9 @@
 	<programme channel="咪咕综合体育" start="20241120090000 +0800" stop="20241120111000 +0800">
 		<title lang="zh">网球世界-2024中国网球公开赛 男单第1轮 商竣程-布云朝克特</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20241120111500 +0800" stop="20241120114000 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -85185,6 +85188,9 @@
 	<programme channel="黑莓动画" start="20241120101900 +0800" stop="20241120110500 +0800">
 		<title lang="zh">汪汪队立大功第3季24</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241120110500 +0800" stop="20241120113200 +0800">
+		<title lang="zh">23_钶龙战记</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -86208,6 +86214,9 @@
 	<programme channel="newtv精品大剧" start="20241120101800 +0800" stop="20241120110300 +0800">
 		<title lang="zh">11_使徒行者3[粤语版]</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20241120110300 +0800" stop="20241120115200 +0800">
+		<title lang="zh">(券)同仁堂即食海参特惠专享组-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -86528,6 +86537,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241120103600 +0800" stop="20241120110400 +0800">
 		<title lang="zh">难以入住</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241120110400 +0800" stop="20241120114900 +0800">
+		<title lang="zh">11_新边城浪子</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
