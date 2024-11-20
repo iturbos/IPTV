@@ -46719,6 +46719,9 @@
 	<programme channel="明星大片" start="20241120123800 +0800" stop="20241120140400 +0800">
 		<title lang="zh">陈真之拳镇山河</title>
 	</programme>
+	<programme channel="明星大片" start="20241120140400 +0800" stop="20241120145300 +0800">
+		<title lang="zh">Amos电解杀菌无线智能洗地机-渠道（右）</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -85281,6 +85284,9 @@
 	<programme channel="黑莓动画" start="20241120135000 +0800" stop="20241120141000 +0800">
 		<title lang="zh">138_一只笨笨的小恐龙</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241120141000 +0800" stop="20241120141900 +0800">
+		<title lang="zh">03_植物精灵大战僵尸怪第2季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -86355,6 +86361,9 @@
 	<programme channel="newtv精品大剧" start="20241120132200 +0800" stop="20241120140700 +0800">
 		<title lang="zh">02_冷风暴</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20241120140700 +0800" stop="20241120144500 +0800">
+		<title lang="zh">天天轻油低芥酸菜籽二酯食用油特惠组-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -86415,6 +86424,9 @@
 	<programme channel="newtv精品纪录" start="20241120133800 +0800" stop="20241120141400 +0800">
 		<title lang="zh">跨境品美国云杉前列腺精油-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241120141400 +0800" stop="20241120150200 +0800">
+		<title lang="zh">史前洞穴考古记（上）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -86465,6 +86477,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20241120131800 +0800" stop="20241120140300 +0800">
 		<title lang="zh">24_包青天之七侠五义</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20241120140300 +0800" stop="20241120144200 +0800">
+		<title lang="zh">DR.DAOKING止咳平喘保健贴-渠道（右）</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -86925,6 +86940,9 @@
 	<programme channel="newtv军事评论" start="20241120134000 +0800" stop="20241120140500 +0800">
 		<title lang="zh">练为战 第四集 大漠长空听惊雷</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241120140500 +0800" stop="20241120143000 +0800">
+		<title lang="zh">任务来临的一刻</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -87041,6 +87059,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20241120123800 +0800" stop="20241120140400 +0800">
 		<title lang="zh">陈真之拳镇山河</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20241120140400 +0800" stop="20241120145300 +0800">
+		<title lang="zh">Amos电解杀菌无线智能洗地机-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
