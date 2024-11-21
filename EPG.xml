@@ -32163,6 +32163,9 @@
 	<programme channel="咪咕足球" start="20241121103000 +0800" stop="20241121121000 +0800">
 		<title lang="zh">当燃CBA 24/25常规赛 南京头排苏酒-青岛国信制药</title>
 	</programme>
+	<programme channel="咪咕足球" start="20241121121500 +0800" stop="20241121131500 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -64086,6 +64089,9 @@
 	<programme channel="爱情喜剧" start="20241121113700 +0800" stop="20241121120200 +0800">
 		<title lang="zh">16_平安是福</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20241121120200 +0800" stop="20241121124000 +0800">
+		<title lang="zh">天天轻油低芥酸菜籽二酯食用油特惠组-渠道（右）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -74877,6 +74883,9 @@
 	<programme channel="超级电影" start="20241121103000 +0800" stop="20241121122500 +0800">
 		<title lang="zh">小李广花荣</title>
 	</programme>
+	<programme channel="超级电影" start="20241121122500 +0800" stop="20241121123100 +0800">
+		<title lang="zh">音乐电影欣赏</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -84978,6 +84987,9 @@
 	<programme channel="黑莓动画" start="20241121115700 +0800" stop="20241121121100 +0800">
 		<title lang="zh">嗨道奇第2季中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241121121100 +0800" stop="20241121123700 +0800">
+		<title lang="zh">熊出没之小小世界</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -85953,6 +85965,9 @@
 	<programme channel="newtv超级综艺" start="20241121103800 +0800" stop="20241121120800 +0800">
 		<title lang="zh">乐在旅途 第二季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241121120800 +0800" stop="20241121132500 +0800">
+		<title lang="zh">向幸福出发</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -86019,6 +86034,9 @@
 	<programme channel="newtv超级电影" start="20241121103000 +0800" stop="20241121122500 +0800">
 		<title lang="zh">小李广花荣</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20241121122500 +0800" stop="20241121123100 +0800">
+		<title lang="zh">音乐电影欣赏</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -86069,6 +86087,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20241121111700 +0800" stop="20241121120300 +0800">
 		<title lang="zh">04_碧海雄心</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20241121120300 +0800" stop="20241121124800 +0800">
+		<title lang="zh">05_碧海雄心</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -86319,6 +86340,9 @@
 	<programme channel="newtv家庭剧场" start="20241121110900 +0800" stop="20241121120500 +0800">
 		<title lang="zh">26_原来就是你</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20241121120500 +0800" stop="20241121125200 +0800">
+		<title lang="zh">27_原来就是你</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -86361,6 +86385,9 @@
 	<programme channel="newtv热播精选" start="20241121113300 +0800" stop="20241121121100 +0800">
 		<title lang="zh">天天轻油低芥酸菜籽二酯食用油特惠组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20241121121100 +0800" stop="20241121132900 +0800">
+		<title lang="zh">毒战生死线</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -86393,6 +86420,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20241121113700 +0800" stop="20241121120200 +0800">
 		<title lang="zh">16_平安是福</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20241121120200 +0800" stop="20241121124000 +0800">
+		<title lang="zh">天天轻油低芥酸菜籽二酯食用油特惠组-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -86610,6 +86640,9 @@
 	<programme channel="newtv军事评论" start="20241121115000 +0800" stop="20241121121600 +0800">
 		<title lang="zh">“长城-2024”反恐国际论坛纪实</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241121121600 +0800" stop="20241121124100 +0800">
+		<title lang="zh">“胖小伙”从军记</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -86777,6 +86810,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20241121113400 +0800" stop="20241121122300 +0800">
 		<title lang="zh">北纬黑金即食海参-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20241121122300 +0800" stop="20241121135300 +0800">
+		<title lang="zh">一馔千年</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
