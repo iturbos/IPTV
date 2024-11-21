@@ -42,6 +42,9 @@
 	<programme channel="4K综艺" start="20241121143200 +0800" stop="20241121160300 +0800">
 		<title lang="zh">妻子的浪漫旅行第三季20200129</title>
 	</programme>
+	<programme channel="4K综艺" start="20241121160300 +0800" stop="20241121174200 +0800">
+		<title lang="zh">妻子的浪漫旅行第三季20200205</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -33678,11 +33681,20 @@
 	<programme channel="国会频道2" start="20241121084700 +0800" stop="20241121090000 +0800">
 		<title lang="zh">週四會議預報</title>
 	</programme>
-	<programme channel="国会频道2" start="20241121090000 +0800" stop="20241121180000 +0800">
+	<programme channel="国会频道2" start="20241121090000 +0800" stop="20241121145100 +0800">
 		<title lang="zh">立法院會議直播</title>
 	</programme>
-	<programme channel="国会频道2" start="20241121180000 +0800" stop="20241121235900 +0800">
-		<title lang="zh">當日立法院會議轉播</title>
+	<programme channel="国会频道2" start="20241121145100 +0800" stop="20241121145600 +0800">
+		<title lang="zh">週四會議預報</title>
+	</programme>
+	<programme channel="国会频道2" start="20241121145600 +0800" stop="20241121190500 +0800">
+		<title lang="zh">教育及文化委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20241121190500 +0800" stop="20241121233400 +0800">
+		<title lang="zh">社會福利及衛生環境委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20241121233400 +0800" stop="20241121235900 +0800">
+		<title lang="zh">社會福利及衛生環境委員會</title>
 	</programme>
 	<channel id="国学">
 		<display-name lang="zh">国学</display-name>
@@ -85110,6 +85122,9 @@
 	<programme channel="黑莓动画" start="20241121152000 +0800" stop="20241121160600 +0800">
 		<title lang="zh">格格不见了</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241121160600 +0800" stop="20241121164600 +0800">
+		<title lang="zh">抉择</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -86319,6 +86334,9 @@
 	<programme channel="newtv精品大剧" start="20241121153100 +0800" stop="20241121161600 +0800">
 		<title lang="zh">AMOS高聚能养生钛锅（新）-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20241121161600 +0800" stop="20241121170900 +0800">
+		<title lang="zh">34_流水迢迢</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -86403,6 +86421,9 @@
 	<programme channel="newtv精品纪录" start="20241121153100 +0800" stop="20241121161000 +0800">
 		<title lang="zh">国史通鉴b7宋元时代 3 江南风云</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241121161000 +0800" stop="20241121164800 +0800">
+		<title lang="zh">国史通鉴b7宋元时代 4 南唐兴衰</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -86462,6 +86483,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20241121152400 +0800" stop="20241121160900 +0800">
 		<title lang="zh">30_包青天之七侠五义</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20241121160900 +0800" stop="20241121165500 +0800">
+		<title lang="zh">11_长相思 第二季</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -86802,6 +86826,9 @@
 	<programme channel="newtv怡伴健康" start="20241121150700 +0800" stop="20241121160300 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241121160300 +0800" stop="20241121164000 +0800">
+		<title lang="zh">老人的遗赠</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -86864,6 +86891,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20241121152900 +0800" stop="20241121161200 +0800">
 		<title lang="zh">18_神隐</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241121161200 +0800" stop="20241121171200 +0800">
+		<title lang="zh">男嘉宾讲述过往竟引误会</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -86984,6 +87014,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241121153900 +0800" stop="20241121160400 +0800">
 		<title lang="zh">练为战 第六集 炮兵的荣誉之战</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241121160400 +0800" stop="20241121163100 +0800">
+		<title lang="zh">打卡纽伦堡武器展</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
