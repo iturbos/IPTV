@@ -93,6 +93,9 @@
 	<programme channel="4K综艺" start="20241122143900 +0800" stop="20241122160400 +0800">
 		<title lang="zh">亲爱的客栈第三季20200103</title>
 	</programme>
+	<programme channel="4K综艺" start="20241122160400 +0800" stop="20241122172500 +0800">
+		<title lang="zh">亲爱的客栈第三季20200110</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -84795,6 +84798,9 @@
 	<programme channel="黑莓动画" start="20241122152900 +0800" stop="20241122161600 +0800">
 		<title lang="zh">剪纸不见了</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241122161600 +0800" stop="20241122164100 +0800">
+		<title lang="zh">微观历史秀</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -86007,6 +86013,9 @@
 	<programme channel="newtv精品大剧" start="20241122152700 +0800" stop="20241122161200 +0800">
 		<title lang="zh">12_冷风暴</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20241122161200 +0800" stop="20241122165700 +0800">
+		<title lang="zh">AMOS高聚能养生钛锅（新）-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -86142,6 +86151,9 @@
 	<programme channel="newtv古装剧场" start="20241122151800 +0800" stop="20241122160300 +0800">
 		<title lang="zh">34_包青天之七侠五义</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20241122160300 +0800" stop="20241122164900 +0800">
+		<title lang="zh">15_长相思 第二季</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -86201,6 +86213,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20241122151000 +0800" stop="20241122160500 +0800">
 		<title lang="zh">24_天狼星行动</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241122160500 +0800" stop="20241122165000 +0800">
+		<title lang="zh">25_天狼星行动</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -86318,6 +86333,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20241122151500 +0800" stop="20241122161000 +0800">
 		<title lang="zh">30_画眉</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20241122161000 +0800" stop="20241122165600 +0800">
+		<title lang="zh">31_画眉</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -86481,6 +86499,9 @@
 	<programme channel="newtv怡伴健康" start="20241122153300 +0800" stop="20241122161100 +0800">
 		<title lang="zh">秋日餐桌上的宝藏食物（五）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241122161100 +0800" stop="20241122170000 +0800">
+		<title lang="zh">德国卡赫纯钛RO反渗透净水器-渠道（右）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -86543,6 +86564,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20241122153000 +0800" stop="20241122161600 +0800">
 		<title lang="zh">22_神隐</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241122161600 +0800" stop="20241122171600 +0800">
+		<title lang="zh">面对不能接受的习惯该怎么办</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
