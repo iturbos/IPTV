@@ -47049,6 +47049,9 @@
 	<programme channel="明星大片" start="20241122221700 +0800" stop="20241122231400 +0800">
 		<title lang="zh">23_在暴雪时分</title>
 	</programme>
+	<programme channel="明星大片" start="20241122231400 +0800" stop="20241122002800 +0800">
+		<title lang="zh">异形寄生：起源</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -70536,6 +70539,9 @@
 	<programme channel="纯享4K" start="20241122223900 +0800" stop="20241122230800 +0800">
 		<title lang="zh">好吃客4K 潮州</title>
 	</programme>
+	<programme channel="纯享4K" start="20241122230800 +0800" stop="20241122233300 +0800">
+		<title lang="zh">在乡村4K 第1集 磑子坝的春天（上）</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -85032,6 +85038,9 @@
 	<programme channel="黑莓动画" start="20241122224500 +0800" stop="20241122230900 +0800">
 		<title lang="zh">24_间谍过家家</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241122230900 +0800" stop="20241122233300 +0800">
+		<title lang="zh">25_间谍过家家</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -86055,6 +86064,9 @@
 	<programme channel="newtv超级综艺" start="20241122222500 +0800" stop="20241122231600 +0800">
 		<title lang="zh">一笑一周</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241122231600 +0800" stop="20241122000100 +0800">
+		<title lang="zh">07_新居之约</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -86472,6 +86484,9 @@
 	<programme channel="newtv精品纪录" start="20241122220600 +0800" stop="20241122230200 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241122230200 +0800" stop="20241122233900 +0800">
+		<title lang="zh">高原王牌（20230615）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -86744,6 +86759,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20241122221300 +0800" stop="20241122230800 +0800">
 		<title lang="zh">06_我爱男保姆</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20241122230800 +0800" stop="20241122235300 +0800">
+		<title lang="zh">07_我爱男保姆</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -87536,6 +87554,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20241122221700 +0800" stop="20241122231400 +0800">
 		<title lang="zh">23_在暴雪时分</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20241122231400 +0800" stop="20241122002800 +0800">
+		<title lang="zh">异形寄生：起源</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
