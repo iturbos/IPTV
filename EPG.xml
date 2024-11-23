@@ -32208,6 +32208,9 @@
 	<programme channel="咪咕综合体育" start="20241123114400 +0800" stop="20241123120900 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20241123121000 +0800" stop="20241123135000 +0800">
+		<title lang="zh">我的赛场你做主</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -32258,6 +32261,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20241123103000 +0800" stop="20241123121000 +0800">
 		<title lang="zh">当燃CBA 24/25常规赛 江苏肯帝亚-山东高速</title>
+	</programme>
+	<programme channel="咪咕足球" start="20241123121500 +0800" stop="20241123131500 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -70746,6 +70752,9 @@
 	<programme channel="纯享4K" start="20241123112300 +0800" stop="20241123120400 +0800">
 		<title lang="zh">远方的家4K 长江行（96） 多元文化 活力上海</title>
 	</programme>
+	<programme channel="纯享4K" start="20241123120400 +0800" stop="20241123124500 +0800">
+		<title lang="zh">远方的家4K 长江行 生态之城——上海</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -85005,6 +85014,9 @@
 	<programme channel="黑莓动画" start="20241123113800 +0800" stop="20241123120400 +0800">
 		<title lang="zh">超级飞侠第15季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241123120400 +0800" stop="20241123123900 +0800">
+		<title lang="zh">嗨道奇第2季中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -86184,6 +86196,9 @@
 	<programme channel="newtv精品纪录" start="20241123115100 +0800" stop="20241123120600 +0800">
 		<title lang="zh">03_竹内亮</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241123120600 +0800" stop="20241123124600 +0800">
+		<title lang="zh">第8集：赓续b7代代相传</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -86228,6 +86243,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20241123111900 +0800" stop="20241123120400 +0800">
 		<title lang="zh">35_包青天之七侠五义</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20241123120400 +0800" stop="20241123124200 +0800">
+		<title lang="zh">福武梅花鹿筋骨片压缩糖果-渠道（右）</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -86529,6 +86547,9 @@
 	<programme channel="newtv潮妈辣婆" start="20241123114700 +0800" stop="20241123120800 +0800">
 		<title lang="zh">李子柒视频合集</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241123120800 +0800" stop="20241123125400 +0800">
+		<title lang="zh">23_神隐</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -86618,6 +86639,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241123115200 +0800" stop="20241123121400 +0800">
 		<title lang="zh">二战惊险行动b7马耳他护航战</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241123121400 +0800" stop="20241123123600 +0800">
+		<title lang="zh">二战惊险行动b7突袭缅甸</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
