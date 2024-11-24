@@ -43638,6 +43638,9 @@
 	<programme channel="惊悚悬疑" start="20241124155400 +0800" stop="20241124165200 +0800">
 		<title lang="zh">同仁堂即食海参参王超值组-渠道（右）</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20241124165200 +0800" stop="20241124182700 +0800">
+		<title lang="zh">男狐聊斋3</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -86391,6 +86394,9 @@
 	<programme channel="newtv超级体育" start="20241124150000 +0800" stop="20241124170000 +0800">
 		<title lang="zh">2024年世乒联总决赛-单打决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241124170000 +0800" stop="20241124180000 +0800">
+		<title lang="zh">2024年世界职业拳王争霸赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -86645,6 +86651,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20241124161100 +0800" stop="20241124164900 +0800">
 		<title lang="zh">国史通鉴b7宋元时代 7 雍熙北伐</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20241124164900 +0800" stop="20241124174500 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -87333,6 +87342,9 @@
 	<programme channel="newtv炫舞未来" start="20241124161100 +0800" stop="20241124164800 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20241124164800 +0800" stop="20241124170600 +0800">
+		<title lang="zh">野花香-孙爱迪（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -87425,6 +87437,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20241124155400 +0800" stop="20241124165200 +0800">
 		<title lang="zh">同仁堂即食海参参王超值组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20241124165200 +0800" stop="20241124182700 +0800">
+		<title lang="zh">男狐聊斋3</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -87584,6 +87599,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241124160600 +0800" stop="20241124164800 +0800">
 		<title lang="zh">14_雪鹰领主</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241124164800 +0800" stop="20241124174100 +0800">
+		<title lang="zh">15_雪鹰领主</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
