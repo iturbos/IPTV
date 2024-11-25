@@ -45870,6 +45870,9 @@
 	<programme channel="明星大片" start="20241125123800 +0800" stop="20241125140200 +0800">
 		<title lang="zh">捍战</title>
 	</programme>
+	<programme channel="明星大片" start="20241125140200 +0800" stop="20241125143800 +0800">
+		<title lang="zh">跨境品美国云杉前列腺精油-渠道（右）</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -63029,6 +63032,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20241125134400 +0800" stop="20241125140800 +0800">
 		<title lang="zh">40_平安是福</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20241125140800 +0800" stop="20241125150400 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -82551,6 +82557,9 @@
 	<programme channel="黑莓电影" start="20241125124800 +0800" stop="20241125140400 +0800">
 		<title lang="zh">六扇门之嫣州八艳</title>
 	</programme>
+	<programme channel="黑莓电影" start="20241125140400 +0800" stop="20241125154100 +0800">
+		<title lang="zh">隐婚男女</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -83607,6 +83616,9 @@
 	<programme channel="newtv精品大剧" start="20241125131900 +0800" stop="20241125140500 +0800">
 		<title lang="zh">22_冷风暴</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20241125140500 +0800" stop="20241125144200 +0800">
+		<title lang="zh">藏延康固肾宝特惠组-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -83838,6 +83850,9 @@
 	<programme channel="newtv家庭剧场" start="20241125132800 +0800" stop="20241125141400 +0800">
 		<title lang="zh">08_皎洁的月亮</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20241125141400 +0800" stop="20241125150100 +0800">
+		<title lang="zh">09_皎洁的月亮</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -83933,6 +83948,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20241125134400 +0800" stop="20241125140800 +0800">
 		<title lang="zh">40_平安是福</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20241125140800 +0800" stop="20241125150400 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -84035,6 +84053,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241125135600 +0800" stop="20241125140800 +0800">
 		<title lang="zh">小品《快乐老爸》 表演：冯巩 徐帆</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241125140800 +0800" stop="20241125143000 +0800">
+		<title lang="zh">小品《快递小乔》 表演：乔杉 娄艺潇</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -84255,6 +84276,9 @@
 	<programme channel="newtv炫舞未来" start="20241125125700 +0800" stop="20241125141300 +0800">
 		<title lang="zh">一见钟情 彼此都爱小动物的两人肖雄、王艺菲牵手成功（20241105）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20241125141300 +0800" stop="20241125150300 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -84302,6 +84326,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20241125123800 +0800" stop="20241125140200 +0800">
 		<title lang="zh">捍战</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20241125140200 +0800" stop="20241125143800 +0800">
+		<title lang="zh">跨境品美国云杉前列腺精油-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
