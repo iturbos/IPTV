@@ -84903,6 +84903,9 @@
 	<programme channel="newtv精品大剧" start="20241127151700 +0800" stop="20241127160300 +0800">
 		<title lang="zh">32_冷风暴</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20241127160300 +0800" stop="20241127165900 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -84971,6 +84974,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20241127151700 +0800" stop="20241127160500 +0800">
 		<title lang="zh">国史通鉴b7宋元时代 10 西夏崛起</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20241127160500 +0800" stop="20241127165300 +0800">
+		<title lang="zh">第3集：亚马孙幸存宝宝</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -85095,6 +85101,9 @@
 	<programme channel="newtv军旅剧场" start="20241127152000 +0800" stop="20241127161400 +0800">
 		<title lang="zh">39_天狼星行动</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241127161400 +0800" stop="20241127170000 +0800">
+		<title lang="zh">40_天狼星行动</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -85208,6 +85217,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20241127151600 +0800" stop="20241127161200 +0800">
 		<title lang="zh">07_梅花红桃</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20241127161200 +0800" stop="20241127170800 +0800">
+		<title lang="zh">08_梅花红桃</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -85433,6 +85445,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20241127152200 +0800" stop="20241127160900 +0800">
 		<title lang="zh">02_千金女贼</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241127160900 +0800" stop="20241127170900 +0800">
+		<title lang="zh">婚姻中需要相互欣赏</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
