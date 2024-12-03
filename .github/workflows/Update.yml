@@ -65,7 +65,9 @@ jobs:
 
         # 节目源
         rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
-        echo "Auto Update IPTV in ${{ steps.date.outputs.date }}  https://iturbos.github.io/IPTV/IPTV.m3u " > README.md
+        echo "Auto Update IPTV in ${{ steps.date.outputs.date }} " > README.md
+        echo "https://iturbos.github.io/IPTV/IPTV.m3u:https://iturbos.github.io/IPTV/IPTV.m3u" >> README.md
+
 
     - name: Clean
       run: |
