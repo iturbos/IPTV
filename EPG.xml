@@ -68814,6 +68814,9 @@
 	<programme channel="纯享4K" start="20241203224500 +0800" stop="20241203231500 +0800">
 		<title lang="zh">味道4K 原味乡间b7襄阳篇（2）</title>
 	</programme>
+	<programme channel="纯享4K" start="20241203231500 +0800" stop="20241203234300 +0800">
+		<title lang="zh">记住乡愁4K第八季 西安村——药香满山林</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -83523,6 +83526,9 @@
 	<programme channel="黑莓动画" start="20241203225000 +0800" stop="20241203231400 +0800">
 		<title lang="zh"> 01_咒术回战第2季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241203231400 +0800" stop="20241203233800 +0800">
+		<title lang="zh">05_间谍过家家</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -84759,6 +84765,9 @@
 	<programme channel="newtv超级电视剧" start="20241203222100 +0800" stop="20241203230200 +0800">
 		<title lang="zh">02_前途无量</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241203230200 +0800" stop="20241203234800 +0800">
+		<title lang="zh">39_锦绣安宁</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -85154,6 +85163,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20241203222000 +0800" stop="20241203230600 +0800">
 		<title lang="zh">20_无间</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241203230600 +0800" stop="20241203235200 +0800">
+		<title lang="zh">21_无间</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -85782,6 +85794,9 @@
 	<programme channel="newtv军事评论" start="20241203224600 +0800" stop="20241203231200 +0800">
 		<title lang="zh">组团援乌？法国拟组建联盟向乌派兵 美F-35A战机获核弹携带认证</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241203231200 +0800" stop="20241203233700 +0800">
+		<title lang="zh">台军所谓“海锋大队”现身街头 外交部就菲通过“海洋区域法案”阐明立场</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85886,6 +85901,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241203220600 +0800" stop="20241203230200 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241203230800 +0800" stop="20241203233800 +0800">
+		<title lang="zh">冠军八段锦丨炫舞未来</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
