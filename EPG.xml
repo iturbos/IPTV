@@ -30939,6 +30939,9 @@
 	<programme channel="咪咕综合体育" start="20241205194500 +0800" stop="20241205222500 +0800">
 		<title lang="zh">足球世界-24/25赛季亚冠 二级联赛东亚区第6轮 万隆-浙江队 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20241205222500 +0800" stop="20241205223000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -31007,6 +31010,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20241205190000 +0800" stop="20241205221500 +0800">
 		<title lang="zh">当燃CBA 24/25常规赛 广东东阳光-江苏肯帝亚 直播</title>
+	</programme>
+	<programme channel="咪咕足球" start="20241205222000 +0800" stop="20241205000000 +0800">
+		<title lang="zh">我爱女篮 WCBA常规赛 浙江稠州银行-福建晋江众腾</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -44810,6 +44816,9 @@
 	</programme>
 	<programme channel="明星大片" start="20241205211700 +0800" stop="20241205220400 +0800">
 		<title lang="zh">09_余生，请多指教</title>
+	</programme>
+	<programme channel="明星大片" start="20241205220400 +0800" stop="20241205225100 +0800">
+		<title lang="zh">10_余生，请多指教</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -82062,6 +82071,9 @@
 	<programme channel="黑莓动画" start="20241205215500 +0800" stop="20241205220200 +0800">
 		<title lang="zh">08_美味的博士</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241205221500 +0800" stop="20241205222800 +0800">
+		<title lang="zh">09_踢踢和奇奇之魔力课堂 第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83292,6 +83304,9 @@
 	<programme channel="newtv超级电视剧" start="20241205213900 +0800" stop="20241205222100 +0800">
 		<title lang="zh">05_前途无量</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241205222100 +0800" stop="20241205230200 +0800">
+		<title lang="zh">06_前途无量</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -84084,6 +84099,9 @@
 	<programme channel="newtv怡伴健康" start="20241205212700 +0800" stop="20241205221100 +0800">
 		<title lang="zh">第六场 北京东炸团vs湖南星火燎原 第1局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241205221100 +0800" stop="20241205224700 +0800">
+		<title lang="zh">《八段锦》推荐第9期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -84294,6 +84312,9 @@
 	<programme channel="newtv军事评论" start="20241205214400 +0800" stop="20241205220900 +0800">
 		<title lang="zh">美日菲欲在南海“联合巡逻” 乌总统谈“撤退”施压美国</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241205220900 +0800" stop="20241205223400 +0800">
+		<title lang="zh">以色列空袭伊朗驻叙利亚大使馆 伊朗指责美国必须对此负责</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84480,6 +84501,9 @@
 	<programme channel="newtv精品综合" start="20241205211700 +0800" stop="20241205220400 +0800">
 		<title lang="zh">09_余生，请多指教</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20241205220400 +0800" stop="20241205225100 +0800">
+		<title lang="zh">10_余生，请多指教</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -84536,6 +84560,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20241205213700 +0800" stop="20241205220700 +0800">
 		<title lang="zh">《八段锦》推荐第9期</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20241205220700 +0800" stop="20241205233100 +0800">
+		<title lang="zh">大偃术师</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
