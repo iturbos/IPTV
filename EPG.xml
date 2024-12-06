@@ -45777,6 +45777,9 @@
 	<programme channel="明星大片" start="20241206221700 +0800" stop="20241206231000 +0800">
 		<title lang="zh">14_余生，请多指教</title>
 	</programme>
+	<programme channel="明星大片" start="20241206231000 +0800" stop="20241206001500 +0800">
+		<title lang="zh">猎心之迷毒之罪</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -84846,6 +84849,9 @@
 	<programme channel="newtv超级综艺" start="20241206221400 +0800" stop="20241206230900 +0800">
 		<title lang="zh">艺览天下</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241206230900 +0800" stop="20241206235400 +0800">
+		<title lang="zh">25_特战荣耀</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -85059,6 +85065,9 @@
 	<programme channel="newtv超级电视剧" start="20241206222900 +0800" stop="20241206231000 +0800">
 		<title lang="zh">08_前途无量</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241206231000 +0800" stop="20241206235600 +0800">
+		<title lang="zh">05_与凤行</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -85262,6 +85271,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20241206220000 +0800" stop="20241206230200 +0800">
 		<title lang="zh">第一集 引领</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20241206230200 +0800" stop="20241206000000 +0800">
+		<title lang="zh">第二集 织网</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -85547,6 +85559,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20241206221900 +0800" stop="20241206230500 +0800">
 		<title lang="zh">09_头号前妻</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20241206230500 +0800" stop="20241206234500 +0800">
+		<title lang="zh">10_头号前妻</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -85880,6 +85895,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241206222900 +0800" stop="20241206230500 +0800">
 		<title lang="zh">《八段锦》推荐第9期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241206230500 +0800" stop="20241206002400 +0800">
+		<title lang="zh">乡约：乡约重庆万盛经济技术开发区双胞胎专场</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -86294,6 +86312,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20241206221700 +0800" stop="20241206231000 +0800">
 		<title lang="zh">14_余生，请多指教</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20241206231000 +0800" stop="20241206001500 +0800">
+		<title lang="zh">猎心之迷毒之罪</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
