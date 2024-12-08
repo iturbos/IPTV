@@ -28710,6 +28710,9 @@
 	<programme channel="咪咕综合体育" start="20241208104500 +0800" stop="20241208115900 +0800">
 		<title lang="zh">国球荣耀-WTT福冈总决赛 女单 决赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20241208121000 +0800" stop="20241208135000 +0800">
+		<title lang="zh">足球世界-24/25赛季德甲 第14轮 勒沃库森-海登海姆</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28751,6 +28754,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20241208103000 +0800" stop="20241208121000 +0800">
 		<title lang="zh">我爱女篮 WCBA常规赛 江苏南钢-浙江稠州银行</title>
+	</programme>
+	<programme channel="咪咕足球" start="20241208121000 +0800" stop="20241208121500 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -60465,6 +60471,9 @@
 	<programme channel="爱情喜剧" start="20241208110900 +0800" stop="20241208115400 +0800">
 		<title lang="zh">25_新万家灯火</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20241208115400 +0800" stop="20241208123100 +0800">
+		<title lang="zh">医用口腔护理膏健康组-渠道（右）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -66452,6 +66461,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20241208112700 +0800" stop="20241208115700 +0800">
 		<title lang="zh">寻古中国4K 河洛记b7兼收并蓄</title>
+	</programme>
+	<programme channel="纯享4K" start="20241208115700 +0800" stop="20241208121200 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 敦煌壁画b7围棋组图</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -81390,6 +81402,12 @@
 	<programme channel="黑莓动画" start="20241208111900 +0800" stop="20241208114300 +0800">
 		<title lang="zh">百变布鲁可第4季第19集</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241208114300 +0800" stop="20241208115600 +0800">
+		<title lang="zh">15_超级飞侠第15季</title>
+	</programme>
+	<programme channel="黑莓动画" start="20241208115600 +0800" stop="20241208120900 +0800">
+		<title lang="zh">16_超级飞侠第15季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82377,6 +82395,9 @@
 	<programme channel="newtv超级体育" start="20241208113000 +0800" stop="20241208120000 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241208120000 +0800" stop="20241208140800 +0800">
+		<title lang="zh">2024年国际乒联混合团体世界杯-半决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -82452,6 +82473,9 @@
 	<programme channel="newtv超级电视剧" start="20241208110600 +0800" stop="20241208114800 +0800">
 		<title lang="zh">11_誓盟</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241208114800 +0800" stop="20241208123000 +0800">
+		<title lang="zh">12_誓盟</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -82496,6 +82520,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241208105500 +0800" stop="20241208113200 +0800">
 		<title lang="zh">医用口腔护理膏健康组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241208113200 +0800" stop="20241208121700 +0800">
+		<title lang="zh">43_倚天屠龙记</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -82656,6 +82683,9 @@
 	<programme channel="newtv军旅剧场" start="20241208110500 +0800" stop="20241208115300 +0800">
 		<title lang="zh">31_前夜</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241208115300 +0800" stop="20241208124300 +0800">
+		<title lang="zh">石药牌纳豆红曲地龙蛋白片-渠道（右）</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -82704,6 +82734,9 @@
 	<programme channel="newtv家庭剧场" start="20241208111400 +0800" stop="20241208120100 +0800">
 		<title lang="zh">05_失笑</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20241208120100 +0800" stop="20241208124400 +0800">
+		<title lang="zh">06_失笑</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -82746,6 +82779,9 @@
 	<programme channel="newtv热播精选" start="20241208104700 +0800" stop="20241208113600 +0800">
 		<title lang="zh">AHLUKA智能AI马桶一体机-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20241208113600 +0800" stop="20241208130900 +0800">
+		<title lang="zh">速度与激战</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -82787,6 +82823,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20241208110900 +0800" stop="20241208115400 +0800">
 		<title lang="zh">25_新万家灯火</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20241208115400 +0800" stop="20241208123100 +0800">
+		<title lang="zh">医用口腔护理膏健康组-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -82917,6 +82956,9 @@
 	<programme channel="newtv潮妈辣婆" start="20241208110400 +0800" stop="20241208114200 +0800">
 		<title lang="zh">鹿本堂新西兰原料进口参汤鹿肉套组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241208114200 +0800" stop="20241208125300 +0800">
+		<title lang="zh">李子柒视频合集</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -82979,6 +83021,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241208112200 +0800" stop="20241208114400 +0800">
 		<title lang="zh">二战空袭大揭秘（三）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241208114400 +0800" stop="20241208120500 +0800">
+		<title lang="zh">二战空袭大揭秘（四）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -83045,6 +83090,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241208112900 +0800" stop="20241208115600 +0800">
 		<title lang="zh">双面恋人（20220823）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241208115600 +0800" stop="20241208124500 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
