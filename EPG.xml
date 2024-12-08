@@ -66582,6 +66582,9 @@
 	<programme channel="纯享4K" start="20241208162600 +0800" stop="20241208165400 +0800">
 		<title lang="zh">记住乡愁4K第八季 清水河村——幸福像花儿一样</title>
 	</programme>
+	<programme channel="纯享4K" start="20241208165400 +0800" stop="20241208175400 +0800">
+		<title lang="zh">乐享汇4K 为你而歌</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -81561,6 +81564,9 @@
 	<programme channel="黑莓动画" start="20241208162800 +0800" stop="20241208165900 +0800">
 		<title lang="zh">07_甜甜和妈妈</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241208165900 +0800" stop="20241208170600 +0800">
+		<title lang="zh">01_才艺表演</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82755,6 +82761,9 @@
 	<programme channel="newtv精品大剧" start="20241208160900 +0800" stop="20241208164700 +0800">
 		<title lang="zh">石药牌鲨鱼软骨氨糖软骨素特惠组新-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20241208164700 +0800" stop="20241208173000 +0800">
+		<title lang="zh">22_二炮手</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -82911,6 +82920,9 @@
 	<programme channel="newtv古装剧场" start="20241208161000 +0800" stop="20241208165600 +0800">
 		<title lang="zh">22_龙汇镖局</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20241208165600 +0800" stop="20241208174500 +0800">
+		<title lang="zh">AHLUKA智能AI马桶一体机-渠道（右）</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -82976,6 +82988,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20241208161300 +0800" stop="20241208165900 +0800">
 		<title lang="zh">33_画眉</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241208165900 +0800" stop="20241208174400 +0800">
+		<title lang="zh">34_画眉</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -83105,6 +83120,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20241208160500 +0800" stop="20241208170100 +0800">
 		<title lang="zh">11_黑白密码</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20241208170100 +0800" stop="20241208173800 +0800">
+		<title lang="zh">医用口腔护理膏健康组-渠道（右）</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -83441,6 +83459,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241208162600 +0800" stop="20241208165300 +0800">
 		<title lang="zh">寻踪川康边游击烽火</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241208165300 +0800" stop="20241208171900 +0800">
+		<title lang="zh">直击“虎王”213号</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
