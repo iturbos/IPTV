@@ -28839,6 +28839,9 @@
 	<programme channel="咪咕综合体育" start="20241210120000 +0800" stop="20241210121000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20241210121000 +0800" stop="20241210135000 +0800">
+		<title lang="zh">足球世界-24/25赛季中甲 第30轮 大连英博-上海嘉定汇龙</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28880,6 +28883,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20241210103000 +0800" stop="20241210121000 +0800">
 		<title lang="zh">我爱女篮 WCBA常规赛 上海浦发银行-内蒙古农信</title>
+	</programme>
+	<programme channel="咪咕足球" start="20241210121500 +0800" stop="20241210131500 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -42881,6 +42887,9 @@
 	</programme>
 	<programme channel="明星大片" start="20241210113200 +0800" stop="20241210121500 +0800">
 		<title lang="zh">24_永夜星河</title>
+	</programme>
+	<programme channel="明星大片" start="20241210121500 +0800" stop="20241210133900 +0800">
+		<title lang="zh">扎职3：义薄云天</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -66000,6 +66009,9 @@
 	<programme channel="纯享4K" start="20241210115100 +0800" stop="20241210120600 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 谿山行旅图</title>
 	</programme>
+	<programme channel="纯享4K" start="20241210120600 +0800" stop="20241210124700 +0800">
+		<title lang="zh">远方的家4K 长江行 海派文化 历久弥新</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -70787,6 +70799,9 @@
 	</programme>
 	<programme channel="超级电影" start="20241210120300 +0800" stop="20241210121100 +0800">
 		<title lang="zh">音乐电影欣赏</title>
+	</programme>
+	<programme channel="超级电影" start="20241210121100 +0800" stop="20241210135300 +0800">
+		<title lang="zh">电影《终极胜利》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -81711,6 +81726,9 @@
 	<programme channel="newtv超级电影" start="20241210120300 +0800" stop="20241210121100 +0800">
 		<title lang="zh">音乐电影欣赏</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20241210121100 +0800" stop="20241210135300 +0800">
+		<title lang="zh">电影《终极胜利》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -82026,6 +82044,9 @@
 	<programme channel="newtv家庭剧场" start="20241210111500 +0800" stop="20241210120400 +0800">
 		<title lang="zh">13_失笑</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20241210120400 +0800" stop="20241210125400 +0800">
+		<title lang="zh">14_失笑</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -82314,6 +82335,9 @@
 	<programme channel="newtv军事评论" start="20241210114000 +0800" stop="20241210120200 +0800">
 		<title lang="zh">他们与天地永存 第二季 第三集 新闻战士（上）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241210120200 +0800" stop="20241210122400 +0800">
+		<title lang="zh">他们与天地永存 第二季 第四集 新闻战士（下）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -82422,6 +82446,9 @@
 	<programme channel="newtv精品综合" start="20241210113200 +0800" stop="20241210121500 +0800">
 		<title lang="zh">24_永夜星河</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20241210121500 +0800" stop="20241210133900 +0800">
+		<title lang="zh">扎职3：义薄云天</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -82487,6 +82514,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20241210100300 +0800" stop="20241210121300 +0800">
 		<title lang="zh">越战越勇（2024）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20241210121300 +0800" stop="20241210125100 +0800">
+		<title lang="zh">石药牌鲨鱼软骨氨糖软骨素特惠组新-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -82592,6 +82622,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241210111800 +0800" stop="20241210120300 +0800">
 		<title lang="zh">04_大武当</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241210120300 +0800" stop="20241210125500 +0800">
+		<title lang="zh">05_大武当</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
