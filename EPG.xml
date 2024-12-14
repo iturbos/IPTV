@@ -17472,6 +17472,9 @@
 	<programme channel="咪咕综合体育" start="20241215031500 +0800" stop="20241215034000 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20241215034500 +0800" stop="20241215061000 +0800">
+		<title lang="zh">足球世界-24/25赛季西甲 第17轮 巴列卡诺-皇家马德里 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -46293,6 +46296,9 @@
 	<programme channel="黑莓动画" start="20241215023200 +0800" stop="20241215031800 +0800">
 		<title lang="zh">11_星辰变第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241215031800 +0800" stop="20241215040600 +0800">
+		<title lang="zh">19_蓝色监狱</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -46301,6 +46307,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20241215015700 +0800" stop="20241215032700 +0800">
 		<title lang="zh">富贵吉祥</title>
+	</programme>
+	<programme channel="黑莓电影" start="20241215032700 +0800" stop="20241215050700 +0800">
+		<title lang="zh">忍者乱太郎</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -46650,6 +46659,9 @@
 	<programme channel="newtv超级综艺" start="20241215022600 +0800" stop="20241215033500 +0800">
 		<title lang="zh">原声天籁——中国民歌盛典</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241215033500 +0800" stop="20241215042500 +0800">
+		<title lang="zh">一笑一周</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -46671,6 +46683,9 @@
 	<programme channel="newtv超级电影" start="20241215015900 +0800" stop="20241215032200 +0800">
 		<title lang="zh">唐木的壶</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20241215032200 +0800" stop="20241215050100 +0800">
+		<title lang="zh">马赛物语</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -46689,6 +46704,9 @@
 	<programme channel="newtv超级电视剧" start="20241215030300 +0800" stop="20241215034500 +0800">
 		<title lang="zh">40_大侠霍元甲</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241215034500 +0800" stop="20241215042600 +0800">
+		<title lang="zh">26_海之谣</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -46700,6 +46718,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241215022800 +0800" stop="20241215032300 +0800">
 		<title lang="zh">34_上海滩生死较量</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241215032300 +0800" stop="20241215041900 +0800">
+		<title lang="zh">01_天涯浴血</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -46718,6 +46739,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20241215022800 +0800" stop="20241215032800 +0800">
 		<title lang="zh">05_汽车</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20241215032800 +0800" stop="20241215042400 +0800">
+		<title lang="zh">06_飞机</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -46881,6 +46905,9 @@
 	<programme channel="newtv炫舞未来" start="20241215031400 +0800" stop="20241215032800 +0800">
 		<title lang="zh">中国风-饶子龙</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20241215032800 +0800" stop="20241215044300 +0800">
+		<title lang="zh">原声天籁——中国民歌盛典（20231028）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -46907,6 +46934,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20241215012800 +0800" stop="20241215032800 +0800">
 		<title lang="zh">勇者之战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20241215032800 +0800" stop="20241215040600 +0800">
+		<title lang="zh">当燃是少年第2季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
