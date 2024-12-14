@@ -29124,6 +29124,9 @@
 	<programme channel="咪咕综合体育" start="20241214090000 +0800" stop="20241214115500 +0800">
 		<title lang="zh">2024嘉兴马拉松</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20241214115500 +0800" stop="20241214121000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -60864,6 +60867,9 @@
 	<programme channel="爱情喜剧" start="20241214105700 +0800" stop="20241214114200 +0800">
 		<title lang="zh">12_兰桐花开</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20241214114200 +0800" stop="20241214123000 +0800">
+		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -66770,6 +66776,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20241214112000 +0800" stop="20241214113500 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 雪中猎人</title>
+	</programme>
+	<programme channel="纯享4K" start="20241214113500 +0800" stop="20241214121700 +0800">
+		<title lang="zh">远方的家4K 大运河（21） 江南水乡 姑苏风情</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -81654,6 +81663,12 @@
 	<programme channel="黑莓动画" start="20241214110500 +0800" stop="20241214113100 +0800">
 		<title lang="zh">19_钶龙战记</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241214113100 +0800" stop="20241214115400 +0800">
+		<title lang="zh">百变布鲁可第4季第11集</title>
+	</programme>
+	<programme channel="黑莓动画" start="20241214115400 +0800" stop="20241214122000 +0800">
+		<title lang="zh">07_超级飞侠第15季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82554,6 +82569,9 @@
 	<programme channel="newtv超级综艺" start="20241214103300 +0800" stop="20241214114300 +0800">
 		<title lang="zh">非常6+1</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241214114300 +0800" stop="20241214130000 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -82586,6 +82604,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20241214103100 +0800" stop="20241214120000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 第17轮 山东高速-深圳马可波罗</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20241214120000 +0800" stop="20241214123500 +0800">
+		<title lang="zh">体坛快讯</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -82668,6 +82689,9 @@
 	<programme channel="newtv超级电视剧" start="20241214110500 +0800" stop="20241214114600 +0800">
 		<title lang="zh">35_誓盟</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241214114600 +0800" stop="20241214122800 +0800">
+		<title lang="zh">36_誓盟</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -82712,6 +82736,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241214110800 +0800" stop="20241214115700 +0800">
 		<title lang="zh">AHLUKA智能AI马桶一体机-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241214115700 +0800" stop="20241214124400 +0800">
+		<title lang="zh">17_梦华录</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -82860,6 +82887,9 @@
 	<programme channel="newtv军旅剧场" start="20241214110800 +0800" stop="20241214114200 +0800">
 		<title lang="zh">37_特种兵之火凤凰</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241214114200 +0800" stop="20241214123200 +0800">
+		<title lang="zh">石药牌纳豆红曲地龙蛋白片-渠道（右）</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -82911,6 +82941,9 @@
 	<programme channel="newtv家庭剧场" start="20241214111000 +0800" stop="20241214120100 +0800">
 		<title lang="zh">32_失笑</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20241214120100 +0800" stop="20241214124700 +0800">
+		<title lang="zh">33_失笑</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -82950,6 +82983,9 @@
 	<programme channel="newtv热播精选" start="20241214103900 +0800" stop="20241214113500 +0800">
 		<title lang="zh">35_锦绣安宁</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20241214113500 +0800" stop="20241214122500 +0800">
+		<title lang="zh">石药牌纳豆红曲地龙蛋白片-渠道（右）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -82982,6 +83018,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20241214105700 +0800" stop="20241214114200 +0800">
 		<title lang="zh">12_兰桐花开</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20241214114200 +0800" stop="20241214123000 +0800">
+		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -83196,6 +83235,12 @@
 	<programme channel="newtv军事评论" start="20241214111000 +0800" stop="20241214113200 +0800">
 		<title lang="zh">逐鹿 古战场往事 第三集 官渡之战（下）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241214113200 +0800" stop="20241214115400 +0800">
+		<title lang="zh">逐鹿 古战场往事 第四集 围魏救赵（上）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241214115400 +0800" stop="20241214121600 +0800">
+		<title lang="zh">逐鹿 古战场往事 第五集 围魏救赵（下）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -83252,6 +83297,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241214103800 +0800" stop="20241214120000 +0800">
 		<title lang="zh">第3期下：谁是卧底？出发团玩心理战</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241214120000 +0800" stop="20241214125100 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
