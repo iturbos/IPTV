@@ -22542,6 +22542,9 @@
 	<programme channel="动作电影" start="20241215173500 +0800" stop="20241215185500 +0800">
 		<title lang="zh">敌对边境</title>
 	</programme>
+	<programme channel="动作电影" start="20241215185500 +0800" stop="20241215192500 +0800">
+		<title lang="zh">《八段锦》推荐第十三期</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -43766,6 +43769,9 @@
 	</programme>
 	<programme channel="明星大片" start="20241215182200 +0800" stop="20241215185900 +0800">
 		<title lang="zh">毛雪汪</title>
+	</programme>
+	<programme channel="明星大片" start="20241215185900 +0800" stop="20241215194800 +0800">
+		<title lang="zh">KGTOUE体感语音操控大吸力烟机-渠道（右）</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -82203,6 +82209,9 @@
 	<programme channel="黑莓动画" start="20241215183600 +0800" stop="20241215185000 +0800">
 		<title lang="zh">21_咖宝车神第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241215185000 +0800" stop="20241215190400 +0800">
+		<title lang="zh">22_咖宝车神第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83925,6 +83934,9 @@
 	<programme channel="newtv动作电影" start="20241215173500 +0800" stop="20241215185500 +0800">
 		<title lang="zh">敌对边境</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20241215185500 +0800" stop="20241215192500 +0800">
+		<title lang="zh">《八段锦》推荐第十三期</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -84231,6 +84243,9 @@
 	<programme channel="newtv军事评论" start="20241215183700 +0800" stop="20241215185900 +0800">
 		<title lang="zh">想飞的少年 第3集 定选来了</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241215185900 +0800" stop="20241215192100 +0800">
+		<title lang="zh">想飞的少年 第4集 高考来了</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84384,6 +84399,9 @@
 	<programme channel="newtv精品综合" start="20241215182200 +0800" stop="20241215185900 +0800">
 		<title lang="zh">毛雪汪</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20241215185900 +0800" stop="20241215194800 +0800">
+		<title lang="zh">KGTOUE体感语音操控大吸力烟机-渠道（右）</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -84480,6 +84498,12 @@
 	<programme channel="newtv金牌综艺" start="20241215172700 +0800" stop="20241215185900 +0800">
 		<title lang="zh">令人心动的offer第5季</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20241215185900 +0800" stop="20241215194800 +0800">
+		<title lang="zh">KGTOUE体感语音操控大吸力烟机-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20241215172700 +0800" stop="20241215185900 +0800">
+		<title lang="zh">令人心动的offer第5季</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -84512,6 +84536,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20241215163200 +0800" stop="20241215185100 +0800">
 		<title lang="zh">2024武汉网球公开赛女单决赛：萨巴伦卡VS郑钦文</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20241215185100 +0800" stop="20241215202900 +0800">
+		<title lang="zh">【NBA赛场】23-24赛季总决赛G4：凯尔特人VS独行侠</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
