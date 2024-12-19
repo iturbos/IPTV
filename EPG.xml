@@ -61923,6 +61923,9 @@
 	<programme channel="爱情喜剧" start="20241219152700 +0800" stop="20241219161600 +0800">
 		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20241219161600 +0800" stop="20241219170100 +0800">
+		<title lang="zh">37_儿女情更长</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -83820,6 +83823,9 @@
 	<programme channel="newtv精品纪录" start="20241219152400 +0800" stop="20241219160500 +0800">
 		<title lang="zh">04_大地艺术</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241219160500 +0800" stop="20241219165400 +0800">
+		<title lang="zh">01_强掳</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -84120,6 +84126,9 @@
 	<programme channel="newtv爱情喜剧" start="20241219152700 +0800" stop="20241219161600 +0800">
 		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20241219161600 +0800" stop="20241219170100 +0800">
+		<title lang="zh">37_儿女情更长</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -84227,6 +84236,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241219152000 +0800" stop="20241219160900 +0800">
 		<title lang="zh">KGTOUE体感语音操控大吸力烟机-渠道（右）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241219160900 +0800" stop="20241219164200 +0800">
+		<title lang="zh">法官解案b7前男友的“圈套”</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
