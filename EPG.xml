@@ -41640,6 +41640,9 @@
 	<programme channel="惊悚悬疑" start="20241222212500 +0800" stop="20241222215500 +0800">
 		<title lang="zh">《美丽改变生活》第五期</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20241222215500 +0800" stop="20241222231800 +0800">
+		<title lang="zh">双生赤狐</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -69123,6 +69126,9 @@
 	<programme channel="纯享4K" start="20241222212900 +0800" stop="20241222215700 +0800">
 		<title lang="zh">好吃客4K 药食同源</title>
 	</programme>
+	<programme channel="纯享4K" start="20241222215700 +0800" stop="20241222223700 +0800">
+		<title lang="zh">探索b7发现4K 仰韶故事 第2集 彩陶之路</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -84165,6 +84171,9 @@
 	<programme channel="黑莓动画" start="20241222214600 +0800" stop="20241222215900 +0800">
 		<title lang="zh">21_托宝战士之银河侦探1</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241222215900 +0800" stop="20241222220400 +0800">
+		<title lang="zh">03_三皇五帝</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -84200,6 +84209,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20241222201900 +0800" stop="20241222215600 +0800">
 		<title lang="zh">站住！小偷</title>
+	</programme>
+	<programme channel="黑莓电影" start="20241222215600 +0800" stop="20241222232400 +0800">
+		<title lang="zh">市井英雄</title>
 	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
@@ -85536,6 +85548,9 @@
 	<programme channel="newtv精品纪录" start="20241222205800 +0800" stop="20241222215400 +0800">
 		<title lang="zh">粤流行 上</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241222215400 +0800" stop="20241222222400 +0800">
+		<title lang="zh">早安早餐 晨曦里的烟火中国（1）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -85625,6 +85640,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20241222211200 +0800" stop="20241222215400 +0800">
 		<title lang="zh">26_女医明妃传</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20241222215400 +0800" stop="20241222223700 +0800">
+		<title lang="zh">27_女医明妃传</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -85887,6 +85905,9 @@
 	<programme channel="newtv热播精选" start="20241222212400 +0800" stop="20241222215400 +0800">
 		<title lang="zh">【推广】十二生肖酒 30分钟版本</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20241222215400 +0800" stop="20241222222500 +0800">
+		<title lang="zh">01_南海归墟</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -86124,6 +86145,9 @@
 	<programme channel="newtv怡伴健康" start="20241222211100 +0800" stop="20241222214800 +0800">
 		<title lang="zh">第六场 四川K2vs北京源莱慧 第5局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241222214800 +0800" stop="20241222222600 +0800">
+		<title lang="zh">第六场 四川K2vs北京源莱慧 第6局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -86207,6 +86231,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20241222210100 +0800" stop="20241222214800 +0800">
 		<title lang="zh">01_好团圆</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241222214800 +0800" stop="20241222221800 +0800">
+		<title lang="zh">【推广】十二生肖酒 30分钟版本</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -86345,6 +86372,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241222212700 +0800" stop="20241222215200 +0800">
 		<title lang="zh">日本海上自卫队舰艇首次过航台海 菲要买美军中导系统？</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241222215200 +0800" stop="20241222221700 +0800">
+		<title lang="zh">以军对黎地面行动一触即发 俄罗斯修改核武器使用原则对美警告</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -86583,6 +86613,9 @@
 	<programme channel="newtv惊悚悬疑" start="20241222212500 +0800" stop="20241222215500 +0800">
 		<title lang="zh">《美丽改变生活》第五期</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20241222215500 +0800" stop="20241222231800 +0800">
+		<title lang="zh">双生赤狐</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -86633,6 +86666,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20241222192400 +0800" stop="20241222211200 +0800">
 		<title lang="zh">现在就出发</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20241222211200 +0800" stop="20241222220000 +0800">
+		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20241222220000 +0800" stop="20241222224700 +0800">
+		<title lang="zh">我的艺术清单</title>
 	</programme>
 	<programme channel="newtv金牌综艺" start="20241222211200 +0800" stop="20241222220000 +0800">
 		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
@@ -86795,6 +86834,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241222211700 +0800" stop="20241222214700 +0800">
 		<title lang="zh">【推广】十二生肖酒 30分钟版本</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241222214700 +0800" stop="20241222223200 +0800">
+		<title lang="zh">36_天龙八部</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
