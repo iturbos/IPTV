@@ -62628,6 +62628,9 @@
 	<programme channel="爱情喜剧" start="20241222124200 +0800" stop="20241222141200 +0800">
 		<title lang="zh">期限人生</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20241222141200 +0800" stop="20241222150000 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -84636,6 +84639,9 @@
 	<programme channel="newtv超级综艺" start="20241222125000 +0800" stop="20241222141500 +0800">
 		<title lang="zh">乐在旅途 第二季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241222141500 +0800" stop="20241222153200 +0800">
+		<title lang="zh">向幸福出发</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -84821,6 +84827,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241222131700 +0800" stop="20241222140200 +0800">
 		<title lang="zh">12_中国骑兵</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241222140200 +0800" stop="20241222144000 +0800">
+		<title lang="zh">Natures Gem益生菌冻干粉畅活30000亿升级装-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -85062,6 +85071,9 @@
 	<programme channel="newtv家庭剧场" start="20241222132300 +0800" stop="20241222140800 +0800">
 		<title lang="zh">06_猫冬</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20241222140800 +0800" stop="20241222145900 +0800">
+		<title lang="zh">07_猫冬</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -85110,6 +85122,9 @@
 	<programme channel="newtv热播精选" start="20241222133400 +0800" stop="20241222141200 +0800">
 		<title lang="zh">Natures Gem益生菌冻干粉畅活30000亿升级装-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20241222141200 +0800" stop="20241222145700 +0800">
+		<title lang="zh">33_风声</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -85157,6 +85172,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20241222124200 +0800" stop="20241222141200 +0800">
 		<title lang="zh">期限人生</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20241222141200 +0800" stop="20241222150000 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -85254,6 +85272,9 @@
 	<programme channel="newtv怡伴健康" start="20241222135600 +0800" stop="20241222140600 +0800">
 		<title lang="zh">小品《英雄母亲的一天》 表演者：赵丽蓉 侯耀文</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241222141500 +0800" stop="20241222142700 +0800">
+		<title lang="zh">小品《走过场》 表演：马丽 沈腾</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -85307,6 +85328,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20241222132800 +0800" stop="20241222141200 +0800">
 		<title lang="zh">30_舍不得星星</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241222141200 +0800" stop="20241222145000 +0800">
+		<title lang="zh">Natures Gem益生菌冻干粉畅活30000亿升级装-渠道（右）</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -85389,6 +85413,9 @@
 	<programme channel="newtv军事评论" start="20241222133900 +0800" stop="20241222140400 +0800">
 		<title lang="zh">台湾当归：为何不能放弃使用武力？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241222140400 +0800" stop="20241222143000 +0800">
+		<title lang="zh">台湾当归：谁来监督民进党？</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85448,6 +85475,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241222125100 +0800" stop="20241222140800 +0800">
 		<title lang="zh">办公室的快乐“小蜜蜂”遇上严谨认真的消防员 擦出爱情的火花（20240723）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241222140800 +0800" stop="20241222145700 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
