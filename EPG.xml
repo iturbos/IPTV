@@ -50433,6 +50433,9 @@
 	<programme channel="纯享4K" start="20241223152200 +0800" stop="20241223160200 +0800">
 		<title lang="zh">探索b7发现4K 仰韶故事 第5集 璀璨华章</title>
 	</programme>
+	<programme channel="纯享4K" start="20241223160200 +0800" stop="20241223163000 +0800">
+		<title lang="zh">记住乡愁4K第九季 岚山头——黄海之畔 向海而兴</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -59793,6 +59796,9 @@
 	<programme channel="黑莓动画" start="20241223152400 +0800" stop="20241223161000 +0800">
 		<title lang="zh">13_少女十五十六时</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241223161000 +0800" stop="20241223164000 +0800">
+		<title lang="zh">01_寻找雨来</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -60621,6 +60627,9 @@
 	<programme channel="newtv家庭剧场" start="20241223150800 +0800" stop="20241223160200 +0800">
 		<title lang="zh">美国RN原装进口鲨鱼神经酸-渠道（右）</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20241223160200 +0800" stop="20241223164700 +0800">
+		<title lang="zh">12_猫冬</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -60728,6 +60737,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20241223151600 +0800" stop="20241223160700 +0800">
 		<title lang="zh">13_恋恋红尘</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20241223160700 +0800" stop="20241223165100 +0800">
+		<title lang="zh">14_恋恋红尘</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -61008,6 +61020,9 @@
 	<programme channel="newtv军事评论" start="20241223154100 +0800" stop="20241223160600 +0800">
 		<title lang="zh">台媒警告蔡英文 别逼大陆忍无可忍</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241223160600 +0800" stop="20241223162800 +0800">
+		<title lang="zh">天路辉煌 守护归航</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -61082,6 +61097,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241223152300 +0800" stop="20241223160800 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241223160800 +0800" stop="20241223172700 +0800">
+		<title lang="zh">小伙相亲三句话不离羊肉汤</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -61355,6 +61373,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241223152700 +0800" stop="20241223161400 +0800">
 		<title lang="zh">14_楚留香新传</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241223161400 +0800" stop="20241223165600 +0800">
+		<title lang="zh">15_楚留香新传</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
