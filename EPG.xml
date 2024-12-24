@@ -93,6 +93,9 @@
 	<programme channel="4K综艺" start="20241224145100 +0800" stop="20241224161200 +0800">
 		<title lang="zh">亲爱的客栈第三季20200110</title>
 	</programme>
+	<programme channel="4K综艺" start="20241224161200 +0800" stop="20241224170600 +0800">
+		<title lang="zh">我最爱的女人们20190504</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -66705,6 +66708,9 @@
 	<programme channel="纯享4K" start="20241224154200 +0800" stop="20241224161000 +0800">
 		<title lang="zh">记住乡愁4K第九季 园艺——遍植黄杨满庭芳</title>
 	</programme>
+	<programme channel="纯享4K" start="20241224161000 +0800" stop="20241224163800 +0800">
+		<title lang="zh">记住乡愁4K第九季 威远——穹隆云雾开 果甜茶香来</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -81756,6 +81762,9 @@
 	<programme channel="黑莓动画" start="20241224152200 +0800" stop="20241224160900 +0800">
 		<title lang="zh">15_神秘的昭仁殿</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241224160900 +0800" stop="20241224163900 +0800">
+		<title lang="zh">04_稻谷里的家国情怀</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82665,6 +82674,9 @@
 	<programme channel="newtv超级综艺" start="20241224150000 +0800" stop="20241224161700 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241224161700 +0800" stop="20241224170700 +0800">
+		<title lang="zh">勇者之战</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -82874,6 +82886,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241224152600 +0800" stop="20241224161100 +0800">
 		<title lang="zh">22_中国骑兵</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241224161100 +0800" stop="20241224165900 +0800">
+		<title lang="zh">美国RN原装进口鲨鱼神经酸-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
