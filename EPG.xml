@@ -50118,6 +50118,9 @@
 	<programme channel="黑莓电影" start="20250101023000 +0800" stop="20250101040000 +0800">
 		<title lang="zh">I.Q.情缘</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250101040000 +0800" stop="20250101051800 +0800">
+		<title lang="zh">南海鲛人</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -50409,6 +50412,9 @@
 	<programme channel="newtv超级综艺" start="20250101031700 +0800" stop="20250101040100 +0800">
 		<title lang="zh">18_三十而已</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250101040100 +0800" stop="20250101054600 +0800">
+		<title lang="zh">开播吧！国潮</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50421,6 +50427,9 @@
 	<programme channel="newtv超级体育" start="20250101023500 +0800" stop="20250101040000 +0800">
 		<title lang="zh">实况录像-2024年世界田联钻石联赛 苏黎世站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250101040000 +0800" stop="20250101053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第4轮 托特纳姆-阿森纳</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -50432,6 +50441,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250101021900 +0800" stop="20250101034800 +0800">
 		<title lang="zh">大国手之秦淮风月</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250101034800 +0800" stop="20250101052900 +0800">
+		<title lang="zh">完美的晚餐</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -50471,6 +50483,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250101030500 +0800" stop="20250101034900 +0800">
 		<title lang="zh">28_北国英雄</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250101034900 +0800" stop="20250101043600 +0800">
+		<title lang="zh">19_特别行动</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -50550,6 +50565,9 @@
 	<programme channel="newtv家庭剧场" start="20250101031500 +0800" stop="20250101040000 +0800">
 		<title lang="zh">24_兰桐花开</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250101040000 +0800" stop="20250101045100 +0800">
+		<title lang="zh">25_兰桐花开</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -50625,6 +50643,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250101025800 +0800" stop="20250101034600 +0800">
 		<title lang="zh">56_好妻子</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250101034600 +0800" stop="20250101043700 +0800">
+		<title lang="zh">01_花谢花飞花满天</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -50651,6 +50672,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250101032900 +0800" stop="20250101035500 +0800">
 		<title lang="zh">军迷打卡第十五届中国航展 第一集</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250101035500 +0800" stop="20250101041700 +0800">
+		<title lang="zh">“伊斯坎德尔”导弹新战术观察</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -50708,6 +50732,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250101021200 +0800" stop="20250101035600 +0800">
 		<title lang="zh">艺览天下（2024）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250101035600 +0800" stop="20250101070600 +0800">
+		<title lang="zh">乐在旅途 第2季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -50768,6 +50795,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250101020000 +0800" stop="20250101035900 +0800">
 		<title lang="zh">长安伏妖</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250101035900 +0800" stop="20250101053300 +0800">
+		<title lang="zh">侠探锦毛鼠之血弥东京</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
