@@ -23565,6 +23565,9 @@
 	<programme channel="动作电影" start="20250101192800 +0800" stop="20250101210200 +0800">
 		<title lang="zh">天堂口</title>
 	</programme>
+	<programme channel="动作电影" start="20250101210200 +0800" stop="20250101213200 +0800">
+		<title lang="zh">《美丽改变生活》第五期</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -84531,6 +84534,9 @@
 	<programme channel="黑莓动画" start="20250101205300 +0800" stop="20250101210600 +0800">
 		<title lang="zh">14_托宝战士之银河侦探1</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250101210600 +0800" stop="20250101212000 +0800">
+		<title lang="zh">15_托宝战士之银河侦探1</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -85401,6 +85407,9 @@
 	<programme channel="newtv超级综艺" start="20250101193000 +0800" stop="20250101210800 +0800">
 		<title lang="zh">开门迎春晚</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250101210800 +0800" stop="20250101224700 +0800">
+		<title lang="zh">乐在旅途第二季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -85688,6 +85697,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250101204400 +0800" stop="20250101211400 +0800">
 		<title lang="zh">【红酒推荐】路易卡琳娜-老藤干红</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250101211400 +0800" stop="20250101220000 +0800">
+		<title lang="zh">25_好事成双</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -86043,6 +86055,9 @@
 	<programme channel="newtv家庭剧场" start="20250101204600 +0800" stop="20250101211600 +0800">
 		<title lang="zh">【红酒推荐】路易卡琳娜-老藤干红</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250101211600 +0800" stop="20250101220200 +0800">
+		<title lang="zh">31_大村官</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -86244,6 +86259,9 @@
 	<programme channel="newtv动作电影" start="20250101192800 +0800" stop="20250101210200 +0800">
 		<title lang="zh">天堂口</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250101210200 +0800" stop="20250101213200 +0800">
+		<title lang="zh">《美丽改变生活》第五期</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -86339,6 +86357,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250101203600 +0800" stop="20250101210600 +0800">
 		<title lang="zh">《美丽改变生活》第五期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250101210600 +0800" stop="20250101215000 +0800">
+		<title lang="zh">第三场 山西清徐学栋vs天津狼图腾 第5局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -86558,6 +86579,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250101204400 +0800" stop="20250101210600 +0800">
 		<title lang="zh">二战惊险行动b7解围科希马</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250101210600 +0800" stop="20250101212800 +0800">
+		<title lang="zh">二战惊险行动b7厄克特的突围</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -86837,6 +86861,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250101194700 +0800" stop="20250101210400 +0800">
 		<title lang="zh">现在就出发第2季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250101210400 +0800" stop="20250101215400 +0800">
+		<title lang="zh">绿森尚品熊胆粉-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
