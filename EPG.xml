@@ -39357,6 +39357,9 @@
 	<programme channel="纯享4K" start="20250107041700 +0800" stop="20250107045800 +0800">
 		<title lang="zh">远方的家4K 长江行（96） 多元文化 活力上海</title>
 	</programme>
+	<programme channel="纯享4K" start="20250107045800 +0800" stop="20250107054000 +0800">
+		<title lang="zh">远方的家4K 长江行 生态之城——上海</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -48318,6 +48321,9 @@
 	<programme channel="黑莓动画" start="20250107041000 +0800" stop="20250107045500 +0800">
 		<title lang="zh">13_马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250107045500 +0800" stop="20250107054400 +0800">
+		<title lang="zh">07_葬送的芙莉莲</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -48648,6 +48654,9 @@
 	<programme channel="newtv超级电影" start="20250107033100 +0800" stop="20250107045500 +0800">
 		<title lang="zh">大凉山传奇</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250107045500 +0800" stop="20250107062400 +0800">
+		<title lang="zh">生财有道</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -48672,6 +48681,9 @@
 	<programme channel="newtv超级电视剧" start="20250107043000 +0800" stop="20250107051600 +0800">
 		<title lang="zh">13_香山叶正红</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250107051600 +0800" stop="20250107060100 +0800">
+		<title lang="zh">14_香山叶正红</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -48692,6 +48704,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250107040400 +0800" stop="20250107044800 +0800">
 		<title lang="zh">17_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250107044800 +0800" stop="20250107053500 +0800">
+		<title lang="zh">18_那年花开月正圆</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -48719,6 +48734,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250107043000 +0800" stop="20250107050700 +0800">
 		<title lang="zh">共和国医者：孔祥涛 杨绚</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250107050700 +0800" stop="20250107054000 +0800">
+		<title lang="zh">共和国医者：于中麟 钱元福</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -48785,6 +48803,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250107040600 +0800" stop="20250107045600 +0800">
 		<title lang="zh">06_永夜星河</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250107045600 +0800" stop="20250107054800 +0800">
+		<title lang="zh">07_永夜星河</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -48921,6 +48942,9 @@
 	<programme channel="newtv军事评论" start="20250107044500 +0800" stop="20250107051100 +0800">
 		<title lang="zh">台当局计划成立“自主紧急应变队” 澳增投百亿扩建海军</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250107051100 +0800" stop="20250107053600 +0800">
+		<title lang="zh">俄军发起多路攻势继续推进 乌称不能“入约”就造核弹</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -48947,6 +48971,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250107044200 +0800" stop="20250107045500 +0800">
 		<title lang="zh">失恋阵线联盟-毕刚</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250107045500 +0800" stop="20250107051100 +0800">
+		<title lang="zh">笑纳-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250107051100 +0800" stop="20250107053700 +0800">
+		<title lang="zh">被辞退的孕妇（20240101）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -48989,6 +49019,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250107033700 +0800" stop="20250107045600 +0800">
 		<title lang="zh">跃上高阶职场</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250107045600 +0800" stop="20250107073100 +0800">
+		<title lang="zh">开门大吉（2024）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -49055,6 +49088,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250107043800 +0800" stop="20250107051500 +0800">
 		<title lang="zh">女子南拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250107051500 +0800" stop="20250107063500 +0800">
+		<title lang="zh">女子太极剑决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
