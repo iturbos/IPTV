@@ -30345,6 +30345,9 @@
 	<programme channel="咪咕综合体育" start="20250109112400 +0800" stop="20250109113500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250109113500 +0800" stop="20250109120000 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -84141,6 +84144,9 @@
 	<programme channel="newtv古装剧场" start="20250109105400 +0800" stop="20250109114000 +0800">
 		<title lang="zh">09_扶摇</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250109114000 +0800" stop="20250109122800 +0800">
+		<title lang="zh">(券)同仁堂即食海参参王特惠升级组-渠道（右）</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -84236,6 +84242,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250109104900 +0800" stop="20250109113600 +0800">
 		<title lang="zh">02_烟火人家</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250109113600 +0800" stop="20250109122200 +0800">
+		<title lang="zh">03_烟火人家</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -84528,6 +84537,9 @@
 	<programme channel="newtv军事评论" start="20250109104900 +0800" stop="20250109114300 +0800">
 		<title lang="zh">王琦：太阳永驻我心间</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250109114300 +0800" stop="20250109123700 +0800">
+		<title lang="zh">白雁：我与警犬的黄昏之约</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84578,6 +84590,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250109101800 +0800" stop="20250109113500 +0800">
 		<title lang="zh">理工男自学编曲剪辑 为老婆的音乐梦想保驾护航（20250106）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250109113500 +0800" stop="20250109122500 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -84782,6 +84797,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250109104700 +0800" stop="20250109113400 +0800">
 		<title lang="zh">Vigray墨脱石多功能养生锅-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250109113400 +0800" stop="20250109122000 +0800">
+		<title lang="zh">27_大秦帝国之纵横</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
