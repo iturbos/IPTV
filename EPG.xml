@@ -21291,6 +21291,9 @@
 	<programme channel="动作电影" start="20250114200300 +0800" stop="20250114211500 +0800">
 		<title lang="zh">第五次死刑</title>
 	</programme>
+	<programme channel="动作电影" start="20250114211500 +0800" stop="20250114214500 +0800">
+		<title lang="zh">《美丽改变生活》第七期</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -40037,6 +40040,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250114194200 +0800" stop="20250114210800 +0800">
 		<title lang="zh">猫妖奇谭</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250114210800 +0800" stop="20250114213800 +0800">
+		<title lang="zh">《美丽改变生活》第七期</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -66309,6 +66315,9 @@
 	<programme channel="纯享4K" start="20250114205800 +0800" stop="20250114210400 +0800">
 		<title lang="zh">美丽中国自然4K 云南德宏系列 夜间王国</title>
 	</programme>
+	<programme channel="纯享4K" start="20250114210400 +0800" stop="20250114215300 +0800">
+		<title lang="zh">大运河之歌4K 第3集 运河中心时代</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -80547,6 +80556,9 @@
 	<programme channel="黑莓动画" start="20250114205600 +0800" stop="20250114210900 +0800">
 		<title lang="zh">26_托宝战士之银河侦探1</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250114211600 +0800" stop="20250114212300 +0800">
+		<title lang="zh">11_风起绿林</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82032,6 +82044,9 @@
 	<programme channel="newtv军旅剧场" start="20250114202300 +0800" stop="20250114210700 +0800">
 		<title lang="zh">33_铁血玫瑰</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250114210700 +0800" stop="20250114215200 +0800">
+		<title lang="zh">34_铁血玫瑰</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -82115,6 +82130,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250114203300 +0800" stop="20250114210300 +0800">
 		<title lang="zh">《花样人生》推荐第十七期</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250114210300 +0800" stop="20250114214600 +0800">
+		<title lang="zh">12_故乡，别来无恙</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -82329,6 +82347,9 @@
 	<programme channel="newtv动作电影" start="20250114200300 +0800" stop="20250114211500 +0800">
 		<title lang="zh">第五次死刑</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250114211500 +0800" stop="20250114214500 +0800">
+		<title lang="zh">《美丽改变生活》第七期</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -82428,6 +82449,9 @@
 	<programme channel="newtv怡伴健康" start="20250114204400 +0800" stop="20250114211400 +0800">
 		<title lang="zh">《美丽改变生活》第七期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250114211400 +0800" stop="20250114215800 +0800">
+		<title lang="zh">辽宁智慧斗vs北京东炸团 第4局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -82505,6 +82529,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250114201300 +0800" stop="20250114210100 +0800">
 		<title lang="zh">15_流水迢迢</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250114210100 +0800" stop="20250114214900 +0800">
+		<title lang="zh">16_流水迢迢</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -82740,6 +82767,9 @@
 	<programme channel="newtv炫舞未来" start="20250114194800 +0800" stop="20250114210300 +0800">
 		<title lang="zh">新疆姐妹带众人品美食看美景 双胞胎“貌合神离”互相揭短（20240807）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250114210300 +0800" stop="20250114215300 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -82871,6 +82901,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250114194200 +0800" stop="20250114210800 +0800">
 		<title lang="zh">猫妖奇谭</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250114210800 +0800" stop="20250114213800 +0800">
+		<title lang="zh">《美丽改变生活》第七期</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
