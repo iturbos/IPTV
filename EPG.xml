@@ -40032,6 +40032,9 @@
 	<programme channel="惊悚悬疑" start="20250115144700 +0800" stop="20250115161200 +0800">
 		<title lang="zh">破毒</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250115161200 +0800" stop="20250115165000 +0800">
+		<title lang="zh">KZ纯钛乌檀木双面菜板组合-渠道（右）</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -43295,6 +43298,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250115151800 +0800" stop="20250115160900 +0800">
 		<title lang="zh">美康利健半导体激光治疗仪-渠道（右）</title>
+	</programme>
+	<programme channel="明星大片" start="20250115160900 +0800" stop="20250115170000 +0800">
+		<title lang="zh">22_好事成双</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -65667,6 +65673,9 @@
 	<programme channel="纯享4K" start="20250115152300 +0800" stop="20250115160800 +0800">
 		<title lang="zh">传承b7智慧篇4K 第2集 时光之鉴</title>
 	</programme>
+	<programme channel="纯享4K" start="20250115160800 +0800" stop="20250115163600 +0800">
+		<title lang="zh">记住乡愁4K第十季 橘乡少年扬帆归来</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -80775,6 +80784,9 @@
 	<programme channel="newtv超级电视剧" start="20250115152800 +0800" stop="20250115161400 +0800">
 		<title lang="zh">10_九义人</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250115161400 +0800" stop="20250115165500 +0800">
+		<title lang="zh">12_我是刑警</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -80981,6 +80993,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250115152900 +0800" stop="20250115161100 +0800">
 		<title lang="zh">24_春闺梦里人</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250115161100 +0800" stop="20250115165400 +0800">
+		<title lang="zh">25_春闺梦里人</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -81330,6 +81345,9 @@
 	<programme channel="newtv怡伴健康" start="20250115154000 +0800" stop="20250115160700 +0800">
 		<title lang="zh">“顶包”的妻子</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250115160700 +0800" stop="20250115165500 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -81389,6 +81407,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250115151600 +0800" stop="20250115160400 +0800">
 		<title lang="zh">36_隋唐英雄5之薛刚反唐</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250115160400 +0800" stop="20250115165000 +0800">
+		<title lang="zh">37_隋唐英雄5之薛刚反唐</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -81630,6 +81651,9 @@
 	<programme channel="newtv精品综合" start="20250115151800 +0800" stop="20250115160900 +0800">
 		<title lang="zh">美康利健半导体激光治疗仪-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250115160900 +0800" stop="20250115170000 +0800">
+		<title lang="zh">22_好事成双</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -81668,6 +81692,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250115144700 +0800" stop="20250115161200 +0800">
 		<title lang="zh">破毒</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250115161200 +0800" stop="20250115165000 +0800">
+		<title lang="zh">KZ纯钛乌檀木双面菜板组合-渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
