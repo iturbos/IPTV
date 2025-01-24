@@ -84936,6 +84936,9 @@
 	<programme channel="newtv金牌综艺" start="20250124161300 +0800" stop="20250124165100 +0800">
 		<title lang="zh">coolests健康纯钛金色碗套组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250124165100 +0800" stop="20250124182300 +0800">
+		<title lang="zh">德云斗笑社 第2季</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
