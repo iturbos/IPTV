@@ -68067,6 +68067,9 @@
 	<programme channel="纯享4K" start="20250125222800 +0800" stop="20250125225700 +0800">
 		<title lang="zh">旅游指南4K 好吃客b7福鼎</title>
 	</programme>
+	<programme channel="纯享4K" start="20250125225700 +0800" stop="20250125232700 +0800">
+		<title lang="zh">旅游指南4K 好吃客b7武夷山</title>
+	</programme>
 	<channel id="绍兴新闻综合">
 		<display-name lang="zh">绍兴新闻综合</display-name>
 	</channel>
@@ -82722,6 +82725,9 @@
 	<programme channel="黑莓电影" start="20250125203500 +0800" stop="20250125225100 +0800">
 		<title lang="zh">江湖儿女</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250125225100 +0800" stop="20250125012600 +0800">
+		<title lang="zh">沙丘</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -83637,6 +83643,9 @@
 	<programme channel="newtv超级综艺" start="20250125215500 +0800" stop="20250125225400 +0800">
 		<title lang="zh">艺览天下</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250125225400 +0800" stop="20250125233900 +0800">
+		<title lang="zh">05_欢乐颂4</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -83693,6 +83702,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250125215500 +0800" stop="20250125225500 +0800">
 		<title lang="zh">实况录像-2024/2025赛季速度滑冰世界杯 加拿大站(录播)1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250125225500 +0800" stop="20250125011000 +0800">
+		<title lang="zh">2024/2025英格兰足球超级联赛-第23轮(利物浦-伊普斯威奇)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -84057,6 +84069,9 @@
 	<programme channel="newtv精品纪录" start="20250125221700 +0800" stop="20250125225500 +0800">
 		<title lang="zh">coolests健康纯钛金色碗套组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250125225500 +0800" stop="20250125233800 +0800">
+		<title lang="zh">第一集 开启司改征程</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -84252,6 +84267,9 @@
 	<programme channel="newtv军旅剧场" start="20250125220800 +0800" stop="20250125225300 +0800">
 		<title lang="zh">31_警犬来啦</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250125225300 +0800" stop="20250125233700 +0800">
+		<title lang="zh">32_警犬来啦</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -84434,6 +84452,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250125220700 +0800" stop="20250125225300 +0800">
 		<title lang="zh">05_好事成双</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250125225300 +0800" stop="20250125234900 +0800">
+		<title lang="zh">势均力敌的我们</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -85295,6 +85316,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250125211800 +0800" stop="20250125230100 +0800">
 		<title lang="zh">NBA常规赛11月2日：掘金VS森林狼</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250125230100 +0800" stop="20250125003600 +0800">
+		<title lang="zh">NBA常规赛11月3日：雷霆VS快船</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
