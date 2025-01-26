@@ -63261,6 +63261,9 @@
 	<programme channel="爱情喜剧" start="20250126221000 +0800" stop="20250126225800 +0800">
 		<title lang="zh">Bertrand无涂层不粘钛炒锅-渠道（右）</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250126225800 +0800" stop="20250126004700 +0800">
+		<title lang="zh">沉默的15分钟 中文版</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -84114,6 +84117,9 @@
 	<programme channel="黑莓动画" start="20250126224000 +0800" stop="20250126224700 +0800">
 		<title lang="zh">46_美梦之萌</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250126230000 +0800" stop="20250126231300 +0800">
+		<title lang="zh">44_踢踢和奇奇之魔力课堂 第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -84155,6 +84161,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250126211600 +0800" stop="20250126225800 +0800">
 		<title lang="zh">足球少年</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250126225800 +0800" stop="20250126010500 +0800">
+		<title lang="zh">终结者：黑暗命运</title>
 	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
@@ -85062,6 +85071,9 @@
 	<programme channel="newtv超级综艺" start="20250126215100 +0800" stop="20250126225000 +0800">
 		<title lang="zh">艺览天下</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250126225000 +0800" stop="20250126233500 +0800">
+		<title lang="zh">09_欢乐颂4</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -85256,6 +85268,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250126221800 +0800" stop="20250126230400 +0800">
 		<title lang="zh">14_九重紫</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250126230400 +0800" stop="20250126234900 +0800">
+		<title lang="zh">15_九重紫</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -85671,6 +85686,9 @@
 	<programme channel="newtv军旅剧场" start="20250126221200 +0800" stop="20250126225600 +0800">
 		<title lang="zh">34_警犬来啦</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250126225600 +0800" stop="20250126234000 +0800">
+		<title lang="zh">35_警犬来啦</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -85854,6 +85872,9 @@
 	<programme channel="newtv热播精选" start="20250126220900 +0800" stop="20250126225500 +0800">
 		<title lang="zh">09_好事成双</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250126225500 +0800" stop="20250126235200 +0800">
+		<title lang="zh">势均力敌的我们</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -85934,6 +85955,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250126221000 +0800" stop="20250126225800 +0800">
 		<title lang="zh">Bertrand无涂层不粘钛炒锅-渠道（右）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250126225800 +0800" stop="20250126004700 +0800">
+		<title lang="zh">沉默的15分钟 中文版</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -86103,6 +86127,9 @@
 	<programme channel="newtv怡伴健康" start="20250126222400 +0800" stop="20250126225600 +0800">
 		<title lang="zh">【推广】十二生肖酒 30分钟版本</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250126225600 +0800" stop="20250126233700 +0800">
+		<title lang="zh">乡约：乡约四川简阳市</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -86198,6 +86225,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250126215300 +0800" stop="20250126225500 +0800">
 		<title lang="zh">新人入住扰乱感情线</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250126225500 +0800" stop="20250126235400 +0800">
+		<title lang="zh">小屋夜聊，暧昧涌动</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -86477,6 +86507,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250126224400 +0800" stop="20250126225800 +0800">
 		<title lang="zh">张灯结彩-饶子龙</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250126225800 +0800" stop="20250126001500 +0800">
+		<title lang="zh">酷飒御姐遇上黏人弟弟 健身搭档 同台飙戏（20240716）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
