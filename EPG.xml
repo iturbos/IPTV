@@ -73269,6 +73269,9 @@
 	<programme channel="超级电影" start="20250126120000 +0800" stop="20250126131400 +0800">
 		<title lang="zh">电影《歪打正着》</title>
 	</programme>
+	<programme channel="超级电影" start="20250126131400 +0800" stop="20250126141500 +0800">
+		<title lang="zh">电影《特种兵王》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -84533,6 +84536,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250126120000 +0800" stop="20250126131400 +0800">
 		<title lang="zh">电影《歪打正着》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250126131400 +0800" stop="20250126141500 +0800">
+		<title lang="zh">电影《特种兵王》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
