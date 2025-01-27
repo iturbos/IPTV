@@ -46035,6 +46035,9 @@
 	<programme channel="newtv超级电影" start="20250128042200 +0800" stop="20250128051000 +0800">
 		<title lang="zh">守岛人(下)</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250128051000 +0800" stop="20250128071700 +0800">
+		<title lang="zh">八角笼中</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -46082,6 +46085,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250128041600 +0800" stop="20250128050400 +0800">
 		<title lang="zh">13_非常有喜</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250128050400 +0800" stop="20250128055300 +0800">
+		<title lang="zh">14_非常有喜</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -46155,6 +46161,9 @@
 	<programme channel="newtv军旅剧场" start="20250128042200 +0800" stop="20250128050300 +0800">
 		<title lang="zh">21_双刺</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250128050300 +0800" stop="20250128054300 +0800">
+		<title lang="zh">22_双刺</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -46175,6 +46184,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250128042100 +0800" stop="20250128050200 +0800">
 		<title lang="zh">20_完美伴侣</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250128050200 +0800" stop="20250128054000 +0800">
+		<title lang="zh">21_完美伴侣</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -46323,6 +46335,9 @@
 	<programme channel="newtv军事评论" start="20250128045400 +0800" stop="20250128051500 +0800">
 		<title lang="zh">居心叵测的美军“三重火力环”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250128051500 +0800" stop="20250128053600 +0800">
+		<title lang="zh">故障频发的美F-35战机</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -46364,6 +46379,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250128042500 +0800" stop="20250128051100 +0800">
 		<title lang="zh">20_使徒行者3</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250128051100 +0800" stop="20250128055600 +0800">
+		<title lang="zh">21_使徒行者3</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
