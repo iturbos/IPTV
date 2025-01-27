@@ -29304,6 +29304,9 @@
 	<programme channel="咪咕综合体育" start="20250127135000 +0800" stop="20250127140000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250127140000 +0800" stop="20250127154000 +0800">
+		<title lang="zh">足球世界-24/25赛季西甲 第20轮 皇家马德里-拉斯帕尔马斯</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -71358,6 +71361,9 @@
 	<programme channel="超级电影" start="20250127124300 +0800" stop="20250127140900 +0800">
 		<title lang="zh">电影《传话的人》</title>
 	</programme>
+	<programme channel="超级电影" start="20250127140900 +0800" stop="20250127153000 +0800">
+		<title lang="zh">电影《奇花记》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -81078,6 +81084,9 @@
 	<programme channel="黑莓动画" start="20250127135700 +0800" stop="20250127140400 +0800">
 		<title lang="zh">40_奶龙第3季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250127141400 +0800" stop="20250127145300 +0800">
+		<title lang="zh">小牙打开惊喜百宝箱秘密，获得钥匙解救公主</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -81104,6 +81113,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250127123500 +0800" stop="20250127141000 +0800">
 		<title lang="zh">机械师</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250127141000 +0800" stop="20250127161400 +0800">
+		<title lang="zh">碟中谍2</title>
 	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
@@ -81960,6 +81972,9 @@
 	<programme channel="newtv超级电影" start="20250127124300 +0800" stop="20250127140900 +0800">
 		<title lang="zh">电影《传话的人》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250127140900 +0800" stop="20250127153000 +0800">
+		<title lang="zh">电影《奇花记》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -82163,6 +82178,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250127133300 +0800" stop="20250127140700 +0800">
 		<title lang="zh">10_我的抗战：潜伏</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250127140700 +0800" stop="20250127143600 +0800">
+		<title lang="zh">敖东辅酶Q10软胶囊-渠道（右）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -82551,6 +82569,9 @@
 	<programme channel="newtv怡伴健康" start="20250127135200 +0800" stop="20250127140600 +0800">
 		<title lang="zh">小品《一定找到你》 表演：刘涛 郭冬临</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250127140600 +0800" stop="20250127141700 +0800">
+		<title lang="zh">小品《父亲》 表演：郭达 蔡明</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -82704,6 +82725,9 @@
 	<programme channel="newtv军事评论" start="20250127134400 +0800" stop="20250127140900 +0800">
 		<title lang="zh">“台独”翻不了天：勾连日本必遭反噬</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250127140900 +0800" stop="20250127143500 +0800">
+		<title lang="zh">“台独”翻不了天：台军不想打不敢打</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -82781,6 +82805,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250127124800 +0800" stop="20250127141300 +0800">
 		<title lang="zh">纪敏佳助阵！张梦羽圆梦《星光大道》总决赛（20250125）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250127141300 +0800" stop="20250127150200 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -82914,6 +82941,9 @@
 	<programme channel="newtv金牌综艺" start="20250127131500 +0800" stop="20250127140300 +0800">
 		<title lang="zh">Bertrand无涂层不粘钛炒锅-渠道（右）</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250127140300 +0800" stop="20250127161000 +0800">
+		<title lang="zh">德云斗笑社 第2季</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -83027,6 +83057,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250127132700 +0800" stop="20250127141500 +0800">
 		<title lang="zh">Bertrand无涂层不粘钛炒锅-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250127141500 +0800" stop="20250127145900 +0800">
+		<title lang="zh">11_九流霸主</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
