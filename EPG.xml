@@ -30333,6 +30333,9 @@
 	<programme channel="咪咕综合体育" start="20250201134000 +0800" stop="20250201140500 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250201140500 +0800" stop="20250201154500 +0800">
+		<title lang="zh">足球世界-24/25赛季意大利超级杯半决赛 尤文图斯-AC米兰</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -83292,6 +83295,9 @@
 	<programme channel="黑莓动画" start="20250201135400 +0800" stop="20250201140600 +0800">
 		<title lang="zh">34_植物精灵大战僵尸怪</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250201140600 +0800" stop="20250201143600 +0800">
+		<title lang="zh">大牙变身神探帮助巫女寻找裙子——大牙儿童剧</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -84159,6 +84165,9 @@
 	<programme channel="newtv热播精选" start="20250201132400 +0800" stop="20250201141300 +0800">
 		<title lang="zh">AKG39900西兰花种子水提物固体饮料-春节版-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250201141300 +0800" stop="20250201145800 +0800">
+		<title lang="zh">16_绝密使命</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -84308,6 +84317,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250201135900 +0800" stop="20250201141400 +0800">
 		<title lang="zh">小品《人到礼到》 表演：郭冬临 牛莉</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250201141400 +0800" stop="20250201143200 +0800">
+		<title lang="zh">小品《今天的幸福2》 表演：沈腾 马丽</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -84464,6 +84476,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250201134000 +0800" stop="20250201140700 +0800">
 		<title lang="zh">绝地反击 长空博弈</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250201140700 +0800" stop="20250201143400 +0800">
+		<title lang="zh">中国防务 闪耀沙特</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
