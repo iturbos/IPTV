@@ -18441,6 +18441,9 @@
 	<programme channel="咪咕综合体育" start="20250208054500 +0800" stop="20250208060000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250208060000 +0800" stop="20250208062500 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -49455,6 +49458,9 @@
 	<programme channel="newtv超级体育" start="20250208053000 +0800" stop="20250208060000 +0800">
 		<title lang="zh">实况录像-2024年世界泳联短池游泳锦标赛 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250208060000 +0800" stop="20250208063000 +0800">
+		<title lang="zh">赛事集锦(奥林匹克)-2024年中国杯世界花样滑冰大奖赛 表演滑</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -49841,6 +49847,12 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20250208000600 +0800" stop="20250208024400 +0800">
 		<title lang="zh">星光大道（2024）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250208024400 +0800" stop="20250208054800 +0800">
+		<title lang="zh">乐在旅途 第2季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250208054800 +0800" stop="20250208073700 +0800">
+		<title lang="zh">黄金100秒（2023）</title>
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250208024400 +0800" stop="20250208054800 +0800">
 		<title lang="zh">乐在旅途 第2季</title>
