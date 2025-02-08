@@ -21753,6 +21753,9 @@
 	<programme channel="动作电影" start="20250208194100 +0800" stop="20250208210300 +0800">
 		<title lang="zh">黑狱</title>
 	</programme>
+	<programme channel="动作电影" start="20250208210300 +0800" stop="20250208213300 +0800">
+		<title lang="zh">【推广】十二生肖酒 30分钟版本</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -82197,6 +82200,9 @@
 	<programme channel="黑莓动画" start="20250208205300 +0800" stop="20250208210700 +0800">
 		<title lang="zh">21_托宝战士之银河侦探1</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250208211400 +0800" stop="20250208212100 +0800">
+		<title lang="zh">11_如果历史是一群喵第7季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82968,6 +82974,9 @@
 	<programme channel="newtv精品纪录" start="20250208203300 +0800" stop="20250208211100 +0800">
 		<title lang="zh">家乡至味2022（35）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250208211100 +0800" stop="20250208214900 +0800">
+		<title lang="zh">家乡至味2022（36）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -83307,6 +83316,9 @@
 	<programme channel="newtv热播精选" start="20250208202500 +0800" stop="20250208211300 +0800">
 		<title lang="zh">24_爱的二八定律</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250208211300 +0800" stop="20250208214300 +0800">
+		<title lang="zh">【推广】十二生肖酒 30分钟版本</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -83429,6 +83441,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250208194100 +0800" stop="20250208210300 +0800">
 		<title lang="zh">黑狱</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250208210300 +0800" stop="20250208213300 +0800">
+		<title lang="zh">【推广】十二生肖酒 30分钟版本</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -83621,6 +83636,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250208203000 +0800" stop="20250208211500 +0800">
 		<title lang="zh">23_婚内婚外</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250208211500 +0800" stop="20250208220100 +0800">
+		<title lang="zh">24_婚内婚外</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -83892,6 +83910,9 @@
 	<programme channel="newtv炫舞未来" start="20250208210000 +0800" stop="20250208211100 +0800">
 		<title lang="zh">小品《机器人趣话》 表演者：蔡明 郭达</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250208211100 +0800" stop="20250208220000 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -84128,6 +84149,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250208192900 +0800" stop="20250208211200 +0800">
 		<title lang="zh">NBA常规赛11月10日：猛龙VS快船</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250208211200 +0800" stop="20250208225500 +0800">
+		<title lang="zh">NBA常规赛11月2日：掘金VS森林狼</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
