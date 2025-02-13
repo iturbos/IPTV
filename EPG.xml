@@ -23571,6 +23571,9 @@
 	<programme channel="动作电影" start="20250213111800 +0800" stop="20250213120600 +0800">
 		<title lang="zh">BEYONPAN钛健康养生壶特惠款-渠道（右）</title>
 	</programme>
+	<programme channel="动作电影" start="20250213120600 +0800" stop="20250213134000 +0800">
+		<title lang="zh">举起手来2：追击阿多丸号</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -73218,6 +73221,9 @@
 	<programme channel="超级电影" start="20250213115300 +0800" stop="20250213115900 +0800">
 		<title lang="zh">音乐电影欣赏</title>
 	</programme>
+	<programme channel="超级电影" start="20250213115900 +0800" stop="20250213140000 +0800">
+		<title lang="zh">第八个嫌疑人</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -83829,6 +83835,9 @@
 	<programme channel="newtv超级体育" start="20250213110000 +0800" stop="20250213120000 +0800">
 		<title lang="zh">哈尔滨2025年亚冬会-赛事转播报道6-1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250213120000 +0800" stop="20250213130000 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -83858,6 +83867,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250213115300 +0800" stop="20250213115900 +0800">
 		<title lang="zh">音乐电影欣赏</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250213115900 +0800" stop="20250213140000 +0800">
+		<title lang="zh">第八个嫌疑人</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -83909,6 +83921,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250213111900 +0800" stop="20250213120400 +0800">
 		<title lang="zh">06_无间</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250213120400 +0800" stop="20250213125000 +0800">
+		<title lang="zh">07_无间</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -84123,6 +84138,9 @@
 	<programme channel="newtv军旅剧场" start="20250213112900 +0800" stop="20250213121400 +0800">
 		<title lang="zh">13_隐形将军</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250213121400 +0800" stop="20250213130200 +0800">
+		<title lang="zh">BEYONPAN钛健康养生壶特惠款-渠道（右）</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -84219,6 +84237,9 @@
 	<programme channel="newtv热播精选" start="20250213112700 +0800" stop="20250213120500 +0800">
 		<title lang="zh">百年鑫堂双阳鹿筋舒骨粉滋补组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250213120500 +0800" stop="20250213131000 +0800">
+		<title lang="zh">头牌特工</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -84288,6 +84309,9 @@
 	<programme channel="newtv动作电影" start="20250213111800 +0800" stop="20250213120600 +0800">
 		<title lang="zh">BEYONPAN钛健康养生壶特惠款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250213120600 +0800" stop="20250213134000 +0800">
+		<title lang="zh">举起手来2：追击阿多丸号</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -84335,6 +84359,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250213112300 +0800" stop="20250213120600 +0800">
 		<title lang="zh">09_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250213120600 +0800" stop="20250213125400 +0800">
+		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -84386,6 +84413,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250213113400 +0800" stop="20250213120800 +0800">
 		<title lang="zh">大柿子家常小馆刚开张就遇爆单危机</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250213120800 +0800" stop="20250213125800 +0800">
+		<title lang="zh">27_锦心似玉</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -84525,6 +84555,9 @@
 	<programme channel="newtv炫舞未来" start="20250213111600 +0800" stop="20250213120500 +0800">
 		<title lang="zh">01_绝活</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250213120500 +0800" stop="20250213125400 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -84632,6 +84665,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250213112000 +0800" stop="20250213120300 +0800">
 		<title lang="zh">山王果有机小分子轻酵刺梨液-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250213120300 +0800" stop="20250213144300 +0800">
+		<title lang="zh">脱口秀大会第3季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
