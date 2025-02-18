@@ -45588,6 +45588,9 @@
 	<programme channel="明星大片" start="20250218154100 +0800" stop="20250218160300 +0800">
 		<title lang="zh">04_马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="明星大片" start="20250218160300 +0800" stop="20250218164900 +0800">
+		<title lang="zh">13_向往的生活</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -82983,6 +82986,9 @@
 	<programme channel="黑莓动画" start="20250218154300 +0800" stop="20250218161400 +0800">
 		<title lang="zh">03_逃跑的机器人</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250218161400 +0800" stop="20250218162600 +0800">
+		<title lang="zh">09_食物变变变</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -84255,6 +84261,9 @@
 	<programme channel="newtv军旅剧场" start="20250218152800 +0800" stop="20250218161200 +0800">
 		<title lang="zh">04_大漠苍狼</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250218161200 +0800" stop="20250218165900 +0800">
+		<title lang="zh">15_上海滩生死较量</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -84383,6 +84392,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250218152600 +0800" stop="20250218161300 +0800">
 		<title lang="zh">12_扫黑风暴</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250218161300 +0800" stop="20250218170100 +0800">
+		<title lang="zh">BEYONPAN钛健康养生壶特惠款-渠道（右）</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -84560,6 +84572,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250218152300 +0800" stop="20250218161100 +0800">
 		<title lang="zh">BEYONPAN钛健康养生壶特惠款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250218161100 +0800" stop="20250218164900 +0800">
+		<title lang="zh">警惕夜间危险（下）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -84810,6 +84825,9 @@
 	<programme channel="newtv炫舞未来" start="20250218153800 +0800" stop="20250218160600 +0800">
 		<title lang="zh">迟来的诊断书（下）（20241119）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250218160600 +0800" stop="20250218165700 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -84872,6 +84890,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250218154100 +0800" stop="20250218160300 +0800">
 		<title lang="zh">04_马达加斯加企鹅第二季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250218160300 +0800" stop="20250218164900 +0800">
+		<title lang="zh">13_向往的生活</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
