@@ -30246,6 +30246,9 @@
 	<programme channel="咪咕综合体育" start="20250218102000 +0800" stop="20250218120000 +0800">
 		<title lang="zh">足球世界-24/25赛季英超 第24轮 诺丁汉森林-布莱顿</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250218120500 +0800" stop="20250218123700 +0800">
+		<title lang="zh">国球荣耀-2025WTT新加坡大满贯 混双决赛 林诗栋/蒯曼-松岛辉空/张本美和</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -72819,6 +72822,9 @@
 	<programme channel="超级电影" start="20250218100600 +0800" stop="20250218120500 +0800">
 		<title lang="zh">千钧一发</title>
 	</programme>
+	<programme channel="超级电影" start="20250218120500 +0800" stop="20250218132200 +0800">
+		<title lang="zh">电影《记忆迷宫》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -82833,6 +82839,9 @@
 	<programme channel="黑莓动画" start="20250218114900 +0800" stop="20250218121500 +0800">
 		<title lang="zh">01_超级飞侠第15季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250218121500 +0800" stop="20250218125000 +0800">
+		<title lang="zh">26_嗨道奇第2季中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83664,6 +83673,9 @@
 	<programme channel="newtv超级综艺" start="20250218105700 +0800" stop="20250218121400 +0800">
 		<title lang="zh">向幸福出发</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250218121400 +0800" stop="20250218130400 +0800">
+		<title lang="zh">勇者之战</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -83697,6 +83709,9 @@
 	<programme channel="newtv超级体育" start="20250218103200 +0800" stop="20250218120000 +0800">
 		<title lang="zh">2024/2025德国足球甲级联赛-第22轮(斯图加特-沃尔夫斯堡)(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250218120000 +0800" stop="20250218130500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -83720,6 +83735,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250218100600 +0800" stop="20250218120500 +0800">
 		<title lang="zh">千钧一发</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250218120500 +0800" stop="20250218132200 +0800">
+		<title lang="zh">电影《记忆迷宫》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -83825,6 +83843,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250218111500 +0800" stop="20250218121000 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250218121000 +0800" stop="20250218125600 +0800">
+		<title lang="zh">02_锦绣未央</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -84026,6 +84047,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250218113700 +0800" stop="20250218121400 +0800">
 		<title lang="zh">03_兰闺喜事</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250218121400 +0800" stop="20250218125100 +0800">
+		<title lang="zh">04_兰闺喜事</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -84254,6 +84278,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250218113100 +0800" stop="20250218120400 +0800">
 		<title lang="zh">岳云鹏偷吃客人鸡翅被发现</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250218120400 +0800" stop="20250218125000 +0800">
+		<title lang="zh">07_女人的抗战</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
