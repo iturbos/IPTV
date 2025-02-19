@@ -66801,6 +66801,9 @@
 	<programme channel="纯享4K" start="20250219122600 +0800" stop="20250219130700 +0800">
 		<title lang="zh">远方的家4K 长江行 生态之城——上海</title>
 	</programme>
+	<programme channel="纯享4K" start="20250219131200 +0800" stop="20250219131800 +0800">
+		<title lang="zh">美丽中国自然4K 大兴安岭系列 不速之客</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -82119,6 +82122,9 @@
 	<programme channel="newtv精品大剧" start="20250219122400 +0800" stop="20250219130900 +0800">
 		<title lang="zh">07_锦绣未央</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250219130900 +0800" stop="20250219135300 +0800">
+		<title lang="zh">08_锦绣未央</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -82230,6 +82236,9 @@
 	<programme channel="newtv古装剧场" start="20250219121300 +0800" stop="20250219130400 +0800">
 		<title lang="zh">生命记忆褐藻浓缩复合片特惠组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250219130400 +0800" stop="20250219135100 +0800">
+		<title lang="zh">06_梦华录</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -82280,6 +82289,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250219121100 +0800" stop="20250219130200 +0800">
 		<title lang="zh">水溶植物ω-3纯亚麻籽油微囊粉特惠组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250219130200 +0800" stop="20250219134400 +0800">
+		<title lang="zh">05_大漠苍狼</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -82334,6 +82346,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250219122600 +0800" stop="20250219130900 +0800">
 		<title lang="zh">08_兰闺喜事</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250219130900 +0800" stop="20250219135800 +0800">
+		<title lang="zh">BEYONPAN多功能钛养生壶加赠组-渠道（右）</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -82518,6 +82533,9 @@
 	<programme channel="newtv怡伴健康" start="20250219121500 +0800" stop="20250219130200 +0800">
 		<title lang="zh">22_故乡，别来无恙</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250219131300 +0800" stop="20250219132300 +0800">
+		<title lang="zh">【相声】《有话好好说》表演：金霏、陈曦</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -82571,6 +82589,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250219122800 +0800" stop="20250219131400 +0800">
 		<title lang="zh">12_女人的抗战</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250219131400 +0800" stop="20250219135900 +0800">
+		<title lang="zh">13_女人的抗战</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -82646,6 +82667,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250219125100 +0800" stop="20250219131300 +0800">
 		<title lang="zh">国防少年行 追梦酒泉</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250219131300 +0800" stop="20250219133500 +0800">
+		<title lang="zh">航展科技 走进生活</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
