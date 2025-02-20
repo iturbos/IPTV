@@ -72816,6 +72816,9 @@
 	<programme channel="超级电影" start="20250220103700 +0800" stop="20250220121900 +0800">
 		<title lang="zh">女帅男兵</title>
 	</programme>
+	<programme channel="超级电影" start="20250220121900 +0800" stop="20250220122500 +0800">
+		<title lang="zh">音乐电影欣赏</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -82896,6 +82899,9 @@
 	<programme channel="黑莓动画" start="20250220114000 +0800" stop="20250220120300 +0800">
 		<title lang="zh">百变布鲁可第4季第1集</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250220120300 +0800" stop="20250220122900 +0800">
+		<title lang="zh">06_超级飞侠第15季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83853,6 +83859,9 @@
 	<programme channel="newtv超级综艺" start="20250220113000 +0800" stop="20250220122000 +0800">
 		<title lang="zh">勇者之战</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250220122000 +0800" stop="20250220131000 +0800">
+		<title lang="zh">绽放吧！妈妈</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -83919,6 +83928,9 @@
 	<programme channel="newtv超级电影" start="20250220103700 +0800" stop="20250220121900 +0800">
 		<title lang="zh">女帅男兵</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250220121900 +0800" stop="20250220122500 +0800">
+		<title lang="zh">音乐电影欣赏</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -83969,6 +83981,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250220112300 +0800" stop="20250220120900 +0800">
 		<title lang="zh">33_无间</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250220120900 +0800" stop="20250220125400 +0800">
+		<title lang="zh">34_无间</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -84078,6 +84093,9 @@
 	<programme channel="newtv精品纪录" start="20250220112100 +0800" stop="20250220120200 +0800">
 		<title lang="zh">川味（三）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250220120200 +0800" stop="20250220124200 +0800">
+		<title lang="zh">探秘南越王墓（一）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -84125,6 +84143,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250220111900 +0800" stop="20250220120600 +0800">
 		<title lang="zh">09_梦华录</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250220120600 +0800" stop="20250220125700 +0800">
+		<title lang="zh">生命记忆褐藻浓缩复合片特惠组-渠道（右）</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -84441,6 +84462,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250220113500 +0800" stop="20250220121500 +0800">
 		<title lang="zh">孙越封孙怡为“美丽的店长”</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250220121500 +0800" stop="20250220130000 +0800">
+		<title lang="zh">16_女人的抗战</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -84515,6 +84539,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250220114100 +0800" stop="20250220120300 +0800">
 		<title lang="zh">营地炊烟（9）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250220120300 +0800" stop="20250220122500 +0800">
+		<title lang="zh">彩色镜头下的二战（2）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
