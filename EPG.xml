@@ -82179,6 +82179,9 @@
 	<programme channel="黑莓动画" start="20250221153800 +0800" stop="20250221160500 +0800">
 		<title lang="zh">11_甜心格格5</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250221160500 +0800" stop="20250221163000 +0800">
+		<title lang="zh">16_模范</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83655,6 +83658,9 @@
 	<programme channel="newtv家庭剧场" start="20250221151500 +0800" stop="20250221160300 +0800">
 		<title lang="zh">BEYONPAN钛健康养生壶特惠款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250221160300 +0800" stop="20250221165000 +0800">
+		<title lang="zh">14_山花烂漫时</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -83880,6 +83886,9 @@
 	<programme channel="newtv怡伴健康" start="20250221154800 +0800" stop="20250221161500 +0800">
 		<title lang="zh">年关说案 外甥理发成被告</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250221161500 +0800" stop="20250221165500 +0800">
+		<title lang="zh">淋巴那些事儿</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -83942,6 +83951,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250221152100 +0800" stop="20250221160600 +0800">
 		<title lang="zh">23_女人的抗战</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250221160600 +0800" stop="20250221165000 +0800">
+		<title lang="zh">现在就告白第5季</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -84053,6 +84065,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250221155300 +0800" stop="20250221161500 +0800">
 		<title lang="zh">全景一战b7苦战（上）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250221161500 +0800" stop="20250221163700 +0800">
+		<title lang="zh">伊朗将接收俄制战机</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -84278,6 +84293,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250221152000 +0800" stop="20250221160800 +0800">
 		<title lang="zh">BEYONPAN钛健康养生壶特惠款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250221160800 +0800" stop="20250221174300 +0800">
+		<title lang="zh">典籍里的中国第2季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
