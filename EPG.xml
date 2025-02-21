@@ -61572,6 +61572,9 @@
 	<programme channel="爱情喜剧" start="20250221113000 +0800" stop="20250221120900 +0800">
 		<title lang="zh">中国邮政金蛇献瑞生肖邮票大全套-渠道（右）</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250221120900 +0800" stop="20250221125600 +0800">
+		<title lang="zh">05_长歌行</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -82047,6 +82050,9 @@
 	<programme channel="黑莓动画" start="20250221113900 +0800" stop="20250221120200 +0800">
 		<title lang="zh">百变布鲁可第4季第3集</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250221120200 +0800" stop="20250221122800 +0800">
+		<title lang="zh">08_超级飞侠第15季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82070,6 +82076,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250221103600 +0800" stop="20250221120800 +0800">
 		<title lang="zh">命之途</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250221120800 +0800" stop="20250221134800 +0800">
+		<title lang="zh">第十四个目标</title>
 	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
@@ -83118,6 +83127,9 @@
 	<programme channel="newtv超级电视剧" start="20250221112500 +0800" stop="20250221121000 +0800">
 		<title lang="zh">37_无间</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250221121000 +0800" stop="20250221125600 +0800">
+		<title lang="zh">38_无间</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -83231,6 +83243,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250221113400 +0800" stop="20250221121300 +0800">
 		<title lang="zh">探秘南越王墓（三）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250221121300 +0800" stop="20250221125100 +0800">
+		<title lang="zh">探秘南越王墓（四）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -83385,6 +83400,9 @@
 	<programme channel="newtv家庭剧场" start="20250221112700 +0800" stop="20250221120900 +0800">
 		<title lang="zh">14_兰闺喜事</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250221120900 +0800" stop="20250221125600 +0800">
+		<title lang="zh">15_兰闺喜事</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -83472,6 +83490,9 @@
 	<programme channel="newtv爱情喜剧" start="20250221113000 +0800" stop="20250221120900 +0800">
 		<title lang="zh">中国邮政金蛇献瑞生肖邮票大全套-渠道（右）</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250221120900 +0800" stop="20250221125600 +0800">
+		<title lang="zh">05_长歌行</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -83550,6 +83571,9 @@
 	<programme channel="newtv怡伴健康" start="20250221113600 +0800" stop="20250221121500 +0800">
 		<title lang="zh">舒展筋骨APANRUI保健精油-渠道（右）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250221121500 +0800" stop="20250221124300 +0800">
+		<title lang="zh">特别策划“边境一线报告” 暴风雪中的救援</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -83597,6 +83621,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250221113600 +0800" stop="20250221121500 +0800">
 		<title lang="zh">颜面尽失！全员偷吃剩饭被客人发现</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250221121500 +0800" stop="20250221130000 +0800">
+		<title lang="zh">20_女人的抗战</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -83676,6 +83703,9 @@
 	<programme channel="newtv军事评论" start="20250221115100 +0800" stop="20250221121300 +0800">
 		<title lang="zh">山河守望 雪域忠诚</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250221121300 +0800" stop="20250221123500 +0800">
+		<title lang="zh">全景一战b7开战（上）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -83735,6 +83765,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250221113700 +0800" stop="20250221120300 +0800">
 		<title lang="zh">岁月全知道——三对父母一个儿</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250221120300 +0800" stop="20250221122900 +0800">
+		<title lang="zh">家事全知道——父母再婚应该听子女的吗？</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
