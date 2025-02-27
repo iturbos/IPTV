@@ -70815,6 +70815,9 @@
 	<programme channel="超级电影" start="20250227150900 +0800" stop="20250227161900 +0800">
 		<title lang="zh">电影《凤归梧桐》</title>
 	</programme>
+	<programme channel="超级电影" start="20250227161900 +0800" stop="20250227173500 +0800">
+		<title lang="zh">电影《六扇门之嫣州八艳》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -80850,6 +80853,9 @@
 	<programme channel="黑莓动画" start="20250227153300 +0800" stop="20250227160200 +0800">
 		<title lang="zh">10_笨蛋波波与小宝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250227160900 +0800" stop="20250227163300 +0800">
+		<title lang="zh">小志模仿马叫 技惊四座 小鱼抽到心奇爆龙战车X</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -80882,6 +80888,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250227144100 +0800" stop="20250227161600 +0800">
 		<title lang="zh">打过长江去</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250227161600 +0800" stop="20250227182000 +0800">
+		<title lang="zh">大约在冬季</title>
 	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
@@ -81915,6 +81924,9 @@
 	<programme channel="newtv超级电影" start="20250227150900 +0800" stop="20250227161900 +0800">
 		<title lang="zh">电影《凤归梧桐》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250227161900 +0800" stop="20250227173500 +0800">
+		<title lang="zh">电影《六扇门之嫣州八艳》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -82052,6 +82064,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250227152500 +0800" stop="20250227161200 +0800">
 		<title lang="zh">45_锦绣未央</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250227161200 +0800" stop="20250227165700 +0800">
+		<title lang="zh">德国海德堡肾动力特殊膳食-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -82740,6 +82755,9 @@
 	<programme channel="newtv军事评论" start="20250227155300 +0800" stop="20250227161500 +0800">
 		<title lang="zh">二战惊险行动b7厄克特的突围</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250227161500 +0800" stop="20250227163700 +0800">
+		<title lang="zh">福建舰全力加速向深蓝</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -82814,6 +82832,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250227155900 +0800" stop="20250227161200 +0800">
 		<title lang="zh">Mojito-孙爱迪（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250227161200 +0800" stop="20250227170100 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -83072,6 +83093,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250227151700 +0800" stop="20250227160100 +0800">
 		<title lang="zh">11_新白蛇传</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250227160100 +0800" stop="20250227164300 +0800">
+		<title lang="zh">12_新白蛇传</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
