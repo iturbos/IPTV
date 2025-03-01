@@ -81108,6 +81108,9 @@
 	<programme channel="黑莓电影" start="20250301141500 +0800" stop="20250301160500 +0800">
 		<title lang="zh">异次元的狙击手</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250301160500 +0800" stop="20250301180000 +0800">
+		<title lang="zh">爱情公寓</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -82341,6 +82344,9 @@
 	<programme channel="newtv精品纪录" start="20250301152300 +0800" stop="20250301160900 +0800">
 		<title lang="zh">03_责实之律</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250301160900 +0800" stop="20250301165600 +0800">
+		<title lang="zh">04_修身之德</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82541,6 +82547,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250301151900 +0800" stop="20250301160500 +0800">
 		<title lang="zh">19_皎洁的月亮</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250301160500 +0800" stop="20250301165400 +0800">
+		<title lang="zh">20_皎洁的月亮</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -83019,6 +83028,9 @@
 	<programme channel="newtv炫舞未来" start="20250301153400 +0800" stop="20250301161400 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250301161400 +0800" stop="20250301173100 +0800">
+		<title lang="zh">真人版的“大家来找茬” 六组双胞胎上阵猜歌（20240617）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -83288,6 +83300,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250301152500 +0800" stop="20250301161000 +0800">
 		<title lang="zh">03_新边城浪子</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250301161000 +0800" stop="20250301165700 +0800">
+		<title lang="zh">04_新边城浪子</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
