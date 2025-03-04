@@ -38940,6 +38940,9 @@
 	<programme channel="惊悚悬疑" start="20250304150600 +0800" stop="20250304160200 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250304160200 +0800" stop="20250304174700 +0800">
+		<title lang="zh">荒野逃生</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -80550,6 +80553,9 @@
 	<programme channel="黑莓动画" start="20250304153700 +0800" stop="20250304160500 +0800">
 		<title lang="zh">33_甜心格格5</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250304160500 +0800" stop="20250304163000 +0800">
+		<title lang="zh">06_老马识途</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -80582,6 +80588,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250304144300 +0800" stop="20250304161100 +0800">
 		<title lang="zh">嗨！神兽</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250304161100 +0800" stop="20250304175800 +0800">
+		<title lang="zh">乡土</title>
 	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
@@ -81831,6 +81840,9 @@
 	<programme channel="newtv精品纪录" start="20250304152400 +0800" stop="20250304160500 +0800">
 		<title lang="zh">02_巨石结构</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250304160500 +0800" stop="20250304165200 +0800">
+		<title lang="zh">03_巨幅地画</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -81897,6 +81909,9 @@
 	<programme channel="newtv古装剧场" start="20250304153000 +0800" stop="20250304161500 +0800">
 		<title lang="zh">03_九重紫</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250304161500 +0800" stop="20250304170100 +0800">
+		<title lang="zh">04_九重紫</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -81959,6 +81974,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250304152400 +0800" stop="20250304161200 +0800">
 		<title lang="zh">32_昙花梦</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250304161200 +0800" stop="20250304165700 +0800">
+		<title lang="zh">05_冲出月亮岛</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -82260,6 +82278,9 @@
 	<programme channel="newtv怡伴健康" start="20250304152300 +0800" stop="20250304161500 +0800">
 		<title lang="zh">神飞航天研究院骨胶原蛋白肽-渠道（右）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250304161500 +0800" stop="20250304164200 +0800">
+		<title lang="zh">吵架气死人</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -82325,6 +82346,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250304152800 +0800" stop="20250304161200 +0800">
 		<title lang="zh">07_春色寄情人</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250304161200 +0800" stop="20250304171200 +0800">
+		<title lang="zh">我的美丽需要用心呵护</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -82596,6 +82620,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250304150600 +0800" stop="20250304160200 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250304160200 +0800" stop="20250304174700 +0800">
+		<title lang="zh">荒野逃生</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -82766,6 +82793,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250304153000 +0800" stop="20250304161500 +0800">
 		<title lang="zh">17_新边城浪子</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250304161500 +0800" stop="20250304170200 +0800">
+		<title lang="zh">18_新边城浪子</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
