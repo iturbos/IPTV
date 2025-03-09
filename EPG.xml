@@ -41784,6 +41784,9 @@
 	<programme channel="明星大片" start="20250309192700 +0800" stop="20250309201300 +0800">
 		<title lang="zh">闪耀的恒星</title>
 	</programme>
+	<programme channel="明星大片" start="20250309201300 +0800" stop="20250309210100 +0800">
+		<title lang="zh">YOHOKA钛健康双胆多用饭煲新-渠道（右）</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -78972,6 +78975,9 @@
 	<programme channel="黑莓动画" start="20250309194400 +0800" stop="20250309200800 +0800">
 		<title lang="zh">18_德凯奥特曼 普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250309200800 +0800" stop="20250309203300 +0800">
+		<title lang="zh">19_德凯奥特曼 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -80145,6 +80151,9 @@
 	<programme channel="newtv超级电视剧" start="20250309193700 +0800" stop="20250309202200 +0800">
 		<title lang="zh">28_驻站</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250309202200 +0800" stop="20250309210800 +0800">
+		<title lang="zh">29_驻站</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -81203,6 +81212,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250309192700 +0800" stop="20250309201300 +0800">
 		<title lang="zh">闪耀的恒星</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250309201300 +0800" stop="20250309210100 +0800">
+		<title lang="zh">YOHOKA钛健康双胆多用饭煲新-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
