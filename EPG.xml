@@ -27159,6 +27159,12 @@
 	<programme channel="咪咕足球" start="20250309125000 +0800" stop="20250309143000 +0800">
 		<title lang="zh">我爱女篮-24/25WCBA常规赛第28轮 河南豫光金铅-黑龙江上东</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250309143000 +0800" stop="20250309144500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250309144500 +0800" stop="20250309162500 +0800">
+		<title lang="zh">篮球：为爱而生04 五味杂陈的胜利</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -41540,6 +41546,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250309134800 +0800" stop="20250309143800 +0800">
 		<title lang="zh">康企半导体激光治疗仪买一送一特惠组（赠送益生菌敖东）-渠道（右）</title>
+	</programme>
+	<programme channel="明星大片" start="20250309143800 +0800" stop="20250309152400 +0800">
+		<title lang="zh">39_女士的法则</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -58025,6 +58034,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20250309134800 +0800" stop="20250309143300 +0800">
 		<title lang="zh">34_幸福的错觉</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20250309143300 +0800" stop="20250309152100 +0800">
+		<title lang="zh">自然之臻黑番茄原浆10盒装尊享组新-渠道（右）</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -79506,6 +79518,9 @@
 	<programme channel="newtv超级体育" start="20250309132500 +0800" stop="20250309143000 +0800">
 		<title lang="zh">2025年世界职业拳王争霸赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250309143000 +0800" stop="20250309153000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季自由式滑雪世界杯 哈萨克斯坦阿拉木图站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -79605,6 +79620,9 @@
 	<programme channel="newtv超级电视剧" start="20250309134900 +0800" stop="20250309143100 +0800">
 		<title lang="zh">29_最美的青春</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250309143100 +0800" stop="20250309151700 +0800">
+		<title lang="zh">16_春色寄情人</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -79661,6 +79679,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250309140300 +0800" stop="20250309144200 +0800">
 		<title lang="zh">轻姿细美保健贴-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250309144200 +0800" stop="20250309152600 +0800">
+		<title lang="zh">30_北国英雄</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -79989,6 +80010,9 @@
 	<programme channel="newtv爱情喜剧" start="20250309134800 +0800" stop="20250309143300 +0800">
 		<title lang="zh">34_幸福的错觉</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250309143300 +0800" stop="20250309152100 +0800">
+		<title lang="zh">自然之臻黑番茄原浆10盒装尊享组新-渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -80075,6 +80099,12 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250309133000 +0800" stop="20250309142500 +0800">
 		<title lang="zh">22_血脉</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250309142500 +0800" stop="20250309143900 +0800">
+		<title lang="zh">小品《一句话的事儿》 表演：郭冬临 牛莉</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250309143900 +0800" stop="20250309145200 +0800">
+		<title lang="zh">小品《一定找到你》 表演：刘涛 郭冬临</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -80205,6 +80235,9 @@
 	<programme channel="newtv军事评论" start="20250309140600 +0800" stop="20250309142800 +0800">
 		<title lang="zh">二战沙场b7诺曼底（中）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250309142800 +0800" stop="20250309145000 +0800">
+		<title lang="zh">二战沙场b7诺曼底（下）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -80318,6 +80351,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250309134800 +0800" stop="20250309143800 +0800">
 		<title lang="zh">康企半导体激光治疗仪买一送一特惠组（赠送益生菌敖东）-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250309143800 +0800" stop="20250309152400 +0800">
+		<title lang="zh">39_女士的法则</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -80501,6 +80537,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250309133900 +0800" stop="20250309142700 +0800">
 		<title lang="zh">（券）头号海即食海参超值品质组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250309142700 +0800" stop="20250309151200 +0800">
+		<title lang="zh">36_新边城浪子</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
