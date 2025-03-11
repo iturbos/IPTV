@@ -38904,6 +38904,9 @@
 	<programme channel="惊悚悬疑" start="20250311145900 +0800" stop="20250311160300 +0800">
 		<title lang="zh">头牌特工</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250311160300 +0800" stop="20250311165100 +0800">
+		<title lang="zh">（券）头号海即食海参超值品质组-渠道（右）</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -42008,6 +42011,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250311151400 +0800" stop="20250311160200 +0800">
 		<title lang="zh">（券）头号海即食海参超值品质组-渠道（右）</title>
+	</programme>
+	<programme channel="明星大片" start="20250311160200 +0800" stop="20250311164600 +0800">
+		<title lang="zh">07_婚内婚外</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -58959,6 +58965,9 @@
 	<programme channel="爱情喜剧" start="20250311151800 +0800" stop="20250311160800 +0800">
 		<title lang="zh">02_火红年华</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250311160800 +0800" stop="20250311165000 +0800">
+		<title lang="zh">03_火红年华</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -69336,6 +69345,9 @@
 	<programme channel="超级电影" start="20250311150200 +0800" stop="20250311161400 +0800">
 		<title lang="zh">电影《石榴熟了之一拍到底》</title>
 	</programme>
+	<programme channel="超级电影" start="20250311161400 +0800" stop="20250311174500 +0800">
+		<title lang="zh">电影《血战残阳》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -79539,6 +79551,9 @@
 	<programme channel="黑莓动画" start="20250311155800 +0800" stop="20250311160800 +0800">
 		<title lang="zh">07_抉择</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250311160800 +0800" stop="20250311163900 +0800">
+		<title lang="zh">23_温室预警</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -80601,6 +80616,9 @@
 	<programme channel="newtv超级电影" start="20250311150200 +0800" stop="20250311161400 +0800">
 		<title lang="zh">电影《石榴熟了之一拍到底》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250311161400 +0800" stop="20250311174500 +0800">
+		<title lang="zh">电影《血战残阳》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -80669,6 +80687,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250311152300 +0800" stop="20250311161100 +0800">
 		<title lang="zh">04_大奉打更人</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250311161100 +0800" stop="20250311165900 +0800">
+		<title lang="zh">05_大奉打更人</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -80805,6 +80826,9 @@
 	<programme channel="newtv精品纪录" start="20250311152500 +0800" stop="20250311160700 +0800">
 		<title lang="zh">第3集：为民</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250311160700 +0800" stop="20250311165900 +0800">
+		<title lang="zh">第1集：冬春篇</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -80927,6 +80951,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250311151700 +0800" stop="20250311161000 +0800">
 		<title lang="zh">14_烽火英雄传</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250311161000 +0800" stop="20250311170300 +0800">
+		<title lang="zh">33_冲出月亮岛</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -81099,6 +81126,9 @@
 	<programme channel="newtv爱情喜剧" start="20250311151800 +0800" stop="20250311160800 +0800">
 		<title lang="zh">02_火红年华</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250311160800 +0800" stop="20250311165000 +0800">
+		<title lang="zh">03_火红年华</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -81216,6 +81246,9 @@
 	<programme channel="newtv怡伴健康" start="20250311155100 +0800" stop="20250311160300 +0800">
 		<title lang="zh">小品《其实你不懂我的心》 表演：王宁 艾伦</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250311160900 +0800" stop="20250311163100 +0800">
+		<title lang="zh">小品《到底怎么了》 表演：曹随风 刘安宇 蒋帅等</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -81278,6 +81311,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250311153000 +0800" stop="20250311161300 +0800">
 		<title lang="zh">14_只是结婚的关系</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250311161300 +0800" stop="20250311171300 +0800">
+		<title lang="zh">我对婚姻有要求没有错</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -81365,6 +81401,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250311154400 +0800" stop="20250311160600 +0800">
 		<title lang="zh">会战的胜机（下）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250311160600 +0800" stop="20250311162800 +0800">
+		<title lang="zh">美军导弹部署再升级</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -81501,6 +81540,9 @@
 	<programme channel="newtv精品综合" start="20250311151400 +0800" stop="20250311160200 +0800">
 		<title lang="zh">（券）头号海即食海参超值品质组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250311160200 +0800" stop="20250311164600 +0800">
+		<title lang="zh">07_婚内婚外</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -81539,6 +81581,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250311145900 +0800" stop="20250311160300 +0800">
 		<title lang="zh">头牌特工</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250311160300 +0800" stop="20250311165100 +0800">
+		<title lang="zh">（券）头号海即食海参超值品质组-渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -81698,6 +81743,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250311151500 +0800" stop="20250311160800 +0800">
 		<title lang="zh">45_新边城浪子</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250311160800 +0800" stop="20250311165300 +0800">
+		<title lang="zh">46_新边城浪子</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
