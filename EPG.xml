@@ -27063,6 +27063,9 @@
 	<programme channel="咪咕足球" start="20250312093000 +0800" stop="20250312111000 +0800">
 		<title lang="zh">当燃CBA-24/25常规赛第36轮 江苏肯帝亚-深圳马可波罗</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250312111000 +0800" stop="20250312112000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -63726,6 +63729,9 @@
 	<programme channel="纯享4K" start="20250312104500 +0800" stop="20250312111500 +0800">
 		<title lang="zh">寻古中国4K 寻夏记b7夏都何在</title>
 	</programme>
+	<programme channel="纯享4K" start="20250312111500 +0800" stop="20250312113000 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 油画b7冬景中的滑冰者</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -79710,6 +79716,9 @@
 	<programme channel="newtv精品大剧" start="20250312103100 +0800" stop="20250312111400 +0800">
 		<title lang="zh">54_红高粱</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250312111400 +0800" stop="20250312121000 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -80046,6 +80055,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250312105600 +0800" stop="20250312111600 +0800">
 		<title lang="zh">农家班蟹黄汤包推广4001087099</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250312111600 +0800" stop="20250312120600 +0800">
+		<title lang="zh">风味人间 第2季</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -80168,6 +80180,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250312102700 +0800" stop="20250312111500 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250312111500 +0800" stop="20250312123200 +0800">
+		<title lang="zh">做艺先做人 井闪闪感念师恩（20240727）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
