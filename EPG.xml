@@ -66564,6 +66564,9 @@
 	<programme channel="纯享4K" start="20250313223700 +0800" stop="20250313230500 +0800">
 		<title lang="zh">好吃客4K 大同</title>
 	</programme>
+	<programme channel="纯享4K" start="20250313230500 +0800" stop="20250313233400 +0800">
+		<title lang="zh">好吃客4K 潮州</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -82515,6 +82518,9 @@
 	<programme channel="newtv超级电视剧" start="20250313223500 +0800" stop="20250313232400 +0800">
 		<title lang="zh">10_星汉灿烂</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250313232400 +0800" stop="20250313001100 +0800">
+		<title lang="zh">11_星汉灿烂</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -82598,6 +82604,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250313215800 +0800" stop="20250313230400 +0800">
 		<title lang="zh">28_我姥爷1945之绝命枪</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250313230400 +0800" stop="20250313234900 +0800">
+		<title lang="zh">29_我姥爷1945之绝命枪</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -82953,6 +82962,9 @@
 	<programme channel="newtv家庭剧场" start="20250313222600 +0800" stop="20250313231300 +0800">
 		<title lang="zh">07_故乡，别来无恙</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250313231300 +0800" stop="20250313235800 +0800">
+		<title lang="zh">13_大都市小爱情</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -83036,6 +83048,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250313224200 +0800" stop="20250313230200 +0800">
 		<title lang="zh">德森朗活氢钛杯推广4001087099</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250313230200 +0800" stop="20250313001400 +0800">
+		<title lang="zh">半熟恋人第3季</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -83495,6 +83510,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250313224500 +0800" stop="20250313231100 +0800">
 		<title lang="zh">铁翼重锤 轰炸机</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250313231100 +0800" stop="20250313233800 +0800">
+		<title lang="zh">深蓝神盾</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
