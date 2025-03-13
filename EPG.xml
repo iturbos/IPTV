@@ -66285,6 +66285,9 @@
 	<programme channel="纯享4K" start="20250313153500 +0800" stop="20250313161500 +0800">
 		<title lang="zh">探索b7发现4K 李约瑟和中国古代科技 第1集 到中国去</title>
 	</programme>
+	<programme channel="纯享4K" start="20250313161500 +0800" stop="20250313164300 +0800">
+		<title lang="zh">记住乡愁 第八季4K 俄尔则俄村——深山彝寨 点亮心灯</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -81582,6 +81585,9 @@
 	<programme channel="黑莓动画" start="20250313153500 +0800" stop="20250313160900 +0800">
 		<title lang="zh">大牙变成惊喜娃娃住进豪华收纳舱</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250313160900 +0800" stop="20250313163900 +0800">
+		<title lang="zh">30_笨蛋波波与小宝</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -81975,6 +81981,9 @@
 	<programme channel="newtv超级体育" start="20250313142800 +0800" stop="20250313160000 +0800">
 		<title lang="zh">实况录像-2025年亚洲羽毛球混合团体锦标赛 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250313160000 +0800" stop="20250313180000 +0800">
+		<title lang="zh">运动一起赢</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -82193,6 +82202,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250313155700 +0800" stop="20250313160200 +0800">
 		<title lang="zh">白玉方糕：松软糯香甜 纯手工制作百年未变</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250313160200 +0800" stop="20250313162500 +0800">
+		<title lang="zh">第9集：巾帼英雄</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -82572,6 +82584,9 @@
 	<programme channel="newtv怡伴健康" start="20250313152400 +0800" stop="20250313160600 +0800">
 		<title lang="zh">小品《吃面》 宋小宝 程野</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250313160600 +0800" stop="20250313163300 +0800">
+		<title lang="zh">逃罪企图</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -82631,6 +82646,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250313151400 +0800" stop="20250313161500 +0800">
 		<title lang="zh">23_只是结婚的关系</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250313161500 +0800" stop="20250313165900 +0800">
+		<title lang="zh">24_只是结婚的关系</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -82718,6 +82736,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250313154300 +0800" stop="20250313160500 +0800">
 		<title lang="zh">全景一战b7战线（下）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250313160500 +0800" stop="20250313162700 +0800">
+		<title lang="zh">全景一战b7战火（上）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -82949,6 +82970,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250313155100 +0800" stop="20250313161100 +0800">
 		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250313161100 +0800" stop="20250313175700 +0800">
+		<title lang="zh">德云斗笑社 第2季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
