@@ -20145,6 +20145,9 @@
 	<programme channel="动作电影" start="20250314142800 +0800" stop="20250314161400 +0800">
 		<title lang="zh">火线追凶2之乱世残局</title>
 	</programme>
+	<programme channel="动作电影" start="20250314161400 +0800" stop="20250314170300 +0800">
+		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -79008,6 +79011,9 @@
 	<programme channel="黑莓动画" start="20250314154200 +0800" stop="20250314160800 +0800">
 		<title lang="zh">10_超级飞侠第15季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250314160800 +0800" stop="20250314164300 +0800">
+		<title lang="zh">44_嗨道奇第2季中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -80151,6 +80157,9 @@
 	<programme channel="newtv超级电视剧" start="20250314153200 +0800" stop="20250314161900 +0800">
 		<title lang="zh">17_大奉打更人</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250314161900 +0800" stop="20250314170600 +0800">
+		<title lang="zh">18_大奉打更人</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -80207,6 +80216,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250314153500 +0800" stop="20250314160600 +0800">
 		<title lang="zh">02_鹊刀门传奇2</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250314160600 +0800" stop="20250314165300 +0800">
+		<title lang="zh">BEYONPAN钛健康养生壶新-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -80592,6 +80604,9 @@
 	<programme channel="newtv动作电影" start="20250314142800 +0800" stop="20250314161400 +0800">
 		<title lang="zh">火线追凶2之乱世残局</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250314161400 +0800" stop="20250314170300 +0800">
+		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -80717,6 +80732,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250314150400 +0800" stop="20250314161000 +0800">
 		<title lang="zh">04_好事成双</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250314161000 +0800" stop="20250314165600 +0800">
+		<title lang="zh">05_好事成双</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -80870,6 +80888,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250314153600 +0800" stop="20250314160300 +0800">
 		<title lang="zh">曝光踩红线（20230618）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250314160300 +0800" stop="20250314163000 +0800">
+		<title lang="zh">丈夫恋上女主播（20230620）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
