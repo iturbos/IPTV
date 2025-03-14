@@ -38637,6 +38637,9 @@
 	<programme channel="惊悚悬疑" start="20250314115800 +0800" stop="20250314120800 +0800">
 		<title lang="zh">红烧牛肉罐头推广4001087099</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250314120800 +0800" stop="20250314135500 +0800">
+		<title lang="zh">兴安岭猎人传说2轮回森林</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -79806,6 +79809,9 @@
 	<programme channel="newtv古装剧场" start="20250314115500 +0800" stop="20250314121500 +0800">
 		<title lang="zh">农家班蟹黄酱推广4001087099</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250314121500 +0800" stop="20250314132000 +0800">
+		<title lang="zh">21_三生三世枕上书</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -79889,6 +79895,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250314111000 +0800" stop="20250314121400 +0800">
 		<title lang="zh">21_长大</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250314121400 +0800" stop="20250314125800 +0800">
+		<title lang="zh">22_长大</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -80265,6 +80274,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250314115800 +0800" stop="20250314120800 +0800">
 		<title lang="zh">红烧牛肉罐头推广4001087099</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250314120800 +0800" stop="20250314135500 +0800">
+		<title lang="zh">兴安岭猎人传说2轮回森林</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -80396,6 +80408,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250314113400 +0800" stop="20250314121400 +0800">
 		<title lang="zh">Chritsniroid轻型便携电动代步车-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250314121400 +0800" stop="20250314140000 +0800">
+		<title lang="zh">包公传奇之天长案</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
