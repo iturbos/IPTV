@@ -58353,6 +58353,9 @@
 	<programme channel="爱情喜剧" start="20250315113100 +0800" stop="20250315121100 +0800">
 		<title lang="zh">Chritsniroid轻型便携电动代步车-渠道（右）</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250315121100 +0800" stop="20250315131300 +0800">
+		<title lang="zh">19_火红年华</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -79923,6 +79926,9 @@
 	<programme channel="newtv超级综艺" start="20250315103700 +0800" stop="20250315121800 +0800">
 		<title lang="zh">国家宝藏 第三季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250315121800 +0800" stop="20250315135900 +0800">
+		<title lang="zh">开播吧！国潮</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -80033,6 +80039,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250315112400 +0800" stop="20250315120800 +0800">
 		<title lang="zh">16_长大</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250315120800 +0800" stop="20250315125300 +0800">
+		<title lang="zh">17_长大</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -80247,6 +80256,9 @@
 	<programme channel="newtv家庭剧场" start="20250315112100 +0800" stop="20250315120500 +0800">
 		<title lang="zh">25_长大</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250315120500 +0800" stop="20250315130300 +0800">
+		<title lang="zh">26_长大</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -80318,6 +80330,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250315113100 +0800" stop="20250315121100 +0800">
 		<title lang="zh">Chritsniroid轻型便携电动代步车-渠道（右）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250315121100 +0800" stop="20250315131300 +0800">
+		<title lang="zh">19_火红年华</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
