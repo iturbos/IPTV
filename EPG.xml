@@ -20046,6 +20046,9 @@
 	<programme channel="动作电影" start="20250316132600 +0800" stop="20250316140600 +0800">
 		<title lang="zh">Chritsniroid轻型便携电动代步车-渠道（右）</title>
 	</programme>
+	<programme channel="动作电影" start="20250316140600 +0800" stop="20250316155300 +0800">
+		<title lang="zh">死亡斗士</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -63099,6 +63102,9 @@
 	<programme channel="纯享4K" start="20250316131400 +0800" stop="20250316140400 +0800">
 		<title lang="zh">大运河之歌4K 第5集 融通天下</title>
 	</programme>
+	<programme channel="纯享4K" start="20250316140400 +0800" stop="20250316145300 +0800">
+		<title lang="zh">大运河之歌4K 第6集 生生不息</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -77412,6 +77418,9 @@
 	<programme channel="黑莓电影" start="20250316125700 +0800" stop="20250316141200 +0800">
 		<title lang="zh">维和冲锋：绝境求生</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250316141200 +0800" stop="20250316154100 +0800">
+		<title lang="zh">西游记之七十二变</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -78531,6 +78540,9 @@
 	<programme channel="newtv精品大剧" start="20250316133600 +0800" stop="20250316140300 +0800">
 		<title lang="zh">09_鹊刀门传奇2</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250316140300 +0800" stop="20250316143300 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -78585,6 +78597,9 @@
 	<programme channel="newtv精品纪录" start="20250316131700 +0800" stop="20250316140600 +0800">
 		<title lang="zh">02_步履声声</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250316140600 +0800" stop="20250316145300 +0800">
+		<title lang="zh">BEYONPAN钛健康养生壶新-渠道（右）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -78632,6 +78647,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250316132100 +0800" stop="20250316140700 +0800">
 		<title lang="zh">15_神医喜来乐</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250316140700 +0800" stop="20250316145500 +0800">
+		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -78852,6 +78870,9 @@
 	<programme channel="newtv动作电影" start="20250316132600 +0800" stop="20250316140600 +0800">
 		<title lang="zh">Chritsniroid轻型便携电动代步车-渠道（右）</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250316140600 +0800" stop="20250316155300 +0800">
+		<title lang="zh">死亡斗士</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -78956,6 +78977,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250316130300 +0800" stop="20250316140900 +0800">
 		<title lang="zh">10_好事成双</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250316140900 +0800" stop="20250316145400 +0800">
+		<title lang="zh">11_好事成双</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
