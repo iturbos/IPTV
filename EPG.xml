@@ -55824,6 +55824,9 @@
 	<programme channel="爱情喜剧" start="20250317204400 +0800" stop="20250317211400 +0800">
 		<title lang="zh">《花样人生》推荐第36期</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250317211400 +0800" stop="20250317221500 +0800">
+		<title lang="zh">24_我，喜欢你</title>
+	</programme>
 	<channel id="环球奇观">
 		<display-name lang="zh">环球奇观</display-name>
 	</channel>
@@ -61040,6 +61043,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250317205800 +0800" stop="20250317210300 +0800">
 		<title lang="zh">美丽中国自然4K 心之所向</title>
+	</programme>
+	<programme channel="纯享4K" start="20250317210300 +0800" stop="20250317214300 +0800">
+		<title lang="zh">荣宝斋4K 第1集 荣重书林</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -75636,6 +75642,9 @@
 	<programme channel="newtv超级电视剧" start="20250317203200 +0800" stop="20250317211800 +0800">
 		<title lang="zh">21_六姊妹</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250317211800 +0800" stop="20250317220400 +0800">
+		<title lang="zh">22_六姊妹</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -75716,6 +75725,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250317204000 +0800" stop="20250317211000 +0800">
 		<title lang="zh">【推荐】雅德荣氨糖软骨素</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250317211000 +0800" stop="20250317215600 +0800">
+		<title lang="zh">01_李三枪</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -76044,6 +76056,9 @@
 	<programme channel="newtv家庭剧场" start="20250317202700 +0800" stop="20250317211200 +0800">
 		<title lang="zh">22_故乡，别来无恙</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250317211200 +0800" stop="20250317214100 +0800">
+		<title lang="zh">《花样人生》推荐第36期</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -76113,6 +76128,9 @@
 	<programme channel="newtv热播精选" start="20250317202800 +0800" stop="20250317211400 +0800">
 		<title lang="zh">14_好团圆</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250317211400 +0800" stop="20250317214400 +0800">
+		<title lang="zh">【推荐】雅德荣氨糖软骨素</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -76178,6 +76196,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250317204400 +0800" stop="20250317211400 +0800">
 		<title lang="zh">《花样人生》推荐第36期</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250317211400 +0800" stop="20250317221500 +0800">
+		<title lang="zh">24_我，喜欢你</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -76395,6 +76416,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250317203200 +0800" stop="20250317211500 +0800">
 		<title lang="zh">11_与凤行</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250317211500 +0800" stop="20250317214500 +0800">
+		<title lang="zh">【推荐】雅德荣氨糖软骨素</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -76523,6 +76547,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250317203600 +0800" stop="20250317210300 +0800">
 		<title lang="zh">陆地神盾</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250317210300 +0800" stop="20250317213000 +0800">
+		<title lang="zh">砺剑深蓝</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -76955,6 +76982,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250317202100 +0800" stop="20250317210600 +0800">
 		<title lang="zh">11_倚天屠龙记</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250317210600 +0800" stop="20250317213600 +0800">
+		<title lang="zh">《花样人生》推荐第36期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
