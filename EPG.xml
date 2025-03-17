@@ -36951,6 +36951,9 @@
 	<programme channel="惊悚悬疑" start="20250317111900 +0800" stop="20250317120700 +0800">
 		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250317120700 +0800" stop="20250317140400 +0800">
+		<title lang="zh">一级谋杀</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -73653,6 +73656,9 @@
 	<programme channel="黑莓动画" start="20250317113500 +0800" stop="20250317120100 +0800">
 		<title lang="zh">35_超级昆虫大战</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250317120100 +0800" stop="20250317122300 +0800">
+		<title lang="zh">07_小马宝莉之魔力新世界</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -74703,6 +74709,9 @@
 	<programme channel="newtv精品纪录" start="20250317111000 +0800" stop="20250317121100 +0800">
 		<title lang="zh">第6集：真心英雄</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250317121100 +0800" stop="20250317132100 +0800">
+		<title lang="zh">03_同心共语</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -74985,6 +74994,9 @@
 	<programme channel="newtv怡伴健康" start="20250317110300 +0800" stop="20250317120500 +0800">
 		<title lang="zh">34_重案六组Ⅲ</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250317120500 +0800" stop="20250317123300 +0800">
+		<title lang="zh">阔绰的买家</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -75023,6 +75035,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250317110700 +0800" stop="20250317120300 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250317120300 +0800" stop="20250317124900 +0800">
+		<title lang="zh">风味人间 第2季</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -75144,6 +75159,9 @@
 	<programme channel="newtv炫舞未来" start="20250317105000 +0800" stop="20250317120700 +0800">
 		<title lang="zh">陈怡现场展示配音功底 大头儿子的声音萌翻全场（20241007）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250317120700 +0800" stop="20250317125600 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -75212,6 +75230,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250317111900 +0800" stop="20250317120700 +0800">
 		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250317120700 +0800" stop="20250317140400 +0800">
+		<title lang="zh">一级谋杀</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
