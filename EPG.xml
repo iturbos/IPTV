@@ -38631,6 +38631,9 @@
 	<programme channel="惊悚悬疑" start="20250318112200 +0800" stop="20250318121000 +0800">
 		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250318121000 +0800" stop="20250318133700 +0800">
+		<title lang="zh">火线追凶2之同名为仇</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -58085,6 +58088,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20250318112500 +0800" stop="20250318120500 +0800">
 		<title lang="zh">Chritsniroid轻型便携电动代步车-渠道（右）</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20250318120500 +0800" stop="20250318131000 +0800">
+		<title lang="zh">03_星汉灿烂</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -77778,6 +77784,9 @@
 	<programme channel="黑莓动画" start="20250318114400 +0800" stop="20250318120700 +0800">
 		<title lang="zh">09_小马宝莉之魔力新世界</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250318120700 +0800" stop="20250318123300 +0800">
+		<title lang="zh">02_百变校巴8</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -78636,6 +78645,9 @@
 	<programme channel="newtv超级综艺" start="20250318105500 +0800" stop="20250318121200 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250318121200 +0800" stop="20250318123700 +0800">
+		<title lang="zh">国之颂</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -78747,6 +78759,9 @@
 	<programme channel="newtv超级电视剧" start="20250318112900 +0800" stop="20250318121300 +0800">
 		<title lang="zh">29_长大</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250318121300 +0800" stop="20250318125900 +0800">
+		<title lang="zh">30_长大</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -78830,6 +78845,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250318111600 +0800" stop="20250318120600 +0800">
 		<title lang="zh">01_理想的种子</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250318120600 +0800" stop="20250318125600 +0800">
+		<title lang="zh">02_路与桥的魔法</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -79031,6 +79049,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250318112500 +0800" stop="20250318120500 +0800">
 		<title lang="zh">Chritsniroid轻型便携电动代步车-渠道（右）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250318120500 +0800" stop="20250318131000 +0800">
+		<title lang="zh">03_星汉灿烂</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -79343,6 +79364,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250318112200 +0800" stop="20250318121000 +0800">
 		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250318121000 +0800" stop="20250318133700 +0800">
+		<title lang="zh">火线追凶2之同名为仇</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
