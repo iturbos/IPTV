@@ -77916,6 +77916,9 @@
 	<programme channel="黑莓动画" start="20250318153600 +0800" stop="20250318160300 +0800">
 		<title lang="zh">05_猪猪侠之超星五灵侠6</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250318161300 +0800" stop="20250318162300 +0800">
+		<title lang="zh">46_植物精灵大战僵尸怪第2季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -77948,6 +77951,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250318143400 +0800" stop="20250318160100 +0800">
 		<title lang="zh">千里不留行</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250318160100 +0800" stop="20250318173200 +0800">
+		<title lang="zh">军情五处：利益之争</title>
 	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
@@ -79005,6 +79011,9 @@
 	<programme channel="newtv精品大剧" start="20250318153200 +0800" stop="20250318160700 +0800">
 		<title lang="zh">19_鹊刀门传奇2</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250318160700 +0800" stop="20250318164700 +0800">
+		<title lang="zh">Chritsniroid轻型便携电动代步车-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -79229,6 +79238,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250318145900 +0800" stop="20250318160600 +0800">
 		<title lang="zh">BEYONPAN钛健康养生壶新-渠道（右）</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250318160600 +0800" stop="20250318165200 +0800">
+		<title lang="zh">24_烟火人家</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -79490,6 +79502,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250318152200 +0800" stop="20250318160700 +0800">
 		<title lang="zh">18_好事成双</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250318160700 +0800" stop="20250318170700 +0800">
+		<title lang="zh">你能接受我每月五千的花费吗</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -79784,6 +79799,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250318152200 +0800" stop="20250318161200 +0800">
 		<title lang="zh">勇者之战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250318161200 +0800" stop="20250318165200 +0800">
+		<title lang="zh">Chritsniroid轻型便携电动代步车-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
