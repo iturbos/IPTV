@@ -40047,6 +40047,9 @@
 	<programme channel="惊悚悬疑" start="20250319114400 +0800" stop="20250319131400 +0800">
 		<title lang="zh">鲨卷风2</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250319131400 +0800" stop="20250319144100 +0800">
+		<title lang="zh">超级风暴</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -43079,6 +43082,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250319113000 +0800" stop="20250319131000 +0800">
 		<title lang="zh">东北老丈人</title>
+	</programme>
+	<programme channel="明星大片" start="20250319131000 +0800" stop="20250319133400 +0800">
+		<title lang="zh">15_间谍过家家</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -80145,6 +80151,9 @@
 	<programme channel="黑莓动画" start="20250319122800 +0800" stop="20250319131400 +0800">
 		<title lang="zh">汪汪队立大功第3季08</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250319131400 +0800" stop="20250319134100 +0800">
+		<title lang="zh">09_钶龙战记第4季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -81189,6 +81198,9 @@
 	<programme channel="newtv超级电视剧" start="20250319122500 +0800" stop="20250319130900 +0800">
 		<title lang="zh">35_长大</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250319130900 +0800" stop="20250319135500 +0800">
+		<title lang="zh">36_长大</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -81591,6 +81603,9 @@
 	<programme channel="newtv怡伴健康" start="20250319125200 +0800" stop="20250319130200 +0800">
 		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250319130200 +0800" stop="20250319134700 +0800">
+		<title lang="zh">11_那座城这家人（DVD版）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -81641,6 +81656,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250319121400 +0800" stop="20250319130900 +0800">
 		<title lang="zh">19_好事成双</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250319130900 +0800" stop="20250319135500 +0800">
+		<title lang="zh">20_好事成双</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -81705,6 +81723,9 @@
 	<programme channel="newtv军事评论" start="20250319124100 +0800" stop="20250319130300 +0800">
 		<title lang="zh">马奇诺防线的秘密（下）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250319130300 +0800" stop="20250319132500 +0800">
+		<title lang="zh">一战沙场 维耶阿芒（上）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -81753,6 +81774,9 @@
 	<programme channel="newtv炫舞未来" start="20250319123400 +0800" stop="20250319130200 +0800">
 		<title lang="zh">无效接种（20241213）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250319130200 +0800" stop="20250319135100 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -81795,6 +81819,9 @@
 	<programme channel="newtv精品综合" start="20250319113000 +0800" stop="20250319131000 +0800">
 		<title lang="zh">东北老丈人</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250319131000 +0800" stop="20250319133400 +0800">
+		<title lang="zh">15_间谍过家家</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -81827,6 +81854,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250319114400 +0800" stop="20250319131400 +0800">
 		<title lang="zh">鲨卷风2</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250319131400 +0800" stop="20250319144100 +0800">
+		<title lang="zh">超级风暴</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
