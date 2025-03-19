@@ -33840,6 +33840,9 @@
 	<programme channel="纯享4K" start="20250320023300 +0800" stop="20250320030200 +0800">
 		<title lang="zh">旅游指南4K 好吃客b7韶关</title>
 	</programme>
+	<programme channel="纯享4K" start="20250320030200 +0800" stop="20250320031700 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 雕塑b7胜利女神</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -40638,11 +40641,17 @@
 	<programme channel="黑莓动画" start="20250320023400 +0800" stop="20250320025200 +0800">
 		<title lang="zh">37_我靠充值当武帝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250320025200 +0800" stop="20250320034100 +0800">
+		<title lang="zh">53_名侦探柯南（一）（普通话版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20250320010300 +0800" stop="20250320030600 +0800">
 		<title lang="zh">一次别离</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250320030600 +0800" stop="20250320043000 +0800">
+		<title lang="zh">寻龙之幽冥地宫</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -40947,6 +40956,9 @@
 	<programme channel="newtv精品大剧" start="20250320015000 +0800" stop="20250320025500 +0800">
 		<title lang="zh">07_天涯浴血</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250320025500 +0800" stop="20250320035900 +0800">
+		<title lang="zh">08_天涯浴血</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -40989,6 +41001,9 @@
 	<programme channel="newtv军旅剧场" start="20250320021000 +0800" stop="20250320030400 +0800">
 		<title lang="zh">11_香草美人</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250320030400 +0800" stop="20250320035900 +0800">
+		<title lang="zh">12_香草美人</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -41001,6 +41016,9 @@
 	<programme channel="newtv家庭剧场" start="20250320021800 +0800" stop="20250320030400 +0800">
 		<title lang="zh">09_好事成双</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250320030400 +0800" stop="20250320035900 +0800">
+		<title lang="zh">10_好事成双</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -41009,6 +41027,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250320020000 +0800" stop="20250320025700 +0800">
 		<title lang="zh">03_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250320025700 +0800" stop="20250320034200 +0800">
+		<title lang="zh">04_故乡，别来无恙</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -41040,6 +41061,9 @@
 	<programme channel="newtv怡伴健康" start="20250320014500 +0800" stop="20250320025100 +0800">
 		<title lang="zh">14_绝地枪王2（DVD版）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250320025100 +0800" stop="20250320033800 +0800">
+		<title lang="zh">熊的王国</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -41051,6 +41075,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250320020900 +0800" stop="20250320030300 +0800">
 		<title lang="zh">23_大嫁风尚</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250320030300 +0800" stop="20250320035800 +0800">
+		<title lang="zh">24_大嫁风尚</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -41072,6 +41099,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250320014800 +0800" stop="20250320024900 +0800">
 		<title lang="zh">第2集：许知远对话张双南 | 离宇宙更近一点</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250320024900 +0800" stop="20250320030700 +0800">
+		<title lang="zh">野狼disco-毕刚（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250320030700 +0800" stop="20250320031800 +0800">
+		<title lang="zh">阳光彩虹小白马-金洋（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
