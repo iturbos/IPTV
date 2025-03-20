@@ -28023,6 +28023,9 @@
 	<programme channel="咪咕足球" start="20250320093000 +0800" stop="20250320111000 +0800">
 		<title lang="zh">当燃CBA-24/25常规赛第38轮 辽宁本钢-九台农商银行</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250320112000 +0800" stop="20250320124000 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -41987,6 +41990,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250320102100 +0800" stop="20250320110400 +0800">
 		<title lang="zh">19_女医明妃传</title>
+	</programme>
+	<programme channel="明星大片" start="20250320110400 +0800" stop="20250320113400 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -64344,6 +64350,9 @@
 	<programme channel="纯享4K" start="20250320104500 +0800" stop="20250320111400 +0800">
 		<title lang="zh">旅游指南4K 好吃客b7汕头</title>
 	</programme>
+	<programme channel="纯享4K" start="20250320111400 +0800" stop="20250320114300 +0800">
+		<title lang="zh">旅游指南4K 好吃客b7韶关</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -78690,6 +78699,9 @@
 	<programme channel="黑莓电影" start="20250320093300 +0800" stop="20250320111400 +0800">
 		<title lang="zh">怪兽卡车</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250320111400 +0800" stop="20250320125500 +0800">
+		<title lang="zh">画江湖之天罡</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -79779,6 +79791,9 @@
 	<programme channel="newtv古装剧场" start="20250320102200 +0800" stop="20250320110700 +0800">
 		<title lang="zh">43_三生三世枕上书</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250320110700 +0800" stop="20250320115200 +0800">
+		<title lang="zh">44_三生三世枕上书</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -79862,6 +79877,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250320101300 +0800" stop="20250320110400 +0800">
 		<title lang="zh">08_闪耀的她</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250320110400 +0800" stop="20250320114900 +0800">
+		<title lang="zh">30_烟火人家</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -80151,6 +80169,9 @@
 	<programme channel="newtv炫舞未来" start="20250320105800 +0800" stop="20250320111000 +0800">
 		<title lang="zh">不忘初心-李萍（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250320111000 +0800" stop="20250320115900 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -80186,6 +80207,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250320102100 +0800" stop="20250320110400 +0800">
 		<title lang="zh">19_女医明妃传</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250320110400 +0800" stop="20250320113400 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
