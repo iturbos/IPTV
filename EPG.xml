@@ -80529,6 +80529,12 @@
 	<programme channel="newtv金牌综艺" start="20250320140200 +0800" stop="20250320145200 +0800">
 		<title lang="zh">勇者之战</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250320130200 +0800" stop="20250320140200 +0800">
+		<title lang="zh">拉图红酒推广4001087099</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250320140200 +0800" stop="20250320145200 +0800">
+		<title lang="zh">勇者之战</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
