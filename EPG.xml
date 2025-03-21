@@ -40074,6 +40074,9 @@
 	<programme channel="惊悚悬疑" start="20250321141900 +0800" stop="20250321160800 +0800">
 		<title lang="zh">伸冤人3</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250321160800 +0800" stop="20250321170800 +0800">
+		<title lang="zh">拉图红酒推广4001087099</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -81435,6 +81438,9 @@
 	<programme channel="黑莓动画" start="20250321153100 +0800" stop="20250321161000 +0800">
 		<title lang="zh">95_笨蛋波波与小宝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250321161000 +0800" stop="20250321161600 +0800">
+		<title lang="zh">12_坦克世界动画：苏联怪物对抗卡尔-44</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82680,6 +82686,9 @@
 	<programme channel="newtv精品纪录" start="20250321155600 +0800" stop="20250321161100 +0800">
 		<title lang="zh">03_鲁迅 爱吃甜食的斗士</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250321161100 +0800" stop="20250321162600 +0800">
+		<title lang="zh">04_鲁迅 敢吃螃蟹的勇士</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82736,6 +82745,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250321153100 +0800" stop="20250321161400 +0800">
 		<title lang="zh">01_锦绣安宁</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250321161400 +0800" stop="20250321170000 +0800">
+		<title lang="zh">02_锦绣安宁</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -83220,6 +83232,9 @@
 	<programme channel="newtv军事评论" start="20250321154100 +0800" stop="20250321160300 +0800">
 		<title lang="zh">二战惊险行动b7马耳他护航战</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250321160300 +0800" stop="20250321162500 +0800">
+		<title lang="zh">走红莫斯科的北约装甲</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -83390,6 +83405,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250321141900 +0800" stop="20250321160800 +0800">
 		<title lang="zh">伸冤人3</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250321160800 +0800" stop="20250321170800 +0800">
+		<title lang="zh">拉图红酒推广4001087099</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
