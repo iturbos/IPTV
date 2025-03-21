@@ -21114,6 +21114,9 @@
 	<programme channel="动作电影" start="20250321165700 +0800" stop="20250321184700 +0800">
 		<title lang="zh">公证人之深度危机</title>
 	</programme>
+	<programme channel="动作电影" start="20250321184700 +0800" stop="20250321191700 +0800">
+		<title lang="zh">【推广】十二生肖酒 30分钟版本</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -28491,6 +28494,9 @@
 	<programme channel="咪咕综合体育" start="20250321173500 +0800" stop="20250321190500 +0800">
 		<title lang="zh">国球荣耀-2025WTT重庆冠军赛 男女单打1/4决赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250321190500 +0800" stop="20250321192000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28553,6 +28559,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250321182000 +0800" stop="20250321185500 +0800">
 		<title lang="zh">西班牙黄金一代03 美式问候</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250321190000 +0800" stop="20250321220000 +0800">
+		<title lang="zh">当燃CBA-24/25常规赛第43轮 辽宁本钢-广州朗肽海本 直播</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -40199,6 +40208,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250321184300 +0800" stop="20250321191300 +0800">
 		<title lang="zh">《花样人生》推荐第40期</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250321191300 +0800" stop="20250321204800 +0800">
+		<title lang="zh">狙击蜘蛛巢</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -66756,6 +66768,9 @@
 	<programme channel="纯享4K" start="20250321182200 +0800" stop="20250321185000 +0800">
 		<title lang="zh">旅游指南4K 打卡中国b7湖州</title>
 	</programme>
+	<programme channel="纯享4K" start="20250321185000 +0800" stop="20250321191900 +0800">
+		<title lang="zh">旅游指南4K 好吃客b7福鼎</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -83193,6 +83208,9 @@
 	<programme channel="newtv精品纪录" start="20250321183600 +0800" stop="20250321190700 +0800">
 		<title lang="zh">09_我的抗战：在延安长大</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250321190700 +0800" stop="20250321194100 +0800">
+		<title lang="zh">10_我的抗战：潜伏</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -83262,6 +83280,9 @@
 	<programme channel="newtv古装剧场" start="20250321183300 +0800" stop="20250321191500 +0800">
 		<title lang="zh">39_大奉打更人</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250321191500 +0800" stop="20250321194500 +0800">
+		<title lang="zh">《花样人生》推荐第40期</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -83330,6 +83351,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250321180300 +0800" stop="20250321184900 +0800">
 		<title lang="zh">29_刀锋乱世情</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250321184900 +0800" stop="20250321193400 +0800">
+		<title lang="zh">01_英雄戟</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -83402,6 +83426,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250321175600 +0800" stop="20250321184900 +0800">
 		<title lang="zh">02_妻子的新世界</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250321184900 +0800" stop="20250321193500 +0800">
+		<title lang="zh">03_妻子的新世界</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -83565,6 +83592,9 @@
 	<programme channel="newtv动作电影" start="20250321165700 +0800" stop="20250321184700 +0800">
 		<title lang="zh">公证人之深度危机</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250321184700 +0800" stop="20250321191700 +0800">
+		<title lang="zh">【推广】十二生肖酒 30分钟版本</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -83652,6 +83682,9 @@
 	<programme channel="newtv怡伴健康" start="20250321183000 +0800" stop="20250321190500 +0800">
 		<title lang="zh">广东N5vs河南精英荟 第1局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250321190500 +0800" stop="20250321193500 +0800">
+		<title lang="zh">《花样人生》推荐第40期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -83720,6 +83753,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250321181000 +0800" stop="20250321185600 +0800">
 		<title lang="zh">24_与凤行</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250321185600 +0800" stop="20250321193200 +0800">
+		<title lang="zh">25_与凤行</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -83831,6 +83867,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250321183700 +0800" stop="20250321185900 +0800">
 		<title lang="zh">北约援乌武器瞄向俄本土</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250321185900 +0800" stop="20250321192100 +0800">
+		<title lang="zh">美航母红海遇袭疑云</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -84033,6 +84072,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250321184300 +0800" stop="20250321191300 +0800">
 		<title lang="zh">《花样人生》推荐第40期</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250321191300 +0800" stop="20250321204800 +0800">
+		<title lang="zh">狙击蜘蛛巢</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -84218,6 +84260,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250321184300 +0800" stop="20250321191300 +0800">
 		<title lang="zh">《花样人生》推荐第40期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250321191300 +0800" stop="20250321195900 +0800">
+		<title lang="zh">26_倚天屠龙记</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
