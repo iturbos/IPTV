@@ -63876,6 +63876,9 @@
 	<programme channel="纯享4K" start="20250323112600 +0800" stop="20250323120800 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 黑土地上的生态家园</title>
 	</programme>
+	<programme channel="纯享4K" start="20250323120800 +0800" stop="20250323124900 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 茫茫荒漠 生机勃勃</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -79659,6 +79662,9 @@
 	<programme channel="newtv超级综艺" start="20250323110600 +0800" stop="20250323122300 +0800">
 		<title lang="zh">向幸福出发</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250323122300 +0800" stop="20250323135300 +0800">
+		<title lang="zh">乐在旅途 第二季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -79854,6 +79860,9 @@
 	<programme channel="newtv精品纪录" start="20250323110800 +0800" stop="20250323121300 +0800">
 		<title lang="zh">01_价值引领</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250323121300 +0800" stop="20250323125700 +0800">
+		<title lang="zh">05_新生</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -79988,6 +79997,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250323110600 +0800" stop="20250323120200 +0800">
 		<title lang="zh">05_幸福来敲门</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250323120200 +0800" stop="20250323124800 +0800">
+		<title lang="zh">06_幸福来敲门</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
