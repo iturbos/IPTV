@@ -79899,6 +79899,9 @@
 	<programme channel="newtv精品大剧" start="20250323133900 +0800" stop="20250323140500 +0800">
 		<title lang="zh">35_鹊刀门传奇2</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250323140500 +0800" stop="20250323150500 +0800">
+		<title lang="zh">拉图红酒推广4001087099</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -80049,6 +80052,9 @@
 	<programme channel="newtv军旅剧场" start="20250323130900 +0800" stop="20250323140400 +0800">
 		<title lang="zh">智取华山传奇第15集</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250323140400 +0800" stop="20250323145900 +0800">
+		<title lang="zh">智取华山传奇第16集</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -80106,6 +80112,9 @@
 	<programme channel="newtv家庭剧场" start="20250323133400 +0800" stop="20250323140900 +0800">
 		<title lang="zh">LECEA钛健康保温八角杯家庭组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250323140900 +0800" stop="20250323150500 +0800">
+		<title lang="zh">08_幸福来敲门</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -80150,6 +80159,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250323133500 +0800" stop="20250323141500 +0800">
 		<title lang="zh">Chritsniroid轻型便携电动代步车-渠道（右）</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250323141500 +0800" stop="20250323150000 +0800">
+		<title lang="zh">15_潜行者</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -80406,6 +80418,9 @@
 	<programme channel="newtv军事评论" start="20250323134700 +0800" stop="20250323140900 +0800">
 		<title lang="zh">二战空袭大揭秘（五）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250323140900 +0800" stop="20250323143100 +0800">
+		<title lang="zh">二战空袭大揭秘（六）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -80477,6 +80492,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250323134000 +0800" stop="20250323140700 +0800">
 		<title lang="zh">合租室友的阴谋（20240321）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250323140700 +0800" stop="20250323145500 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -80627,6 +80645,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250323123800 +0800" stop="20250323140700 +0800">
 		<title lang="zh">2024-25赛季女排超级联赛第10轮：天津VS江苏</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250323140700 +0800" stop="20250323165100 +0800">
+		<title lang="zh">2024-25赛季女排超级联赛第7轮：辽宁VS天津</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
