@@ -35985,6 +35985,9 @@
 	<programme channel="纯享4K" start="20250325042500 +0800" stop="20250325050700 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 源头活水 焕发生机</title>
 	</programme>
+	<programme channel="纯享4K" start="20250325051200 +0800" stop="20250325051700 +0800">
+		<title lang="zh">美丽中国自然4K 粤北林语系列 弧纹螳螂</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -43884,6 +43887,9 @@
 	<programme channel="黑莓动画" start="20250325033600 +0800" stop="20250325051100 +0800">
 		<title lang="zh">伞少女</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250325051100 +0800" stop="20250325063700 +0800">
+		<title lang="zh">潜艇总动员：寻龙</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -44409,6 +44415,9 @@
 	<programme channel="newtv怡伴健康" start="20250325041800 +0800" stop="20250325050600 +0800">
 		<title lang="zh">动物宝贝b7冬</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250325050600 +0800" stop="20250325072600 +0800">
+		<title lang="zh">京剧《铡判官》</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -44597,6 +44606,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250325035700 +0800" stop="20250325051200 +0800">
 		<title lang="zh">拳王争霸赛 卡洛斯-亚当斯VS朱利安-威廉姆斯</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250325051200 +0800" stop="20250325062200 +0800">
+		<title lang="zh">拳王争霸赛：恩尼斯VS比利亚</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
