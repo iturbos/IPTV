@@ -77640,6 +77640,9 @@
 	<programme channel="newtv精品大剧" start="20250325220700 +0800" stop="20250325231200 +0800">
 		<title lang="zh">27_李三枪</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250325231200 +0800" stop="20250325001800 +0800">
+		<title lang="zh">28_李三枪</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -78015,6 +78018,9 @@
 	<programme channel="newtv家庭剧场" start="20250325221600 +0800" stop="20250325230200 +0800">
 		<title lang="zh">23_梦中的那片海</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250325230200 +0800" stop="20250325234800 +0800">
+		<title lang="zh">24_梦中的那片海</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -78095,6 +78101,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250325221700 +0800" stop="20250325230200 +0800">
 		<title lang="zh">12_藏海花</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250325230200 +0800" stop="20250325233500 +0800">
+		<title lang="zh">偶然的煮意</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -78572,6 +78581,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250325223600 +0800" stop="20250325230100 +0800">
 		<title lang="zh">海警挺进金门3海里 大陆还有后手</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250325230100 +0800" stop="20250325232700 +0800">
+		<title lang="zh">蔡赖交接现裂痕 还有哪些变数？</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
