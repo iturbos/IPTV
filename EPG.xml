@@ -20202,6 +20202,9 @@
 	<programme channel="动作电影" start="20250325122400 +0800" stop="20250325131300 +0800">
 		<title lang="zh">Healthwow100%南极磷虾油高吸收尊享装-渠道（右）</title>
 	</programme>
+	<programme channel="动作电影" start="20250325131300 +0800" stop="20250325145900 +0800">
+		<title lang="zh">火线追凶2之乱世残局</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -61428,6 +61431,9 @@
 	<programme channel="纯享4K" start="20250325122100 +0800" stop="20250325130300 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 源头活水 焕发生机</title>
 	</programme>
+	<programme channel="纯享4K" start="20250325131300 +0800" stop="20250325140600 +0800">
+		<title lang="zh">遇鉴文明4K 佳肴美馔 中餐与西餐</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -76308,6 +76314,9 @@
 	<programme channel="newtv超级体育" start="20250325120000 +0800" stop="20250325130500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250325130500 +0800" stop="20250325132500 +0800">
+		<title lang="zh">艺术里的奥林匹克</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -76436,6 +76445,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250325122900 +0800" stop="20250325131400 +0800">
 		<title lang="zh">07_加油！妈妈（4K）</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250325131400 +0800" stop="20250325135600 +0800">
+		<title lang="zh">02_余生，请多指教</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -76644,6 +76656,9 @@
 	<programme channel="newtv家庭剧场" start="20250325121900 +0800" stop="20250325130500 +0800">
 		<title lang="zh">14_幸福来敲门</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250325130500 +0800" stop="20250325134000 +0800">
+		<title lang="zh">LECEA钛健康保温八角杯家庭组-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -76752,6 +76767,9 @@
 	<programme channel="newtv动作电影" start="20250325122400 +0800" stop="20250325131300 +0800">
 		<title lang="zh">Healthwow100%南极磷虾油高吸收尊享装-渠道（右）</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250325131300 +0800" stop="20250325145900 +0800">
+		<title lang="zh">火线追凶2之乱世残局</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -76802,6 +76820,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250325122600 +0800" stop="20250325131500 +0800">
 		<title lang="zh">Healthwow100%南极磷虾油高吸收尊享装-渠道（右）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250325131500 +0800" stop="20250325140100 +0800">
+		<title lang="zh">23_那座城这家人（DVD版）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -76937,6 +76958,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250325124600 +0800" stop="20250325130800 +0800">
 		<title lang="zh">解密滑铁卢之战（二）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250325130800 +0800" stop="20250325133000 +0800">
+		<title lang="zh">解密滑铁卢之战（三）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
