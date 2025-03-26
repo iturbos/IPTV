@@ -42420,6 +42420,9 @@
 	<programme channel="明星大片" start="20250326222300 +0800" stop="20250326231000 +0800">
 		<title lang="zh">31_爱的二八定律</title>
 	</programme>
+	<programme channel="明星大片" start="20250326231000 +0800" stop="20250326001300 +0800">
+		<title lang="zh">加油！田大志</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -80409,6 +80412,9 @@
 	<programme channel="黑莓动画" start="20250326213800 +0800" stop="20250326230500 +0800">
 		<title lang="zh">汪汪队立大功之勇敢大营救（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250326230500 +0800" stop="20250326004500 +0800">
+		<title lang="zh">熊出没之熊心归来</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -80450,6 +80456,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250326213700 +0800" stop="20250326230600 +0800">
 		<title lang="zh">好嗨的历险记</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250326230600 +0800" stop="20250326010200 +0800">
+		<title lang="zh">影</title>
 	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
@@ -81606,6 +81615,9 @@
 	<programme channel="newtv超级电视剧" start="20250326221900 +0800" stop="20250326230600 +0800">
 		<title lang="zh">41_星汉灿烂b7月升沧海</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250326230600 +0800" stop="20250326235900 +0800">
+		<title lang="zh">42_星汉灿烂b7月升沧海</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -82104,6 +82116,9 @@
 	<programme channel="newtv家庭剧场" start="20250326223000 +0800" stop="20250326231500 +0800">
 		<title lang="zh">29_梦中的那片海</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250326231500 +0800" stop="20250326000100 +0800">
+		<title lang="zh">30_梦中的那片海</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -82190,6 +82205,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250326223700 +0800" stop="20250326230700 +0800">
 		<title lang="zh">万向旋转净水器推广片4001087099</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250326230700 +0800" stop="20250326002300 +0800">
+		<title lang="zh">偶然的煮意</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -82443,6 +82461,9 @@
 	<programme channel="newtv怡伴健康" start="20250326223600 +0800" stop="20250326230600 +0800">
 		<title lang="zh">《八段锦》推荐第19期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250326230600 +0800" stop="20250326233600 +0800">
+		<title lang="zh">南国有神草</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -82695,6 +82716,9 @@
 	<programme channel="newtv军事评论" start="20250326224100 +0800" stop="20250326230600 +0800">
 		<title lang="zh">铁腕推国民党改革 朱立伦为何不妥协？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250326230600 +0800" stop="20250326233200 +0800">
+		<title lang="zh">打造三层火力网 台军妄想转守为攻</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -82797,6 +82821,9 @@
 	<programme channel="newtv炫舞未来" start="20250326224100 +0800" stop="20250326230200 +0800">
 		<title lang="zh">高强度+间歇性有氧训练（20241231）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250326230600 +0800" stop="20250326000300 +0800">
+		<title lang="zh">第1集：麦浪涌万年</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -82886,6 +82913,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250326222300 +0800" stop="20250326231000 +0800">
 		<title lang="zh">31_爱的二八定律</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250326231000 +0800" stop="20250326001300 +0800">
+		<title lang="zh">加油！田大志</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -83171,6 +83201,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250326223400 +0800" stop="20250326230400 +0800">
 		<title lang="zh">万向旋转净水器推广片4001087099</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250326230400 +0800" stop="20250326001000 +0800">
+		<title lang="zh">夺宝同盟之神秘笔记</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
