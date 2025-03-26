@@ -80052,6 +80052,9 @@
 	<programme channel="黑莓动画" start="20250326133700 +0800" stop="20250326140100 +0800">
 		<title lang="zh">大牙携手舒克贝塔救援好朋友赶走霸王龙！</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250326140100 +0800" stop="20250326142100 +0800">
+		<title lang="zh">95_笨蛋波波与小宝</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -81666,6 +81669,9 @@
 	<programme channel="newtv怡伴健康" start="20250326134600 +0800" stop="20250326135800 +0800">
 		<title lang="zh">【相声】《我为什么不红》表演：谢金、李鹤东</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250326141500 +0800" stop="20250326144200 +0800">
+		<title lang="zh">老大爷的黄昏恋</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -81725,6 +81731,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250326131600 +0800" stop="20250326140200 +0800">
 		<title lang="zh">12_柳舟记</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250326140200 +0800" stop="20250326143200 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -81810,6 +81819,9 @@
 	<programme channel="newtv军事评论" start="20250326134400 +0800" stop="20250326140600 +0800">
 		<title lang="zh">二战西线反击战b7突破半岛防线</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250326140600 +0800" stop="20250326142800 +0800">
+		<title lang="zh">二战西线反击战b7空降阿纳姆</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -81869,6 +81881,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250326134500 +0800" stop="20250326141500 +0800">
 		<title lang="zh">我和妹妹最后一张合照 从此分离十九年</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250326141500 +0800" stop="20250326150400 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -82109,6 +82124,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250326132800 +0800" stop="20250326140800 +0800">
 		<title lang="zh">Chritsniroid轻型便携电动代步车-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250326140800 +0800" stop="20250326145300 +0800">
+		<title lang="zh">45_大秦帝国之纵横</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
