@@ -70716,6 +70716,9 @@
 	<programme channel="超级电影" start="20250327103900 +0800" stop="20250327121400 +0800">
 		<title lang="zh">刑侦队</title>
 	</programme>
+	<programme channel="超级电影" start="20250327121400 +0800" stop="20250327122200 +0800">
+		<title lang="zh">音乐电影欣赏</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -82068,6 +82071,9 @@
 	<programme channel="newtv超级电影" start="20250327103900 +0800" stop="20250327121400 +0800">
 		<title lang="zh">刑侦队</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250327121400 +0800" stop="20250327122200 +0800">
+		<title lang="zh">音乐电影欣赏</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -82115,6 +82121,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250327112000 +0800" stop="20250327120700 +0800">
 		<title lang="zh">35_林深见鹿</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250327120700 +0800" stop="20250327125200 +0800">
+		<title lang="zh">36_林深见鹿</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
