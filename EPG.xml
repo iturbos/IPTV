@@ -42939,6 +42939,9 @@
 	<programme channel="明星大片" start="20250327152800 +0800" stop="20250327161400 +0800">
 		<title lang="zh">27_那座城这家人</title>
 	</programme>
+	<programme channel="明星大片" start="20250327161400 +0800" stop="20250327165900 +0800">
+		<title lang="zh">28_那座城这家人</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -66051,6 +66054,9 @@
 	<programme channel="纯享4K" start="20250327155400 +0800" stop="20250327160400 +0800">
 		<title lang="zh">秘境之眼4K 阿里秘境</title>
 	</programme>
+	<programme channel="纯享4K" start="20250327161400 +0800" stop="20250327164200 +0800">
+		<title lang="zh">记住乡愁 第八季4K 万古寺村——四季橙香 万古流芳</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -81207,6 +81213,9 @@
 	<programme channel="黑莓电影" start="20250327141600 +0800" stop="20250327160100 +0800">
 		<title lang="zh">音乐永不停歇</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250327160100 +0800" stop="20250327172900 +0800">
+		<title lang="zh">嗨！神兽</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -82425,6 +82434,9 @@
 	<programme channel="newtv精品纪录" start="20250327154100 +0800" stop="20250327160400 +0800">
 		<title lang="zh">第17集 王昌龄：诗家夫子王江宁</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250327160400 +0800" stop="20250327164000 +0800">
+		<title lang="zh">飞碟之谜（上）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -83025,6 +83037,9 @@
 	<programme channel="newtv军事评论" start="20250327154200 +0800" stop="20250327160400 +0800">
 		<title lang="zh">二战空袭大揭秘（二）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250327160400 +0800" stop="20250327162600 +0800">
+		<title lang="zh">库尔斯克之战中的北约武器</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -83159,6 +83174,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250327152800 +0800" stop="20250327161400 +0800">
 		<title lang="zh">27_那座城这家人</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250327161400 +0800" stop="20250327165900 +0800">
+		<title lang="zh">28_那座城这家人</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
