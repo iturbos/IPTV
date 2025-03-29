@@ -80448,6 +80448,9 @@
 	<programme channel="newtv军旅剧场" start="20250329222700 +0800" stop="20250329231200 +0800">
 		<title lang="zh">28_天狼星行动</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250329231200 +0800" stop="20250329235800 +0800">
+		<title lang="zh">29_天狼星行动</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -81138,6 +81141,9 @@
 	<programme channel="newtv军事评论" start="20250329224400 +0800" stop="20250329231000 +0800">
 		<title lang="zh">布林肯访华 台湾问题再交锋</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250329231000 +0800" stop="20250329233500 +0800">
+		<title lang="zh">美国务卿访华 台湾问题摊牌</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -81239,6 +81245,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250329224500 +0800" stop="20250329230700 +0800">
 		<title lang="zh">肌肉激活训练（20240401）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250329231100 +0800" stop="20250329231600 +0800">
+		<title lang="zh">《红色记忆》鸿韵艺术团</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -81611,6 +81620,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250329223700 +0800" stop="20250329230700 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250329230700 +0800" stop="20250329004300 +0800">
+		<title lang="zh">荒漠游侠</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
