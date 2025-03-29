@@ -27468,6 +27468,9 @@
 	<programme channel="咪咕综合体育" start="20250329110000 +0800" stop="20250329110500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250329110500 +0800" stop="20250329114300 +0800">
+		<title lang="zh">国球荣耀-2025WTT重庆冠军赛 男单1/4决赛 张本智和-篠塚大登</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -27512,6 +27515,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250329093000 +0800" stop="20250329111000 +0800">
 		<title lang="zh">当燃CBA-24/25常规赛第42轮 浙江稠州金租-新疆伊力特</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250329112000 +0800" stop="20250329124000 +0800">
+		<title lang="zh">村BA</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -41591,6 +41597,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250329101800 +0800" stop="20250329110400 +0800">
 		<title lang="zh">09_美人心计</title>
+	</programme>
+	<programme channel="明星大片" start="20250329110400 +0800" stop="20250329115200 +0800">
+		<title lang="zh">BEYONPAN全钛养生壶-渠道（右）</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -68283,6 +68292,9 @@
 	<programme channel="超级电影" start="20250329093200 +0800" stop="20250329111800 +0800">
 		<title lang="zh">哥斯拉：决战之都</title>
 	</programme>
+	<programme channel="超级电影" start="20250329111800 +0800" stop="20250329112400 +0800">
+		<title lang="zh">音乐电影欣赏</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -77961,6 +77973,9 @@
 	<programme channel="黑莓电影" start="20250329092200 +0800" stop="20250329110400 +0800">
 		<title lang="zh">流浪地球2：再次冒险</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250329110400 +0800" stop="20250329131700 +0800">
+		<title lang="zh">还是觉得你最好2</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -78945,6 +78960,9 @@
 	<programme channel="newtv超级电影" start="20250329093200 +0800" stop="20250329111800 +0800">
 		<title lang="zh">哥斯拉：决战之都</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250329111800 +0800" stop="20250329112400 +0800">
+		<title lang="zh">音乐电影欣赏</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -78989,6 +79007,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250329103500 +0800" stop="20250329112100 +0800">
 		<title lang="zh">71_大秦赋</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250329112100 +0800" stop="20250329120600 +0800">
+		<title lang="zh">05_岁岁年年柿柿红</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -79097,6 +79118,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250329110100 +0800" stop="20250329111100 +0800">
 		<title lang="zh">第4集：铁女柔情</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250329111100 +0800" stop="20250329114000 +0800">
+		<title lang="zh">2023美味寒假（4）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -79398,6 +79422,9 @@
 	<programme channel="newtv怡伴健康" start="20250329102200 +0800" stop="20250329111100 +0800">
 		<title lang="zh">22_搜神记</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250329111100 +0800" stop="20250329113800 +0800">
+		<title lang="zh">拍画做局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -79515,6 +79542,9 @@
 	<programme channel="newtv军事评论" start="20250329102500 +0800" stop="20250329111300 +0800">
 		<title lang="zh">壮志向空天 第4集 霹雳雄风铸利剑</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250329111300 +0800" stop="20250329120300 +0800">
+		<title lang="zh">壮志向空天 第5集 弯弓织网御天疆</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -79613,6 +79643,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250329101800 +0800" stop="20250329110400 +0800">
 		<title lang="zh">09_美人心计</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250329110400 +0800" stop="20250329115200 +0800">
+		<title lang="zh">BEYONPAN全钛养生壶-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
