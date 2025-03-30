@@ -36492,6 +36492,9 @@
 	<programme channel="纯享4K" start="20250331022500 +0800" stop="20250331025000 +0800">
 		<title lang="zh">在乡村4K 第6集 从许村到青田</title>
 	</programme>
+	<programme channel="纯享4K" start="20250331025000 +0800" stop="20250331033000 +0800">
+		<title lang="zh">探索b7发现4K 匠人b7匠心（15）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -44562,6 +44565,9 @@
 	<programme channel="黑莓动画" start="20250331012200 +0800" stop="20250331030200 +0800">
 		<title lang="zh">假面骑士（平成世代-永恒）日语版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250331030200 +0800" stop="20250331044200 +0800">
+		<title lang="zh">世纪末的魔术师 中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -44570,6 +44576,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250331014400 +0800" stop="20250331031000 +0800">
 		<title lang="zh">镇魔司：四象伏魔</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250331031000 +0800" stop="20250331043700 +0800">
+		<title lang="zh">解梦</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -44808,6 +44817,9 @@
 	<programme channel="newtv精品大剧" start="20250331020900 +0800" stop="20250331025700 +0800">
 		<title lang="zh">29_秋蝉</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250331025700 +0800" stop="20250331034500 +0800">
+		<title lang="zh">30_秋蝉</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -44819,6 +44831,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250331022700 +0800" stop="20250331025500 +0800">
 		<title lang="zh">01_生命之泵</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250331025500 +0800" stop="20250331032300 +0800">
+		<title lang="zh">02_心脏刀锋</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -44834,6 +44849,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250331022600 +0800" stop="20250331031500 +0800">
 		<title lang="zh">04_千古玦尘</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250331031500 +0800" stop="20250331040700 +0800">
+		<title lang="zh">17_有翡</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -44943,6 +44961,9 @@
 	<programme channel="newtv炫舞未来" start="20250331015000 +0800" stop="20250331030900 +0800">
 		<title lang="zh">第2期上：丹妈国立暂离桃花坞，周一围升任坞长累到吸氧</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250331030900 +0800" stop="20250331032300 +0800">
+		<title lang="zh">相遇花开-饶子龙（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -45029,6 +45050,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250331013600 +0800" stop="20250331031200 +0800">
 		<title lang="zh">绝世低手之夺命玉玺</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250331031200 +0800" stop="20250331041600 +0800">
+		<title lang="zh">男子长拳决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
