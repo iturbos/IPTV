@@ -57507,6 +57507,9 @@
 	<programme channel="爱情喜剧" start="20250330102900 +0800" stop="20250330121500 +0800">
 		<title lang="zh">08_爱在战火纷飞时</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250330121500 +0800" stop="20250330130200 +0800">
+		<title lang="zh">09_爱在战火纷飞时</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -78657,6 +78660,9 @@
 	<programme channel="newtv超级综艺" start="20250330110500 +0800" stop="20250330121000 +0800">
 		<title lang="zh">会唱歌的院子</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250330121000 +0800" stop="20250330132700 +0800">
+		<title lang="zh">非常6+1</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -78777,6 +78783,9 @@
 	<programme channel="newtv超级电视剧" start="20250330113500 +0800" stop="20250330122000 +0800">
 		<title lang="zh">11_岁岁年年柿柿红</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250330122000 +0800" stop="20250330130500 +0800">
+		<title lang="zh">12_岁岁年年柿柿红</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -78827,6 +78836,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250330112800 +0800" stop="20250330121400 +0800">
 		<title lang="zh">27_加油！妈妈（4K）</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250330121400 +0800" stop="20250330130100 +0800">
+		<title lang="zh">22_余生，请多指教</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -79077,6 +79089,9 @@
 	<programme channel="newtv热播精选" start="20250330112400 +0800" stop="20250330120900 +0800">
 		<title lang="zh">BEYONPAN多功能钛养生壶加赠组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250330120900 +0800" stop="20250330133300 +0800">
+		<title lang="zh">山寨大黄蜂</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -79112,6 +79127,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250330102900 +0800" stop="20250330121500 +0800">
 		<title lang="zh">08_爱在战火纷飞时</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250330121500 +0800" stop="20250330130200 +0800">
+		<title lang="zh">09_爱在战火纷飞时</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -79298,6 +79316,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250330112000 +0800" stop="20250330121100 +0800">
 		<title lang="zh">烽火兵工 第3集 钢铁柳沟旗帜扬</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250330121100 +0800" stop="20250330123200 +0800">
+		<title lang="zh">海滩的地堡（上）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
