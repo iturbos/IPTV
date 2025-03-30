@@ -41028,6 +41028,9 @@
 	<programme channel="明星大片" start="20250330144700 +0800" stop="20250330151200 +0800">
 		<title lang="zh">03_葬送的芙莉莲</title>
 	</programme>
+	<programme channel="明星大片" start="20250330151200 +0800" stop="20250330154200 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -77796,6 +77799,9 @@
 	<programme channel="黑莓动画" start="20250330134700 +0800" stop="20250330150600 +0800">
 		<title lang="zh">哪吒b7魔童归来</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250330150600 +0800" stop="20250330164000 +0800">
+		<title lang="zh">哆啦A梦：伴我同行</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -79170,6 +79176,9 @@
 	<programme channel="newtv军旅剧场" start="20250330141600 +0800" stop="20250330150600 +0800">
 		<title lang="zh">15_无间</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250330150600 +0800" stop="20250330155500 +0800">
+		<title lang="zh">16_无间</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -79286,6 +79295,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250330141800 +0800" stop="20250330150300 +0800">
 		<title lang="zh">06_使徒行者3[粤语版]</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250330150300 +0800" stop="20250330155200 +0800">
+		<title lang="zh">07_使徒行者3[粤语版]</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -79449,6 +79461,9 @@
 	<programme channel="newtv怡伴健康" start="20250330145700 +0800" stop="20250330150700 +0800">
 		<title lang="zh">【相声】腹语表演《不一样的相声》</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250330150700 +0800" stop="20250330153400 +0800">
+		<title lang="zh">再婚女人遇家暴</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -79587,6 +79602,9 @@
 	<programme channel="newtv军事评论" start="20250330144400 +0800" stop="20250330150600 +0800">
 		<title lang="zh">偷袭纳粹机场</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250330150600 +0800" stop="20250330152800 +0800">
+		<title lang="zh">破坏重水厂</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -79650,6 +79668,9 @@
 	<programme channel="newtv炫舞未来" start="20250330150000 +0800" stop="20250330151600 +0800">
 		<title lang="zh">太想念-毕刚（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250330151600 +0800" stop="20250330153400 +0800">
+		<title lang="zh">算你狠-毕刚</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -79706,6 +79727,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250330144700 +0800" stop="20250330151200 +0800">
 		<title lang="zh">03_葬送的芙莉莲</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250330151200 +0800" stop="20250330154200 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -79772,6 +79796,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250330135600 +0800" stop="20250330151300 +0800">
 		<title lang="zh">越战越勇（2024）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250330151300 +0800" stop="20250330160100 +0800">
+		<title lang="zh">BEYONPAN全钛养生壶-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
