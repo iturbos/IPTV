@@ -25584,6 +25584,9 @@
 	<programme channel="咪咕综合体育" start="20250331161000 +0800" stop="20250331161500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250331161500 +0800" stop="20250331184500 +0800">
+		<title lang="zh">UFC 313期 主赛</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -39818,6 +39821,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250331153000 +0800" stop="20250331161500 +0800">
 		<title lang="zh">39_那座城这家人</title>
+	</programme>
+	<programme channel="明星大片" start="20250331161500 +0800" stop="20250331170100 +0800">
+		<title lang="zh">40_那座城这家人</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -77451,6 +77457,9 @@
 	<programme channel="newtv精品纪录" start="20250331151500 +0800" stop="20250331160400 +0800">
 		<title lang="zh">02_礼玉天工</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250331160400 +0800" stop="20250331175300 +0800">
+		<title lang="zh">03_大城筑梦</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -77582,6 +77591,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250331151800 +0800" stop="20250331160800 +0800">
 		<title lang="zh">20_无间</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250331160800 +0800" stop="20250331165800 +0800">
+		<title lang="zh">03_女特警</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -77877,6 +77889,9 @@
 	<programme channel="newtv怡伴健康" start="20250331152000 +0800" stop="20250331160500 +0800">
 		<title lang="zh">BEYONPAN钛健康炒锅优惠组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250331160500 +0800" stop="20250331164300 +0800">
+		<title lang="zh">科技创新 护佑生命（5）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -78036,6 +78051,9 @@
 	<programme channel="newtv军事评论" start="20250331155000 +0800" stop="20250331161200 +0800">
 		<title lang="zh">第15届中国航展回顾</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250331161200 +0800" stop="20250331163400 +0800">
+		<title lang="zh">乌军使用美制远程武器袭击俄罗斯</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -78120,6 +78138,9 @@
 	<programme channel="newtv炫舞未来" start="20250331155600 +0800" stop="20250331160900 +0800">
 		<title lang="zh">百花香-李萍</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250331160900 +0800" stop="20250331165800 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -78182,6 +78203,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250331153000 +0800" stop="20250331161500 +0800">
 		<title lang="zh">39_那座城这家人</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250331161500 +0800" stop="20250331170100 +0800">
+		<title lang="zh">40_那座城这家人</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
