@@ -39402,6 +39402,9 @@
 	<programme channel="惊悚悬疑" start="20250401194300 +0800" stop="20250401211200 +0800">
 		<title lang="zh">古剑奇谭之伏魔纪</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250401211200 +0800" stop="20250401214200 +0800">
+		<title lang="zh">《八段锦》推荐第19期</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -66480,6 +66483,9 @@
 	<programme channel="纯享4K" start="20250401205600 +0800" stop="20250401210200 +0800">
 		<title lang="zh">美丽中国自然4K 大熊猫国家公园岷山系列 密林</title>
 	</programme>
+	<programme channel="纯享4K" start="20250401210200 +0800" stop="20250401215100 +0800">
+		<title lang="zh">跟着唐诗去旅行4K 第3集 王维 长安</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -81699,6 +81705,9 @@
 	<programme channel="黑莓电影" start="20250401192700 +0800" stop="20250401210900 +0800">
 		<title lang="zh">那个不为人知的故事</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250401210900 +0800" stop="20250401225400 +0800">
+		<title lang="zh">鬼吹灯之南海归墟</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -82920,6 +82929,9 @@
 	<programme channel="newtv精品大剧" start="20250401203700 +0800" stop="20250401210700 +0800">
 		<title lang="zh">万向旋转净水器推广片4001087099</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250401210700 +0800" stop="20250401215300 +0800">
+		<title lang="zh">14_问心</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -83021,6 +83033,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250401201500 +0800" stop="20250401210400 +0800">
 		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250401210400 +0800" stop="20250401221200 +0800">
+		<title lang="zh">红炉炙玉鸭</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -83586,6 +83601,9 @@
 	<programme channel="newtv怡伴健康" start="20250401203900 +0800" stop="20250401211500 +0800">
 		<title lang="zh">山东好哥哥vs安徽青竹居 第6局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250401211500 +0800" stop="20250401214900 +0800">
+		<title lang="zh">福建梦幻vs安徽青竹居 第1局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -84033,6 +84051,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250401194300 +0800" stop="20250401211200 +0800">
 		<title lang="zh">古剑奇谭之伏魔纪</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250401211200 +0800" stop="20250401214200 +0800">
+		<title lang="zh">《八段锦》推荐第19期</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -84239,6 +84260,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250401203000 +0800" stop="20250401211500 +0800">
 		<title lang="zh">24_天龙八部</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250401211500 +0800" stop="20250401214500 +0800">
+		<title lang="zh">《八段锦》推荐第19期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
