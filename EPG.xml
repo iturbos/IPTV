@@ -65955,6 +65955,9 @@
 	<programme channel="纯享4K" start="20250403155400 +0800" stop="20250403160400 +0800">
 		<title lang="zh">秘境之眼4K 穿山甲归山记</title>
 	</programme>
+	<programme channel="纯享4K" start="20250403160400 +0800" stop="20250403163200 +0800">
+		<title lang="zh">记住乡愁4K第九季 大黄村——柚林深处是客乡</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -81669,6 +81672,9 @@
 	<programme channel="newtv超级综艺" start="20250403145000 +0800" stop="20250403160700 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250403160700 +0800" stop="20250403172400 +0800">
+		<title lang="zh">非常6+1</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -81821,6 +81827,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250403152100 +0800" stop="20250403160800 +0800">
 		<title lang="zh">16_大奉打更人</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250403160800 +0800" stop="20250403165400 +0800">
+		<title lang="zh">17_大奉打更人</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -82113,6 +82122,9 @@
 	<programme channel="newtv军旅剧场" start="20250403151400 +0800" stop="20250403160300 +0800">
 		<title lang="zh">15_女特警</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250403160300 +0800" stop="20250403165300 +0800">
+		<title lang="zh">16_女特警</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -82175,6 +82187,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250403151600 +0800" stop="20250403160500 +0800">
 		<title lang="zh">中元益宝牌灵芝孢子油-春节版-渠道（右）</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250403160500 +0800" stop="20250403164300 +0800">
+		<title lang="zh">29_完美伴侣</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -82398,6 +82413,9 @@
 	<programme channel="newtv怡伴健康" start="20250403154200 +0800" stop="20250403161200 +0800">
 		<title lang="zh">《八段锦》推荐第19期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250403161200 +0800" stop="20250403164600 +0800">
+		<title lang="zh">重庆洁静精微vs山东好哥哥 第5局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -82460,6 +82478,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250403152500 +0800" stop="20250403161400 +0800">
 		<title lang="zh">06_锦心似玉</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250403161400 +0800" stop="20250403171400 +0800">
+		<title lang="zh">我想要一份特别的爱</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -82638,6 +82659,9 @@
 	<programme channel="newtv炫舞未来" start="20250403155700 +0800" stop="20250403160900 +0800">
 		<title lang="zh">不忘初心-李萍（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250403160900 +0800" stop="20250403162600 +0800">
+		<title lang="zh">万疆-孙爱迪（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -82773,6 +82797,9 @@
 	<programme channel="newtv金牌综艺" start="20250403151800 +0800" stop="20250403160800 +0800">
 		<title lang="zh">一笑一周</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250403160800 +0800" stop="20250403164700 +0800">
+		<title lang="zh">足行健老人鞋防滑按摩健康组-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -82898,6 +82925,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250403151700 +0800" stop="20250403160900 +0800">
 		<title lang="zh">27_有翡</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250403160900 +0800" stop="20250403165700 +0800">
+		<title lang="zh">28_有翡</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
