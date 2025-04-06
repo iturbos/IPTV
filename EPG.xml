@@ -14655,6 +14655,9 @@
 	<programme channel="咪咕综合体育" start="20250407015000 +0800" stop="20250407021500 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250407021500 +0800" stop="20250407023000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -37860,6 +37863,120 @@
 	<programme channel="翡翠台" start="20250407053000 +0800" stop="20250407060000 +0800">
 		<title lang="zh">周遊東京[粵]</title>
 	</programme>
+	<programme channel="翡翠台" start="20250407060000 +0800" stop="20250407074000 +0800">
+		<title lang="zh">香港早晨[粵] 及 交通消息[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407074000 +0800" stop="20250407081000 +0800">
+		<title lang="zh">香港早晨[粵] 及 交通消息[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407081000 +0800" stop="20250407084000 +0800">
+		<title lang="zh">香港早晨[粵] 及 交通消息[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407084000 +0800" stop="20250407090000 +0800">
+		<title lang="zh">香港早晨[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407090000 +0800" stop="20250407100000 +0800">
+		<title lang="zh">交易現場[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407100000 +0800" stop="20250407100500 +0800">
+		<title lang="zh">勁歌推介[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407100500 +0800" stop="20250407103500 +0800">
+		<title lang="zh">我愛玫瑰園#25[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407103500 +0800" stop="20250407113500 +0800">
+		<title lang="zh">飛狐外傳#28[粵/普][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407113500 +0800" stop="20250407114000 +0800">
+		<title lang="zh">宣傳易[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407114000 +0800" stop="20250407121500 +0800">
+		<title lang="zh">交易現場[粵] 及 潮流生活誌[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407121500 +0800" stop="20250407125000 +0800">
+		<title lang="zh">新派煮意[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407125000 +0800" stop="20250407125500 +0800">
+		<title lang="zh">宣傳易[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407125500 +0800" stop="20250407130000 +0800">
+		<title lang="zh">滙豐盛演．160年的故事[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407130000 +0800" stop="20250407132000 +0800">
+		<title lang="zh">午間新聞[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407132000 +0800" stop="20250407141000 +0800">
+		<title lang="zh">流行都市[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407141000 +0800" stop="20250407144000 +0800">
+		<title lang="zh">搭上高鐵愛旅遊[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407144000 +0800" stop="20250407145000 +0800">
+		<title lang="zh">宣傳易[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407145000 +0800" stop="20250407155000 +0800">
+		<title lang="zh">好心作怪#25[粵][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407155000 +0800" stop="20250407162000 +0800">
+		<title lang="zh">交易現場[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407162000 +0800" stop="20250407165000 +0800">
+		<title lang="zh">星光少女[粵/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407165000 +0800" stop="20250407172000 +0800">
+		<title lang="zh">Hands Up[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407172000 +0800" stop="20250407175000 +0800">
+		<title lang="zh">多啦A夢[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407175000 +0800" stop="20250407180000 +0800">
+		<title lang="zh">財經新聞[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407180000 +0800" stop="20250407182500 +0800">
+		<title lang="zh">今日有樓睇[粵] 及 潮流生活誌[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407182500 +0800" stop="20250407183000 +0800">
+		<title lang="zh">新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407183000 +0800" stop="20250407191500 +0800">
+		<title lang="zh">六點半新聞報道[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407191500 +0800" stop="20250407192500 +0800">
+		<title lang="zh">世界觀[粵] 及 天氣報告[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407192500 +0800" stop="20250407193000 +0800">
+		<title lang="zh">有理說得清[粵] 及 滙豐盛演．160年的故事[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407193000 +0800" stop="20250407200000 +0800">
+		<title lang="zh">東張西望[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407200000 +0800" stop="20250407203000 +0800">
+		<title lang="zh">愛．回家之開心速遞#2528[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407203000 +0800" stop="20250407213000 +0800">
+		<title lang="zh">奪命提示#16[粵][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407213000 +0800" stop="20250407223000 +0800">
+		<title lang="zh">大奉打更人#27[粵/普][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407223000 +0800" stop="20250407230000 +0800">
+		<title lang="zh">瞬間直擊半小時[粵][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407230000 +0800" stop="20250407231500 +0800">
+		<title lang="zh">娛樂頭條[粵] 及 環球新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407231500 +0800" stop="20250407234500 +0800">
+		<title lang="zh">晚間新聞[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407234500 +0800" stop="20250407235000 +0800">
+		<title lang="zh">新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407235000 +0800" stop="20250407235500 +0800">
+		<title lang="zh">天氣報告[粵] 及 潮流生活誌[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250407235500 +0800" stop="20250407235900 +0800">
+		<title lang="zh">黃金有罪#11[粵]</title>
+	</programme>
 	<channel id="老故事">
 		<display-name lang="zh">老故事</display-name>
 	</channel>
@@ -45983,6 +46100,9 @@
 	</programme>
 	<programme channel="newtv超级综艺" start="20250407012100 +0800" stop="20250407020700 +0800">
 		<title lang="zh">12_九重紫</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20250407020700 +0800" stop="20250407035900 +0800">
+		<title lang="zh">和美之夜</title>
 	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
