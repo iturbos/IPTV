@@ -65451,6 +65451,9 @@
 	<programme channel="纯享4K" start="20250406155700 +0800" stop="20250406160700 +0800">
 		<title lang="zh">秘境之眼4K 向海之约</title>
 	</programme>
+	<programme channel="纯享4K" start="20250406160700 +0800" stop="20250406163500 +0800">
+		<title lang="zh">记住乡愁4K第九季 紫鹊界——山高水长在 稻花满村香</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -81351,6 +81354,9 @@
 	<programme channel="newtv超级电视剧" start="20250406152500 +0800" stop="20250406161600 +0800">
 		<title lang="zh">28_大奉打更人</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250406161600 +0800" stop="20250406170300 +0800">
+		<title lang="zh">29_大奉打更人</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -81486,6 +81492,9 @@
 	<programme channel="newtv精品纪录" start="20250406152800 +0800" stop="20250406161400 +0800">
 		<title lang="zh">05_家国之情</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250406161400 +0800" stop="20250406175900 +0800">
+		<title lang="zh">01_麦田怪圈</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -81551,6 +81560,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250406152400 +0800" stop="20250406161000 +0800">
 		<title lang="zh">07_九重紫</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250406161000 +0800" stop="20250406165600 +0800">
+		<title lang="zh">08_九重紫</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -81618,6 +81630,9 @@
 	<programme channel="newtv军旅剧场" start="20250406151800 +0800" stop="20250406160600 +0800">
 		<title lang="zh">地道英雄 第3集</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250406160600 +0800" stop="20250406165000 +0800">
+		<title lang="zh">地道英雄 第4集</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -81683,6 +81698,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250406154000 +0800" stop="20250406161400 +0800">
 		<title lang="zh">44_完美伴侣</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250406161400 +0800" stop="20250406165600 +0800">
+		<title lang="zh">45_完美伴侣</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -81903,6 +81921,9 @@
 	<programme channel="newtv怡伴健康" start="20250406152800 +0800" stop="20250406161600 +0800">
 		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250406161600 +0800" stop="20250406165400 +0800">
+		<title lang="zh">词语里藏中医 5</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -81968,6 +81989,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250406152700 +0800" stop="20250406161200 +0800">
 		<title lang="zh">18_锦心似玉</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250406161200 +0800" stop="20250406171200 +0800">
+		<title lang="zh">出租车司机的别样爱情</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
