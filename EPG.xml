@@ -79263,6 +79263,9 @@
 	<programme channel="newtv古装剧场" start="20250407152600 +0800" stop="20250407161200 +0800">
 		<title lang="zh">12_九重紫</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250407161200 +0800" stop="20250407165800 +0800">
+		<title lang="zh">13_九重紫</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -79331,6 +79334,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250407152400 +0800" stop="20250407161200 +0800">
 		<title lang="zh">地道英雄 第7集</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250407161200 +0800" stop="20250407170000 +0800">
+		<title lang="zh">地道英雄 第8集</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -79844,6 +79850,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250407153100 +0800" stop="20250407160900 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250407160900 +0800" stop="20250407172600 +0800">
+		<title lang="zh">村里大妈跳不齐 今天舞台最靓的姨 不炸油条专“炸街”（20240622）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
