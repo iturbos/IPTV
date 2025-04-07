@@ -26220,6 +26220,9 @@
 	<programme channel="咪咕综合体育" start="20250407204500 +0800" stop="20250407211000 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250407211000 +0800" stop="20250407225000 +0800">
+		<title lang="zh">足球世界-24/25赛季意大利杯 半决赛首回合 AC米兰-国际米兰</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -63822,6 +63825,9 @@
 	<programme channel="纯享4K" start="20250407210100 +0800" stop="20250407210600 +0800">
 		<title lang="zh">美丽中国自然4K 蒙东系列 沙狐妈妈</title>
 	</programme>
+	<programme channel="纯享4K" start="20250407210600 +0800" stop="20250407215500 +0800">
+		<title lang="zh">大运河之歌4K 第1集 整理河山</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -68447,6 +68453,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250407195600 +0800" stop="20250407210700 +0800">
 		<title lang="zh">电影《重装战警》</title>
+	</programme>
+	<programme channel="超级电影" start="20250407210700 +0800" stop="20250407224200 +0800">
+		<title lang="zh">电影《天堂口》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -78354,6 +78363,9 @@
 	<programme channel="黑莓电影" start="20250407194900 +0800" stop="20250407211300 +0800">
 		<title lang="zh">飞鱼服</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250407211300 +0800" stop="20250407231300 +0800">
+		<title lang="zh">非诚勿扰3</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -79296,6 +79308,9 @@
 	<programme channel="newtv超级电影" start="20250407195600 +0800" stop="20250407210700 +0800">
 		<title lang="zh">电影《重装战警》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250407210700 +0800" stop="20250407224200 +0800">
+		<title lang="zh">电影《天堂口》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -79382,6 +79397,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250407202700 +0800" stop="20250407211200 +0800">
 		<title lang="zh">25_北上</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250407211200 +0800" stop="20250407215800 +0800">
+		<title lang="zh">26_北上</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -79560,6 +79578,9 @@
 	<programme channel="newtv精品纪录" start="20250407201900 +0800" stop="20250407210900 +0800">
 		<title lang="zh">02_焚余的清华瑰宝</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250407210900 +0800" stop="20250407222800 +0800">
+		<title lang="zh">03_四季更迭</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -79646,6 +79667,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250407204400 +0800" stop="20250407211400 +0800">
 		<title lang="zh">《美丽密码》推荐第80期</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250407211400 +0800" stop="20250407215400 +0800">
+		<title lang="zh">20_永夜星河</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -79736,6 +79760,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250407203000 +0800" stop="20250407211400 +0800">
 		<title lang="zh">22_危机迷雾</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250407211400 +0800" stop="20250407215900 +0800">
+		<title lang="zh">BEYONPAN钛健康炒锅优惠组-渠道（右）</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -80205,6 +80232,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250407202000 +0800" stop="20250407210300 +0800">
 		<title lang="zh">01_锦绣安宁</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250407210300 +0800" stop="20250407214900 +0800">
+		<title lang="zh">02_锦绣安宁</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -80417,6 +80447,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250407195200 +0800" stop="20250407210800 +0800">
 		<title lang="zh">“跑酷”男孩飞檐走壁惊呆众人 现场挑战空翻过七人（20250131）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250407210800 +0800" stop="20250407214800 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
