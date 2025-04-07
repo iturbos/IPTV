@@ -19740,6 +19740,9 @@
 	<programme channel="动作电影" start="20250407103900 +0800" stop="20250407120700 +0800">
 		<title lang="zh">纵横千里之一发千钧</title>
 	</programme>
+	<programme channel="动作电影" start="20250407120700 +0800" stop="20250407123700 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -57750,6 +57753,9 @@
 	<programme channel="爱情喜剧" start="20250407105400 +0800" stop="20250407120500 +0800">
 		<title lang="zh">16_创业年代</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250407120500 +0800" stop="20250407125100 +0800">
+		<title lang="zh">17_创业年代</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -79011,6 +79017,9 @@
 	<programme channel="newtv精品纪录" start="20250407111900 +0800" stop="20250407120900 +0800">
 		<title lang="zh">驼蒙苏有机全脂纯奶粉-春节版-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250407120900 +0800" stop="20250407124800 +0800">
+		<title lang="zh">主食千变（三）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -79058,6 +79067,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250407112400 +0800" stop="20250407121000 +0800">
 		<title lang="zh">08_长歌行</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250407121000 +0800" stop="20250407124000 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -79112,6 +79124,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250407114000 +0800" stop="20250407121000 +0800">
 		<title lang="zh">万向旋转净水器推广片4001087099</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250407121000 +0800" stop="20250407125600 +0800">
+		<title lang="zh">05_小站风云</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -79245,6 +79260,9 @@
 	<programme channel="newtv爱情喜剧" start="20250407105400 +0800" stop="20250407120500 +0800">
 		<title lang="zh">16_创业年代</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250407120500 +0800" stop="20250407125100 +0800">
+		<title lang="zh">17_创业年代</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -79271,6 +79289,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250407103900 +0800" stop="20250407120700 +0800">
 		<title lang="zh">纵横千里之一发千钧</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250407120700 +0800" stop="20250407123700 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
