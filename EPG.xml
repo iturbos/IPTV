@@ -83139,6 +83139,9 @@
 	<programme channel="newtv超级电视剧" start="20250408153000 +0800" stop="20250408161600 +0800">
 		<title lang="zh">36_大奉打更人</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250408161600 +0800" stop="20250408170200 +0800">
+		<title lang="zh">37_大奉打更人</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -84068,6 +84071,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250408154100 +0800" stop="20250408162000 +0800">
 		<title lang="zh">足行健老人鞋防滑按摩健康组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250408162000 +0800" stop="20250408174300 +0800">
+		<title lang="zh">十三邀第8季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
