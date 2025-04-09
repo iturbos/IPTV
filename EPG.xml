@@ -20832,6 +20832,9 @@
 	<programme channel="动作电影" start="20250409211000 +0800" stop="20250409214000 +0800">
 		<title lang="zh">《美丽改变生活》第十一期</title>
 	</programme>
+	<programme channel="动作电影" start="20250409214000 +0800" stop="20250409232100 +0800">
+		<title lang="zh">侦探亚历克斯</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -82518,6 +82521,9 @@
 	<programme channel="newtv超级综艺" start="20250409205100 +0800" stop="20250409214700 +0800">
 		<title lang="zh">一笑一周</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250409214700 +0800" stop="20250409224300 +0800">
+		<title lang="zh">音乐告白屋</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -82811,6 +82817,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250409205300 +0800" stop="20250409214000 +0800">
 		<title lang="zh">08_勇敢的心2</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250409214000 +0800" stop="20250409220900 +0800">
+		<title lang="zh">（券）自然之臻阿拉斯加鳕鱼-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -83394,6 +83403,9 @@
 	<programme channel="newtv动作电影" start="20250409211000 +0800" stop="20250409214000 +0800">
 		<title lang="zh">《美丽改变生活》第十一期</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250409214000 +0800" stop="20250409232100 +0800">
+		<title lang="zh">侦探亚历克斯</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -83730,6 +83742,9 @@
 	<programme channel="newtv军事评论" start="20250409211200 +0800" stop="20250409213800 +0800">
 		<title lang="zh">撞船事件新进展 两岸如何破僵局？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250409213800 +0800" stop="20250409220300 +0800">
+		<title lang="zh">高调“感恩”李登辉 赖清德媚日添新招</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84015,6 +84030,9 @@
 	<programme channel="newtv金牌综艺" start="20250409205300 +0800" stop="20250409213200 +0800">
 		<title lang="zh">刘永森作品龙瑞太平掐丝珐琅蟠龙瓶-渠道（右）</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250409213200 +0800" stop="20250409221600 +0800">
+		<title lang="zh">偶然的煮意</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -84176,6 +84194,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250409205200 +0800" stop="20250409213400 +0800">
 		<title lang="zh">07_且试天下</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250409213400 +0800" stop="20250409220400 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第13期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
