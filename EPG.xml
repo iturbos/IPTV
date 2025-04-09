@@ -82923,6 +82923,9 @@
 	<programme channel="newtv家庭剧场" start="20250409152700 +0800" stop="20250409160500 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款新-渠道（右）</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250409160500 +0800" stop="20250409165400 +0800">
+		<title lang="zh">14_我爱男保姆</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -82979,6 +82982,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250409153700 +0800" stop="20250409161400 +0800">
 		<title lang="zh">01_证词</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250409161400 +0800" stop="20250409165700 +0800">
+		<title lang="zh">02_证词</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -83141,6 +83147,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250409155900 +0800" stop="20250409161100 +0800">
 		<title lang="zh">相声《广东话》 表演者：姜昆 戴志诚</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250409161100 +0800" stop="20250409162400 +0800">
+		<title lang="zh">相声《挑战主持人》 表演：高峰 栾云平 尼格买提 杨帆</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -83382,6 +83391,9 @@
 	<programme channel="newtv炫舞未来" start="20250409151200 +0800" stop="20250409161200 +0800">
 		<title lang="zh">“蘑菇蘑菇”手势舞 超萌来袭！（20240815）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250409161200 +0800" stop="20250409170100 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -83523,6 +83535,9 @@
 	<programme channel="newtv金牌综艺" start="20250409153900 +0800" stop="20250409161700 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款新-渠道（右）</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250409161700 +0800" stop="20250409172500 +0800">
+		<title lang="zh">十三邀第8季</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -83648,6 +83663,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250409151800 +0800" stop="20250409161100 +0800">
 		<title lang="zh">51_有翡</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250409161100 +0800" stop="20250409165600 +0800">
+		<title lang="zh">01_大武当</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
