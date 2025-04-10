@@ -61566,6 +61566,9 @@
 	<programme channel="爱情喜剧" start="20250410153300 +0800" stop="20250410161500 +0800">
 		<title lang="zh">24_陆贞传奇</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250410161500 +0800" stop="20250410170300 +0800">
+		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -84027,6 +84030,9 @@
 	<programme channel="newtv精品纪录" start="20250410153300 +0800" stop="20250410161200 +0800">
 		<title lang="zh">05_天山南北寻味记</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250410161200 +0800" stop="20250410165100 +0800">
+		<title lang="zh">06_天山南北寻味记</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -84288,6 +84294,9 @@
 	<programme channel="newtv热播精选" start="20250410152500 +0800" stop="20250410160500 +0800">
 		<title lang="zh">05_证词</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250410160500 +0800" stop="20250410164800 +0800">
+		<title lang="zh">06_证词</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -84332,6 +84341,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250410153300 +0800" stop="20250410161500 +0800">
 		<title lang="zh">24_陆贞传奇</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250410161500 +0800" stop="20250410170300 +0800">
+		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -84440,6 +84452,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250410160000 +0800" stop="20250410161000 +0800">
 		<title lang="zh">小品《回家》 表演：郭冬临 邵峰</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250410161000 +0800" stop="20250410162600 +0800">
+		<title lang="zh">小品《坑》沈腾、马丽、艾伦、常远、宋阳、于健</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -84813,6 +84828,9 @@
 	<programme channel="newtv金牌综艺" start="20250410152200 +0800" stop="20250410161200 +0800">
 		<title lang="zh">一笑一周</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250410161200 +0800" stop="20250410165000 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款新-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -84941,6 +84959,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250410151300 +0800" stop="20250410160100 +0800">
 		<title lang="zh">04_大武当</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250410160100 +0800" stop="20250410164600 +0800">
+		<title lang="zh">05_大武当</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
