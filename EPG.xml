@@ -43809,6 +43809,9 @@
 	<programme channel="明星大片" start="20250410143700 +0800" stop="20250410150200 +0800">
 		<title lang="zh">26_葬送的芙莉莲</title>
 	</programme>
+	<programme channel="明星大片" start="20250410150200 +0800" stop="20250410154100 +0800">
+		<title lang="zh">西湖颐特级明前龙井茶中视频</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -72315,6 +72318,9 @@
 	<programme channel="超级电影" start="20250410135400 +0800" stop="20250410151800 +0800">
 		<title lang="zh">电影《飞鱼服》</title>
 	</programme>
+	<programme channel="超级电影" start="20250410151800 +0800" stop="20250410162200 +0800">
+		<title lang="zh">电影《那年青春正年少》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -83769,6 +83775,9 @@
 	<programme channel="newtv超级电影" start="20250410135400 +0800" stop="20250410151800 +0800">
 		<title lang="zh">电影《飞鱼服》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250410151800 +0800" stop="20250410162200 +0800">
+		<title lang="zh">电影《那年青春正年少》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -83897,6 +83906,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250410142700 +0800" stop="20250410151100 +0800">
 		<title lang="zh">13_千古玦尘</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250410151100 +0800" stop="20250410155500 +0800">
+		<title lang="zh">14_千古玦尘</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -84105,6 +84117,9 @@
 	<programme channel="newtv军旅剧场" start="20250410141300 +0800" stop="20250410150200 +0800">
 		<title lang="zh">19_小站风云</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250410150200 +0800" stop="20250410155200 +0800">
+		<title lang="zh">20_小站风云</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -84167,6 +84182,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250410142100 +0800" stop="20250410150700 +0800">
 		<title lang="zh">14_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250410150700 +0800" stop="20250410154500 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款新-渠道（右）</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -84585,6 +84603,9 @@
 	<programme channel="newtv炫舞未来" start="20250410145400 +0800" stop="20250410151500 +0800">
 		<title lang="zh">八段锦十二分钟口令版（20230711）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250410151500 +0800" stop="20250410153700 +0800">
+		<title lang="zh">八段锦教学（20230724）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -84638,6 +84659,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250410143700 +0800" stop="20250410150200 +0800">
 		<title lang="zh">26_葬送的芙莉莲</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250410150200 +0800" stop="20250410154100 +0800">
+		<title lang="zh">西湖颐特级明前龙井茶中视频</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -84707,6 +84731,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250410140600 +0800" stop="20250410152200 +0800">
 		<title lang="zh">艾嘉食堂</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250410152200 +0800" stop="20250410161200 +0800">
+		<title lang="zh">一笑一周</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -84830,6 +84857,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250410142800 +0800" stop="20250410151300 +0800">
 		<title lang="zh">03_大武当</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250410151300 +0800" stop="20250410160100 +0800">
+		<title lang="zh">04_大武当</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
