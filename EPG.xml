@@ -67578,6 +67578,9 @@
 	<programme channel="纯享4K" start="20250410131500 +0800" stop="20250410140400 +0800">
 		<title lang="zh">世界遗产漫步 大运河4K 第1集</title>
 	</programme>
+	<programme channel="纯享4K" start="20250410140400 +0800" stop="20250410145400 +0800">
+		<title lang="zh">世界遗产漫步 大运河4K 第2集</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -82707,6 +82710,9 @@
 	<programme channel="黑莓动画" start="20250410124600 +0800" stop="20250410140800 +0800">
 		<title lang="zh">邋遢大王奇遇记电影版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250410140800 +0800" stop="20250410153600 +0800">
+		<title lang="zh">太空勇狗队</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83799,6 +83805,9 @@
 	<programme channel="newtv超级电视剧" start="20250410132400 +0800" stop="20250410140900 +0800">
 		<title lang="zh">32_再造之恩</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250410140900 +0800" stop="20250410145500 +0800">
+		<title lang="zh">03_大河之水</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -84051,6 +84060,9 @@
 	<programme channel="newtv军旅剧场" start="20250410132400 +0800" stop="20250410141300 +0800">
 		<title lang="zh">18_小站风云</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250410141300 +0800" stop="20250410150200 +0800">
+		<title lang="zh">19_小站风云</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -84158,6 +84170,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250410131400 +0800" stop="20250410140300 +0800">
 		<title lang="zh">加岛鲜蒸即食辽刺参实惠组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250410140300 +0800" stop="20250410144200 +0800">
+		<title lang="zh">03_证词</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -84444,6 +84459,9 @@
 	<programme channel="newtv军事评论" start="20250410131300 +0800" stop="20250410140500 +0800">
 		<title lang="zh">烽火年代忆青春 《谁是终极英雄》走进辽宁朝阳</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250410140500 +0800" stop="20250410145800 +0800">
+		<title lang="zh">西藏高原的钢铁运输线《谁是终极英雄》走进西藏军区某汽车运输旅</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84617,6 +84635,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250410132400 +0800" stop="20250410140600 +0800">
 		<title lang="zh">邻家诗话第4季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250410140600 +0800" stop="20250410152200 +0800">
+		<title lang="zh">艾嘉食堂</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
