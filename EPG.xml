@@ -43584,6 +43584,9 @@
 	<programme channel="明星大片" start="20250411223000 +0800" stop="20250411231300 +0800">
 		<title lang="zh">20_我，喜欢你</title>
 	</programme>
+	<programme channel="明星大片" start="20250411231300 +0800" stop="20250411001300 +0800">
+		<title lang="zh">超凡追击者</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -83499,6 +83502,9 @@
 	<programme channel="newtv超级综艺" start="20250411222700 +0800" stop="20250411230100 +0800">
 		<title lang="zh">TOP音乐咖</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250411230100 +0800" stop="20250411234700 +0800">
+		<title lang="zh">29_九重紫</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -83802,6 +83808,9 @@
 	<programme channel="newtv精品大剧" start="20250411222200 +0800" stop="20250411231100 +0800">
 		<title lang="zh">17_勇敢的心2</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250411231100 +0800" stop="20250411235700 +0800">
+		<title lang="zh">18_勇敢的心2</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -83897,6 +83906,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250411222600 +0800" stop="20250411230400 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款新-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250411230400 +0800" stop="20250411000100 +0800">
+		<title lang="zh">走进老区看新貌：贵州</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -84516,6 +84528,9 @@
 	<programme channel="newtv怡伴健康" start="20250411224000 +0800" stop="20250411231000 +0800">
 		<title lang="zh">《时尚小咖秀》推荐第13期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250411231000 +0800" stop="20250411233600 +0800">
+		<title lang="zh">拯救脑危机——怎能让我不难过？</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -84756,6 +84771,9 @@
 	<programme channel="newtv军事评论" start="20250411225000 +0800" stop="20250411231600 +0800">
 		<title lang="zh">菲舰又闯南海 赖清德竟还帮腔</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250411231600 +0800" stop="20250411234100 +0800">
+		<title lang="zh">心腹爆桃色丑闻 赖清德民调暴跌</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84953,6 +84971,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250411223000 +0800" stop="20250411231300 +0800">
 		<title lang="zh">20_我，喜欢你</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250411231300 +0800" stop="20250411001300 +0800">
+		<title lang="zh">超凡追击者</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
