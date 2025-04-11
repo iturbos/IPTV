@@ -20676,6 +20676,9 @@
 	<programme channel="动作电影" start="20250411122800 +0800" stop="20250411130600 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款新-渠道（右）</title>
 	</programme>
+	<programme channel="动作电影" start="20250411130600 +0800" stop="20250411143900 +0800">
+		<title lang="zh">鲨卷风3</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -66903,6 +66906,9 @@
 	<programme channel="纯享4K" start="20250411122900 +0800" stop="20250411131000 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 运河岸边是我家</title>
 	</programme>
+	<programme channel="纯享4K" start="20250411131600 +0800" stop="20250411132100 +0800">
+		<title lang="zh">美丽中国自然4K 云梦江城系列 豹澥湖新居民</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -83160,6 +83166,9 @@
 	<programme channel="newtv超级体育" start="20250411120000 +0800" stop="20250411130500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250411130500 +0800" stop="20250411132500 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -83520,6 +83529,9 @@
 	<programme channel="newtv家庭剧场" start="20250411122800 +0800" stop="20250411130300 +0800">
 		<title lang="zh">LECEA富硒水杯尊享组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250411130300 +0800" stop="20250411135300 +0800">
+		<title lang="zh">18_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -83634,6 +83646,9 @@
 	<programme channel="newtv动作电影" start="20250411122800 +0800" stop="20250411130600 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款新-渠道（右）</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250411130600 +0800" stop="20250411143900 +0800">
+		<title lang="zh">鲨卷风3</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -83687,6 +83702,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250411122500 +0800" stop="20250411131100 +0800">
 		<title lang="zh">13_生活就是家</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250411131100 +0800" stop="20250411140000 +0800">
+		<title lang="zh">14_生活就是家</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
