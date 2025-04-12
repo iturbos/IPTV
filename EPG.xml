@@ -47085,6 +47085,9 @@
 	<programme channel="newtv超级电影" start="20250413020800 +0800" stop="20250413033200 +0800">
 		<title lang="zh">猫脸老太太</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250413033200 +0800" stop="20250413050100 +0800">
+		<title lang="zh">爱丽舍宫谜案</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -47102,6 +47105,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250413030300 +0800" stop="20250413034500 +0800">
 		<title lang="zh">21_故乡的泥土</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250413034500 +0800" stop="20250413042600 +0800">
+		<title lang="zh">22_故乡的泥土</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -47180,6 +47186,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250413023200 +0800" stop="20250413031700 +0800">
 		<title lang="zh">02_娘亲舅大</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250413031700 +0800" stop="20250413040400 +0800">
+		<title lang="zh">33_原来就是你</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -47288,6 +47297,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250413030500 +0800" stop="20250413032600 +0800">
 		<title lang="zh">负重背心-臀腿训练（20250401）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250413032600 +0800" stop="20250413034800 +0800">
+		<title lang="zh">肱三头肌训练</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
