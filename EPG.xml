@@ -27906,6 +27906,9 @@
 	<programme channel="咪咕综合体育" start="20250413200000 +0800" stop="20250413231000 +0800">
 		<title lang="zh">英超赛场-24/25赛季英超 第32轮 利物浦-西汉姆联 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250413231500 +0800" stop="20250413000000 +0800">
+		<title lang="zh">英超赛场-24/25赛季英超 第32轮 纽卡斯尔联-曼联 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -60981,6 +60984,9 @@
 	<programme channel="爱情喜剧" start="20250413221400 +0800" stop="20250413230300 +0800">
 		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250413230300 +0800" stop="20250413003500 +0800">
+		<title lang="zh">甜心战士</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -66854,6 +66860,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250413224800 +0800" stop="20250413231200 +0800">
 		<title lang="zh">鲜生史 第二季4K 第3集 袁枚 先生的随园不随便</title>
+	</programme>
+	<programme channel="纯享4K" start="20250413231200 +0800" stop="20250413233500 +0800">
+		<title lang="zh">鲜生史 第二季4K 第4集 袁枚 我若心不老，岁月奈我何</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -83619,6 +83628,9 @@
 	<programme channel="newtv爱情喜剧" start="20250413221400 +0800" stop="20250413230300 +0800">
 		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250413230300 +0800" stop="20250413003500 +0800">
+		<title lang="zh">甜心战士</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -84035,6 +84047,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250413224500 +0800" stop="20250413231100 +0800">
 		<title lang="zh">“大法官”提名最烂 赖清德包藏祸心</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250413231100 +0800" stop="20250413233600 +0800">
+		<title lang="zh">台湾民众党：支持柯文哲抗告到底</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
