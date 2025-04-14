@@ -19350,6 +19350,9 @@
 	<programme channel="动作电影" start="20250414144400 +0800" stop="20250414160300 +0800">
 		<title lang="zh">狄仁杰之伏妖篇</title>
 	</programme>
+	<programme channel="动作电影" start="20250414160300 +0800" stop="20250414164300 +0800">
+		<title lang="zh">五黑桃酥中视频</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -77733,6 +77736,9 @@
 	<programme channel="newtv精品纪录" start="20250414154700 +0800" stop="20250414160100 +0800">
 		<title lang="zh">03_鲁迅 爱吃甜食的斗士</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250414160100 +0800" stop="20250414161600 +0800">
+		<title lang="zh">04_鲁迅 敢吃螃蟹的勇士</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -78066,6 +78072,9 @@
 	<programme channel="newtv动作电影" start="20250414144400 +0800" stop="20250414160300 +0800">
 		<title lang="zh">狄仁杰之伏妖篇</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250414160300 +0800" stop="20250414164300 +0800">
+		<title lang="zh">五黑桃酥中视频</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -78204,6 +78213,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250414152500 +0800" stop="20250414160800 +0800">
 		<title lang="zh">05_岁岁青莲</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250414160800 +0800" stop="20250414170800 +0800">
+		<title lang="zh">优雅男人的真诚爱情</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -78290,6 +78302,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250414151700 +0800" stop="20250414160900 +0800">
 		<title lang="zh">灯火背后的橄榄绿</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250414160900 +0800" stop="20250414170200 +0800">
+		<title lang="zh">军民共建谱华章 国防知识挑战赛走进双拥模范城</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -78495,6 +78510,9 @@
 	<programme channel="newtv金牌综艺" start="20250414151900 +0800" stop="20250414160800 +0800">
 		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250414160800 +0800" stop="20250414172500 +0800">
+		<title lang="zh">艾嘉食堂</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -78623,6 +78641,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250414152100 +0800" stop="20250414161000 +0800">
 		<title lang="zh">20_大武当</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250414161000 +0800" stop="20250414165500 +0800">
+		<title lang="zh">21_大武当</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
