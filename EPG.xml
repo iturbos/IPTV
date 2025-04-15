@@ -81612,6 +81612,9 @@
 	<programme channel="黑莓动画" start="20250415200200 +0800" stop="20250415214000 +0800">
 		<title lang="zh">银魂最终篇</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250415214000 +0800" stop="20250415230900 +0800">
+		<title lang="zh">海绵宝宝：水兵陆战队</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82536,6 +82539,9 @@
 	<programme channel="newtv超级综艺" start="20250415205100 +0800" stop="20250415214600 +0800">
 		<title lang="zh">回声嘹亮—音乐告白屋</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250415214600 +0800" stop="20250415225200 +0800">
+		<title lang="zh">选对健康</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -82589,6 +82595,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250415193000 +0800" stop="20250415214500 +0800">
 		<title lang="zh">2024/2025赛季中国男子篮球职业联赛-1/4决赛3 辽宁本钢vs新疆伊力特</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250415214500 +0800" stop="20250415225000 +0800">
+		<title lang="zh">体育世界</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -82817,6 +82826,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250415205300 +0800" stop="20250415213800 +0800">
 		<title lang="zh">32_勇敢的心2</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250415213800 +0800" stop="20250415220700 +0800">
+		<title lang="zh">（券）自然之臻阿拉斯加鳕鱼-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -83589,6 +83601,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250415205400 +0800" stop="20250415214000 +0800">
 		<title lang="zh">34_锦绣安宁</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250415214000 +0800" stop="20250415222900 +0800">
+		<title lang="zh">Healthwow100%南极磷虾油高吸收尊享装-渠道（右）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -84051,6 +84066,9 @@
 	<programme channel="newtv精品体育" start="20250415201000 +0800" stop="20250415214300 +0800">
 		<title lang="zh">NBA常规赛3月2日：马刺VS灰熊</title>
 	</programme>
+	<programme channel="newtv精品体育" start="20250415214300 +0800" stop="20250415231000 +0800">
+		<title lang="zh">NBA常规赛2月26日：独行侠VS湖人</title>
+	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
 	</channel>
@@ -84170,6 +84188,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250415205300 +0800" stop="20250415213300 +0800">
 		<title lang="zh">31_且试天下</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250415213300 +0800" stop="20250415220300 +0800">
+		<title lang="zh">《八段锦》推荐第20期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
