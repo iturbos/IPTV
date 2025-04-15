@@ -43140,6 +43140,9 @@
 	<programme channel="明星大片" start="20250415175500 +0800" stop="20250415185300 +0800">
 		<title lang="zh">半熟恋人第2季</title>
 	</programme>
+	<programme channel="明星大片" start="20250415185300 +0800" stop="20250415193200 +0800">
+		<title lang="zh">五黑桃酥中视频</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -66231,6 +66234,9 @@
 	<programme channel="纯享4K" start="20250415181900 +0800" stop="20250415184900 +0800">
 		<title lang="zh">寻古中国4K 河洛记b7兼收并蓄</title>
 	</programme>
+	<programme channel="纯享4K" start="20250415184900 +0800" stop="20250415192900 +0800">
+		<title lang="zh">探索b7发现4K 匠人b7匠心（30）</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -70985,6 +70991,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250415180300 +0800" stop="20250415192100 +0800">
 		<title lang="zh">电影《降龙罗汉》</title>
+	</programme>
+	<programme channel="超级电影" start="20250415192100 +0800" stop="20250415205400 +0800">
+		<title lang="zh">电影《反贪风暴之加密危机》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -81588,6 +81597,9 @@
 	<programme channel="黑莓电影" start="20250415175500 +0800" stop="20250415191400 +0800">
 		<title lang="zh">哪吒之灵珠重生</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250415191400 +0800" stop="20250415202400 +0800">
+		<title lang="zh">古剑奇谭之悲歌咒</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -82512,6 +82524,9 @@
 	<programme channel="newtv超级体育" start="20250415180000 +0800" stop="20250415190000 +0800">
 		<title lang="zh">体育新闻</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250415190000 +0800" stop="20250415193000 +0800">
+		<title lang="zh">赛事集锦-德国足球甲级联赛第29轮集锦(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -82553,6 +82568,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250415180300 +0800" stop="20250415192100 +0800">
 		<title lang="zh">电影《降龙罗汉》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250415192100 +0800" stop="20250415205400 +0800">
+		<title lang="zh">电影《反贪风暴之加密危机》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -82635,6 +82653,9 @@
 	<programme channel="newtv超级电视剧" start="20250415182700 +0800" stop="20250415191200 +0800">
 		<title lang="zh">38_那座城这家人（DVD版）</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250415191200 +0800" stop="20250415195800 +0800">
+		<title lang="zh">13_六姊妹</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -82709,6 +82730,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250415180200 +0800" stop="20250415185100 +0800">
 		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250415185100 +0800" stop="20250415193700 +0800">
+		<title lang="zh">29_九重紫</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -82815,6 +82839,9 @@
 	<programme channel="newtv精品纪录" start="20250415180500 +0800" stop="20250415185400 +0800">
 		<title lang="zh">04_辽源十年</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250415185400 +0800" stop="20250415191900 +0800">
+		<title lang="zh">01_怒发冲冠</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82886,6 +82913,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250415180600 +0800" stop="20250415184800 +0800">
 		<title lang="zh">17_女医明妃传</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250415184800 +0800" stop="20250415191800 +0800">
+		<title lang="zh">《八段锦》推荐第20期</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -83042,6 +83072,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250415180800 +0800" stop="20250415185200 +0800">
 		<title lang="zh">09_兰闺喜事</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250415185200 +0800" stop="20250415193300 +0800">
+		<title lang="zh">10_兰闺喜事</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -83295,6 +83328,9 @@
 	<programme channel="newtv怡伴健康" start="20250415181700 +0800" stop="20250415190200 +0800">
 		<title lang="zh">福建梦幻vs四川蓉城 第2局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250415190200 +0800" stop="20250415193200 +0800">
+		<title lang="zh">《美丽密码》推荐第88期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -83490,6 +83526,9 @@
 	<programme channel="newtv军事评论" start="20250415183100 +0800" stop="20250415185600 +0800">
 		<title lang="zh">闪耀的她 战斗剧社的女兵</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250415185600 +0800" stop="20250415192200 +0800">
+		<title lang="zh">守卫在绝美湖畔</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -83568,6 +83607,9 @@
 	<programme channel="newtv炫舞未来" start="20250415181900 +0800" stop="20250415190800 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250415190800 +0800" stop="20250415195300 +0800">
+		<title lang="zh">13_我的后半生</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -83633,6 +83675,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250415175500 +0800" stop="20250415185300 +0800">
 		<title lang="zh">半熟恋人第2季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250415185300 +0800" stop="20250415193200 +0800">
+		<title lang="zh">五黑桃酥中视频</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -83726,6 +83771,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250415174800 +0800" stop="20250415192100 +0800">
 		<title lang="zh">心动的信号第7季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250415192100 +0800" stop="20250415200900 +0800">
+		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -83876,6 +83924,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250415182200 +0800" stop="20250415190200 +0800">
 		<title lang="zh">28_且试天下</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250415190200 +0800" stop="20250415193200 +0800">
+		<title lang="zh">《美丽密码》推荐第88期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
