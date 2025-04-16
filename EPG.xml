@@ -27981,6 +27981,9 @@
 	<programme channel="咪咕足球" start="20250416143000 +0800" stop="20250416161000 +0800">
 		<title lang="zh">篮球：为爱而生01 热爱</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250416161000 +0800" stop="20250416175000 +0800">
+		<title lang="zh">当燃CBA-24/25季后赛12进8淘汰赛G3 广东东阳光-上海久事</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -80250,6 +80253,9 @@
 	<programme channel="黑莓动画" start="20250416144700 +0800" stop="20250416161600 +0800">
 		<title lang="zh">海绵宝宝：水兵陆战队</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250416161600 +0800" stop="20250416172100 +0800">
+		<title lang="zh">狐妖小红娘b7月红2</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -81324,6 +81330,9 @@
 	<programme channel="newtv超级电视剧" start="20250416152300 +0800" stop="20250416160800 +0800">
 		<title lang="zh">29_大河之水</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250416160800 +0800" stop="20250416165300 +0800">
+		<title lang="zh">30_大河之水</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -81386,6 +81395,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250416152000 +0800" stop="20250416160400 +0800">
 		<title lang="zh">38_千古玦尘</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250416160400 +0800" stop="20250416164300 +0800">
+		<title lang="zh">国和堂牌辅酶Q10软胶囊-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -82040,6 +82052,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250416155200 +0800" stop="20250416161200 +0800">
 		<title lang="zh">桂林 只有真情敬亲人/武汉 一江春水向东流</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250416161200 +0800" stop="20250416163700 +0800">
+		<title lang="zh">边关海岛的多彩军营</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
