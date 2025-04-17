@@ -28266,6 +28266,9 @@
 	<programme channel="咪咕综合体育" start="20250417144000 +0800" stop="20250417150500 +0800">
 		<title lang="zh">中超精华 第5轮</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250417151500 +0800" stop="20250417165500 +0800">
+		<title lang="zh">中超来噜-2025赛季中超 第6轮 上海申花-浙江俱乐部绿城</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -43949,6 +43952,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250417144200 +0800" stop="20250417150600 +0800">
 		<title lang="zh">12_咒术回战</title>
+	</programme>
+	<programme channel="明星大片" start="20250417150600 +0800" stop="20250417154600 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -82929,6 +82935,9 @@
 	<programme channel="newtv精品大剧" start="20250417142400 +0800" stop="20250417150800 +0800">
 		<title lang="zh">41_千古玦尘</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250417150800 +0800" stop="20250417155100 +0800">
+		<title lang="zh">42_千古玦尘</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -83064,6 +83073,9 @@
 	<programme channel="newtv古装剧场" start="20250417142000 +0800" stop="20250417150500 +0800">
 		<title lang="zh">49_长歌行</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250417150500 +0800" stop="20250417154900 +0800">
+		<title lang="zh">01_流水迢迢</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -83180,6 +83192,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250417142500 +0800" stop="20250417151000 +0800">
 		<title lang="zh">48_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250417151000 +0800" stop="20250417160200 +0800">
+		<title lang="zh">日本跨境Yanagozawa牛黄宝营养素-渠道（右）</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -83439,6 +83454,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250417142200 +0800" stop="20250417150500 +0800">
 		<title lang="zh">15_岁岁青莲</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250417150500 +0800" stop="20250417154600 +0800">
+		<title lang="zh">16_岁岁青莲</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -83649,6 +83667,9 @@
 	<programme channel="newtv精品综合" start="20250417144200 +0800" stop="20250417150600 +0800">
 		<title lang="zh">12_咒术回战</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250417150600 +0800" stop="20250417154600 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -83831,6 +83852,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250417142600 +0800" stop="20250417151000 +0800">
 		<title lang="zh">06_千古玦尘</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250417151000 +0800" stop="20250417155800 +0800">
+		<title lang="zh">07_千古玦尘</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
