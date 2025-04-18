@@ -43356,6 +43356,9 @@
 	<programme channel="明星大片" start="20250418222000 +0800" stop="20250418230600 +0800">
 		<title lang="zh">22_在暴雪时分</title>
 	</programme>
+	<programme channel="明星大片" start="20250418230600 +0800" stop="20250418001900 +0800">
+		<title lang="zh">鲁班四杰之伏龙海眼</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -82863,6 +82866,9 @@
 	<programme channel="newtv超级电视剧" start="20250418223100 +0800" stop="20250418231600 +0800">
 		<title lang="zh">39_刘老根3</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250418231600 +0800" stop="20250418235900 +0800">
+		<title lang="zh">40_刘老根3</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -83051,6 +83057,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250418225100 +0800" stop="20250418231600 +0800">
 		<title lang="zh">第5集：去远方</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250418231600 +0800" stop="20250418234100 +0800">
+		<title lang="zh">第6集：工运风暴</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -83658,6 +83667,9 @@
 	<programme channel="newtv怡伴健康" start="20250418225700 +0800" stop="20250418231000 +0800">
 		<title lang="zh">小品《产房门前》 表演：郭达 杨蕾</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250418231000 +0800" stop="20250418233600 +0800">
+		<title lang="zh">岁月全知道——因父而刚</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -83904,6 +83916,9 @@
 	<programme channel="newtv军事评论" start="20250418224200 +0800" stop="20250418230700 +0800">
 		<title lang="zh">赖清德“以武拒统”注定失败</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250418230700 +0800" stop="20250418233300 +0800">
+		<title lang="zh">大陆惩“独”新举 台媒称细火慢炖</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84080,6 +84095,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250418222000 +0800" stop="20250418230600 +0800">
 		<title lang="zh">22_在暴雪时分</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250418230600 +0800" stop="20250418001900 +0800">
+		<title lang="zh">鲁班四杰之伏龙海眼</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
