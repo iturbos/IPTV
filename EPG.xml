@@ -82107,6 +82107,9 @@
 	<programme channel="newtv精品纪录" start="20250419114600 +0800" stop="20250419121100 +0800">
 		<title lang="zh">04_最强大脑</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250419121100 +0800" stop="20250419123500 +0800">
+		<title lang="zh">05_对立的大脑</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82545,6 +82548,9 @@
 	<programme channel="newtv军事评论" start="20250419114500 +0800" stop="20250419121000 +0800">
 		<title lang="zh">黎巴嫩真主党开启第一阶段报复行动 加沙地带停火谈判继续举行</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250419121000 +0800" stop="20250419123500 +0800">
+		<title lang="zh">俄乌互相发动大规模空袭 朝鲜进行无人机试验 美韩“双龙”演习启动</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -82604,6 +82610,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250419112300 +0800" stop="20250419121200 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250419121200 +0800" stop="20250419132900 +0800">
+		<title lang="zh">一起回忆那些年我们追过的武侠剧！（20240902）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
