@@ -65937,6 +65937,9 @@
 	<programme channel="纯享4K" start="20250419131300 +0800" stop="20250419140300 +0800">
 		<title lang="zh">国家公园——万物共生之境4K 第5集 万物生息</title>
 	</programme>
+	<programme channel="纯享4K" start="20250419140300 +0800" stop="20250419145300 +0800">
+		<title lang="zh">国家公园：野生动物王国4K 第一集 野性的天堂</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -81012,6 +81015,9 @@
 	<programme channel="黑莓电影" start="20250419125200 +0800" stop="20250419141500 +0800">
 		<title lang="zh">加油二师兄</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250419141500 +0800" stop="20250419161600 +0800">
+		<title lang="zh">逆行人生</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -82257,6 +82263,9 @@
 	<programme channel="newtv古装剧场" start="20250419132000 +0800" stop="20250419141000 +0800">
 		<title lang="zh">08_流水迢迢</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250419141000 +0800" stop="20250419145800 +0800">
+		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -82373,6 +82382,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250419131600 +0800" stop="20250419140200 +0800">
 		<title lang="zh">57_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250419140200 +0800" stop="20250419144200 +0800">
+		<title lang="zh">白水杜康小批量酿造酒499版高清10分 400-855-7879</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -82569,6 +82581,9 @@
 	<programme channel="newtv怡伴健康" start="20250419135600 +0800" stop="20250419140700 +0800">
 		<title lang="zh">相声《我知道》李寅飞、李丁</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250419140700 +0800" stop="20250419142000 +0800">
+		<title lang="zh">相声《导演的“心事”》 表演：金霏 陈曦 董建春 等（字幕版）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -82716,6 +82731,9 @@
 	<programme channel="newtv军事评论" start="20250419134400 +0800" stop="20250419140600 +0800">
 		<title lang="zh">枪械纪元b7机枪 下</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250419140600 +0800" stop="20250419142800 +0800">
+		<title lang="zh">走向深蓝（8）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -82781,6 +82799,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250419132900 +0800" stop="20250419140900 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250419140900 +0800" stop="20250419144200 +0800">
+		<title lang="zh">姊妹俩抢赡养1</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
