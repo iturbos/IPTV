@@ -38736,6 +38736,9 @@
 	<programme channel="惊悚悬疑" start="20250420095100 +0800" stop="20250420113300 +0800">
 		<title lang="zh">怒火冲天</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250420113300 +0800" stop="20250420121300 +0800">
+		<title lang="zh">西湖颐特级明前龙井茶 149元高清10分 买二送一400-855-7879</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -42113,6 +42116,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250420105800 +0800" stop="20250420113600 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款新-渠道（右）</title>
+	</programme>
+	<programme channel="明星大片" start="20250420113600 +0800" stop="20250420132700 +0800">
+		<title lang="zh">他是龙</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -64212,6 +64218,9 @@
 	<programme channel="纯享4K" start="20250420105800 +0800" stop="20250420113800 +0800">
 		<title lang="zh">探索b7发现4K 匠人b7匠心（35）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250420113800 +0800" stop="20250420122000 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 运河明珠 文武沧州</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -79104,6 +79113,9 @@
 	<programme channel="黑莓电影" start="20250420100800 +0800" stop="20250420114400 +0800">
 		<title lang="zh">下一站：幸福</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250420114400 +0800" stop="20250420131600 +0800">
+		<title lang="zh">时空之旅</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -80019,6 +80031,9 @@
 	<programme channel="newtv超级综艺" start="20250420100900 +0800" stop="20250420115100 +0800">
 		<title lang="zh">国家宝藏 第三季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250420115100 +0800" stop="20250420131000 +0800">
+		<title lang="zh">一馔千年</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -80048,6 +80063,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250420093000 +0800" stop="20250420120000 +0800">
 		<title lang="zh">2024/2025赛季美国职业篮球联赛-季后赛第一轮</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250420120000 +0800" stop="20250420130500 +0800">
+		<title lang="zh">体坛快讯</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -80126,6 +80144,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250420112400 +0800" stop="20250420120500 +0800">
 		<title lang="zh">08_一路向前</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250420120500 +0800" stop="20250420124700 +0800">
+		<title lang="zh">09_一路向前</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -80327,6 +80348,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250420105100 +0800" stop="20250420113500 +0800">
 		<title lang="zh">31_铁血玫瑰</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250420113500 +0800" stop="20250420121500 +0800">
+		<title lang="zh">思独鲜五黑桃酥高清10分 400-855-7879</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -80589,6 +80613,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250420105400 +0800" stop="20250420113400 +0800">
 		<title lang="zh">草本卉影油污净99元 高清10分 400-855-7879</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250420113400 +0800" stop="20250420122200 +0800">
+		<title lang="zh">舌尖上的中国 第三季</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -80655,6 +80682,9 @@
 	<programme channel="newtv军事评论" start="20250420110900 +0800" stop="20250420113400 +0800">
 		<title lang="zh">俄军首次使用导弹和制导航空炸弹混合体 日本海上自卫队改组 欲打造“</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250420113400 +0800" stop="20250420120000 +0800">
+		<title lang="zh">乌计划无限期“守住”占俄领土 美空军接收“最强”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -80706,6 +80736,9 @@
 	<programme channel="newtv炫舞未来" start="20250420110100 +0800" stop="20250420114600 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250420114600 +0800" stop="20250420130300 +0800">
+		<title lang="zh">姐妹同心 未来可期 三姐妹热血献唱《战马》（20241026）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -80745,6 +80778,9 @@
 	<programme channel="newtv精品综合" start="20250420105800 +0800" stop="20250420113600 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款新-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250420113600 +0800" stop="20250420132700 +0800">
+		<title lang="zh">他是龙</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -80771,6 +80807,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250420095100 +0800" stop="20250420113300 +0800">
 		<title lang="zh">怒火冲天</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250420113300 +0800" stop="20250420121300 +0800">
+		<title lang="zh">西湖颐特级明前龙井茶 149元高清10分 买二送一400-855-7879</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
