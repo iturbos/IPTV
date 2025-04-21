@@ -65943,6 +65943,9 @@
 	<programme channel="超级电影" start="20250421101500 +0800" stop="20250421121300 +0800">
 		<title lang="zh">你好，之华</title>
 	</programme>
+	<programme channel="超级电影" start="20250421121900 +0800" stop="20250421134300 +0800">
+		<title lang="zh">电影《东北轴神》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -76962,6 +76965,9 @@
 	<programme channel="newtv超级电影" start="20250421101500 +0800" stop="20250421121300 +0800">
 		<title lang="zh">你好，之华</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250421121900 +0800" stop="20250421134300 +0800">
+		<title lang="zh">电影《东北轴神》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -77015,6 +77021,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250421113600 +0800" stop="20250421121700 +0800">
 		<title lang="zh">13_一路向前</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250421121700 +0800" stop="20250421125900 +0800">
+		<title lang="zh">14_一路向前</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -77178,6 +77187,9 @@
 	<programme channel="newtv古装剧场" start="20250421112600 +0800" stop="20250421121500 +0800">
 		<title lang="zh">15_流水迢迢</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250421121500 +0800" stop="20250421130400 +0800">
+		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -77282,6 +77294,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250421111600 +0800" stop="20250421120200 +0800">
 		<title lang="zh">66_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250421120200 +0800" stop="20250421125000 +0800">
+		<title lang="zh">67_那年花开月正圆</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -77622,6 +77637,9 @@
 	<programme channel="newtv炫舞未来" start="20250421112100 +0800" stop="20250421120600 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250421120600 +0800" stop="20250421132300 +0800">
+		<title lang="zh">汕尾咸咸的海风 吹来了浪漫的信号（20250415）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -77744,6 +77762,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250421100800 +0800" stop="20250421120500 +0800">
 		<title lang="zh">CBA常规赛3月15日：山西VS青岛</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250421120500 +0800" stop="20250421140400 +0800">
+		<title lang="zh">CBA常规赛3月16日：浙江稠州金租VS广东东阳光</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
