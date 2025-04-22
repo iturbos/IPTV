@@ -39252,6 +39252,9 @@
 	<programme channel="惊悚悬疑" start="20250422204400 +0800" stop="20250422211400 +0800">
 		<title lang="zh">《五脏健康操》推荐第1期</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250422211400 +0800" stop="20250422230800 +0800">
+		<title lang="zh">侵占</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -65262,6 +65265,9 @@
 	<programme channel="纯享4K" start="20250422205800 +0800" stop="20250422210300 +0800">
 		<title lang="zh">美丽中国自然4K 丽江系列 植物避难所</title>
 	</programme>
+	<programme channel="纯享4K" start="20250422210300 +0800" stop="20250422215200 +0800">
+		<title lang="zh">大敦煌4K 第3集 文明舞台</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -80358,6 +80364,9 @@
 	<programme channel="黑莓电影" start="20250422190500 +0800" stop="20250422211200 +0800">
 		<title lang="zh">大画王</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250422211200 +0800" stop="20250422223200 +0800">
+		<title lang="zh">后羿之逐日之战</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -81744,6 +81753,9 @@
 	<programme channel="newtv古装剧场" start="20250422201800 +0800" stop="20250422210300 +0800">
 		<title lang="zh">15_包青天之七侠五义</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250422210300 +0800" stop="20250422214800 +0800">
+		<title lang="zh">16_包青天之七侠五义</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -81830,6 +81842,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250422203200 +0800" stop="20250422211000 +0800">
 		<title lang="zh">13_特种兵之火凤凰</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250422211000 +0800" stop="20250422214700 +0800">
+		<title lang="zh">14_特种兵之火凤凰</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -81998,6 +82013,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250422202600 +0800" stop="20250422211200 +0800">
 		<title lang="zh">40_亲爱的，你在哪里</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250422211200 +0800" stop="20250422214200 +0800">
+		<title lang="zh">《五脏健康操》推荐第1期</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -82217,6 +82235,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250422203900 +0800" stop="20250422210900 +0800">
 		<title lang="zh">《五脏健康操》推荐第1期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250422210900 +0800" stop="20250422214700 +0800">
+		<title lang="zh">北京源莱慧热爱vs湖北华龙 第2局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -82446,6 +82467,9 @@
 	<programme channel="newtv军事评论" start="20250422204400 +0800" stop="20250422211000 +0800">
 		<title lang="zh">两岸关系回顾与展望 2025有何挑战？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250422211000 +0800" stop="20250422213500 +0800">
+		<title lang="zh">赖清德新年挑衅 妄称“继续斗”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -82662,6 +82686,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250422204400 +0800" stop="20250422211400 +0800">
 		<title lang="zh">《五脏健康操》推荐第1期</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250422211400 +0800" stop="20250422230800 +0800">
+		<title lang="zh">侵占</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -82859,6 +82886,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250422202200 +0800" stop="20250422211000 +0800">
 		<title lang="zh">19_雪中悍刀行</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250422211000 +0800" stop="20250422214000 +0800">
+		<title lang="zh">《五脏健康操》推荐第1期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
