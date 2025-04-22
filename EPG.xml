@@ -27300,6 +27300,9 @@
 	<programme channel="咪咕足球" start="20250422143500 +0800" stop="20250422161500 +0800">
 		<title lang="zh">篮球：为爱而生07 飞人乔丹</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250422161500 +0800" stop="20250422175500 +0800">
+		<title lang="zh">当燃CBA-季后赛1/4决赛G1 辽宁本钢-新疆伊力特</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -81138,6 +81141,9 @@
 	<programme channel="newtv超级电视剧" start="20250422152400 +0800" stop="20250422160900 +0800">
 		<title lang="zh">17_棋士</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250422160900 +0800" stop="20250422165400 +0800">
+		<title lang="zh">18_棋士</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -81200,6 +81206,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250422151800 +0800" stop="20250422160300 +0800">
 		<title lang="zh">13_梦华录</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250422160300 +0800" stop="20250422164300 +0800">
+		<title lang="zh">慕伽堡198版 高清10分400-855-7879</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -81276,6 +81285,9 @@
 	<programme channel="newtv精品纪录" start="20250422153700 +0800" stop="20250422160100 +0800">
 		<title lang="zh">02_食有巧思</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250422160100 +0800" stop="20250422172900 +0800">
+		<title lang="zh">万物滋养第一季第1集 森林间的心机</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -81338,6 +81350,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250422152800 +0800" stop="20250422160900 +0800">
 		<title lang="zh">50_女医明妃传</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250422160900 +0800" stop="20250422165200 +0800">
+		<title lang="zh">01_雁回时</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -81530,6 +81545,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250422151900 +0800" stop="20250422160500 +0800">
 		<title lang="zh">25_画眉</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250422160500 +0800" stop="20250422165400 +0800">
+		<title lang="zh">26_画眉</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -81866,6 +81884,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250422154300 +0800" stop="20250422160500 +0800">
 		<title lang="zh">智胜未来（2）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250422160500 +0800" stop="20250422163100 +0800">
+		<title lang="zh">直击西藏定日县6.8级地震救援 第三集</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
