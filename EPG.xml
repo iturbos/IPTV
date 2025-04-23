@@ -80625,6 +80625,9 @@
 	<programme channel="newtv精品大剧" start="20250423132700 +0800" stop="20250423141300 +0800">
 		<title lang="zh">29_画眉</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250423141300 +0800" stop="20250423145300 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -80798,6 +80801,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250423131800 +0800" stop="20250423140800 +0800">
 		<title lang="zh">34_护国军魂传奇</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250423140800 +0800" stop="20250423145800 +0800">
+		<title lang="zh">35_护国军魂传奇</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -81042,6 +81048,9 @@
 	<programme channel="newtv怡伴健康" start="20250423133000 +0800" stop="20250423141500 +0800">
 		<title lang="zh">38_生活就是家</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250423141500 +0800" stop="20250423142300 +0800">
+		<title lang="zh">群口相声《团结一心说相声》 表演：常佩业 刘亚群 等</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -81188,6 +81197,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250423134700 +0800" stop="20250423140900 +0800">
 		<title lang="zh">智胜未来（6）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250423140900 +0800" stop="20250423143100 +0800">
+		<title lang="zh">智胜未来（7）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
