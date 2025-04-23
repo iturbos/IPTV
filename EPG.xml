@@ -42792,6 +42792,9 @@
 	<programme channel="明星大片" start="20250423220100 +0800" stop="20250423231300 +0800">
 		<title lang="zh">09_失笑</title>
 	</programme>
+	<programme channel="明星大片" start="20250423231300 +0800" stop="20250423002100 +0800">
+		<title lang="zh">毒战生死线</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -81276,6 +81279,9 @@
 	<programme channel="newtv军旅剧场" start="20250423222600 +0800" stop="20250423230300 +0800">
 		<title lang="zh">19_特种兵之火凤凰</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250423230300 +0800" stop="20250423233900 +0800">
+		<title lang="zh">20_特种兵之火凤凰</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -81696,6 +81702,9 @@
 	<programme channel="newtv怡伴健康" start="20250423223800 +0800" stop="20250423231300 +0800">
 		<title lang="zh">湖北华龙vs河北雀舞门 第6局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250423231300 +0800" stop="20250423231900 +0800">
+		<title lang="zh">相声《新劳动号子》 表演：卢鑫 玉浩</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -82097,6 +82106,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250423220100 +0800" stop="20250423231300 +0800">
 		<title lang="zh">09_失笑</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250423231300 +0800" stop="20250423002100 +0800">
+		<title lang="zh">毒战生死线</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
