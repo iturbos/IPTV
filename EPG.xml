@@ -79605,6 +79605,9 @@
 	<programme channel="黑莓电影" start="20250423144400 +0800" stop="20250423161300 +0800">
 		<title lang="zh">龙门镇客栈</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250423161300 +0800" stop="20250423174400 +0800">
+		<title lang="zh">小巷管家</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -80835,6 +80838,9 @@
 	<programme channel="newtv古装剧场" start="20250423152100 +0800" stop="20250423160700 +0800">
 		<title lang="zh">05_雁回时</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250423160700 +0800" stop="20250423165200 +0800">
+		<title lang="zh">06_雁回时</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -81186,6 +81192,9 @@
 	<programme channel="newtv怡伴健康" start="20250423153800 +0800" stop="20250423160500 +0800">
 		<title lang="zh">罪恶的家暴</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250423160500 +0800" stop="20250423164300 +0800">
+		<title lang="zh">护好牙齿大家庭（中）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -81251,6 +81260,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250423152600 +0800" stop="20250423161500 +0800">
 		<title lang="zh">05_乔家的儿女</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250423161500 +0800" stop="20250423171500 +0800">
+		<title lang="zh">披荆斩棘只为遇见你</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -81413,6 +81425,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250423154100 +0800" stop="20250423160300 +0800">
 		<title lang="zh">恰恰舞古巴断步</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250423160300 +0800" stop="20250423165200 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
