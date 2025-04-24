@@ -27606,6 +27606,9 @@
 	<programme channel="咪咕综合体育" start="20250424194000 +0800" stop="20250424212000 +0800">
 		<title lang="zh">足球世界-24/25赛季德甲 第30轮 多特蒙德-门兴格拉德巴赫</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250424212000 +0800" stop="20250424214500 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -65943,6 +65946,9 @@
 	<programme channel="纯享4K" start="20250424205700 +0800" stop="20250424210200 +0800">
 		<title lang="zh">美丽中国自然4K 丽江系列 高山隐士</title>
 	</programme>
+	<programme channel="纯享4K" start="20250424210200 +0800" stop="20250424215200 +0800">
+		<title lang="zh">长江之歌4K（文明篇） 第3集 大江东去</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -82719,6 +82725,9 @@
 	<programme channel="newtv家庭剧场" start="20250424204500 +0800" stop="20250424211500 +0800">
 		<title lang="zh">《时尚小咖秀》推荐第14期</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250424211500 +0800" stop="20250424220600 +0800">
+		<title lang="zh">11_血脉</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -83243,6 +83252,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250424203900 +0800" stop="20250424210400 +0800">
 		<title lang="zh">侦察兵的装甲战车梦</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250424210400 +0800" stop="20250424213000 +0800">
+		<title lang="zh">赖清德放不下仇恨 是否会被逮捕？</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
