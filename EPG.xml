@@ -82419,6 +82419,9 @@
 	<programme channel="newtv怡伴健康" start="20250424135100 +0800" stop="20250424140700 +0800">
 		<title lang="zh">小品《坑》 表演：沈腾 马丽 艾伦 常远 宋阳 于健（字幕版）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250424140700 +0800" stop="20250424142200 +0800">
+		<title lang="zh">小品《借我一个家》 表演：黑妹 高海龙 小新 等</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -82566,6 +82569,9 @@
 	<programme channel="newtv军事评论" start="20250424135100 +0800" stop="20250424141300 +0800">
 		<title lang="zh">营地炊烟（5）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250424141300 +0800" stop="20250424143500 +0800">
+		<title lang="zh">筑梦太空的航天人（3）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -82625,6 +82631,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250424125300 +0800" stop="20250424141000 +0800">
 		<title lang="zh">“意想不到的老师”带来深刻的启示和影响（20241216）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250424141000 +0800" stop="20250424145000 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
