@@ -81822,6 +81822,9 @@
 	<programme channel="newtv精品大剧" start="20250425153400 +0800" stop="20250425161200 +0800">
 		<title lang="zh">BEUTENI泰韵御享精油皂臻享组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250425161200 +0800" stop="20250425172000 +0800">
+		<title lang="zh">21_梦华录</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -81954,6 +81957,9 @@
 	<programme channel="newtv古装剧场" start="20250425152500 +0800" stop="20250425161000 +0800">
 		<title lang="zh">15_雁回时</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250425161000 +0800" stop="20250425170300 +0800">
+		<title lang="zh">16_雁回时</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -82016,6 +82022,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250425152400 +0800" stop="20250425161400 +0800">
 		<title lang="zh">07_李三枪</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250425161400 +0800" stop="20250425165900 +0800">
+		<title lang="zh">08_李三枪</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -82145,6 +82154,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250425152800 +0800" stop="20250425161400 +0800">
 		<title lang="zh">37_画眉</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250425161400 +0800" stop="20250425170300 +0800">
+		<title lang="zh">38_画眉</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -82304,6 +82316,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250425153800 +0800" stop="20250425160500 +0800">
 		<title lang="zh">虚拟的恋人</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250425160500 +0800" stop="20250425164400 +0800">
+		<title lang="zh">护肝 院士有话说</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -82475,6 +82490,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250425154300 +0800" stop="20250425160500 +0800">
 		<title lang="zh">两路上高原 八宿篇（下）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250425160500 +0800" stop="20250425163000 +0800">
+		<title lang="zh">射击场上的巅峰对决</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
