@@ -70530,6 +70530,9 @@
 	<programme channel="超级电影" start="20250425214900 +0800" stop="20250425230200 +0800">
 		<title lang="zh">电影《特警使命：狙击风暴》</title>
 	</programme>
+	<programme channel="超级电影" start="20250425230200 +0800" stop="20250425001800 +0800">
+		<title lang="zh">电影《致命玩家》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -81831,6 +81834,9 @@
 	<programme channel="newtv超级体育" start="20250425220000 +0800" stop="20250425230500 +0800">
 		<title lang="zh">体育世界</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250425230500 +0800" stop="20250425010500 +0800">
+		<title lang="zh">2024/2025赛季世界斯诺克锦标赛-第2轮1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -81881,6 +81887,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250425214900 +0800" stop="20250425230200 +0800">
 		<title lang="zh">电影《特警使命：狙击风暴》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250425230200 +0800" stop="20250425001800 +0800">
+		<title lang="zh">电影《致命玩家》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -82776,6 +82785,9 @@
 	<programme channel="newtv怡伴健康" start="20250425230000 +0800" stop="20250425230800 +0800">
 		<title lang="zh">群口相声《团结一心说相声》 表演：常佩业 刘亚群 等</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250425230800 +0800" stop="20250425233400 +0800">
+		<title lang="zh">时尚全知道——寻花踏路b7打卡秘境公园</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -83480,6 +83492,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250425222800 +0800" stop="20250425230800 +0800">
 		<title lang="zh">帕南笛冰丝席99版 高清10分400-855-7879</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250425230800 +0800" stop="20250425002900 +0800">
+		<title lang="zh">后羿之逐日之战</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
