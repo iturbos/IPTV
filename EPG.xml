@@ -19989,6 +19989,9 @@
 	<programme channel="动作电影" start="20250427130200 +0800" stop="20250427140200 +0800">
 		<title lang="zh">拉图红酒推广4001087099</title>
 	</programme>
+	<programme channel="动作电影" start="20250427140200 +0800" stop="20250427153500 +0800">
+		<title lang="zh">倾城</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -42350,6 +42353,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250427123800 +0800" stop="20250427140400 +0800">
 		<title lang="zh">忠犬情缘</title>
+	</programme>
+	<programme channel="明星大片" start="20250427140400 +0800" stop="20250427144400 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -82041,6 +82047,9 @@
 	<programme channel="newtv精品大剧" start="20250427132900 +0800" stop="20250427141400 +0800">
 		<title lang="zh">28_梦华录</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250427141400 +0800" stop="20250427145400 +0800">
+		<title lang="zh">帕南笛冰丝席99版 高清10分400-855-7879</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -82220,6 +82229,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250427131700 +0800" stop="20250427140700 +0800">
 		<title lang="zh">13_李三枪</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250427140700 +0800" stop="20250427145600 +0800">
+		<title lang="zh">14_李三枪</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -82410,6 +82422,9 @@
 	<programme channel="newtv动作电影" start="20250427130200 +0800" stop="20250427140200 +0800">
 		<title lang="zh">拉图红酒推广4001087099</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250427140200 +0800" stop="20250427153500 +0800">
+		<title lang="zh">倾城</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -82475,6 +82490,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250427140000 +0800" stop="20250427140600 +0800">
 		<title lang="zh">相声《百变导航》 表演：李寅飞 叶蓬</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250427140600 +0800" stop="20250427141700 +0800">
+		<title lang="zh">相声《捉放曹》 演员：李涵 李菁</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -82734,6 +82752,9 @@
 	<programme channel="newtv精品综合" start="20250427123800 +0800" stop="20250427140400 +0800">
 		<title lang="zh">忠犬情缘</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250427140400 +0800" stop="20250427144400 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -82910,6 +82931,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250427133200 +0800" stop="20250427140900 +0800">
 		<title lang="zh">侧柏叶墨旱莲何首乌精油皂-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250427140900 +0800" stop="20250427144900 +0800">
+		<title lang="zh">46_千古玦尘</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
