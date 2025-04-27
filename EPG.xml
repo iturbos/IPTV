@@ -39183,6 +39183,9 @@
 	<programme channel="纯享4K" start="20250428022900 +0800" stop="20250428025900 +0800">
 		<title lang="zh">旅游指南4K 好吃客b7福鼎</title>
 	</programme>
+	<programme channel="纯享4K" start="20250428025900 +0800" stop="20250428033900 +0800">
+		<title lang="zh">探索b7发现4K 匠人b7匠心（43）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -47982,6 +47985,9 @@
 	<programme channel="newtv超级电影" start="20250428015400 +0800" stop="20250428032000 +0800">
 		<title lang="zh">笔仙撞碟仙</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250428032000 +0800" stop="20250428044800 +0800">
+		<title lang="zh">子夜惊魂</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -47997,6 +48003,9 @@
 	<programme channel="newtv超级电视剧" start="20250428023500 +0800" stop="20250428032100 +0800">
 		<title lang="zh">28_青山不墨</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250428032100 +0800" stop="20250428040600 +0800">
+		<title lang="zh">29_青山不墨</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -48008,6 +48017,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250428020000 +0800" stop="20250428024900 +0800">
 		<title lang="zh">08_三生三世枕上书</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250428024900 +0800" stop="20250428033900 +0800">
+		<title lang="zh">09_三生三世枕上书</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -48041,6 +48053,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250428015400 +0800" stop="20250428024800 +0800">
 		<title lang="zh">27_乐游原</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250428024800 +0800" stop="20250428034200 +0800">
+		<title lang="zh">28_乐游原</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -48090,6 +48105,9 @@
 	<programme channel="newtv爱情喜剧" start="20250428021500 +0800" stop="20250428030400 +0800">
 		<title lang="zh">27_无间</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250428030400 +0800" stop="20250428035400 +0800">
+		<title lang="zh">28_无间</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -48098,6 +48116,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250428012100 +0800" stop="20250428025700 +0800">
 		<title lang="zh">镖行天下前传之至尊国宝</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250428025700 +0800" stop="20250428042900 +0800">
+		<title lang="zh">囧途夺宝</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -48110,6 +48131,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250428021100 +0800" stop="20250428030000 +0800">
 		<title lang="zh">22_金钗谍影</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250428030000 +0800" stop="20250428034800 +0800">
+		<title lang="zh">河马争雄</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -48149,6 +48173,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250428014700 +0800" stop="20250428031000 +0800">
 		<title lang="zh">第2期下：指路第22分钟！柯洁李雪琴空降观战400斤重的象棋对弈</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250428031000 +0800" stop="20250428032300 +0800">
+		<title lang="zh">别知己-孙爱迪（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -48233,6 +48260,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250428013600 +0800" stop="20250428030200 +0800">
 		<title lang="zh">兰若行者</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250428030200 +0800" stop="20250428034200 +0800">
+		<title lang="zh">女子南拳决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
