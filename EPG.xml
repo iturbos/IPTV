@@ -27000,6 +27000,9 @@
 	<programme channel="咪咕足球" start="20250427143000 +0800" stop="20250427161000 +0800">
 		<title lang="zh">篮球：为爱而生02 爱国主义与抗议</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250427161000 +0800" stop="20250427175000 +0800">
+		<title lang="zh">当燃CBA-24/25季后赛1/4决赛G2 辽宁本钢-新疆伊力特</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -42380,6 +42383,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250427154800 +0800" stop="20250427161200 +0800">
 		<title lang="zh">31_咒术回战</title>
+	</programme>
+	<programme channel="明星大片" start="20250427161200 +0800" stop="20250427170000 +0800">
+		<title lang="zh">11_乔家的儿女</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -80988,6 +80994,9 @@
 	<programme channel="黑莓电影" start="20250427143500 +0800" stop="20250427160700 +0800">
 		<title lang="zh">摩登澡堂</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250427160700 +0800" stop="20250427173100 +0800">
+		<title lang="zh">扎职3：义薄云天</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -82272,6 +82281,9 @@
 	<programme channel="newtv古装剧场" start="20250427152300 +0800" stop="20250427161300 +0800">
 		<title lang="zh">01_大奉打更人</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250427161300 +0800" stop="20250427165500 +0800">
+		<title lang="zh">25_雁回时</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -82701,6 +82713,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250427152300 +0800" stop="20250427161300 +0800">
 		<title lang="zh">21_乔家的儿女</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250427161300 +0800" stop="20250427171200 +0800">
+		<title lang="zh">24岁年龄差也阻挡不了我的爱</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -82800,6 +82815,9 @@
 	<programme channel="newtv军事评论" start="20250427155000 +0800" stop="20250427161200 +0800">
 		<title lang="zh">陆地战神 陆军装备大观</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250427161200 +0800" stop="20250427163700 +0800">
+		<title lang="zh">“智能仓储”保打赢</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -82872,6 +82890,9 @@
 	<programme channel="newtv炫舞未来" start="20250427143700 +0800" stop="20250427160700 +0800">
 		<title lang="zh">经典电影《平原游击队》欣赏（20250223）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250427160700 +0800" stop="20250427165700 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -82928,6 +82949,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250427154800 +0800" stop="20250427161200 +0800">
 		<title lang="zh">31_咒术回战</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250427161200 +0800" stop="20250427170000 +0800">
+		<title lang="zh">11_乔家的儿女</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -83123,6 +83147,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250427153300 +0800" stop="20250427161400 +0800">
 		<title lang="zh">48_千古玦尘</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250427161400 +0800" stop="20250427165300 +0800">
+		<title lang="zh">49_千古玦尘</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
