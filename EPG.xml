@@ -39747,6 +39747,9 @@
 	<programme channel="惊悚悬疑" start="20250429104200 +0800" stop="20250429120800 +0800">
 		<title lang="zh">地质灾难</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250429120800 +0800" stop="20250429125700 +0800">
+		<title lang="zh">BEYONPAN钛锅升级款-渠道（右）</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -43373,6 +43376,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250429105500 +0800" stop="20250429121500 +0800">
 		<title lang="zh">拉图红酒推广4001087099</title>
+	</programme>
+	<programme channel="明星大片" start="20250429121500 +0800" stop="20250429140200 +0800">
+		<title lang="zh">人在星途</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -71898,6 +71904,9 @@
 	<programme channel="超级电影" start="20250429101300 +0800" stop="20250429120700 +0800">
 		<title lang="zh">勇士之门</title>
 	</programme>
+	<programme channel="超级电影" start="20250429121300 +0800" stop="20250429131400 +0800">
+		<title lang="zh">电影《一路囧途》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -83460,6 +83469,9 @@
 	<programme channel="newtv超级电影" start="20250429101300 +0800" stop="20250429120700 +0800">
 		<title lang="zh">勇士之门</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250429121300 +0800" stop="20250429131400 +0800">
+		<title lang="zh">电影《一路囧途》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -83559,6 +83571,9 @@
 	<programme channel="newtv精品大剧" start="20250429112100 +0800" stop="20250429120600 +0800">
 		<title lang="zh">13_最遥远的距离</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250429120600 +0800" stop="20250429125500 +0800">
+		<title lang="zh">14_最遥远的距离</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -83603,6 +83618,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250429112900 +0800" stop="20250429121400 +0800">
 		<title lang="zh">第三集 踏石留印</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250429121400 +0800" stop="20250429123800 +0800">
+		<title lang="zh">第四集 非常诊断</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -83802,6 +83820,9 @@
 	<programme channel="newtv热播精选" start="20250429112300 +0800" stop="20250429121200 +0800">
 		<title lang="zh">AKG39900西兰花种子水提物固体饮料-春节版-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250429121200 +0800" stop="20250429134300 +0800">
+		<title lang="zh">复仇者格林：战事再起</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -83915,6 +83936,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250429110800 +0800" stop="20250429115400 +0800">
 		<title lang="zh">02_女士的法则</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250429115400 +0800" stop="20250429124300 +0800">
+		<title lang="zh">AKG39900西兰花种子水提物固体饮料-春节版-渠道（右）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -84039,6 +84063,9 @@
 	<programme channel="newtv军事评论" start="20250429114000 +0800" stop="20250429120600 +0800">
 		<title lang="zh">叙利亚阿萨德政权结束 特朗普提出解决俄乌冲突方案？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250429120600 +0800" stop="20250429122800 +0800">
+		<title lang="zh">砺剑军工 聚焦未来</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84141,6 +84168,9 @@
 	<programme channel="newtv精品综合" start="20250429105500 +0800" stop="20250429121500 +0800">
 		<title lang="zh">拉图红酒推广4001087099</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250429121500 +0800" stop="20250429140200 +0800">
+		<title lang="zh">人在星途</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -84170,6 +84200,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250429104200 +0800" stop="20250429120800 +0800">
 		<title lang="zh">地质灾难</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250429120800 +0800" stop="20250429125700 +0800">
+		<title lang="zh">BEYONPAN钛锅升级款-渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
