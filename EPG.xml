@@ -71931,6 +71931,9 @@
 	<programme channel="超级电影" start="20250429121300 +0800" stop="20250429131400 +0800">
 		<title lang="zh">电影《一路囧途》</title>
 	</programme>
+	<programme channel="超级电影" start="20250429131400 +0800" stop="20250429142600 +0800">
+		<title lang="zh">电影《最后的武林》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -83504,6 +83507,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250429121300 +0800" stop="20250429131400 +0800">
 		<title lang="zh">电影《一路囧途》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250429131400 +0800" stop="20250429142600 +0800">
+		<title lang="zh">电影《最后的武林》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
