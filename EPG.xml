@@ -27807,6 +27807,9 @@
 	<programme channel="咪咕足球" start="20250430180000 +0800" stop="20250430190000 +0800">
 		<title lang="zh">中国榜样篮球季对话周鹏</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250430190000 +0800" stop="20250430191000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -43286,6 +43289,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250430181800 +0800" stop="20250430190500 +0800">
 		<title lang="zh">活力满分的夏天</title>
+	</programme>
+	<programme channel="明星大片" start="20250430190500 +0800" stop="20250430195300 +0800">
+		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -66438,6 +66444,9 @@
 	<programme channel="纯享4K" start="20250430181900 +0800" stop="20250430184900 +0800">
 		<title lang="zh">旅游指南4K 好吃客b7杭州（下）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250430184900 +0800" stop="20250430192900 +0800">
+		<title lang="zh">探索b7发现4K 匠人b7匠心（45）</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -82923,6 +82932,9 @@
 	<programme channel="newtv精品大剧" start="20250430182800 +0800" stop="20250430185800 +0800">
 		<title lang="zh">《八段锦》推荐21期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250430185800 +0800" stop="20250430194300 +0800">
+		<title lang="zh">16_承欢记</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -83073,6 +83085,9 @@
 	<programme channel="newtv古装剧场" start="20250430180900 +0800" stop="20250430185600 +0800">
 		<title lang="zh">11_神医喜来乐</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250430185600 +0800" stop="20250430192600 +0800">
+		<title lang="zh">《八段锦》推荐21期</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -83153,6 +83168,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250430181800 +0800" stop="20250430190300 +0800">
 		<title lang="zh">32_勇敢的心2</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250430190300 +0800" stop="20250430194800 +0800">
+		<title lang="zh">33_勇敢的心2</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -83235,6 +83253,9 @@
 	<programme channel="newtv家庭剧场" start="20250430181500 +0800" stop="20250430190000 +0800">
 		<title lang="zh">19_高兴的酸甜苦辣</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250430190000 +0800" stop="20250430193000 +0800">
+		<title lang="zh">《花样人生》推荐第46期</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -83303,6 +83324,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250430180900 +0800" stop="20250430185900 +0800">
 		<title lang="zh">风味人间 第2季</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250430185900 +0800" stop="20250430193600 +0800">
+		<title lang="zh">29_闪耀的她</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -83499,6 +83523,9 @@
 	<programme channel="newtv怡伴健康" start="20250430182600 +0800" stop="20250430191300 +0800">
 		<title lang="zh">江西一赣到底vs上海天行奔源 第3局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250430191300 +0800" stop="20250430194300 +0800">
+		<title lang="zh">《花样人生》推荐第46期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -83573,6 +83600,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250430181300 +0800" stop="20250430185800 +0800">
 		<title lang="zh">11_似锦</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250430185800 +0800" stop="20250430194400 +0800">
+		<title lang="zh">12_似锦</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -83700,6 +83730,9 @@
 	<programme channel="newtv军事评论" start="20250430183500 +0800" stop="20250430185700 +0800">
 		<title lang="zh">战场新秀巡飞弹</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250430185700 +0800" stop="20250430191900 +0800">
+		<title lang="zh">无人机之战</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -83781,6 +83814,9 @@
 	<programme channel="newtv炫舞未来" start="20250430181600 +0800" stop="20250430190500 +0800">
 		<title lang="zh">梦想与年龄无关 “妈妈”的新身份给自己力量（20230214）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250430190500 +0800" stop="20250430200100 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -83849,6 +83885,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250430181800 +0800" stop="20250430190500 +0800">
 		<title lang="zh">活力满分的夏天</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250430190500 +0800" stop="20250430195300 +0800">
+		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -84083,6 +84122,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250430182300 +0800" stop="20250430191000 +0800">
 		<title lang="zh">11_庆余年</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250430191000 +0800" stop="20250430194000 +0800">
+		<title lang="zh">《花样人生》推荐第46期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
