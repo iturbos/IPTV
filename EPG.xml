@@ -48537,6 +48537,9 @@
 	<programme channel="黑莓电影" start="20250501034300 +0800" stop="20250501045400 +0800">
 		<title lang="zh">逆时救援</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250501045400 +0800" stop="20250501065400 +0800">
+		<title lang="zh">海大鱼</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -48855,6 +48858,9 @@
 	<programme channel="newtv超级电影" start="20250501031800 +0800" stop="20250501050700 +0800">
 		<title lang="zh">花咒</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250501050700 +0800" stop="20250501070100 +0800">
+		<title lang="zh">疯狂的外星人</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -48878,6 +48884,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250501042500 +0800" stop="20250501050600 +0800">
 		<title lang="zh">09_回家的路有多远</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250501050600 +0800" stop="20250501054800 +0800">
+		<title lang="zh">10_回家的路有多远</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -48974,6 +48983,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250501040700 +0800" stop="20250501045600 +0800">
 		<title lang="zh">03_军人荣誉之铁血雄心</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250501045600 +0800" stop="20250501054100 +0800">
+		<title lang="zh">04_军人荣誉之铁血雄心</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -49110,6 +49122,9 @@
 	<programme channel="newtv军事评论" start="20250501042500 +0800" stop="20250501045200 +0800">
 		<title lang="zh">探访“云峰八寨”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250501045200 +0800" stop="20250501051800 +0800">
+		<title lang="zh">军迷越南游记（上）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -49133,6 +49148,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250501041900 +0800" stop="20250501045800 +0800">
 		<title lang="zh">易经的奥秘（二） 何为阴阳</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250501045800 +0800" stop="20250501053700 +0800">
+		<title lang="zh">第6期： 李光复做客！赏戏腔《墨梅》风韵</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
