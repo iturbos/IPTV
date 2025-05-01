@@ -59589,6 +59589,9 @@
 	<programme channel="爱情喜剧" start="20250501203300 +0800" stop="20250501210300 +0800">
 		<title lang="zh">《八段锦》推荐21期</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250501210300 +0800" stop="20250501231400 +0800">
+		<title lang="zh">生死下一秒</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -65537,6 +65540,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250501205900 +0800" stop="20250501210500 +0800">
 		<title lang="zh">美丽中国自然4K 水下系列 暖阳</title>
+	</programme>
+	<programme channel="纯享4K" start="20250501210500 +0800" stop="20250501215400 +0800">
+		<title lang="zh">曹雪芹与红楼梦4K 第5集 凡鸟偏从末世来</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -81918,6 +81924,9 @@
 	<programme channel="newtv超级电视剧" start="20250501202100 +0800" stop="20250501211000 +0800">
 		<title lang="zh">22_雁回时</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250501211000 +0800" stop="20250501215800 +0800">
+		<title lang="zh">23_雁回时</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -82113,6 +82122,9 @@
 	<programme channel="newtv精品纪录" start="20250501202100 +0800" stop="20250501211000 +0800">
 		<title lang="zh">04_无声的功勋（第一季）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250501211000 +0800" stop="20250501214000 +0800">
+		<title lang="zh">山海拾味b7遂溪篇</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82196,6 +82208,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250501204000 +0800" stop="20250501211000 +0800">
 		<title lang="zh">《八段锦》推荐21期</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250501211000 +0800" stop="20250501215300 +0800">
+		<title lang="zh">15_岁岁青莲</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -82377,6 +82392,9 @@
 	<programme channel="newtv家庭剧场" start="20250501202300 +0800" stop="20250501210900 +0800">
 		<title lang="zh">15_大都市小爱情</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250501210900 +0800" stop="20250501213900 +0800">
+		<title lang="zh">《八段锦》推荐21期</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -82520,6 +82538,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250501203300 +0800" stop="20250501210300 +0800">
 		<title lang="zh">《八段锦》推荐21期</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250501210300 +0800" stop="20250501231400 +0800">
+		<title lang="zh">生死下一秒</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -82758,6 +82779,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250501202200 +0800" stop="20250501210800 +0800">
 		<title lang="zh">17_似锦</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250501210800 +0800" stop="20250501215300 +0800">
+		<title lang="zh">18_似锦</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -82896,6 +82920,9 @@
 	<programme channel="newtv军事评论" start="20250501203900 +0800" stop="20250501210500 +0800">
 		<title lang="zh">铁腕推国民党改革 朱立伦为何不妥协？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250501210500 +0800" stop="20250501213000 +0800">
+		<title lang="zh">打造三层火力网 台军妄想转守为攻</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -82991,6 +83018,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250501202400 +0800" stop="20250501210900 +0800">
 		<title lang="zh">02_金婚</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250501210900 +0800" stop="20250501214900 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -83204,6 +83234,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250501191000 +0800" stop="20250501211400 +0800">
 		<title lang="zh">NBA常规赛1月18日：雷霆VS独行侠</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250501211400 +0800" stop="20250501224200 +0800">
+		<title lang="zh">NBA常规赛1月11日：雷霆VS尼克斯</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
