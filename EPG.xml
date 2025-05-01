@@ -19887,6 +19887,9 @@
 	<programme channel="动作电影" start="20250501131300 +0800" stop="20250501140300 +0800">
 		<title lang="zh">VK 13 PRO MAX 5G语音手机-渠道（右）</title>
 	</programme>
+	<programme channel="动作电影" start="20250501140300 +0800" stop="20250501153500 +0800">
+		<title lang="zh">火线追凶2之爱本无罪</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -38789,6 +38792,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250501124300 +0800" stop="20250501141100 +0800">
 		<title lang="zh">夺命三头鲨</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250501141100 +0800" stop="20250501153700 +0800">
+		<title lang="zh">暗影</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -81207,6 +81213,9 @@
 	<programme channel="newtv精品纪录" start="20250501131500 +0800" stop="20250501141000 +0800">
 		<title lang="zh">04_开心</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250501141000 +0800" stop="20250501142400 +0800">
+		<title lang="zh">05_因为爱</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -81260,6 +81269,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250501132500 +0800" stop="20250501141100 +0800">
 		<title lang="zh">17_大奉打更人</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250501141100 +0800" stop="20250501145100 +0800">
+		<title lang="zh">帕南笛冰丝席99版 高清10分400-855-7879</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -81317,6 +81329,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250501131400 +0800" stop="20250501140400 +0800">
 		<title lang="zh">29_李三枪</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250501140400 +0800" stop="20250501145300 +0800">
+		<title lang="zh">30_李三枪</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -81503,6 +81518,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250501131300 +0800" stop="20250501140300 +0800">
 		<title lang="zh">VK 13 PRO MAX 5G语音手机-渠道（右）</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250501140300 +0800" stop="20250501153500 +0800">
+		<title lang="zh">火线追凶2之爱本无罪</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -81714,6 +81732,9 @@
 	<programme channel="newtv军事评论" start="20250501134200 +0800" stop="20250501140400 +0800">
 		<title lang="zh">深蓝使命 大驱雄风</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250501140400 +0800" stop="20250501142600 +0800">
+		<title lang="zh">深蓝使命 破浪先锋</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -81867,6 +81888,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250501124300 +0800" stop="20250501141100 +0800">
 		<title lang="zh">夺命三头鲨</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250501141100 +0800" stop="20250501153700 +0800">
+		<title lang="zh">暗影</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -81920,6 +81944,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250501121800 +0800" stop="20250501140900 +0800">
 		<title lang="zh">CBA常规赛1月19日：浙江VS辽宁</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250501140900 +0800" stop="20250501155400 +0800">
+		<title lang="zh">CBA常规赛3月29日：上海VS新疆</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
@@ -82007,6 +82034,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250501133200 +0800" stop="20250501140600 +0800">
 		<title lang="zh">中国搏击十年</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250501140600 +0800" stop="20250501144600 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
