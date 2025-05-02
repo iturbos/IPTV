@@ -20523,6 +20523,9 @@
 	<programme channel="动作电影" start="20250502121800 +0800" stop="20250502130800 +0800">
 		<title lang="zh">VK 13 PRO MAX 5G语音手机-渠道（右）</title>
 	</programme>
+	<programme channel="动作电影" start="20250502130800 +0800" stop="20250502144400 +0800">
+		<title lang="zh">独立日大电影</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -39398,6 +39401,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250502114300 +0800" stop="20250502130500 +0800">
 		<title lang="zh">倩女仙缘</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250502130500 +0800" stop="20250502134500 +0800">
+		<title lang="zh">帕南笛冰丝席99版 高清10分400-855-7879</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -65952,6 +65958,9 @@
 	<programme channel="纯享4K" start="20250502122500 +0800" stop="20250502130700 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 水润江岸 诗意田园</title>
 	</programme>
+	<programme channel="纯享4K" start="20250502131200 +0800" stop="20250502131800 +0800">
+		<title lang="zh">美丽中国自然4K 云南德宏系列 图腾之鸟</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -82383,6 +82392,9 @@
 	<programme channel="newtv动作电影" start="20250502121800 +0800" stop="20250502130800 +0800">
 		<title lang="zh">VK 13 PRO MAX 5G语音手机-渠道（右）</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250502130800 +0800" stop="20250502144400 +0800">
+		<title lang="zh">独立日大电影</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -82584,6 +82596,9 @@
 	<programme channel="newtv军事评论" start="20250502125000 +0800" stop="20250502131200 +0800">
 		<title lang="zh">军武记忆 淬炼铁拳</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250502131200 +0800" stop="20250502133400 +0800">
+		<title lang="zh">军武记忆 亮剑海天</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -82728,6 +82743,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250502114300 +0800" stop="20250502130500 +0800">
 		<title lang="zh">倩女仙缘</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250502130500 +0800" stop="20250502134500 +0800">
+		<title lang="zh">帕南笛冰丝席99版 高清10分400-855-7879</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -82751,6 +82769,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250502092600 +0800" stop="20250502131100 +0800">
 		<title lang="zh">你好生活第4季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250502131100 +0800" stop="20250502162600 +0800">
+		<title lang="zh">登录圆鱼洲</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
