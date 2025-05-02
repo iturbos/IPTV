@@ -27660,6 +27660,9 @@
 	<programme channel="咪咕足球" start="20250502143000 +0800" stop="20250502161000 +0800">
 		<title lang="zh">篮球：为爱而生07 飞人乔丹</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250502161000 +0800" stop="20250502175000 +0800">
+		<title lang="zh">当燃CBA-24/25季后赛1/4决赛G2 浙江方兴渡-青岛国信制药</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -82092,6 +82095,9 @@
 	<programme channel="newtv超级电视剧" start="20250502153500 +0800" stop="20250502161900 +0800">
 		<title lang="zh">34_启航：当风起时</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250502161900 +0800" stop="20250502170600 +0800">
+		<title lang="zh">35_启航：当风起时</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -82154,6 +82160,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250502151700 +0800" stop="20250502160200 +0800">
 		<title lang="zh">10_天底良知</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250502160200 +0800" stop="20250502165200 +0800">
+		<title lang="zh">VK 13 PRO MAX 5G语音手机-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -82364,6 +82373,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250502152300 +0800" stop="20250502161200 +0800">
 		<title lang="zh">36_李三枪</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250502161200 +0800" stop="20250502165800 +0800">
+		<title lang="zh">38_勇敢的心2</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -82817,6 +82829,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250502154600 +0800" stop="20250502160800 +0800">
 		<title lang="zh">无上荣光 黄宗德</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250502160800 +0800" stop="20250502163000 +0800">
+		<title lang="zh">俄乌冲突二周年观察 无人机的战场革命</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
