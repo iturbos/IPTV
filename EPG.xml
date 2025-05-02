@@ -60030,6 +60030,9 @@
 	<programme channel="爱情喜剧" start="20250502105300 +0800" stop="20250502120900 +0800">
 		<title lang="zh">07_闪耀的她</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250502120900 +0800" stop="20250502125400 +0800">
+		<title lang="zh">08_闪耀的她</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -81939,6 +81942,9 @@
 	<programme channel="newtv超级电视剧" start="20250502112900 +0800" stop="20250502121400 +0800">
 		<title lang="zh">31_潜行者</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250502121400 +0800" stop="20250502130000 +0800">
+		<title lang="zh">32_潜行者</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -81986,6 +81992,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250502112700 +0800" stop="20250502121200 +0800">
 		<title lang="zh">26_最遥远的距离</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250502121200 +0800" stop="20250502125700 +0800">
+		<title lang="zh">07_天底良知</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -82050,6 +82059,9 @@
 	<programme channel="newtv精品纪录" start="20250502115100 +0800" stop="20250502120600 +0800">
 		<title lang="zh">02_痴狂轮滑 骆垠材</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250502120600 +0800" stop="20250502122100 +0800">
+		<title lang="zh">03_寻味人生 唐敏</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82097,6 +82109,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250502112300 +0800" stop="20250502121300 +0800">
 		<title lang="zh">20_大奉打更人</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250502121300 +0800" stop="20250502133300 +0800">
+		<title lang="zh">拉图红酒推广4001087099</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -82275,6 +82290,9 @@
 	<programme channel="newtv爱情喜剧" start="20250502105300 +0800" stop="20250502120900 +0800">
 		<title lang="zh">07_闪耀的她</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250502120900 +0800" stop="20250502125400 +0800">
+		<title lang="zh">08_闪耀的她</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -82415,6 +82433,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250502112700 +0800" stop="20250502121200 +0800">
 		<title lang="zh">老广的味道 第二季</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250502121200 +0800" stop="20250502125700 +0800">
+		<title lang="zh">02_三十而已</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
