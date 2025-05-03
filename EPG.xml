@@ -66753,6 +66753,9 @@
 	<programme channel="纯享4K" start="20250503122400 +0800" stop="20250503130600 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 碧波荡漾 百鸟翔集</title>
 	</programme>
+	<programme channel="纯享4K" start="20250503131200 +0800" stop="20250503131700 +0800">
+		<title lang="zh">美丽中国自然4K 云南德宏系列 巨羽的鸣声</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -82839,6 +82842,9 @@
 	<programme channel="newtv精品纪录" start="20250503121500 +0800" stop="20250503130700 +0800">
 		<title lang="zh">第7集：城市的英雄</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250503130700 +0800" stop="20250503151200 +0800">
+		<title lang="zh">第2集：问b7答</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82889,6 +82895,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250503115500 +0800" stop="20250503131500 +0800">
 		<title lang="zh">拉图红酒推广4001087099</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250503131500 +0800" stop="20250503140100 +0800">
+		<title lang="zh">25_大奉打更人</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -83238,6 +83247,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250503122200 +0800" stop="20250503131100 +0800">
 		<title lang="zh">06_三十而已</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250503131100 +0800" stop="20250503135400 +0800">
+		<title lang="zh">07_三十而已</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -83312,6 +83324,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250503124700 +0800" stop="20250503130900 +0800">
 		<title lang="zh">营地炊烟（14）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250503130900 +0800" stop="20250503133100 +0800">
+		<title lang="zh">“猛士”冲锋</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
