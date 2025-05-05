@@ -67743,6 +67743,9 @@
 	<programme channel="超级电影" start="20250505122000 +0800" stop="20250505132100 +0800">
 		<title lang="zh">电影《前任局中局》</title>
 	</programme>
+	<programme channel="超级电影" start="20250505132100 +0800" stop="20250505145900 +0800">
+		<title lang="zh">电影《蜀山：新蜀山剑侠》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -78609,6 +78612,9 @@
 	<programme channel="newtv超级综艺" start="20250505114800 +0800" stop="20250505132200 +0800">
 		<title lang="zh">一馔千年</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250505132200 +0800" stop="20250505141200 +0800">
+		<title lang="zh">勇者之战</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -78645,6 +78651,9 @@
 	<programme channel="newtv超级体育" start="20250505120000 +0800" stop="20250505130500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250505130500 +0800" stop="20250505132800 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -78671,6 +78680,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250505122000 +0800" stop="20250505132100 +0800">
 		<title lang="zh">电影《前任局中局》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250505132100 +0800" stop="20250505145900 +0800">
+		<title lang="zh">电影《蜀山：新蜀山剑侠》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
