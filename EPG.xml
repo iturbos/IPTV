@@ -26076,6 +26076,9 @@
 	<programme channel="咪咕综合体育" start="20250505144000 +0800" stop="20250505150000 +0800">
 		<title lang="zh">中超精华 第8轮</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250505150000 +0800" stop="20250505174500 +0800">
+		<title lang="zh">中超来噜-2025赛季中超 第11轮 大连英博海发-北京国安 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -40970,6 +40973,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250505141000 +0800" stop="20250505145000 +0800">
 		<title lang="zh">帕南笛冰丝席99版 高清10分400-855-7879</title>
+	</programme>
+	<programme channel="明星大片" start="20250505145000 +0800" stop="20250505151400 +0800">
+		<title lang="zh">45_咒术回战</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -67785,6 +67791,9 @@
 	<programme channel="超级电影" start="20250505132100 +0800" stop="20250505145900 +0800">
 		<title lang="zh">电影《蜀山：新蜀山剑侠》</title>
 	</programme>
+	<programme channel="超级电影" start="20250505145900 +0800" stop="20250505160700 +0800">
+		<title lang="zh">电影《使命营救》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -78738,6 +78747,9 @@
 	<programme channel="newtv超级电影" start="20250505132100 +0800" stop="20250505145900 +0800">
 		<title lang="zh">电影《蜀山：新蜀山剑侠》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250505145900 +0800" stop="20250505160700 +0800">
+		<title lang="zh">电影《使命营救》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -78800,6 +78812,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250505141500 +0800" stop="20250505145600 +0800">
 		<title lang="zh">08_雪迷宫</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250505145600 +0800" stop="20250505153800 +0800">
+		<title lang="zh">09_雪迷宫</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -78980,6 +78995,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250505140900 +0800" stop="20250505144900 +0800">
 		<title lang="zh">帕南笛冰丝席99版 高清10分400-855-7879</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250505144900 +0800" stop="20250505153700 +0800">
+		<title lang="zh">34_大奉打更人</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -79464,6 +79482,9 @@
 	<programme channel="newtv军事评论" start="20250505142500 +0800" stop="20250505144700 +0800">
 		<title lang="zh">核潜艇记忆</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250505144700 +0800" stop="20250505150900 +0800">
+		<title lang="zh">军工征途 陆战雄威</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -79581,6 +79602,9 @@
 	<programme channel="newtv精品综合" start="20250505141000 +0800" stop="20250505145000 +0800">
 		<title lang="zh">帕南笛冰丝席99版 高清10分400-855-7879</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250505145000 +0800" stop="20250505151400 +0800">
+		<title lang="zh">45_咒术回战</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -79643,6 +79667,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250505132500 +0800" stop="20250505144900 +0800">
 		<title lang="zh">登录圆鱼洲</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250505144900 +0800" stop="20250505164300 +0800">
+		<title lang="zh">一馔千年</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
