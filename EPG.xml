@@ -67713,6 +67713,9 @@
 	<programme channel="超级电影" start="20250505104500 +0800" stop="20250505122000 +0800">
 		<title lang="zh">江湖八面风</title>
 	</programme>
+	<programme channel="超级电影" start="20250505122000 +0800" stop="20250505132100 +0800">
+		<title lang="zh">电影《前任局中局》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -78632,6 +78635,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250505104500 +0800" stop="20250505122000 +0800">
 		<title lang="zh">江湖八面风</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250505122000 +0800" stop="20250505132100 +0800">
+		<title lang="zh">电影《前任局中局》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
