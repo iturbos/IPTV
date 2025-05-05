@@ -78570,6 +78570,9 @@
 	<programme channel="newtv超级综艺" start="20250505104800 +0800" stop="20250505114800 +0800">
 		<title lang="zh">选对健康</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250505114800 +0800" stop="20250505132200 +0800">
+		<title lang="zh">一馔千年</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -78602,6 +78605,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250505103200 +0800" stop="20250505120000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250505120000 +0800" stop="20250505130500 +0800">
+		<title lang="zh">体坛快讯</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -78678,6 +78684,9 @@
 	<programme channel="newtv超级电视剧" start="20250505111300 +0800" stop="20250505115800 +0800">
 		<title lang="zh">05_父辈的荣耀</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250505115800 +0800" stop="20250505124400 +0800">
+		<title lang="zh">06_父辈的荣耀</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -78722,6 +78731,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250505102400 +0800" stop="20250505114400 +0800">
 		<title lang="zh">拉图红酒推广4001087099</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250505114400 +0800" stop="20250505123000 +0800">
+		<title lang="zh">08_天龙八部</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -78773,6 +78785,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250505104500 +0800" stop="20250505114900 +0800">
 		<title lang="zh">02_天津（下）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250505114900 +0800" stop="20250505121300 +0800">
+		<title lang="zh">03_哈尔滨（上）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -78869,6 +78884,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250505111500 +0800" stop="20250505120100 +0800">
 		<title lang="zh">03_女人的抗战</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250505120100 +0800" stop="20250505124500 +0800">
+		<title lang="zh">LECEA蒸汽富硒养生饭煲-渠道（右）</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -79095,6 +79113,12 @@
 	<programme channel="newtv怡伴健康" start="20250505112600 +0800" stop="20250505113600 +0800">
 		<title lang="zh">相声《学秦腔》 表演：马凯强 苗阜</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250505114400 +0800" stop="20250505114900 +0800">
+		<title lang="zh">相声《民歌杂谈》 表演：李振威 徐永志</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250505115500 +0800" stop="20250505123900 +0800">
+		<title lang="zh">LECEA蒸汽富硒养生饭煲-渠道（右）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -79208,6 +79232,12 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250505110700 +0800" stop="20250505113200 +0800">
 		<title lang="zh">美国与哈马斯就释放被扣押人员密谈 法国或为欧洲撑起“核保护伞”</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250505113200 +0800" stop="20250505115800 +0800">
+		<title lang="zh">美乌下周将在沙特举行会谈 韩军战机“输错投弹坐标”误炸民宅</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250505115800 +0800" stop="20250505122000 +0800">
+		<title lang="zh">营地炊烟（18）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -79454,6 +79484,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250505110300 +0800" stop="20250505114300 +0800">
 		<title lang="zh">思独鲜八珍糕99元   高清10分钟   400-108-7099</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250505114300 +0800" stop="20250505131000 +0800">
+		<title lang="zh">锦衣卫之初露锋芒</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
