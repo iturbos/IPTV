@@ -43836,6 +43836,9 @@
 	<programme channel="明星大片" start="20250506140100 +0800" stop="20250506144100 +0800">
 		<title lang="zh">帕南笛冰丝席99版 高清10分400-855-7879</title>
 	</programme>
+	<programme channel="明星大片" start="20250506144100 +0800" stop="20250506150500 +0800">
+		<title lang="zh">47_咒术回战</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -67350,6 +67353,9 @@
 	<programme channel="纯享4K" start="20250506135700 +0800" stop="20250506144600 +0800">
 		<title lang="zh">跟着唐诗去旅行4K 第4集 岑参 边塞</title>
 	</programme>
+	<programme channel="纯享4K" start="20250506144600 +0800" stop="20250506152600 +0800">
+		<title lang="zh">探索b7发现4K 家乡至味2023（21）</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -82644,6 +82650,9 @@
 	<programme channel="黑莓动画" start="20250506130400 +0800" stop="20250506143300 +0800">
 		<title lang="zh">海绵宝宝：水兵陆战队</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250506143300 +0800" stop="20250506155900 +0800">
+		<title lang="zh">汪汪队立大功大电影（普通话版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83517,6 +83526,9 @@
 	<programme channel="newtv超级综艺" start="20250506131600 +0800" stop="20250506143300 +0800">
 		<title lang="zh">星光大道</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250506143300 +0800" stop="20250506153300 +0800">
+		<title lang="zh">选对健康</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -83847,6 +83859,9 @@
 	<programme channel="newtv古装剧场" start="20250506140600 +0800" stop="20250506144600 +0800">
 		<title lang="zh">帕南笛冰丝席99版 高清10分400-855-7879</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250506144600 +0800" stop="20250506153100 +0800">
+		<title lang="zh">38_大奉打更人</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -83906,6 +83921,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250506134600 +0800" stop="20250506143600 +0800">
 		<title lang="zh">12_我姥爷1945之绝命枪</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250506143600 +0800" stop="20250506152600 +0800">
+		<title lang="zh">13_我姥爷1945之绝命枪</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -84327,6 +84345,9 @@
 	<programme channel="newtv军事评论" start="20250506141300 +0800" stop="20250506143500 +0800">
 		<title lang="zh">向战而研 国防科技大学探访</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250506143500 +0800" stop="20250506145700 +0800">
+		<title lang="zh">营地炊烟（22）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84431,6 +84452,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250506140100 +0800" stop="20250506144100 +0800">
 		<title lang="zh">帕南笛冰丝席99版 高清10分400-855-7879</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250506144100 +0800" stop="20250506150500 +0800">
+		<title lang="zh">47_咒术回战</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
