@@ -38817,6 +38817,9 @@
 	<programme channel="纯享4K" start="20250507050100 +0800" stop="20250507050600 +0800">
 		<title lang="zh">美丽中国自然4K 云南德宏系列 蜥蜴的世界</title>
 	</programme>
+	<programme channel="纯享4K" start="20250507051100 +0800" stop="20250507060000 +0800">
+		<title lang="zh">跟着唐诗去旅行4K 第5集 李白 仙山</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -47142,6 +47145,9 @@
 	<programme channel="黑莓动画" start="20250507035100 +0800" stop="20250507051300 +0800">
 		<title lang="zh">神奇乐园历险记（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250507051300 +0800" stop="20250507063600 +0800">
+		<title lang="zh">淘气包马小跳</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -47496,6 +47502,9 @@
 	<programme channel="newtv超级电视剧" start="20250507042000 +0800" stop="20250507050200 +0800">
 		<title lang="zh">36_回家的路有多远</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250507050200 +0800" stop="20250507054300 +0800">
+		<title lang="zh">37_回家的路有多远</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -47540,6 +47549,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250507042400 +0800" stop="20250507051400 +0800">
 		<title lang="zh">06_飞机</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250507051400 +0800" stop="20250507060200 +0800">
+		<title lang="zh">01_8天 月亮之旅</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -47676,6 +47688,9 @@
 	<programme channel="newtv怡伴健康" start="20250507041600 +0800" stop="20250507050200 +0800">
 		<title lang="zh">37_承欢记</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250507050200 +0800" stop="20250507054800 +0800">
+		<title lang="zh">01_三十而已</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -47718,6 +47733,9 @@
 	<programme channel="newtv军事评论" start="20250507044300 +0800" stop="20250507051000 +0800">
 		<title lang="zh">岁月深处的雷锋记忆</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250507051000 +0800" stop="20250507053600 +0800">
+		<title lang="zh">寻迹赤水奇谋</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -47754,6 +47772,9 @@
 	<programme channel="newtv精品综合" start="20250507041600 +0800" stop="20250507050500 +0800">
 		<title lang="zh">06_梅花红桃</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250507050500 +0800" stop="20250507055500 +0800">
+		<title lang="zh">07_梅花红桃</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -47780,6 +47801,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250507042400 +0800" stop="20250507051300 +0800">
 		<title lang="zh">活力满分的夏天</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250507051300 +0800" stop="20250507074300 +0800">
+		<title lang="zh">星光大道（2024）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
