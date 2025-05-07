@@ -59010,6 +59010,9 @@
 	<programme channel="爱情喜剧" start="20250507112000 +0800" stop="20250507120900 +0800">
 		<title lang="zh">BEYONPAN钛锅升级款-渠道（右）</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250507120900 +0800" stop="20250507125300 +0800">
+		<title lang="zh">02_想见你</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -65048,6 +65051,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250507113300 +0800" stop="20250507121500 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 江南水乡 魅力嘉兴</title>
+	</programme>
+	<programme channel="纯享4K" start="20250507121500 +0800" stop="20250507125700 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 日出东海 水润嘉兴</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -80820,6 +80826,9 @@
 	<programme channel="newtv超级综艺" start="20250507105700 +0800" stop="20250507121400 +0800">
 		<title lang="zh">一馔千年</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250507121400 +0800" stop="20250507133100 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -80852,6 +80861,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250507093000 +0800" stop="20250507120000 +0800">
 		<title lang="zh">2024/2025赛季美国职业篮球联赛-季后赛7</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250507120000 +0800" stop="20250507130500 +0800">
+		<title lang="zh">体坛快讯</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -80930,6 +80942,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250507111600 +0800" stop="20250507120100 +0800">
 		<title lang="zh">13_父辈的荣耀</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250507120100 +0800" stop="20250507124700 +0800">
+		<title lang="zh">14_父辈的荣耀</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -81252,6 +81267,9 @@
 	<programme channel="newtv爱情喜剧" start="20250507112000 +0800" stop="20250507120900 +0800">
 		<title lang="zh">BEYONPAN钛锅升级款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250507120900 +0800" stop="20250507125300 +0800">
+		<title lang="zh">02_想见你</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -81519,6 +81537,9 @@
 	<programme channel="newtv炫舞未来" start="20250507105800 +0800" stop="20250507121500 +0800">
 		<title lang="zh">亦师亦友！派出所警花的爱情（20250331）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250507121500 +0800" stop="20250507130200 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -81621,6 +81642,9 @@
 	<programme channel="newtv金牌综艺" start="20250507103600 +0800" stop="20250507120000 +0800">
 		<title lang="zh">你好生活第4季</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250507120000 +0800" stop="20250507124900 +0800">
+		<title lang="zh">BEYONPAN钛锅升级款-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -81644,6 +81668,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250507103600 +0800" stop="20250507121400 +0800">
 		<title lang="zh">CBA常规赛3月9日：辽宁VS吉林</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250507121400 +0800" stop="20250507145900 +0800">
+		<title lang="zh">WTA总决赛女单决赛：高夫VS郑钦文</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
