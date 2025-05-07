@@ -20538,6 +20538,9 @@
 	<programme channel="动作电影" start="20250507144500 +0800" stop="20250507161200 +0800">
 		<title lang="zh">重案行动之连环凶杀</title>
 	</programme>
+	<programme channel="动作电影" start="20250507161200 +0800" stop="20250507170100 +0800">
+		<title lang="zh">BEYONPAN钛锅升级款-渠道（右）</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -27419,6 +27422,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250507143000 +0800" stop="20250507161000 +0800">
 		<title lang="zh">篮球：为爱而生02 爱国主义与抗议</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250507161000 +0800" stop="20250507175000 +0800">
+		<title lang="zh">当燃CBA-24/25季后赛1/4决赛G3 新疆伊力特-辽宁本钢</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -38996,6 +39002,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250507152600 +0800" stop="20250507160600 +0800">
 		<title lang="zh">思独鲜八珍糕99元   高清10分钟   400-108-7099</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250507160600 +0800" stop="20250507173900 +0800">
+		<title lang="zh">人口交易</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -59075,6 +59084,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20250507151400 +0800" stop="20250507160100 +0800">
 		<title lang="zh">56_清平乐</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20250507160100 +0800" stop="20250507164800 +0800">
+		<title lang="zh">57_清平乐</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -81516,6 +81528,9 @@
 	<programme channel="newtv爱情喜剧" start="20250507151400 +0800" stop="20250507160100 +0800">
 		<title lang="zh">56_清平乐</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250507160100 +0800" stop="20250507164800 +0800">
+		<title lang="zh">57_清平乐</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -81554,6 +81569,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250507144500 +0800" stop="20250507161200 +0800">
 		<title lang="zh">重案行动之连环凶杀</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250507161200 +0800" stop="20250507170100 +0800">
+		<title lang="zh">BEYONPAN钛锅升级款-渠道（右）</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -81624,6 +81642,9 @@
 	<programme channel="newtv怡伴健康" start="20250507154200 +0800" stop="20250507160900 +0800">
 		<title lang="zh">难讨的补偿</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250507160900 +0800" stop="20250507164700 +0800">
+		<title lang="zh">难缠皮肤病的真相（4）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -81689,6 +81710,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250507151600 +0800" stop="20250507160600 +0800">
 		<title lang="zh">25_三十而已</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250507160600 +0800" stop="20250507171000 +0800">
+		<title lang="zh">为什么最爱的人却伤我最深？</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -81968,6 +81992,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250507152600 +0800" stop="20250507160600 +0800">
 		<title lang="zh">思独鲜八珍糕99元   高清10分钟   400-108-7099</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250507160600 +0800" stop="20250507173900 +0800">
+		<title lang="zh">人口交易</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
