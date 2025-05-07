@@ -39183,6 +39183,9 @@
 	<programme channel="惊悚悬疑" start="20250507214600 +0800" stop="20250507231400 +0800">
 		<title lang="zh">死亡斗士</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250507231400 +0800" stop="20250507002200 +0800">
+		<title lang="zh">使命营救</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -81516,6 +81519,9 @@
 	<programme channel="newtv超级电视剧" start="20250507223100 +0800" stop="20250507231500 +0800">
 		<title lang="zh">37_亲爱的爸妈</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250507231500 +0800" stop="20250507235800 +0800">
+		<title lang="zh">38_亲爱的爸妈</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -81698,6 +81704,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250507224000 +0800" stop="20250507230900 +0800">
 		<title lang="zh">我的家乡菜b7瑞昌篇</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250507230900 +0800" stop="20250507000600 +0800">
+		<title lang="zh">走进老区看新貌：海南</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -82065,6 +82074,9 @@
 	<programme channel="newtv热播精选" start="20250507224200 +0800" stop="20250507231200 +0800">
 		<title lang="zh">帕南笛冰丝席99版 高清10分400-855-7879</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250507231200 +0800" stop="20250507011000 +0800">
+		<title lang="zh">五十公里桃花坞第4季</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -82298,6 +82310,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250507222800 +0800" stop="20250507231300 +0800">
 		<title lang="zh">重庆洁静精微vs天津浩家帮研习社 第4局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250507231300 +0800" stop="20250507231800 +0800">
+		<title lang="zh">4月27日5分钟超级美味成片</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -82659,6 +82674,9 @@
 	<programme channel="newtv炫舞未来" start="20250507225700 +0800" stop="20250507230500 +0800">
 		<title lang="zh">我不管-金洋（完整）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250507230500 +0800" stop="20250507232400 +0800">
+		<title lang="zh">烟雨人间-毕刚（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -82802,6 +82820,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250507214600 +0800" stop="20250507231400 +0800">
 		<title lang="zh">死亡斗士</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250507231400 +0800" stop="20250507002200 +0800">
+		<title lang="zh">使命营救</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
