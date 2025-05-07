@@ -38973,6 +38973,9 @@
 	<programme channel="惊悚悬疑" start="20250507121600 +0800" stop="20250507130200 +0800">
 		<title lang="zh">HOKO富硒款反渗透净水机-渠道（右）</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250507130200 +0800" stop="20250507141100 +0800">
+		<title lang="zh">毒战生死线</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -65076,6 +65079,9 @@
 	<programme channel="纯享4K" start="20250507125700 +0800" stop="20250507130200 +0800">
 		<title lang="zh">美丽中国自然4K 云南德宏系列 蜥蜴的世界</title>
 	</programme>
+	<programme channel="纯享4K" start="20250507130700 +0800" stop="20250507135600 +0800">
+		<title lang="zh">跟着唐诗去旅行4K 第5集 李白 仙山</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -80892,6 +80898,9 @@
 	<programme channel="newtv超级体育" start="20250507120000 +0800" stop="20250507130500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250507130500 +0800" stop="20250507132800 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -81084,6 +81093,9 @@
 	<programme channel="newtv精品纪录" start="20250507122000 +0800" stop="20250507130400 +0800">
 		<title lang="zh">第7集：生活不是爽文</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250507130400 +0800" stop="20250507132900 +0800">
+		<title lang="zh">01_少年已知愁滋味</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -81188,6 +81200,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250507122300 +0800" stop="20250507130900 +0800">
 		<title lang="zh">14_我姥爷1945之绝命枪</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250507130900 +0800" stop="20250507135800 +0800">
+		<title lang="zh">15_我姥爷1945之绝命枪</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -81474,6 +81489,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250507122200 +0800" stop="20250507130700 +0800">
 		<title lang="zh">22_三十而已</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250507130700 +0800" stop="20250507135300 +0800">
+		<title lang="zh">23_三十而已</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -81552,6 +81570,9 @@
 	<programme channel="newtv军事评论" start="20250507124700 +0800" stop="20250507130900 +0800">
 		<title lang="zh">云巅铸剑 雏鹰初啼</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250507130900 +0800" stop="20250507133100 +0800">
+		<title lang="zh">云巅铸剑 破茧启航</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -81608,6 +81629,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250507121500 +0800" stop="20250507130200 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250507130200 +0800" stop="20250507141900 +0800">
+		<title lang="zh">梦想合唱团个个身手不凡 深情演唱《世界赠予我的》（20250308）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -81683,6 +81707,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250507121600 +0800" stop="20250507130200 +0800">
 		<title lang="zh">HOKO富硒款反渗透净水机-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250507130200 +0800" stop="20250507141100 +0800">
+		<title lang="zh">毒战生死线</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -81824,6 +81851,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250507114400 +0800" stop="20250507131200 +0800">
 		<title lang="zh">八卦掌之亢龙有悔</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250507131200 +0800" stop="20250507134200 +0800">
+		<title lang="zh">中国搏击十年</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
