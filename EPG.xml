@@ -27333,6 +27333,9 @@
 	<programme channel="咪咕综合体育" start="20250508225000 +0800" stop="20250508231500 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250508231500 +0800" stop="20250508000000 +0800">
+		<title lang="zh">足球世界-24/25意大利杯 半决赛次回合 国际米兰-AC米兰</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
