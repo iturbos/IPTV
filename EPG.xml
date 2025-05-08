@@ -42816,6 +42816,9 @@
 	<programme channel="明星大片" start="20250508134500 +0800" stop="20250508141000 +0800">
 		<title lang="zh">03_名侦探柯南</title>
 	</programme>
+	<programme channel="明星大片" start="20250508141000 +0800" stop="20250508145000 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -66633,6 +66636,9 @@
 	<programme channel="纯享4K" start="20250508131200 +0800" stop="20250508140200 +0800">
 		<title lang="zh">跟着唐诗去旅行 第二季4K 第2集 寒江雪</title>
 	</programme>
+	<programme channel="纯享4K" start="20250508140200 +0800" stop="20250508145100 +0800">
+		<title lang="zh">跟着唐诗去旅行 第二季4K 第3集 出塞曲</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -71183,6 +71189,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250508124800 +0800" stop="20250508141500 +0800">
 		<title lang="zh">电影《噪乐江湖》</title>
+	</programme>
+	<programme channel="超级电影" start="20250508141500 +0800" stop="20250508153800 +0800">
+		<title lang="zh">电影《锦鼠御猫之九幽血狼》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -82809,6 +82818,9 @@
 	<programme channel="newtv超级电影" start="20250508124800 +0800" stop="20250508141500 +0800">
 		<title lang="zh">电影《噪乐江湖》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250508141500 +0800" stop="20250508153800 +0800">
+		<title lang="zh">电影《锦鼠御猫之九幽血狼》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -83112,6 +83124,9 @@
 	<programme channel="newtv军旅剧场" start="20250508132700 +0800" stop="20250508141200 +0800">
 		<title lang="zh">19_我姥爷1945之绝命枪</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250508141200 +0800" stop="20250508150100 +0800">
+		<title lang="zh">20_我姥爷1945之绝命枪</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -83169,6 +83184,9 @@
 	<programme channel="newtv家庭剧场" start="20250508132500 +0800" stop="20250508141100 +0800">
 		<title lang="zh">10_兰桐花开</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250508141100 +0800" stop="20250508153100 +0800">
+		<title lang="zh">拉图红酒推广4001087099</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -83213,6 +83231,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250508132900 +0800" stop="20250508140900 +0800">
 		<title lang="zh">思独鲜八珍糕99元   高清10分钟   400-108-7099</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250508140900 +0800" stop="20250508145200 +0800">
+		<title lang="zh">27_铁探[粤语版]</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -83511,6 +83532,9 @@
 	<programme channel="newtv军事评论" start="20250508134900 +0800" stop="20250508141100 +0800">
 		<title lang="zh">那个瞬间的年代（4）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250508141100 +0800" stop="20250508143300 +0800">
+		<title lang="zh">那个瞬间的年代（6）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -83583,6 +83607,9 @@
 	<programme channel="newtv炫舞未来" start="20250508134100 +0800" stop="20250508140800 +0800">
 		<title lang="zh">天降“杀手”（20240514）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250508140800 +0800" stop="20250508145800 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -83633,6 +83660,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250508134500 +0800" stop="20250508141000 +0800">
 		<title lang="zh">03_名侦探柯南</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250508141000 +0800" stop="20250508145000 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
