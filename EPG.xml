@@ -27321,6 +27321,9 @@
 	<programme channel="咪咕综合体育" start="20250508210500 +0800" stop="20250508211000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250508211000 +0800" stop="20250508225000 +0800">
+		<title lang="zh">足球世界-24/25赛季德甲 第32轮 RB莱比锡-拜仁慕尼黑</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -60852,6 +60855,9 @@
 	<programme channel="爱情喜剧" start="20250508203300 +0800" stop="20250508210800 +0800">
 		<title lang="zh">《八段锦》推荐21期</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250508210800 +0800" stop="20250508000200 +0800">
+		<title lang="zh">天堂口</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -66824,6 +66830,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250508210000 +0800" stop="20250508210500 +0800">
 		<title lang="zh">美丽中国自然4K 贵州黔中系列 交替的时节</title>
+	</programme>
+	<programme channel="纯享4K" start="20250508210500 +0800" stop="20250508215500 +0800">
+		<title lang="zh">跟着唐诗去旅行 第二季4K 第2集 寒江雪</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -83178,6 +83187,9 @@
 	<programme channel="newtv超级电视剧" start="20250508203100 +0800" stop="20250508211600 +0800">
 		<title lang="zh">13_滤镜</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250508211600 +0800" stop="20250508215500 +0800">
+		<title lang="zh">14_滤镜</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -83358,6 +83370,9 @@
 	<programme channel="newtv精品纪录" start="20250508185800 +0800" stop="20250508210700 +0800">
 		<title lang="zh">02_梦断甲午</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250508210700 +0800" stop="20250508215600 +0800">
+		<title lang="zh">01_家国天下</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -83438,6 +83453,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250508202300 +0800" stop="20250508211000 +0800">
 		<title lang="zh">08_嫣语赋</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250508211000 +0800" stop="20250508214500 +0800">
+		<title lang="zh">《八段锦》推荐21期</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -83613,6 +83631,9 @@
 	<programme channel="newtv家庭剧场" start="20250508203000 +0800" stop="20250508211400 +0800">
 		<title lang="zh">07_独生子女的婆婆妈妈</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250508211400 +0800" stop="20250508214400 +0800">
+		<title lang="zh">《八段锦》推荐21期</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -83756,6 +83777,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250508203300 +0800" stop="20250508210800 +0800">
 		<title lang="zh">《八段锦》推荐21期</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250508210800 +0800" stop="20250508000200 +0800">
+		<title lang="zh">天堂口</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -83912,6 +83936,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250508204300 +0800" stop="20250508211300 +0800">
 		<title lang="zh">《八段锦》推荐21期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250508211300 +0800" stop="20250508214600 +0800">
+		<title lang="zh">北京源莱慧精英vs湖南星火燎原 第5局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -84140,6 +84167,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250508205000 +0800" stop="20250508211600 +0800">
 		<title lang="zh">美军炫耀演习 扬言“1小时抵台”</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250508211600 +0800" stop="20250508214100 +0800">
+		<title lang="zh">视察导弹基地 赖清德炫“战力”</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
