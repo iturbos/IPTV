@@ -81759,6 +81759,9 @@
 	<programme channel="黑莓动画" start="20250508111000 +0800" stop="20250508121000 +0800">
 		<title lang="zh">哪吒闹海</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250508121000 +0800" stop="20250508133200 +0800">
+		<title lang="zh">黑猫警长之翡翠之星</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82791,6 +82794,9 @@
 	<programme channel="newtv超级电视剧" start="20250508113100 +0800" stop="20250508121700 +0800">
 		<title lang="zh">18_父辈的荣耀</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250508121700 +0800" stop="20250508130200 +0800">
+		<title lang="zh">19_父辈的荣耀</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -82910,6 +82916,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250508112800 +0800" stop="20250508121200 +0800">
 		<title lang="zh">03_乡村蝶变</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250508121200 +0800" stop="20250508125700 +0800">
+		<title lang="zh">04_粮安天下</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -83058,6 +83067,9 @@
 	<programme channel="newtv家庭剧场" start="20250508111300 +0800" stop="20250508120200 +0800">
 		<title lang="zh">08_兰桐花开</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250508120200 +0800" stop="20250508123700 +0800">
+		<title lang="zh">09_兰桐花开</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -83096,6 +83108,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250508111600 +0800" stop="20250508120200 +0800">
 		<title lang="zh">HOKO富硒款反渗透净水机-渠道（右）</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250508120200 +0800" stop="20250508132900 +0800">
+		<title lang="zh">重案行动之连环凶杀</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -83228,6 +83243,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250508115200 +0800" stop="20250508120400 +0800">
 		<title lang="zh">小品《爱情保卫战》 表演：郭子歆 胡畔 等</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250508120400 +0800" stop="20250508124400 +0800">
+		<title lang="zh">思独鲜八珍糕99元   高清10分钟   400-108-7099</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -83544,6 +83562,9 @@
 	<programme channel="newtv精品体育" start="20250508101600 +0800" stop="20250508120200 +0800">
 		<title lang="zh">2025赛季中超联赛第1轮：上海申花VS长春亚泰</title>
 	</programme>
+	<programme channel="newtv精品体育" start="20250508120200 +0800" stop="20250508135300 +0800">
+		<title lang="zh">CBA常规赛1月19日：浙江VS辽宁</title>
+	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
 	</channel>
@@ -83627,6 +83648,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250508113600 +0800" stop="20250508121600 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250508121600 +0800" stop="20250508134900 +0800">
+		<title lang="zh">江湖英雄联盟之奇门惊情</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
