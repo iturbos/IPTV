@@ -27477,6 +27477,9 @@
 	<programme channel="咪咕综合体育" start="20250509150500 +0800" stop="20250509164500 +0800">
 		<title lang="zh">足球世界-24/25赛季亚冠精英联赛 1/4决赛 横滨水手-利雅得胜利</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250509164500 +0800" stop="20250509171000 +0800">
+		<title lang="zh">中超精华 第10轮</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -39635,6 +39638,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250509155500 +0800" stop="20250509163400 +0800">
 		<title lang="zh">思独鲜八珍糕99元   高清10分钟   400-108-7099</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250509163400 +0800" stop="20250509181300 +0800">
+		<title lang="zh">惊爆缉捕令</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -71886,6 +71892,9 @@
 	<programme channel="超级电影" start="20250509153500 +0800" stop="20250509164600 +0800">
 		<title lang="zh">电影《重装战警》</title>
 	</programme>
+	<programme channel="超级电影" start="20250509164600 +0800" stop="20250509181700 +0800">
+		<title lang="zh">电影《独立日大电影》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -82605,6 +82614,9 @@
 	<programme channel="黑莓动画" start="20250509144600 +0800" stop="20250509163700 +0800">
 		<title lang="zh">名侦探柯南：纯黑的恶梦 中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250509163700 +0800" stop="20250509181200 +0800">
+		<title lang="zh">计时引爆摩天楼 中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83655,6 +83667,9 @@
 	<programme channel="newtv超级电影" start="20250509153500 +0800" stop="20250509164600 +0800">
 		<title lang="zh">电影《重装战警》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250509164600 +0800" stop="20250509181700 +0800">
+		<title lang="zh">电影《独立日大电影》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -83727,6 +83742,9 @@
 	<programme channel="newtv超级电视剧" start="20250509160900 +0800" stop="20250509165000 +0800">
 		<title lang="zh">27_雪迷宫</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250509165000 +0800" stop="20250509173600 +0800">
+		<title lang="zh">07_追风者</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -83792,6 +83810,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250509155700 +0800" stop="20250509164300 +0800">
 		<title lang="zh">HOKO富硒款反渗透净水机-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250509164300 +0800" stop="20250509172900 +0800">
+		<title lang="zh">13_猎冰</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -84072,6 +84093,9 @@
 	<programme channel="newtv家庭剧场" start="20250509152500 +0800" stop="20250509164500 +0800">
 		<title lang="zh">拉图红酒推广4001087099</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250509164500 +0800" stop="20250509173000 +0800">
+		<title lang="zh">21_我和我的他们</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -84128,6 +84152,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250509155100 +0800" stop="20250509163500 +0800">
 		<title lang="zh">03_欢颜</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250509163500 +0800" stop="20250509172000 +0800">
+		<title lang="zh">04_欢颜</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -84465,6 +84492,9 @@
 	<programme channel="newtv军事评论" start="20250509162100 +0800" stop="20250509164300 +0800">
 		<title lang="zh">揭秘美军高超音速武器</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250509164300 +0800" stop="20250509170400 +0800">
+		<title lang="zh">美“鱼鹰”复飞之路再遇坎坷</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84638,6 +84668,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250509155500 +0800" stop="20250509163400 +0800">
 		<title lang="zh">思独鲜八珍糕99元   高清10分钟   400-108-7099</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250509163400 +0800" stop="20250509181300 +0800">
+		<title lang="zh">惊爆缉捕令</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
