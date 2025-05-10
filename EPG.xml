@@ -26532,6 +26532,9 @@
 	<programme channel="咪咕综合体育" start="20250510120500 +0800" stop="20250510121000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250510121000 +0800" stop="20250510135000 +0800">
+		<title lang="zh">网球世界-2025WTA1000迈阿密站 1/4决赛 萨巴伦卡-郑钦文</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -69558,6 +69561,9 @@
 	<programme channel="超级电影" start="20250510101500 +0800" stop="20250510122100 +0800">
 		<title lang="zh">投名状</title>
 	</programme>
+	<programme channel="超级电影" start="20250510122100 +0800" stop="20250510135300 +0800">
+		<title lang="zh">电影《暴风雨》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -81315,6 +81321,9 @@
 	<programme channel="newtv超级电影" start="20250510101500 +0800" stop="20250510122100 +0800">
 		<title lang="zh">投名状</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250510122100 +0800" stop="20250510135300 +0800">
+		<title lang="zh">电影《暴风雨》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -81537,6 +81546,9 @@
 	<programme channel="newtv军旅剧场" start="20250510111700 +0800" stop="20250510120200 +0800">
 		<title lang="zh">23_女人的抗战</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250510120200 +0800" stop="20250510124800 +0800">
+		<title lang="zh">HOKO富硒款反渗透净水机-渠道（右）</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -81575,6 +81587,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250510104800 +0800" stop="20250510120700 +0800">
 		<title lang="zh">15_失笑</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250510120700 +0800" stop="20250510125400 +0800">
+		<title lang="zh">16_失笑</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -81840,6 +81855,9 @@
 	<programme channel="newtv军事评论" start="20250510114600 +0800" stop="20250510121300 +0800">
 		<title lang="zh">海上练精兵</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250510121300 +0800" stop="20250510123900 +0800">
+		<title lang="zh">砺剑铸盾 铁骨丹心</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -82079,6 +82097,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250510113500 +0800" stop="20250510121500 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250510121500 +0800" stop="20250510135500 +0800">
+		<title lang="zh">笑盗江湖</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
