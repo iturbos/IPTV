@@ -40125,6 +40125,9 @@
 	<programme channel="明星大片" start="20250511133800 +0800" stop="20250511140300 +0800">
 		<title lang="zh">10_名侦探柯南</title>
 	</programme>
+	<programme channel="明星大片" start="20250511140300 +0800" stop="20250511144300 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -76764,6 +76767,9 @@
 	<programme channel="newtv精品大剧" start="20250511132200 +0800" stop="20250511140400 +0800">
 		<title lang="zh">10_大唐荣耀</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250511140400 +0800" stop="20250511145200 +0800">
+		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -76859,6 +76865,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250511131800 +0800" stop="20250511140400 +0800">
 		<title lang="zh">15_独孤天下</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250511140400 +0800" stop="20250511145200 +0800">
+		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -77009,6 +77018,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250511132300 +0800" stop="20250511140300 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250511140300 +0800" stop="20250511150600 +0800">
+		<title lang="zh">08_欢颜</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -77393,6 +77405,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250511133800 +0800" stop="20250511140300 +0800">
 		<title lang="zh">10_名侦探柯南</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250511140300 +0800" stop="20250511144300 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
