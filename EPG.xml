@@ -76845,6 +76845,9 @@
 	<programme channel="newtv精品大剧" start="20250511153400 +0800" stop="20250511161600 +0800">
 		<title lang="zh">12_大唐荣耀</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250511161600 +0800" stop="20250511170000 +0800">
+		<title lang="zh">LECEA蒸汽富硒养生饭煲-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -76901,6 +76904,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250511153000 +0800" stop="20250511160900 +0800">
 		<title lang="zh">家乡至味2022（17）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250511160900 +0800" stop="20250511181700 +0800">
+		<title lang="zh">06_台前幕后</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -77280,6 +77286,9 @@
 	<programme channel="newtv怡伴健康" start="20250511153700 +0800" stop="20250511160400 +0800">
 		<title lang="zh">惹祸的鞭炮</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250511160400 +0800" stop="20250511164300 +0800">
+		<title lang="zh">春天要“壮胆”（下）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -77336,6 +77345,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250511150800 +0800" stop="20250511160200 +0800">
 		<title lang="zh">41_三十而已</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250511160200 +0800" stop="20250511170200 +0800">
+		<title lang="zh">为了“他”我想开启一段异地恋</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -77445,6 +77457,9 @@
 	<programme channel="newtv军事评论" start="20250511154500 +0800" stop="20250511161200 +0800">
 		<title lang="zh">野战防空 苍穹之盾</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250511161200 +0800" stop="20250511163400 +0800">
+		<title lang="zh">欧洲各国护卫舰接连“掉链子”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -77501,6 +77516,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250511152800 +0800" stop="20250511160800 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250511160800 +0800" stop="20250511163000 +0800">
+		<title lang="zh">特色武术操（20240603）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
