@@ -30420,6 +30420,9 @@
 	<programme channel="纯享4K" start="20250512023200 +0800" stop="20250512030200 +0800">
 		<title lang="zh">寻古中国4K 古滇记b7走向融合</title>
 	</programme>
+	<programme channel="纯享4K" start="20250512030200 +0800" stop="20250512034200 +0800">
+		<title lang="zh">探索b7发现4K 匠人b7匠心（57）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -37155,6 +37158,9 @@
 	<programme channel="newtv超级综艺" start="20250512014900 +0800" stop="20250512031200 +0800">
 		<title lang="zh">小品相声大会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250512031200 +0800" stop="20250512050500 +0800">
+		<title lang="zh">和美之夜</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -37212,6 +37218,9 @@
 	<programme channel="newtv精品纪录" start="20250512013600 +0800" stop="20250512025700 +0800">
 		<title lang="zh">04_风险地带</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250512025700 +0800" stop="20250512041800 +0800">
+		<title lang="zh">05_城市的远见</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -37239,6 +37248,9 @@
 	<programme channel="newtv军旅剧场" start="20250512021600 +0800" stop="20250512030400 +0800">
 		<title lang="zh">35_谍战深海之惊蛰</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250512030400 +0800" stop="20250512035400 +0800">
+		<title lang="zh">36_谍战深海之惊蛰</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -37251,6 +37263,9 @@
 	<programme channel="newtv家庭剧场" start="20250512021900 +0800" stop="20250512030500 +0800">
 		<title lang="zh">28_非常有喜</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250512030500 +0800" stop="20250512042200 +0800">
+		<title lang="zh">29_非常有喜</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -37260,11 +37275,17 @@
 	<programme channel="newtv热播精选" start="20250512020700 +0800" stop="20250512031100 +0800">
 		<title lang="zh">22_加油！妈妈</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250512031100 +0800" stop="20250512041500 +0800">
+		<title lang="zh">23_加油！妈妈</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
 	<programme channel="newtv爱情喜剧" start="20250512001700 +0800" stop="20250512030200 +0800">
 		<title lang="zh">法式火锅</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250512030200 +0800" stop="20250512041700 +0800">
+		<title lang="zh">26_沃野飘香</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -37274,6 +37295,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250512013600 +0800" stop="20250512031100 +0800">
 		<title lang="zh">混世四猴：神猴归来</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250512031100 +0800" stop="20250512044800 +0800">
+		<title lang="zh">冰的启示</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -37287,6 +37311,9 @@
 	<programme channel="newtv怡伴健康" start="20250512014900 +0800" stop="20250512025100 +0800">
 		<title lang="zh">07_青山不墨</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250512025100 +0800" stop="20250512033800 +0800">
+		<title lang="zh">动物家庭（6）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -37298,6 +37325,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250512020800 +0800" stop="20250512031200 +0800">
 		<title lang="zh">31_灼灼风流</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250512031200 +0800" stop="20250512041400 +0800">
+		<title lang="zh">32_灼灼风流</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
