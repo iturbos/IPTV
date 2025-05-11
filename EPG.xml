@@ -25515,6 +25515,9 @@
 	<programme channel="咪咕足球" start="20250511220000 +0800" stop="20250511221000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250511221000 +0800" stop="20250511234500 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA常规赛第29轮 武汉盛帆黄鹤-厦门环东文旅</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -56988,6 +56991,9 @@
 	<programme channel="爱情喜剧" start="20250511211800 +0800" stop="20250511220500 +0800">
 		<title lang="zh">07_舍不得星星</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250511220500 +0800" stop="20250511233200 +0800">
+		<title lang="zh">08_舍不得星星</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -77082,6 +77088,9 @@
 	<programme channel="newtv超级电视剧" start="20250511212100 +0800" stop="20250511220600 +0800">
 		<title lang="zh">23_滤镜</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250511220600 +0800" stop="20250511225200 +0800">
+		<title lang="zh">06_亮剑</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -77324,6 +77333,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250511212700 +0800" stop="20250511221500 +0800">
 		<title lang="zh">30_永夜星河</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250511221500 +0800" stop="20250511230200 +0800">
+		<title lang="zh">19_嫣语赋</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -77630,6 +77642,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250511211800 +0800" stop="20250511220500 +0800">
 		<title lang="zh">07_舍不得星星</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250511220500 +0800" stop="20250511233200 +0800">
+		<title lang="zh">08_舍不得星星</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -78449,6 +78464,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250511212300 +0800" stop="20250511221100 +0800">
 		<title lang="zh">12_庆余年第二季</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250511221100 +0800" stop="20250511234400 +0800">
+		<title lang="zh">六扇门之忠义烽火</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
