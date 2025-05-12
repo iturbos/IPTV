@@ -25245,6 +25245,9 @@
 	<programme channel="咪咕综合体育" start="20250512125500 +0800" stop="20250512144500 +0800">
 		<title lang="zh">网球世界-2025WTA1000多哈站 决赛 阿尼西莫娃-奥斯塔彭科</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250512144500 +0800" stop="20250512151500 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -40043,6 +40046,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250512140400 +0800" stop="20250512144400 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="明星大片" start="20250512144400 +0800" stop="20250512150800 +0800">
+		<title lang="zh">13_名侦探柯南</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -67308,6 +67314,9 @@
 	<programme channel="超级电影" start="20250512133100 +0800" stop="20250512144100 +0800">
 		<title lang="zh">电影《你瞅啥？外星人》</title>
 	</programme>
+	<programme channel="超级电影" start="20250512144100 +0800" stop="20250512161200 +0800">
+		<title lang="zh">电影《英雄泪》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -78156,6 +78165,9 @@
 	<programme channel="newtv超级电影" start="20250512133100 +0800" stop="20250512144100 +0800">
 		<title lang="zh">电影《你瞅啥？外星人》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250512144100 +0800" stop="20250512161200 +0800">
+		<title lang="zh">电影《英雄泪》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -78369,6 +78381,9 @@
 	<programme channel="newtv古装剧场" start="20250512135800 +0800" stop="20250512144600 +0800">
 		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250512144600 +0800" stop="20250512154700 +0800">
+		<title lang="zh">20_独孤天下</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -78425,6 +78440,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250512134900 +0800" stop="20250512144400 +0800">
 		<title lang="zh">35_我姥爷1945之绝命枪</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250512144400 +0800" stop="20250512153800 +0800">
+		<title lang="zh">36_我姥爷1945之绝命枪</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -78798,6 +78816,9 @@
 	<programme channel="newtv军事评论" start="20250512140700 +0800" stop="20250512143400 +0800">
 		<title lang="zh">中国航展 重器上新</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250512143400 +0800" stop="20250512150100 +0800">
+		<title lang="zh">隐秘刀锋</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -78855,6 +78876,9 @@
 	<programme channel="newtv炫舞未来" start="20250512141800 +0800" stop="20250512144400 +0800">
 		<title lang="zh">暗夜套牌车（20240201）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250512144400 +0800" stop="20250512151000 +0800">
+		<title lang="zh">发霉的普洱茶（20240328）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -78905,6 +78929,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250512140400 +0800" stop="20250512144400 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250512144400 +0800" stop="20250512150800 +0800">
+		<title lang="zh">13_名侦探柯南</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -79088,6 +79115,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250512133700 +0800" stop="20250512143700 +0800">
 		<title lang="zh">拉图红酒推广4001087099</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250512143700 +0800" stop="20250512154000 +0800">
+		<title lang="zh">35_雪鹰领主</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
