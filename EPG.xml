@@ -83787,6 +83787,9 @@
 	<programme channel="newtv军旅剧场" start="20250513112300 +0800" stop="20250513120800 +0800">
 		<title lang="zh">35_女人的抗战</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250513120800 +0800" stop="20250513125400 +0800">
+		<title lang="zh">HOKO富硒款反渗透净水机-渠道（右）</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -83861,6 +83864,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250513112300 +0800" stop="20250513120700 +0800">
 		<title lang="zh">LECEA蒸汽富硒养生饭煲-渠道（右）</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250513120700 +0800" stop="20250513132900 +0800">
+		<title lang="zh">疯狂追击者</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -84021,6 +84027,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250513112400 +0800" stop="20250513120800 +0800">
 		<title lang="zh">老广的味道 第四季</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250513120800 +0800" stop="20250513125500 +0800">
+		<title lang="zh">03_树下有片红房子</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -84089,6 +84098,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250513113700 +0800" stop="20250513120400 +0800">
 		<title lang="zh">巧手助打赢</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250513120400 +0800" stop="20250513123100 +0800">
+		<title lang="zh">砺剑深蓝</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
