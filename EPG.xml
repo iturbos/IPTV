@@ -41316,6 +41316,9 @@
 	<programme channel="纯享4K" start="20250514042200 +0800" stop="20250514050400 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 水岸家园 多彩生活</title>
 	</programme>
+	<programme channel="纯享4K" start="20250514051500 +0800" stop="20250514060400 +0800">
+		<title lang="zh">大运河之歌4K 第1集 整理河山</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51351,6 +51354,9 @@
 	<programme channel="newtv超级综艺" start="20250514041300 +0800" stop="20250514051300 +0800">
 		<title lang="zh">非常6+1</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250514051300 +0800" stop="20250514064100 +0800">
+		<title lang="zh">乐在旅途 第二季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -51401,6 +51407,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250514043200 +0800" stop="20250514051700 +0800">
 		<title lang="zh">25_大嫁风尚</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250514051700 +0800" stop="20250514060200 +0800">
+		<title lang="zh">26_大嫁风尚</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51549,6 +51558,9 @@
 	<programme channel="newtv动作电影" start="20250514031900 +0800" stop="20250514050700 +0800">
 		<title lang="zh">英雄泪</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250514050700 +0800" stop="20250514064400 +0800">
+		<title lang="zh">人类削减计划</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -51605,6 +51617,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250514044700 +0800" stop="20250514050900 +0800">
 		<title lang="zh">韩涛 海上守门员</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250514050900 +0800" stop="20250514053100 +0800">
+		<title lang="zh">谁是军营厨王（23）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
