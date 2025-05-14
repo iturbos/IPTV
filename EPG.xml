@@ -18282,6 +18282,9 @@
 	<programme channel="咪咕综合体育" start="20250514144000 +0800" stop="20250514151000 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250514151000 +0800" stop="20250514165000 +0800">
+		<title lang="zh">中超来噜-2025赛季中超 第12轮 山东泰山-浙江俱乐部绿城</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -58686,6 +58689,9 @@
 	<programme channel="黑莓电影" start="20250514133300 +0800" stop="20250514151300 +0800">
 		<title lang="zh">射雕英雄传之九阴白骨爪</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250514151300 +0800" stop="20250514165800 +0800">
+		<title lang="zh">天坑鹰猎</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -59121,6 +59127,9 @@
 	<programme channel="newtv超级电影" start="20250514135700 +0800" stop="20250514151000 +0800">
 		<title lang="zh">电影《鲁班四杰之伏龙海眼》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250514151000 +0800" stop="20250514163800 +0800">
+		<title lang="zh">电影《特别追踪》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -59300,6 +59309,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250514143600 +0800" stop="20250514150400 +0800">
 		<title lang="zh">社渚——伍员山下虾满塘（20230303）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250514150400 +0800" stop="20250514154000 +0800">
+		<title lang="zh">08_数九盼春</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -59859,6 +59871,9 @@
 	<programme channel="newtv炫舞未来" start="20250514132400 +0800" stop="20250514150300 +0800">
 		<title lang="zh">第2期加长版：王冰冰回忆最美好的旅行</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250514150300 +0800" stop="20250514154300 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -59972,6 +59987,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250514134700 +0800" stop="20250514151800 +0800">
 		<title lang="zh">现在就出发第2季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250514151800 +0800" stop="20250514161800 +0800">
+		<title lang="zh">桃花坞开放中第3季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
