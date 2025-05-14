@@ -18420,6 +18420,9 @@
 	<programme channel="咪咕足球" start="20250514220000 +0800" stop="20250514221000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250514221000 +0800" stop="20250514235000 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA常规赛第28轮 合肥文旅-武汉盛帆黄鹤</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -58905,6 +58908,9 @@
 	<programme channel="黑莓动画" start="20250514201200 +0800" stop="20250514220700 +0800">
 		<title lang="zh">战栗的乐谱 中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250514220700 +0800" stop="20250514000000 +0800">
+		<title lang="zh">业火的向日葵 日语版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -60132,6 +60138,9 @@
 	<programme channel="newtv动作电影" start="20250514213900 +0800" stop="20250514220900 +0800">
 		<title lang="zh">《五脏健康操》推荐第2期</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250514220900 +0800" stop="20250514232100 +0800">
+		<title lang="zh">铁血女枪手</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -60297,6 +60306,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250514213200 +0800" stop="20250514220200 +0800">
 		<title lang="zh">《五脏健康操》推荐第2期</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250514220200 +0800" stop="20250514232800 +0800">
+		<title lang="zh">我是处女座</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -60446,6 +60458,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250514213600 +0800" stop="20250514220200 +0800">
 		<title lang="zh">日本高官密集访华 赖清德从中作梗</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250514220200 +0800" stop="20250514222800 +0800">
+		<title lang="zh">赖清德造恐怖堡垒 岛内如何突破？</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -60875,6 +60890,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250514212300 +0800" stop="20250514221100 +0800">
 		<title lang="zh">24_庆余年第二季</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250514221100 +0800" stop="20250514232700 +0800">
+		<title lang="zh">侦录实案之盗亦有道</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
