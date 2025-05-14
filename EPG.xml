@@ -48081,6 +48081,9 @@
 	<programme channel="纯享4K" start="20250514205700 +0800" stop="20250514210200 +0800">
 		<title lang="zh">美丽中国自然4K 山水岁月系列 野牛谷的故事</title>
 	</programme>
+	<programme channel="纯享4K" start="20250514210800 +0800" stop="20250514215700 +0800">
+		<title lang="zh">大运河之歌4K 第1集 整理河山</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -59394,6 +59397,9 @@
 	<programme channel="newtv超级电影" start="20250514194000 +0800" stop="20250514211300 +0800">
 		<title lang="zh">电影《东邪西毒：终极版》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250514211300 +0800" stop="20250514225800 +0800">
+		<title lang="zh">电影《非法制裁》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -59805,6 +59811,9 @@
 	<programme channel="newtv军旅剧场" start="20250514201600 +0800" stop="20250514210600 +0800">
 		<title lang="zh">14_亮剑</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250514210600 +0800" stop="20250514215200 +0800">
+		<title lang="zh">15_亮剑</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -59958,6 +59967,9 @@
 	<programme channel="newtv热播精选" start="20250514202300 +0800" stop="20250514210700 +0800">
 		<title lang="zh">17_最好的时代</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250514210700 +0800" stop="20250514213700 +0800">
+		<title lang="zh">《锦色人生》推荐第1期</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -60020,6 +60032,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250514203600 +0800" stop="20250514210600 +0800">
 		<title lang="zh">《锦色人生》推荐第1期</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250514210600 +0800" stop="20250514215800 +0800">
+		<title lang="zh">21_舍不得星星</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -60149,6 +60164,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250514203400 +0800" stop="20250514210400 +0800">
 		<title lang="zh">《五脏健康操》推荐第2期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250514210400 +0800" stop="20250514214600 +0800">
+		<title lang="zh">天津狼图腾vs湖南名将 第3局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -60368,6 +60386,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250514204600 +0800" stop="20250514211100 +0800">
 		<title lang="zh">美国大选又生变 赖清德向谁表忠心？</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250514211100 +0800" stop="20250514213600 +0800">
+		<title lang="zh">蔡英文辣手反击 直插赖清德软肋</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
