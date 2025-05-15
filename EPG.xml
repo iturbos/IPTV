@@ -27618,6 +27618,9 @@
 	<programme channel="咪咕足球" start="20250515143000 +0800" stop="20250515161000 +0800">
 		<title lang="zh">篮球：为爱而生09 湖人铁三角</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250515161000 +0800" stop="20250515175000 +0800">
+		<title lang="zh">当燃CBA-24/25季后赛1/4决赛G4 北京控股-北京北汽</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -39728,6 +39731,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250515152400 +0800" stop="20250515160400 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250515160400 +0800" stop="20250515173900 +0800">
+		<title lang="zh">龙骨遗冢</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -83664,6 +83670,9 @@
 	<programme channel="newtv精品大剧" start="20250515152800 +0800" stop="20250515161000 +0800">
 		<title lang="zh">27_大唐荣耀</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250515161000 +0800" stop="20250515164700 +0800">
+		<title lang="zh">侧柏叶墨旱莲何首乌精油皂-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -83735,6 +83744,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250515153600 +0800" stop="20250515160400 +0800">
 		<title lang="zh">寿光——蔬菜之乡 绿潮竞涌（20230322）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250515160400 +0800" stop="20250515170800 +0800">
+		<title lang="zh">01_生命之泵</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -84270,6 +84282,9 @@
 	<programme channel="newtv军事评论" start="20250515153600 +0800" stop="20250515160100 +0800">
 		<title lang="zh">空中“老将”制胜沙场</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250515160100 +0800" stop="20250515162300 +0800">
+		<title lang="zh">频频出糗的英国皇家海军</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84341,6 +84356,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250515154400 +0800" stop="20250515160500 +0800">
 		<title lang="zh">弹力绳训练</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250515160500 +0800" stop="20250515162700 +0800">
+		<title lang="zh">身体躯干波浪组合</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -84434,6 +84452,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250515152400 +0800" stop="20250515160400 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250515160400 +0800" stop="20250515173900 +0800">
+		<title lang="zh">龙骨遗冢</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -84581,6 +84602,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250515151300 +0800" stop="20250515161300 +0800">
 		<title lang="zh">06_新白蛇传</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250515161300 +0800" stop="20250515165700 +0800">
+		<title lang="zh">07_新白蛇传</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
