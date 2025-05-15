@@ -17253,6 +17253,9 @@
 	<programme channel="咪咕综合体育" start="20250516001500 +0800" stop="20250516004000 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250516011000 +0800" stop="20250516021500 +0800">
+		<title lang="zh">纪录片贝克汉姆：名传四方</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -41859,6 +41862,9 @@
 	<programme channel="纯享4K" start="20250516003500 +0800" stop="20250516010300 +0800">
 		<title lang="zh">记住乡愁4K第十季 吉祥寺——神农故里 菇乡人家</title>
 	</programme>
+	<programme channel="纯享4K" start="20250516010300 +0800" stop="20250516013200 +0800">
+		<title lang="zh">味道4K原味乡间b7安顺篇</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52023,6 +52029,9 @@
 	<programme channel="newtv超级综艺" start="20250516002300 +0800" stop="20250516010900 +0800">
 		<title lang="zh">07_暴风眼</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250516010900 +0800" stop="20250516015600 +0800">
+		<title lang="zh">08_暴风眼</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -52046,6 +52055,9 @@
 	</channel>
 	<programme channel="newtv超级电视剧" start="20250516002400 +0800" stop="20250516011100 +0800">
 		<title lang="zh">20_暗战风云</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250516011100 +0800" stop="20250516015800 +0800">
+		<title lang="zh">21_暗战风云</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -52119,11 +52131,17 @@
 	<programme channel="newtv潮妈辣婆" start="20250516000500 +0800" stop="20250516010700 +0800">
 		<title lang="zh">09_婚姻那些事儿</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250516010700 +0800" stop="20250516020900 +0800">
+		<title lang="zh">10_婚姻那些事儿</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
 	<programme channel="newtv军事评论" start="20250516001700 +0800" stop="20250516011100 +0800">
 		<title lang="zh">常晓忠 梁锋 我在南海当“岛长”</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250516011100 +0800" stop="20250516020500 +0800">
+		<title lang="zh">人间烟火气 浓浓故乡情</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -52142,6 +52160,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20250516002200 +0800" stop="20250516010200 +0800">
 		<title lang="zh">思独鲜八珍糕99元   高清10分钟   400-108-7099</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250516010200 +0800" stop="20250516021500 +0800">
+		<title lang="zh">钟馗归来万世妖灵</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
