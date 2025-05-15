@@ -41889,6 +41889,9 @@
 	<programme channel="纯享4K" start="20250516023200 +0800" stop="20250516030200 +0800">
 		<title lang="zh">寻古中国4K 云梦记b7探秘秦简</title>
 	</programme>
+	<programme channel="纯享4K" start="20250516030200 +0800" stop="20250516034200 +0800">
+		<title lang="zh">探索b7发现4K 一代大师李叔同（2）艺海先驱</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52182,6 +52185,9 @@
 	<programme channel="newtv超级综艺" start="20250516015600 +0800" stop="20250516031600 +0800">
 		<title lang="zh">小品相声大会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250516031600 +0800" stop="20250516045100 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -52257,6 +52263,9 @@
 	<programme channel="newtv古装剧场" start="20250516015900 +0800" stop="20250516030000 +0800">
 		<title lang="zh">09_且试天下</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250516030000 +0800" stop="20250516040100 +0800">
+		<title lang="zh">10_且试天下</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -52296,6 +52305,9 @@
 	<programme channel="newtv热播精选" start="20250516021400 +0800" stop="20250516031600 +0800">
 		<title lang="zh">38_加油！妈妈</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250516031600 +0800" stop="20250516041800 +0800">
+		<title lang="zh">39_加油！妈妈</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -52304,6 +52316,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250516021400 +0800" stop="20250516031100 +0800">
 		<title lang="zh">20_初婚</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250516031100 +0800" stop="20250516040800 +0800">
+		<title lang="zh">21_初婚</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -52341,6 +52356,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250516020900 +0800" stop="20250516031100 +0800">
 		<title lang="zh">11_婚姻那些事儿</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250516031100 +0800" stop="20250516041300 +0800">
+		<title lang="zh">12_婚姻那些事儿</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -52352,6 +52370,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250516020500 +0800" stop="20250516025700 +0800">
 		<title lang="zh">王建华：从炊事员到金牌大厨</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250516025700 +0800" stop="20250516034800 +0800">
+		<title lang="zh">学雷锋精神当服务标兵 国防知识挑战赛走进空军后勤部某直属保障大队</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -52388,6 +52409,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20250516000200 +0800" stop="20250516031000 +0800">
 		<title lang="zh">越战越勇（2024）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250516031000 +0800" stop="20250516061900 +0800">
+		<title lang="zh">向幸福出发（2025）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
