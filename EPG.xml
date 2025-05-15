@@ -20484,6 +20484,9 @@
 	<programme channel="动作电影" start="20250515213600 +0800" stop="20250515220600 +0800">
 		<title lang="zh">《五脏健康操》推荐第2期</title>
 	</programme>
+	<programme channel="动作电影" start="20250515220600 +0800" stop="20250515232300 +0800">
+		<title lang="zh">寄生怪</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -27728,6 +27731,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250515220000 +0800" stop="20250515221000 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250515221000 +0800" stop="20250515234000 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA常规赛第26轮 浙江稠州银行-山西竹叶青酒</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -71952,6 +71958,9 @@
 	<programme channel="超级电影" start="20250515201400 +0800" stop="20250515222000 +0800">
 		<title lang="zh">电影《终结者：黑暗命运》</title>
 	</programme>
+	<programme channel="超级电影" start="20250515222000 +0800" stop="20250515000500 +0800">
+		<title lang="zh">电影《海浪》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -83889,6 +83898,9 @@
 	<programme channel="newtv超级电影" start="20250515201400 +0800" stop="20250515222000 +0800">
 		<title lang="zh">电影《终结者：黑暗命运》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250515222000 +0800" stop="20250515000500 +0800">
+		<title lang="zh">电影《海浪》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -83979,6 +83991,9 @@
 	<programme channel="newtv超级电视剧" start="20250515211600 +0800" stop="20250515220700 +0800">
 		<title lang="zh">03_无尽的尽头</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250515220700 +0800" stop="20250515225300 +0800">
+		<title lang="zh">18_亮剑</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -84062,6 +84077,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250515214500 +0800" stop="20250515221500 +0800">
 		<title lang="zh">《五脏健康操》推荐第2期</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250515221500 +0800" stop="20250515230000 +0800">
+		<title lang="zh">05_蓝盔特战队</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -84606,6 +84624,9 @@
 	<programme channel="newtv动作电影" start="20250515213600 +0800" stop="20250515220600 +0800">
 		<title lang="zh">《五脏健康操》推荐第2期</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250515220600 +0800" stop="20250515232300 +0800">
+		<title lang="zh">寄生怪</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -84929,6 +84950,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250515214500 +0800" stop="20250515221000 +0800">
 		<title lang="zh">民众党面临危机 台湾民调：民众党认同度腰斩</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250515221000 +0800" stop="20250515223600 +0800">
+		<title lang="zh">马英九警告美国 别再插手两岸</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
