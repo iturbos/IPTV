@@ -27717,6 +27717,9 @@
 	<programme channel="咪咕足球" start="20250515193000 +0800" stop="20250515211000 +0800">
 		<title lang="zh">当燃CBA-24/25总决赛G2 浙江方兴渡-北京北汽</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250515211000 +0800" stop="20250515220000 +0800">
+		<title lang="zh">最后之舞05</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -39897,6 +39900,9 @@
 	<programme channel="惊悚悬疑" start="20250515193900 +0800" stop="20250515210800 +0800">
 		<title lang="zh">狄仁杰之通天赤狐</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250515210800 +0800" stop="20250515213800 +0800">
+		<title lang="zh">《五脏健康操》推荐第2期</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -43463,6 +43469,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250515202900 +0800" stop="20250515210900 +0800">
 		<title lang="zh">思独鲜八珍糕99元   高清10分钟   400-108-7099</title>
+	</programme>
+	<programme channel="明星大片" start="20250515210900 +0800" stop="20250515221800 +0800">
+		<title lang="zh">14_春色寄情人</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -67164,6 +67173,9 @@
 	<programme channel="纯享4K" start="20250515205900 +0800" stop="20250515210500 +0800">
 		<title lang="zh">美丽中国自然4K 山水岁月系列 独龙族的阿布</title>
 	</programme>
+	<programme channel="纯享4K" start="20250515210500 +0800" stop="20250515215400 +0800">
+		<title lang="zh">大运河之歌4K 第3集 运河中心时代</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -83937,6 +83949,9 @@
 	<programme channel="newtv超级电视剧" start="20250515202900 +0800" stop="20250515211600 +0800">
 		<title lang="zh">02_无尽的尽头</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250515211600 +0800" stop="20250515220700 +0800">
+		<title lang="zh">03_无尽的尽头</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -84186,6 +84201,9 @@
 	<programme channel="newtv古装剧场" start="20250515202500 +0800" stop="20250515210500 +0800">
 		<title lang="zh">12_御赐小仵作</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250515210500 +0800" stop="20250515214000 +0800">
+		<title lang="zh">《五脏健康操》推荐第2期</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -84266,6 +84284,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250515201700 +0800" stop="20250515210700 +0800">
 		<title lang="zh">17_亮剑</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250515210700 +0800" stop="20250515215300 +0800">
+		<title lang="zh">18_亮剑</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -84416,6 +84437,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250515202100 +0800" stop="20250515210900 +0800">
 		<title lang="zh">21_最好的时代</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250515210900 +0800" stop="20250515213900 +0800">
+		<title lang="zh">《锦色人生》推荐第1期</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -84690,6 +84714,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250515202600 +0800" stop="20250515211300 +0800">
 		<title lang="zh">02_好团圆</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250515211300 +0800" stop="20250515214200 +0800">
+		<title lang="zh">《五脏健康操》推荐第2期</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -84930,6 +84957,9 @@
 	<programme channel="newtv炫舞未来" start="20250515203000 +0800" stop="20250515211600 +0800">
 		<title lang="zh">31_金婚</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250515211600 +0800" stop="20250515215600 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -85002,6 +85032,9 @@
 	<programme channel="newtv精品综合" start="20250515202900 +0800" stop="20250515210900 +0800">
 		<title lang="zh">思独鲜八珍糕99元   高清10分钟   400-108-7099</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250515210900 +0800" stop="20250515221800 +0800">
+		<title lang="zh">14_春色寄情人</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -85052,6 +85085,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250515193900 +0800" stop="20250515210800 +0800">
 		<title lang="zh">狄仁杰之通天赤狐</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250515210800 +0800" stop="20250515213800 +0800">
+		<title lang="zh">《五脏健康操》推荐第2期</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
