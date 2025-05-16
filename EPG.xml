@@ -60888,6 +60888,9 @@
 	<programme channel="newtv军旅剧场" start="20250516140700 +0800" stop="20250516150200 +0800">
 		<title lang="zh">11_暗战风云</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250516150200 +0800" stop="20250516155700 +0800">
+		<title lang="zh">12_暗战风云</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -60944,6 +60947,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250516142900 +0800" stop="20250516151400 +0800">
 		<title lang="zh">42_兰桐花开</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250516151400 +0800" stop="20250516160200 +0800">
+		<title lang="zh">贝卡罗莱L-a-甘磷酸胆碱复合粉-渠道（右）</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -61290,6 +61296,9 @@
 	<programme channel="newtv军事评论" start="20250516144400 +0800" stop="20250516150900 +0800">
 		<title lang="zh">军营年味别样浓 金铲子主厨争霸赛</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250516150900 +0800" stop="20250516153500 +0800">
+		<title lang="zh">军营年味别样浓 家乡味道抚人心</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -61392,6 +61401,9 @@
 	<programme channel="newtv精品综合" start="20250516144300 +0800" stop="20250516150700 +0800">
 		<title lang="zh">20_名侦探柯南</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250516150700 +0800" stop="20250516155600 +0800">
+		<title lang="zh">日本进口富山藤氏金钻小分子脑活素-渠道（右）</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -61454,6 +61466,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250516134200 +0800" stop="20250516151100 +0800">
 		<title lang="zh">现在就出发第2季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250516151100 +0800" stop="20250516155900 +0800">
+		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
