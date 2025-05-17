@@ -56373,6 +56373,9 @@
 	<programme channel="黑莓动画" start="20250517102900 +0800" stop="20250517120800 +0800">
 		<title lang="zh">第十四个目标 中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250517120800 +0800" stop="20250517134800 +0800">
+		<title lang="zh">通往天国的倒计时 中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -56856,6 +56859,9 @@
 	<programme channel="newtv超级电视剧" start="20250517112500 +0800" stop="20250517121100 +0800">
 		<title lang="zh">24_驻站</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250517121100 +0800" stop="20250517125600 +0800">
+		<title lang="zh">25_驻站</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -56939,6 +56945,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250517110700 +0800" stop="20250517121300 +0800">
 		<title lang="zh">03_蔬影映桃江</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250517121300 +0800" stop="20250517134200 +0800">
+		<title lang="zh">04_新风绘古村</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -57605,6 +57614,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250517110100 +0800" stop="20250517120200 +0800">
 		<title lang="zh">25_新边城浪子</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250517120200 +0800" stop="20250517124600 +0800">
+		<title lang="zh">LECEA蒸汽富硒养生饭煲-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
