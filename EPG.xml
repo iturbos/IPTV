@@ -54102,6 +54102,9 @@
 	<programme channel="黑莓电影" start="20250519133900 +0800" stop="20250519150900 +0800">
 		<title lang="zh">武动乾坤：九重符塔</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250519150900 +0800" stop="20250519163600 +0800">
+		<title lang="zh">一路不消停</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -54563,6 +54566,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250519142600 +0800" stop="20250519150800 +0800">
 		<title lang="zh">43_大唐荣耀</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250519150800 +0800" stop="20250519155000 +0800">
+		<title lang="zh">44_大唐荣耀</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -55149,6 +55155,9 @@
 	<programme channel="newtv军事评论" start="20250519145000 +0800" stop="20250519151500 +0800">
 		<title lang="zh">劈波斩浪向深蓝 第二集 来自深海的战斗快报</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250519151500 +0800" stop="20250519154100 +0800">
+		<title lang="zh">劈波斩浪向深蓝 第三集 奋飞向战的“海空猎手”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -55203,6 +55212,9 @@
 	<programme channel="newtv炫舞未来" start="20250519135700 +0800" stop="20250519151400 +0800">
 		<title lang="zh">第7期：陆毅小尼复古表演回忆杀</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250519151400 +0800" stop="20250519155400 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -55253,6 +55265,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250519143800 +0800" stop="20250519150300 +0800">
 		<title lang="zh">26_名侦探柯南</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250519150300 +0800" stop="20250519154300 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -55436,6 +55451,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250519143200 +0800" stop="20250519151400 +0800">
 		<title lang="zh">19_新白蛇传</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250519151400 +0800" stop="20250519161100 +0800">
+		<title lang="zh">20_新白蛇传</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
