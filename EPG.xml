@@ -16923,6 +16923,9 @@
 	<programme channel="咪咕足球" start="20250519220000 +0800" stop="20250519221000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250519221000 +0800" stop="20250519235000 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA常规赛第23轮 江苏南钢-上海浦发银行</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -54147,6 +54150,9 @@
 	<programme channel="黑莓电影" start="20250519193400 +0800" stop="20250519221200 +0800">
 		<title lang="zh">变形金刚4：绝迹重生</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250519221200 +0800" stop="20250519000400 +0800">
+		<title lang="zh">永不妥协</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -55638,6 +55644,9 @@
 	<programme channel="newtv炫舞未来" start="20250519212700 +0800" stop="20250519220700 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250519220700 +0800" stop="20250519222900 +0800">
+		<title lang="zh">臀+腿下肢训练（20241224）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -55715,6 +55724,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250519212400 +0800" stop="20250519220300 +0800">
 		<title lang="zh">05_想见你</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250519220300 +0800" stop="20250519224000 +0800">
+		<title lang="zh">06_想见你</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
