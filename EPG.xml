@@ -44724,6 +44724,9 @@
 	<programme channel="纯享4K" start="20250519224700 +0800" stop="20250519231500 +0800">
 		<title lang="zh">好吃客4K 北京胡同</title>
 	</programme>
+	<programme channel="纯享4K" start="20250519231500 +0800" stop="20250519234200 +0800">
+		<title lang="zh">好吃客4K 京城洋厨房</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -54774,6 +54777,9 @@
 	<programme channel="newtv精品纪录" start="20250519223700 +0800" stop="20250519230300 +0800">
 		<title lang="zh">铁血木兰 郭俊卿</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250519230300 +0800" stop="20250519233300 +0800">
+		<title lang="zh">穿街走巷b7昌吉篇</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -55047,6 +55053,9 @@
 	<programme channel="newtv家庭剧场" start="20250519223100 +0800" stop="20250519231500 +0800">
 		<title lang="zh">39_独生子女的婆婆妈妈</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250519231500 +0800" stop="20250519235900 +0800">
+		<title lang="zh">40_独生子女的婆婆妈妈</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -55199,6 +55208,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250519222600 +0800" stop="20250519231100 +0800">
 		<title lang="zh">16_曾少年</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250519231100 +0800" stop="20250519235700 +0800">
+		<title lang="zh">HOKO富硒款反渗透净水机-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -55610,6 +55622,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250519224300 +0800" stop="20250519230900 +0800">
 		<title lang="zh">团圆中秋节 两岸一家亲</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250519230900 +0800" stop="20250519233400 +0800">
+		<title lang="zh">拜登16度军售 台美关系“发霉”</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
