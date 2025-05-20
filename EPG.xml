@@ -58569,6 +58569,9 @@
 	<programme channel="黑莓电影" start="20250520103900 +0800" stop="20250520121400 +0800">
 		<title lang="zh">信者</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250520121400 +0800" stop="20250520134800 +0800">
+		<title lang="zh">哆啦A梦：伴我同行</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -59160,6 +59163,9 @@
 	<programme channel="newtv古装剧场" start="20250520111900 +0800" stop="20250520120400 +0800">
 		<title lang="zh">18_大武当</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250520120400 +0800" stop="20250520124400 +0800">
+		<title lang="zh">思独鲜桃酥7099版本10分钟</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -59288,6 +59294,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250520112100 +0800" stop="20250520120900 +0800">
 		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250520120900 +0800" stop="20250520132800 +0800">
+		<title lang="zh">山海之机巧蒜泥</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -59574,6 +59583,9 @@
 	<programme channel="newtv炫舞未来" start="20250520105800 +0800" stop="20250520121500 +0800">
 		<title lang="zh">来自浙江诸暨的“珍珠西施”林益坤 介绍珍珠打造的“千亿级产业”（20241209）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250520121500 +0800" stop="20250520130200 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -59645,6 +59657,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250520112700 +0800" stop="20250520120700 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250520120700 +0800" stop="20250520132500 +0800">
+		<title lang="zh">法医秦明之雨中协奏曲</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
