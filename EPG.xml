@@ -47847,6 +47847,9 @@
 	<programme channel="纯享4K" start="20250520122600 +0800" stop="20250520130800 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 水润宁夏 生态田园</title>
 	</programme>
+	<programme channel="纯享4K" start="20250520131300 +0800" stop="20250520131800 +0800">
+		<title lang="zh">美丽中国自然4K 三江源人与自然系列 生态马帮</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -58974,6 +58977,9 @@
 	<programme channel="newtv超级体育" start="20250520120000 +0800" stop="20250520130500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250520130500 +0800" stop="20250520132800 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59249,6 +59255,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250520122900 +0800" stop="20250520130900 +0800">
 		<title lang="zh">思独鲜八珍糕99元   高清10分钟   400-108-7099</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250520130900 +0800" stop="20250520141100 +0800">
+		<title lang="zh">刀光枪影第23集</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -59589,6 +59598,9 @@
 	<programme channel="newtv军事评论" start="20250520124300 +0800" stop="20250520130800 +0800">
 		<title lang="zh">庆典背后的故事 上集</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250520130800 +0800" stop="20250520133400 +0800">
+		<title lang="zh">庆典背后的故事 下集</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -59645,6 +59657,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250520121500 +0800" stop="20250520130200 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250520130200 +0800" stop="20250520143800 +0800">
+		<title lang="zh">第12期加长版：此生团草原骑行热血满满</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
