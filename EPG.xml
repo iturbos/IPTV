@@ -59388,6 +59388,9 @@
 	<programme channel="黑莓动画" start="20250521110800 +0800" stop="20250521121300 +0800">
 		<title lang="zh">角落小伙伴电影版 蓝色月夜的魔法之子（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250521121300 +0800" stop="20250521133700 +0800">
+		<title lang="zh">虹猫蓝兔火凤凰</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -59411,6 +59414,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250521104000 +0800" stop="20250521120900 +0800">
 		<title lang="zh">大神猴2伏魔篇</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250521120900 +0800" stop="20250521134800 +0800">
+		<title lang="zh">幻影爱人</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -59756,6 +59762,9 @@
 	</programme>
 	<programme channel="newtv超级综艺" start="20250521104300 +0800" stop="20250521121600 +0800">
 		<title lang="zh">诗画中国</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20250521121600 +0800" stop="20250521123600 +0800">
+		<title lang="zh">文化十分</title>
 	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
@@ -60219,6 +60228,9 @@
 	<programme channel="newtv爱情喜剧" start="20250521112200 +0800" stop="20250521121100 +0800">
 		<title lang="zh">帕米便携式氢氧一体机超值组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250521121100 +0800" stop="20250521125900 +0800">
+		<title lang="zh">21_曾少年</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -60317,6 +60329,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250521115100 +0800" stop="20250521120500 +0800">
 		<title lang="zh">小品《妈妈是座山》 演员：白鸽 常亮 马俊弛</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250521120500 +0800" stop="20250521125400 +0800">
+		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -60443,6 +60458,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250521114700 +0800" stop="20250521120900 +0800">
 		<title lang="zh">神舟十七号载人飞行任务（3）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250521120900 +0800" stop="20250521123400 +0800">
+		<title lang="zh">当自然灾害来临时</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
