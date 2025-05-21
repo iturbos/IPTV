@@ -48384,6 +48384,9 @@
 	<programme channel="纯享4K" start="20250521224000 +0800" stop="20250521231000 +0800">
 		<title lang="zh">好吃客4K 泉州</title>
 	</programme>
+	<programme channel="纯享4K" start="20250521231000 +0800" stop="20250521233800 +0800">
+		<title lang="zh">好吃客4K 西安</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -59454,6 +59457,9 @@
 	<programme channel="黑莓电影" start="20250521205000 +0800" stop="20250521230200 +0800">
 		<title lang="zh">星际迷航：暗黑无界</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250521230200 +0800" stop="20250521010400 +0800">
+		<title lang="zh">今夜，就算这份爱恋从世界上消失</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -59813,6 +59819,9 @@
 	</programme>
 	<programme channel="newtv超级综艺" start="20250521214700 +0800" stop="20250521230300 +0800">
 		<title lang="zh">风华国乐—乐从东方来</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20250521230300 +0800" stop="20250521234800 +0800">
+		<title lang="zh">29_暴风眼</title>
 	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
@@ -60314,6 +60323,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250521222700 +0800" stop="20250521230800 +0800">
 		<title lang="zh">19_星汉灿烂</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250521230800 +0800" stop="20250521234900 +0800">
+		<title lang="zh">20_星汉灿烂</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -61205,6 +61217,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250521225300 +0800" stop="20250521230600 +0800">
 		<title lang="zh">领航-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250521230600 +0800" stop="20250521232400 +0800">
+		<title lang="zh">压力来源：强计划型的强迫症</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
