@@ -60006,6 +60006,9 @@
 	<programme channel="newtv精品大剧" start="20250521140200 +0800" stop="20250521144200 +0800">
 		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250521144200 +0800" stop="20250521152700 +0800">
+		<title lang="zh">23_驻站</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -60351,6 +60354,9 @@
 	<programme channel="newtv爱情喜剧" start="20250521134700 +0800" stop="20250521143300 +0800">
 		<title lang="zh">23_曾少年</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250521143300 +0800" stop="20250521152100 +0800">
+		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -60525,6 +60531,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250521135500 +0800" stop="20250521144400 +0800">
 		<title lang="zh">05_棋士</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250521144400 +0800" stop="20250521153000 +0800">
+		<title lang="zh">第4期：准岳母让男友婚前送房，美女疑心男友劈腿同事</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -60617,6 +60626,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250521141600 +0800" stop="20250521144100 +0800">
 		<title lang="zh">迷彩色的“硬核”爱情</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250521144100 +0800" stop="20250521150700 +0800">
+		<title lang="zh">青春绽放在新疆边防</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -60734,6 +60746,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250521134400 +0800" stop="20250521143300 +0800">
 		<title lang="zh">中元益宝牌灵芝孢子油-春节版-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250521143300 +0800" stop="20250521145700 +0800">
+		<title lang="zh">30_名侦探柯南</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
