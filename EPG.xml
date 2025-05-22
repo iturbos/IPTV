@@ -19047,6 +19047,9 @@
 	<programme channel="咪咕足球" start="20250522143000 +0800" stop="20250522161000 +0800">
 		<title lang="zh">篮球：为爱而生05 巨人之战</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250522161000 +0800" stop="20250522175000 +0800">
+		<title lang="zh">当燃CBA-24/25季后赛半决赛G1 浙江方兴渡-辽宁本钢</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -60804,6 +60807,9 @@
 	<programme channel="newtv精品大剧" start="20250522152100 +0800" stop="20250522160600 +0800">
 		<title lang="zh">27_驻站</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250522160600 +0800" stop="20250522165200 +0800">
+		<title lang="zh">HOKO富硒款反渗透净水机-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -61005,6 +61011,9 @@
 	<programme channel="newtv军旅剧场" start="20250522152300 +0800" stop="20250522160900 +0800">
 		<title lang="zh">33_四十九日b7祭（DVD版）</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250522160900 +0800" stop="20250522165400 +0800">
+		<title lang="zh">34_四十九日b7祭（DVD版）</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -61128,6 +61137,9 @@
 	<programme channel="newtv热播精选" start="20250522152500 +0800" stop="20250522161100 +0800">
 		<title lang="zh">02_画眉</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250522161100 +0800" stop="20250522165600 +0800">
+		<title lang="zh">03_画眉</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -61178,6 +61190,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250522142400 +0800" stop="20250522161100 +0800">
 		<title lang="zh">黄河绝恋</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250522161100 +0800" stop="20250522173700 +0800">
+		<title lang="zh">25_曾少年</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -61467,6 +61482,9 @@
 	<programme channel="newtv军事评论" start="20250522154700 +0800" stop="20250522161200 +0800">
 		<title lang="zh">外国军医在中国 下集</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250522161200 +0800" stop="20250522163400 +0800">
+		<title lang="zh">欧洲护卫舰新动态</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -61613,6 +61631,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250522151400 +0800" stop="20250522160200 +0800">
 		<title lang="zh">日本跨境Yanagozawa牛黄宝营养素-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250522160200 +0800" stop="20250522164900 +0800">
+		<title lang="zh">03_三十而已</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
