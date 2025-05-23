@@ -18948,6 +18948,9 @@
 	<programme channel="咪咕综合体育" start="20250523132000 +0800" stop="20250523150000 +0800">
 		<title lang="zh">足球世界-24/25赛季德甲 第32轮 RB莱比锡-拜仁慕尼黑</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250523150000 +0800" stop="20250523194000 +0800">
+		<title lang="zh">国球荣耀-2025国际乒联多哈世乒赛 混双半决赛、双打1/4、单打1/4决赛 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -60936,6 +60939,9 @@
 	<programme channel="newtv超级综艺" start="20250523134700 +0800" stop="20250523151700 +0800">
 		<title lang="zh">诗画中国</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250523151700 +0800" stop="20250523170600 +0800">
+		<title lang="zh">国家宝藏 第四季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60975,6 +60981,9 @@
 	<programme channel="newtv超级体育" start="20250523132900 +0800" stop="20250523150500 +0800">
 		<title lang="zh">实况录像-2025年田径世界接力赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250523150500 +0800" stop="20250523160000 +0800">
+		<title lang="zh">篮球公园</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -61007,6 +61016,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250523135000 +0800" stop="20250523150200 +0800">
 		<title lang="zh">电影《石榴熟了之一拍到底》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250523150200 +0800" stop="20250523161700 +0800">
+		<title lang="zh">电影《美人图》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -61071,6 +61083,9 @@
 	<programme channel="newtv超级电视剧" start="20250523141800 +0800" stop="20250523150400 +0800">
 		<title lang="zh">11_六姊妹</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250523150400 +0800" stop="20250523155000 +0800">
+		<title lang="zh">12_六姊妹</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -61133,6 +61148,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250523142200 +0800" stop="20250523150300 +0800">
 		<title lang="zh">59_大唐荣耀</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250523150300 +0800" stop="20250523154300 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -61776,6 +61794,9 @@
 	<programme channel="newtv军事评论" start="20250523145000 +0800" stop="20250523151500 +0800">
 		<title lang="zh">我在部队挺好的</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250523151500 +0800" stop="20250523153700 +0800">
+		<title lang="zh">决胜利器b7海天利刃</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -61983,6 +62004,9 @@
 	<programme channel="newtv金牌综艺" start="20250523133600 +0800" stop="20250523150800 +0800">
 		<title lang="zh">桃花坞开放中第3季</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250523150800 +0800" stop="20250523155700 +0800">
+		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -62105,6 +62129,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250523142600 +0800" stop="20250523151100 +0800">
 		<title lang="zh">03_长安少年行</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250523151100 +0800" stop="20250523155800 +0800">
+		<title lang="zh">04_长安少年行</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
