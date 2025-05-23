@@ -61119,6 +61119,9 @@
 	<programme channel="newtv超级电视剧" start="20250523155000 +0800" stop="20250523163600 +0800">
 		<title lang="zh">13_六姊妹</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250523163600 +0800" stop="20250523172200 +0800">
+		<title lang="zh">25_树下有片红房子</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -61424,6 +61427,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250523154600 +0800" stop="20250523163400 +0800">
 		<title lang="zh">38_四十九日b7祭（DVD版）</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250523163400 +0800" stop="20250523172000 +0800">
+		<title lang="zh">39_四十九日b7祭（DVD版）</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -61896,6 +61902,9 @@
 	<programme channel="newtv军事评论" start="20250523162100 +0800" stop="20250523164300 +0800">
 		<title lang="zh">铸剑兴邦b7铁甲强基</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250523164300 +0800" stop="20250523170500 +0800">
+		<title lang="zh">铸剑兴邦b7科技领航</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -61979,6 +61988,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250523155800 +0800" stop="20250523164400 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250523164400 +0800" stop="20250523183000 +0800">
+		<title lang="zh">经典音乐电影《五朵金花》欣赏（20250317）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -62261,6 +62273,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250523155800 +0800" stop="20250523164500 +0800">
 		<title lang="zh">05_长安少年行</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250523164500 +0800" stop="20250523173400 +0800">
+		<title lang="zh">06_长安少年行</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
