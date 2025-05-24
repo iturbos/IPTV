@@ -18108,6 +18108,9 @@
 	<programme channel="咪咕综合体育" start="20250524134500 +0800" stop="20250524141500 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250524141500 +0800" stop="20250524155500 +0800">
+		<title lang="zh">足球世界-2025赛季足协杯 第3轮 青岛红狮-山东泰山</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -46596,6 +46599,9 @@
 	<programme channel="纯享4K" start="20250524131900 +0800" stop="20250524140800 +0800">
 		<title lang="zh">大地之上4K 第3集 水的力量</title>
 	</programme>
+	<programme channel="纯享4K" start="20250524140800 +0800" stop="20250524145700 +0800">
+		<title lang="zh">大地之上4K 第4集 草木之间</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -56946,6 +56952,9 @@
 	<programme channel="newtv超级电视剧" start="20250524133100 +0800" stop="20250524141700 +0800">
 		<title lang="zh">14_六姊妹</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250524141700 +0800" stop="20250524150300 +0800">
+		<title lang="zh">15_六姊妹</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -57104,6 +57113,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250524132500 +0800" stop="20250524141100 +0800">
 		<title lang="zh">15_九重紫</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250524141100 +0800" stop="20250524145900 +0800">
+		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -57549,6 +57561,9 @@
 	<programme channel="newtv军事评论" start="20250524134500 +0800" stop="20250524141100 +0800">
 		<title lang="zh">青春女兵的成人礼</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250524141100 +0800" stop="20250524143600 +0800">
+		<title lang="zh">筑梦边防</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -57608,6 +57623,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250524134200 +0800" stop="20250524140400 +0800">
 		<title lang="zh">肱三头肌训练</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250524140400 +0800" stop="20250524145200 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -57842,6 +57860,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250524132900 +0800" stop="20250524140800 +0800">
 		<title lang="zh">羊王冻干纯羊奶粉专享组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250524140800 +0800" stop="20250524145200 +0800">
+		<title lang="zh">07_长安少年行</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
