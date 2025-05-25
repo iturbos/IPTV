@@ -39159,6 +39159,9 @@
 	<programme channel="纯享4K" start="20250526023700 +0800" stop="20250526030700 +0800">
 		<title lang="zh">寻古中国4K 寻夏记b7夏禾丰裕</title>
 	</programme>
+	<programme channel="纯享4K" start="20250526030700 +0800" stop="20250526034700 +0800">
+		<title lang="zh">探索b7发现4K 匠人b7匠心（8）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -48588,6 +48591,9 @@
 	<programme channel="newtv超级电影" start="20250526012700 +0800" stop="20250526031300 +0800">
 		<title lang="zh">神跤</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250526031300 +0800" stop="20250526045800 +0800">
+		<title lang="zh">党员登记表</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -48599,6 +48605,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250526021200 +0800" stop="20250526025900 +0800">
 		<title lang="zh">09_蓝盔特战队</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250526025900 +0800" stop="20250526034500 +0800">
+		<title lang="zh">10_蓝盔特战队</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -48636,6 +48645,9 @@
 	<programme channel="newtv古装剧场" start="20250526014500 +0800" stop="20250526024600 +0800">
 		<title lang="zh">08_大舜</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250526024600 +0800" stop="20250526034800 +0800">
+		<title lang="zh">09_大舜</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -48660,6 +48672,9 @@
 	<programme channel="newtv家庭剧场" start="20250526022600 +0800" stop="20250526031200 +0800">
 		<title lang="zh">10_故乡，别来无恙</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250526031200 +0800" stop="20250526041400 +0800">
+		<title lang="zh">11_故乡，别来无恙</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -48669,11 +48684,17 @@
 	<programme channel="newtv热播精选" start="20250526020700 +0800" stop="20250526025200 +0800">
 		<title lang="zh">09_青山不墨</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250526025200 +0800" stop="20250526035800 +0800">
+		<title lang="zh">10_青山不墨</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
 	<programme channel="newtv爱情喜剧" start="20250526004600 +0800" stop="20250526025000 +0800">
 		<title lang="zh">走走停停</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250526025000 +0800" stop="20250526035600 +0800">
+		<title lang="zh">28_在暴雪时分</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -48695,6 +48716,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250526014500 +0800" stop="20250526025100 +0800">
 		<title lang="zh">01_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250526025100 +0800" stop="20250526033800 +0800">
+		<title lang="zh">海洋奇趣动物</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -48731,6 +48755,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250526022500 +0800" stop="20250526031500 +0800">
 		<title lang="zh">一笑一周（20250424）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250526031500 +0800" stop="20250526032900 +0800">
+		<title lang="zh">别知己-孙爱迪（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
