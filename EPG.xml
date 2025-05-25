@@ -56910,6 +56910,9 @@
 	<programme channel="newtv超级电视剧" start="20250525132000 +0800" stop="20250525140600 +0800">
 		<title lang="zh">25_林深见鹿</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250525140600 +0800" stop="20250525145200 +0800">
+		<title lang="zh">18_六姊妹</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -57219,6 +57222,9 @@
 	<programme channel="newtv热播精选" start="20250525133000 +0800" stop="20250525141600 +0800">
 		<title lang="zh">11_画眉</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250525141600 +0800" stop="20250525150600 +0800">
+		<title lang="zh">南极奋进号高纯南极磷虾油-渠道（右）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -57516,6 +57522,9 @@
 	<programme channel="newtv军事评论" start="20250525134900 +0800" stop="20250525141400 +0800">
 		<title lang="zh">永远是个兵</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250525141400 +0800" stop="20250525143900 +0800">
+		<title lang="zh">直击防汛救援一线</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -57693,6 +57702,9 @@
 	<programme channel="newtv金牌综艺" start="20250525124100 +0800" stop="20250525140900 +0800">
 		<title lang="zh">现在就出发第2季</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250525140900 +0800" stop="20250525154700 +0800">
+		<title lang="zh">登录圆鱼洲</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -57803,6 +57815,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250525133500 +0800" stop="20250525141400 +0800">
 		<title lang="zh">羊王冻干纯羊奶粉专享组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250525141400 +0800" stop="20250525145900 +0800">
+		<title lang="zh">11_长安少年行</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
