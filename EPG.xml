@@ -45267,6 +45267,9 @@
 	<programme channel="纯享4K" start="20250526122800 +0800" stop="20250526131000 +0800">
 		<title lang="zh">远方的家4K 中国自然秘境 雨林深处的新发现</title>
 	</programme>
+	<programme channel="纯享4K" start="20250526131500 +0800" stop="20250526132000 +0800">
+		<title lang="zh">美丽中国自然4K 广东茂名系列 亚洲之蛙</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -55689,6 +55692,9 @@
 	<programme channel="newtv超级综艺" start="20250526122000 +0800" stop="20250526131000 +0800">
 		<title lang="zh">一笑一周</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250526131000 +0800" stop="20250526141500 +0800">
+		<title lang="zh">国风超有戏</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -55913,6 +55919,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250526124600 +0800" stop="20250526131100 +0800">
 		<title lang="zh">05_传艺</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250526131100 +0800" stop="20250526133600 +0800">
+		<title lang="zh">06_追梦</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -56166,6 +56175,9 @@
 	<programme channel="newtv动作电影" start="20250526113700 +0800" stop="20250526130100 +0800">
 		<title lang="zh">重案行动之捣毒任务</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250526130100 +0800" stop="20250526135100 +0800">
+		<title lang="zh">南极奋进号高纯南极磷虾油-渠道（右）</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -56292,6 +56304,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250526125000 +0800" stop="20250526131000 +0800">
 		<title lang="zh">思独鲜桃酥7099版本10分钟</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250526131000 +0800" stop="20250526135100 +0800">
+		<title lang="zh">05_猎冰</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -56376,6 +56391,9 @@
 	<programme channel="newtv军事评论" start="20250526124400 +0800" stop="20250526130900 +0800">
 		<title lang="zh">“旋风少女”的兵之初</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250526130900 +0800" stop="20250526133500 +0800">
+		<title lang="zh">喜马拉雅杜鹃红</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -56429,6 +56447,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250526122900 +0800" stop="20250526131600 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250526131600 +0800" stop="20250526133800 +0800">
+		<title lang="zh">弹力绳训练</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
