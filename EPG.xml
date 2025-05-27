@@ -59535,6 +59535,9 @@
 	<programme channel="newtv家庭剧场" start="20250527151400 +0800" stop="20250527160200 +0800">
 		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250527160200 +0800" stop="20250527164700 +0800">
+		<title lang="zh">44_生活就是家</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -59669,6 +59672,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250527143000 +0800" stop="20250527161300 +0800">
 		<title lang="zh">重案行动之连环凶杀</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250527161300 +0800" stop="20250527173200 +0800">
+		<title lang="zh">沙鹰行动</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -59933,6 +59939,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250527154500 +0800" stop="20250527161000 +0800">
 		<title lang="zh">老兵梦圆甘巴拉 下集</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250527161000 +0800" stop="20250527163200 +0800">
+		<title lang="zh">美高超音速武器为何难产</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
