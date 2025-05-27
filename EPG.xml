@@ -47850,6 +47850,9 @@
 	<programme channel="纯享4K" start="20250527223600 +0800" stop="20250527230500 +0800">
 		<title lang="zh">好吃客4K 昆明</title>
 	</programme>
+	<programme channel="纯享4K" start="20250527230500 +0800" stop="20250527233400 +0800">
+		<title lang="zh">好吃客4K 家乡味的交响</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60729,6 +60732,9 @@
 	<programme channel="newtv炫舞未来" start="20250527222900 +0800" stop="20250527231300 +0800">
 		<title lang="zh">老广的味道 第二季 第6集：六合</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250527231300 +0800" stop="20250527003000 +0800">
+		<title lang="zh">心动手环来助力 男女嘉宾心动牵手（20240528）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -60813,6 +60819,9 @@
 	<programme channel="newtv精品综合" start="20250527222900 +0800" stop="20250527231400 +0800">
 		<title lang="zh">11_树下有片红房子</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250527231400 +0800" stop="20250527001600 +0800">
+		<title lang="zh">前任局中局</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -60869,6 +60878,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250527214400 +0800" stop="20250527231200 +0800">
 		<title lang="zh">冰川鲨鱼</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250527231200 +0800" stop="20250527005800 +0800">
+		<title lang="zh">亡命杀镇</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
