@@ -59517,6 +59517,9 @@
 	<programme channel="newtv怡伴健康" start="20250527115700 +0800" stop="20250527120700 +0800">
 		<title lang="zh">小品《强者》 表演：张艺千 金鑫 等</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250527120700 +0800" stop="20250527124600 +0800">
+		<title lang="zh">羊王冻干纯羊奶粉专享组-渠道（右）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -59576,6 +59579,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250527114200 +0800" stop="20250527120200 +0800">
 		<title lang="zh">思独鲜桃酥7099版本10分钟</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250527120200 +0800" stop="20250527124100 +0800">
+		<title lang="zh">09_猎冰</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -59654,6 +59660,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250527114100 +0800" stop="20250527120300 +0800">
 		<title lang="zh">两路上高原</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250527120300 +0800" stop="20250527122800 +0800">
+		<title lang="zh">最美的样子 第二集 向钢铁战士报告</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -59808,6 +59817,9 @@
 	<programme channel="newtv金牌综艺" start="20250527095500 +0800" stop="20250527121100 +0800">
 		<title lang="zh">势均力敌的我们</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250527121100 +0800" stop="20250527130000 +0800">
+		<title lang="zh">汤贝斯URD30000复合粉-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -59912,6 +59924,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250527112400 +0800" stop="20250527121400 +0800">
 		<title lang="zh">南极奋进号高纯南极磷虾油-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250527121400 +0800" stop="20250527135600 +0800">
+		<title lang="zh">百家拳之关门弟子</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
