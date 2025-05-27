@@ -18234,6 +18234,9 @@
 	<programme channel="咪咕综合体育" start="20250527130500 +0800" stop="20250527143500 +0800">
 		<title lang="zh">网球世界-2025WTA500查尔斯顿站 1/4决赛 郑钦文-亚历山德洛娃</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250527143500 +0800" stop="20250527150500 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -59355,6 +59358,9 @@
 	<programme channel="newtv古装剧场" start="20250527135700 +0800" stop="20250527144500 +0800">
 		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250527144500 +0800" stop="20250527153100 +0800">
+		<title lang="zh">28_九重紫</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -59898,6 +59904,9 @@
 	<programme channel="newtv炫舞未来" start="20250527135100 +0800" stop="20250527143900 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250527143900 +0800" stop="20250527153900 +0800">
+		<title lang="zh">豫韵常青（20250420）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -59945,6 +59954,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250527135600 +0800" stop="20250527143500 +0800">
 		<title lang="zh">羊王冻干纯羊奶粉专享组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250527143500 +0800" stop="20250527150000 +0800">
+		<title lang="zh">42_名侦探柯南</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -60128,6 +60140,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250527135600 +0800" stop="20250527143500 +0800">
 		<title lang="zh">羊王冻干纯羊奶粉专享组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250527143500 +0800" stop="20250527152100 +0800">
+		<title lang="zh">19_长安少年行</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
