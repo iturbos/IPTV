@@ -59430,6 +59430,9 @@
 	<programme channel="newtv超级电影" start="20250528103300 +0800" stop="20250528122000 +0800">
 		<title lang="zh">锦衣卫之镇魂角</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250528122000 +0800" stop="20250528122600 +0800">
+		<title lang="zh">音乐电影欣赏</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -59661,6 +59664,9 @@
 	<programme channel="newtv军旅剧场" start="20250528113300 +0800" stop="20250528121200 +0800">
 		<title lang="zh">Bertrand无涂层不粘钛炒锅新-渠道（右）</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250528121200 +0800" stop="20250528125800 +0800">
+		<title lang="zh">08_画眉</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -59874,6 +59880,9 @@
 	<programme channel="newtv怡伴健康" start="20250528115600 +0800" stop="20250528120700 +0800">
 		<title lang="zh">相声《捉放曹》 演员：李涵 李菁</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250528120700 +0800" stop="20250528125600 +0800">
+		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -59933,6 +59942,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250528114900 +0800" stop="20250528120900 +0800">
 		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250528120900 +0800" stop="20250528124900 +0800">
+		<title lang="zh">14_猎冰</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -60054,6 +60066,9 @@
 	<programme channel="newtv炫舞未来" start="20250528111400 +0800" stop="20250528120200 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250528120200 +0800" stop="20250528131900 +0800">
+		<title lang="zh">手影舞版《好汉歌》 创意十足！（20241221）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -60122,6 +60137,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250528111800 +0800" stop="20250528120700 +0800">
 		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250528120700 +0800" stop="20250528135400 +0800">
+		<title lang="zh">兴安岭猎人传说2轮回森林</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
