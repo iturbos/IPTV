@@ -59589,6 +59589,9 @@
 	<programme channel="newtv精品大剧" start="20250528132200 +0800" stop="20250528140900 +0800">
 		<title lang="zh">19_柳舟记</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250528140900 +0800" stop="20250528145700 +0800">
+		<title lang="zh">中元益宝牌灵芝孢子油-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -59693,6 +59696,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250528132000 +0800" stop="20250528140600 +0800">
 		<title lang="zh">31_九重紫</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250528140600 +0800" stop="20250528145600 +0800">
+		<title lang="zh">香港养和汉方双龙伏骨方健康组-渠道（右）</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -59919,6 +59925,9 @@
 	<programme channel="newtv动作电影" start="20250528132200 +0800" stop="20250528141200 +0800">
 		<title lang="zh">香港养和汉方双龙伏骨方健康组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250528141200 +0800" stop="20250528155900 +0800">
+		<title lang="zh">特种兵归来4替身疑云</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -60144,6 +60153,9 @@
 	<programme channel="newtv军事评论" start="20250528133900 +0800" stop="20250528140500 +0800">
 		<title lang="zh">老兵梦圆甘巴拉 上集</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250528140500 +0800" stop="20250528143000 +0800">
+		<title lang="zh">老兵梦圆甘巴拉 下集</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -60198,6 +60210,9 @@
 	<programme channel="newtv炫舞未来" start="20250528131900 +0800" stop="20250528140600 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250528140600 +0800" stop="20250528142800 +0800">
+		<title lang="zh">全身健康操（20241104）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -60242,6 +60257,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250528134800 +0800" stop="20250528141200 +0800">
 		<title lang="zh">43_名侦探柯南</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250528141200 +0800" stop="20250528145000 +0800">
+		<title lang="zh">Natures Gem益生菌冻干粉畅活30000亿升级装-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -60419,6 +60437,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250528123400 +0800" stop="20250528140200 +0800">
 		<title lang="zh">寻侠英雄传之离家</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250528140200 +0800" stop="20250528145100 +0800">
+		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
