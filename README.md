@@ -1,2 +1,2 @@
-Auto Update IPTV in 2025-05-29 14:51:46 CST 
+Auto Update IPTV in 2025-05-29 15:18:27 CST 
 https://iturbos.github.io/IPTV/IPTV.m3u
