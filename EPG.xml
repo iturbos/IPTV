@@ -58986,6 +58986,9 @@
 	<programme channel="newtv超级电影" start="20250529103100 +0800" stop="20250529122000 +0800">
 		<title lang="zh">侠骨钢拳</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250529122000 +0800" stop="20250529122600 +0800">
+		<title lang="zh">音乐电影欣赏</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -59033,6 +59036,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250529112100 +0800" stop="20250529120700 +0800">
 		<title lang="zh">39_林深见鹿</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250529120700 +0800" stop="20250529125300 +0800">
+		<title lang="zh">40_林深见鹿</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59120,6 +59126,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250529114100 +0800" stop="20250529121100 +0800">
 		<title lang="zh">02_延安岁月</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250529121100 +0800" stop="20250529124100 +0800">
+		<title lang="zh">03_镜头背后</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -59289,6 +59298,9 @@
 	<programme channel="newtv热播精选" start="20250529112400 +0800" stop="20250529120200 +0800">
 		<title lang="zh">Natures Gem益生菌冻干粉畅活30000亿升级装-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250529120200 +0800" stop="20250529132900 +0800">
+		<title lang="zh">速度与激情</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -59411,6 +59423,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250529114700 +0800" stop="20250529120200 +0800">
 		<title lang="zh">小品《坑》沈腾、马丽、艾伦、常远、宋阳、于健</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250529120200 +0800" stop="20250529125100 +0800">
+		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -59549,6 +59564,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250529114100 +0800" stop="20250529120300 +0800">
 		<title lang="zh">砺剑军工 聚焦未来</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250529120300 +0800" stop="20250529122800 +0800">
+		<title lang="zh">练为战 第四集 大漠长空听惊雷</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -59810,6 +59828,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250529111500 +0800" stop="20250529120300 +0800">
 		<title lang="zh">中元益宝牌灵芝孢子油-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250529120300 +0800" stop="20250529133300 +0800">
+		<title lang="zh">袁天罡之不死军团</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
