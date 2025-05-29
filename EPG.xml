@@ -48246,6 +48246,9 @@
 	<programme channel="纯享4K" start="20250529205800 +0800" stop="20250529210300 +0800">
 		<title lang="zh">美丽中国自然4K 广东茂名系列 百年的守护</title>
 	</programme>
+	<programme channel="纯享4K" start="20250529210300 +0800" stop="20250529214800 +0800">
+		<title lang="zh">传承b7智慧篇4K 第7集 数据之恒</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -58806,6 +58809,9 @@
 	<programme channel="黑莓动画" start="20250529193900 +0800" stop="20250529210900 +0800">
 		<title lang="zh">金猴降妖</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250529210900 +0800" stop="20250529224600 +0800">
+		<title lang="zh">银魂最终篇</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -59478,6 +59484,9 @@
 	<programme channel="newtv精品大剧" start="20250529201100 +0800" stop="20250529210400 +0800">
 		<title lang="zh">23_无尽的尽头</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250529210400 +0800" stop="20250529213400 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第24期</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -59555,6 +59564,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250529203500 +0800" stop="20250529211300 +0800">
 		<title lang="zh">家乡至味2022（43）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250529211300 +0800" stop="20250529213800 +0800">
+		<title lang="zh">第5集 韩愈：楚狂小子</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -59871,6 +59883,9 @@
 	<programme channel="newtv热播精选" start="20250529202100 +0800" stop="20250529210700 +0800">
 		<title lang="zh">09_在暴雪时分</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250529210700 +0800" stop="20250529213700 +0800">
+		<title lang="zh">《八段锦》推荐第24期</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -59994,6 +60009,9 @@
 	<programme channel="newtv动作电影" start="20250529204400 +0800" stop="20250529211400 +0800">
 		<title lang="zh">《八段锦》推荐第24期</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250529211400 +0800" stop="20250529224600 +0800">
+		<title lang="zh">超时空救兵</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -60089,6 +60107,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250529204200 +0800" stop="20250529211200 +0800">
 		<title lang="zh">《时尚小咖秀》推荐第24期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250529211200 +0800" stop="20250529220000 +0800">
+		<title lang="zh">北京东炸团vs重庆洁静精微--第2局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -60191,6 +60212,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250529202700 +0800" stop="20250529211300 +0800">
 		<title lang="zh">28_我的后半生</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250529211300 +0800" stop="20250529214300 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第26期</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -60336,6 +60360,9 @@
 	<programme channel="newtv军事评论" start="20250529204000 +0800" stop="20250529210600 +0800">
 		<title lang="zh">古老面塑潮出圈</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250529210600 +0800" stop="20250529213200 +0800">
+		<title lang="zh">两岸开新局 台湾离不开大陆</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -60429,6 +60456,9 @@
 	<programme channel="newtv炫舞未来" start="20250529202500 +0800" stop="20250529210500 +0800">
 		<title lang="zh">06_潜伏</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250529210500 +0800" stop="20250529215200 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -60503,6 +60533,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250529201700 +0800" stop="20250529210500 +0800">
 		<title lang="zh">中元益宝牌灵芝孢子油-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250529210500 +0800" stop="20250529215400 +0800">
+		<title lang="zh">16_树下有片红房子</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
