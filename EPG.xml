@@ -18153,6 +18153,9 @@
 	<programme channel="咪咕综合体育" start="20250530141000 +0800" stop="20250530160500 +0800">
 		<title lang="zh">网球世界-2025WTA1000多哈站 决赛 阿尼西莫娃-奥斯塔彭科</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250530160500 +0800" stop="20250530163500 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18209,6 +18212,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250530143000 +0800" stop="20250530161000 +0800">
 		<title lang="zh">篮球：为爱而生03 手足之情</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250530161000 +0800" stop="20250530175000 +0800">
+		<title lang="zh">当燃CBA-24/25季后赛半决赛G2 山西汾酒-北京北汽</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -58644,6 +58650,9 @@
 	<programme channel="黑莓动画" start="20250530143600 +0800" stop="20250530160500 +0800">
 		<title lang="zh">海绵宝宝：水兵陆战队</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250530160500 +0800" stop="20250530171100 +0800">
+		<title lang="zh">狐妖小红娘b7月红2</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -58676,6 +58685,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250530142500 +0800" stop="20250530161300 +0800">
 		<title lang="zh">燃野少年的天空</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250530161300 +0800" stop="20250530182900 +0800">
+		<title lang="zh">江湖儿女</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -59313,6 +59325,9 @@
 	<programme channel="newtv精品纪录" start="20250530154300 +0800" stop="20250530160800 +0800">
 		<title lang="zh">01_少年已知愁滋味</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250530160800 +0800" stop="20250530163300 +0800">
+		<title lang="zh">02_她们</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -59712,6 +59727,9 @@
 	<programme channel="newtv怡伴健康" start="20250530153900 +0800" stop="20250530160600 +0800">
 		<title lang="zh">为彩礼而“疯狂”</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250530160600 +0800" stop="20250530164400 +0800">
+		<title lang="zh">拯救“丑小鸭”</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -59895,6 +59913,9 @@
 	<programme channel="newtv军事评论" start="20250530154700 +0800" stop="20250530161300 +0800">
 		<title lang="zh">特战尖兵成长记</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250530161300 +0800" stop="20250530163900 +0800">
+		<title lang="zh">战术大师</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -59963,6 +59984,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250530151400 +0800" stop="20250530160100 +0800">
 		<title lang="zh">《谢谢你来了2025》20250213 女儿离婚怨恨母亲 母亲向女儿真诚道歉</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250530160100 +0800" stop="20250530165000 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -60063,6 +60087,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250530153000 +0800" stop="20250530160800 +0800">
 		<title lang="zh">Natures Gem益生菌冻干粉畅活30000亿升级装-渠道（右）</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250530160800 +0800" stop="20250530171900 +0800">
+		<title lang="zh">狼人杀b7启源</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -60107,6 +60134,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250530153000 +0800" stop="20250530161900 +0800">
 		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250530161900 +0800" stop="20250530175300 +0800">
+		<title lang="zh">一馔千年</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
