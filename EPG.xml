@@ -17427,6 +17427,9 @@
 	<programme channel="咪咕综合体育" start="20250531190000 +0800" stop="20250531210500 +0800">
 		<title lang="zh">足球世界-2025赛季中甲 第11轮 辽宁铁人-石家庄功夫 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250531210500 +0800" stop="20250531213500 +0800">
+		<title lang="zh">中超精华 第12轮</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17489,6 +17492,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250531193000 +0800" stop="20250531211000 +0800">
 		<title lang="zh">当燃CBA-24/25总决赛G6 北京北汽-浙江方兴渡</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250531211500 +0800" stop="20250531221000 +0800">
+		<title lang="zh">最后之舞04</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -56132,6 +56138,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250531203000 +0800" stop="20250531211600 +0800">
 		<title lang="zh">26_似锦</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250531211600 +0800" stop="20250531220100 +0800">
+		<title lang="zh">27_似锦</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
