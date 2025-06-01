@@ -55515,6 +55515,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250601152800 +0800" stop="20250601160500 +0800">
 		<title lang="zh">17_兰闺喜事</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250601160500 +0800" stop="20250601164500 +0800">
+		<title lang="zh">18_兰闺喜事</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -55623,6 +55626,9 @@
 	<programme channel="newtv军事评论" start="20250601154400 +0800" stop="20250601160900 +0800">
 		<title lang="zh">红山嘴并不遥远</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250601160900 +0800" stop="20250601163500 +0800">
+		<title lang="zh">点燃未爆弹的生死瞬间</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -55691,6 +55697,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250601154600 +0800" stop="20250601161200 +0800">
 		<title lang="zh">墙中秘窗（20250317）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250601161200 +0800" stop="20250601170100 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -55793,6 +55802,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250601144300 +0800" stop="20250601160300 +0800">
 		<title lang="zh">鲨卷风：锐利之心</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250601160300 +0800" stop="20250601165100 +0800">
+		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
