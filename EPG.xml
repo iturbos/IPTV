@@ -81510,6 +81510,9 @@
 	<programme channel="黑莓动画" start="20250604123200 +0800" stop="20250604141200 +0800">
 		<title lang="zh">通往天国的倒计时 中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250604141200 +0800" stop="20250604155300 +0800">
+		<title lang="zh">蜡笔小新：我的搬家物语 仙人掌大袭击</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82557,6 +82560,9 @@
 	<programme channel="newtv超级电视剧" start="20250604132900 +0800" stop="20250604141400 +0800">
 		<title lang="zh">20_三十而已</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250604141400 +0800" stop="20250604150100 +0800">
+		<title lang="zh">21_三十而已</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -82607,6 +82613,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250604132000 +0800" stop="20250604140600 +0800">
 		<title lang="zh">06_六姊妹</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250604140600 +0800" stop="20250604144500 +0800">
+		<title lang="zh">Bertrand无涂层不粘钛炒锅新-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -82710,6 +82719,9 @@
 	<programme channel="newtv古装剧场" start="20250604132700 +0800" stop="20250604141200 +0800">
 		<title lang="zh">25_梦华录</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250604141200 +0800" stop="20250604145000 +0800">
+		<title lang="zh">Natures Gem益生菌冻干粉畅活30000亿升级装-渠道（右）</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -82760,6 +82772,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250604132500 +0800" stop="20250604141100 +0800">
 		<title lang="zh">12_隐形将军</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250604141100 +0800" stop="20250604145600 +0800">
+		<title lang="zh">13_隐形将军</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -82989,6 +83004,9 @@
 	<programme channel="newtv怡伴健康" start="20250604124400 +0800" stop="20250604141300 +0800">
 		<title lang="zh">黄梅戏《牛郎织女》</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250604141300 +0800" stop="20250604142400 +0800">
+		<title lang="zh">小品《嘴硬的父亲》 表演：叮当 钟燕平 等</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -83151,6 +83169,9 @@
 	<programme channel="newtv军事评论" start="20250604134000 +0800" stop="20250604140500 +0800">
 		<title lang="zh">蓝天盛会 第十五届中国航展纪实b7逐梦</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250604140500 +0800" stop="20250604143000 +0800">
+		<title lang="zh">守护国门的故事</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -83213,6 +83234,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250604134900 +0800" stop="20250604141100 +0800">
 		<title lang="zh">恰恰舞古巴断步</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250604141100 +0800" stop="20250604143300 +0800">
+		<title lang="zh">弹力绳训练</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
