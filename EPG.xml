@@ -48075,6 +48075,9 @@
 	<programme channel="newtv超级综艺" start="20250605022400 +0800" stop="20250605050400 +0800">
 		<title lang="zh">青年京剧演员大会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250605050400 +0800" stop="20250605052700 +0800">
+		<title lang="zh">文化十分</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -48098,6 +48101,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250605031900 +0800" stop="20250605050000 +0800">
 		<title lang="zh">公路美人</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250605050000 +0800" stop="20250605065100 +0800">
+		<title lang="zh">警察故事2013</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -48123,6 +48129,9 @@
 	<programme channel="newtv超级电视剧" start="20250605042400 +0800" stop="20250605050900 +0800">
 		<title lang="zh">10_日光之城</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250605050900 +0800" stop="20250605055400 +0800">
+		<title lang="zh">11_日光之城</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -48140,6 +48149,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250605041600 +0800" stop="20250605050300 +0800">
 		<title lang="zh">34_庆余年</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250605050300 +0800" stop="20250605054900 +0800">
+		<title lang="zh">35_庆余年</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -48186,6 +48198,9 @@
 	<programme channel="newtv军旅剧场" start="20250605040500 +0800" stop="20250605051600 +0800">
 		<title lang="zh">11_双刺</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250605051600 +0800" stop="20250605060200 +0800">
+		<title lang="zh">28_黄河在咆哮</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -48221,6 +48236,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250605041100 +0800" stop="20250605045600 +0800">
 		<title lang="zh">22_新居之约</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250605045600 +0800" stop="20250605060100 +0800">
+		<title lang="zh">23_新居之约</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -48267,6 +48285,9 @@
 	<programme channel="newtv怡伴健康" start="20250605042500 +0800" stop="20250605051100 +0800">
 		<title lang="zh">15_加油！妈妈</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250605051100 +0800" stop="20250605055600 +0800">
+		<title lang="zh">16_加油！妈妈</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -48291,6 +48312,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250605043100 +0800" stop="20250605050900 +0800">
 		<title lang="zh">传统中药小学堂</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250605050900 +0800" stop="20250605055600 +0800">
+		<title lang="zh">14_美人心计</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -48311,6 +48335,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250605043700 +0800" stop="20250605045900 +0800">
 		<title lang="zh">二战惊险行动b7突袭亚眠</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250605045900 +0800" stop="20250605052100 +0800">
+		<title lang="zh">斯卡帕沉船行动（上）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -48347,6 +48374,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250605034700 +0800" stop="20250605050200 +0800">
 		<title lang="zh">09_亮剑</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250605050200 +0800" stop="20250605061800 +0800">
+		<title lang="zh">10_亮剑</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -48431,6 +48461,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250605035300 +0800" stop="20250605050100 +0800">
 		<title lang="zh">男子南拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250605050100 +0800" stop="20250605055800 +0800">
+		<title lang="zh">女子南拳决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
