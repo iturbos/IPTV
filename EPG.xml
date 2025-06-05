@@ -27762,6 +27762,9 @@
 	<programme channel="咪咕足球" start="20250605144000 +0800" stop="20250605161000 +0800">
 		<title lang="zh">篮球：为爱而生09 湖人铁三角</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250605161000 +0800" stop="20250605162000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -39611,6 +39614,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250605151400 +0800" stop="20250605160300 +0800">
 		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250605160300 +0800" stop="20250605171400 +0800">
+		<title lang="zh">极速风云</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -60332,6 +60338,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20250605151700 +0800" stop="20250605160300 +0800">
 		<title lang="zh">30_大都市小爱情</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20250605160300 +0800" stop="20250605170900 +0800">
+		<title lang="zh">一块大红布</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -83064,6 +83073,9 @@
 	<programme channel="newtv古装剧场" start="20250605152700 +0800" stop="20250605161300 +0800">
 		<title lang="zh">30_梦华录</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250605161300 +0800" stop="20250605165900 +0800">
+		<title lang="zh">31_梦华录</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -83238,6 +83250,9 @@
 	<programme channel="newtv热播精选" start="20250605150200 +0800" stop="20250605160700 +0800">
 		<title lang="zh">07_绝密使命</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250605160700 +0800" stop="20250605165300 +0800">
+		<title lang="zh">08_绝密使命</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -83285,6 +83300,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250605151700 +0800" stop="20250605160300 +0800">
 		<title lang="zh">30_大都市小爱情</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250605160300 +0800" stop="20250605170900 +0800">
+		<title lang="zh">一块大红布</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -83388,6 +83406,9 @@
 	<programme channel="newtv怡伴健康" start="20250605153600 +0800" stop="20250605160300 +0800">
 		<title lang="zh">狠心继母无情父</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250605160300 +0800" stop="20250605164200 +0800">
+		<title lang="zh">爱出汗就是虚吗</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -83459,6 +83480,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250605153500 +0800" stop="20250605160500 +0800">
 		<title lang="zh">思独鲜桃酥7099版本10分钟</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250605160500 +0800" stop="20250605165800 +0800">
+		<title lang="zh">12_滤镜</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -83634,6 +83658,9 @@
 	<programme channel="newtv炫舞未来" start="20250605145000 +0800" stop="20250605161200 +0800">
 		<title lang="zh">经典电影《草原上的人们》欣赏（20241013）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250605161200 +0800" stop="20250605170100 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -83730,6 +83757,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250605151400 +0800" stop="20250605160300 +0800">
 		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250605160300 +0800" stop="20250605171400 +0800">
+		<title lang="zh">极速风云</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -83762,6 +83792,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250605145200 +0800" stop="20250605160500 +0800">
 		<title lang="zh">艾嘉食堂</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250605160500 +0800" stop="20250605165400 +0800">
+		<title lang="zh">美国Doctor Santon端粒酶胶囊-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
