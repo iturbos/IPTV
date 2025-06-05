@@ -83160,6 +83160,9 @@
 	<programme channel="newtv超级综艺" start="20250605224200 +0800" stop="20250605231600 +0800">
 		<title lang="zh">03_你是我的荣耀</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250605231600 +0800" stop="20250605235000 +0800">
+		<title lang="zh">04_你是我的荣耀</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -83447,6 +83450,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250605223600 +0800" stop="20250605231200 +0800">
 		<title lang="zh">27_闪耀的她</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250605231200 +0800" stop="20250605234900 +0800">
+		<title lang="zh">28_闪耀的她</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -83805,6 +83811,9 @@
 	<programme channel="newtv家庭剧场" start="20250605222100 +0800" stop="20250605230700 +0800">
 		<title lang="zh">12_林深见鹿</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250605230700 +0800" stop="20250605235300 +0800">
+		<title lang="zh">13_林深见鹿</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -84122,6 +84131,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250605223300 +0800" stop="20250605231300 +0800">
 		<title lang="zh">山东好哥哥vs北京源莱慧精英--第3局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250605231300 +0800" stop="20250605232500 +0800">
+		<title lang="zh">相声《生活趣谈》岳云鹏、孙越</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
