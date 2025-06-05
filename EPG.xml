@@ -39609,6 +39609,9 @@
 	<programme channel="惊悚悬疑" start="20250605134800 +0800" stop="20250605151400 +0800">
 		<title lang="zh">暗影</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250605151400 +0800" stop="20250605160300 +0800">
+		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -65958,6 +65961,9 @@
 	<programme channel="纯享4K" start="20250605145600 +0800" stop="20250605151100 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 寺观壁画b7隔城抛象图</title>
 	</programme>
+	<programme channel="纯享4K" start="20250605151600 +0800" stop="20250605152100 +0800">
+		<title lang="zh">如果国宝会说话4K 王羲之兰亭序神龙本 神往</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -82911,6 +82917,9 @@
 	<programme channel="newtv精品大剧" start="20250605142000 +0800" stop="20250605150500 +0800">
 		<title lang="zh">10_六姊妹</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250605150500 +0800" stop="20250605155100 +0800">
+		<title lang="zh">11_六姊妹</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -83178,6 +83187,9 @@
 	<programme channel="newtv热播精选" start="20250605141400 +0800" stop="20250605150200 +0800">
 		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250605150200 +0800" stop="20250605160700 +0800">
+		<title lang="zh">07_绝密使命</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -83318,6 +83330,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250605124600 +0800" stop="20250605150700 +0800">
 		<title lang="zh">京剧折子戏专场</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250605150700 +0800" stop="20250605153600 +0800">
+		<title lang="zh">百年鑫堂西洋参粉滋补组-渠道（右）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -83484,6 +83499,9 @@
 	<programme channel="newtv军事评论" start="20250605144000 +0800" stop="20250605150600 +0800">
 		<title lang="zh">老兵的心愿 2024退伍季 告别新藏天路的铁骑</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250605150600 +0800" stop="20250605153100 +0800">
+		<title lang="zh">直击中新“合作-2024”陆军联合训练</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -83645,6 +83663,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250605134800 +0800" stop="20250605151400 +0800">
 		<title lang="zh">暗影</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250605151400 +0800" stop="20250605160300 +0800">
+		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
