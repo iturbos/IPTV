@@ -17565,6 +17565,66 @@
 	<programme channel="京视剧场" start="20250606230000 +0800" stop="20250606235900 +0800">
 		<title lang="zh">善聚公益</title>
 	</programme>
+	<channel id="仙游电视">
+		<display-name lang="zh">仙游电视</display-name>
+	</channel>
+	<programme channel="仙游电视" start="20250606120000 +0800" stop="20250606121000 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="仙游电视" start="20250606121000 +0800" stop="20250606122500 +0800">
+		<title lang="zh">仙游新闻（重播周四）</title>
+	</programme>
+	<programme channel="仙游电视" start="20250606122500 +0800" stop="20250606123000 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="仙游电视" start="20250606123000 +0800" stop="20250606124500 +0800">
+		<title lang="zh">秋生讲古</title>
+	</programme>
+	<programme channel="仙游电视" start="20250606124500 +0800" stop="20250606130000 +0800">
+		<title lang="zh">公益广告、请您欣赏</title>
+	</programme>
+	<programme channel="仙游电视" start="20250606130000 +0800" stop="20250606151300 +0800">
+		<title lang="zh">莆仙戏</title>
+	</programme>
+	<programme channel="仙游电视" start="20250606151300 +0800" stop="20250606190000 +0800">
+		<title lang="zh">连续剧</title>
+	</programme>
+	<programme channel="仙游电视" start="20250606190000 +0800" stop="20250606200000 +0800">
+		<title lang="zh">转播莆田一套（含中央新闻、福建新闻）</title>
+	</programme>
+	<programme channel="仙游电视" start="20250606200000 +0800" stop="20250606201000 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="仙游电视" start="20250606201000 +0800" stop="20250606202500 +0800">
+		<title lang="zh">仙游新闻</title>
+	</programme>
+	<programme channel="仙游电视" start="20250606202500 +0800" stop="20250606203500 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="仙游电视" start="20250606203500 +0800" stop="20250606205000 +0800">
+		<title lang="zh">百姓监督</title>
+	</programme>
+	<programme channel="仙游电视" start="20250606205000 +0800" stop="20250606210000 +0800">
+		<title lang="zh">公益广告、请您欣赏</title>
+	</programme>
+	<programme channel="仙游电视" start="20250606210000 +0800" stop="20250606211500 +0800">
+		<title lang="zh">秋生讲古</title>
+	</programme>
+	<programme channel="仙游电视" start="20250606211500 +0800" stop="20250606213000 +0800">
+		<title lang="zh">公益广告、请您欣赏</title>
+	</programme>
+	<programme channel="仙游电视" start="20250606213000 +0800" stop="20250606214500 +0800">
+		<title lang="zh">百姓监督</title>
+	</programme>
+	<programme channel="仙游电视" start="20250606214500 +0800" stop="20250606220000 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="仙游电视" start="20250606220000 +0800" stop="20250606221500 +0800">
+		<title lang="zh">仙游新闻（重播周四）</title>
+	</programme>
+	<programme channel="仙游电视" start="20250606221500 +0800" stop="20250606235900 +0800">
+		<title lang="zh">公益广告、请您欣赏</title>
+	</programme>
 	<channel id="优优宝贝">
 		<display-name lang="zh">优优宝贝</display-name>
 	</channel>
@@ -36426,44 +36486,29 @@
 	<channel id="广东少儿">
 		<display-name lang="zh">广东少儿</display-name>
 	</channel>
-	<programme channel="广东少儿" start="20250606000000 +0800" stop="20250606000800 +0800">
-		<title lang="zh">精彩呈现</title>
+	<programme channel="广东少儿" start="20250606000000 +0800" stop="20250606005000 +0800">
+		<title lang="zh">午夜剧场</title>
 	</programme>
-	<programme channel="广东少儿" start="20250606000800 +0800" stop="20250606040800 +0800">
-		<title lang="zh">动画片1</title>
+	<programme channel="广东少儿" start="20250606060000 +0800" stop="20250606080000 +0800">
+		<title lang="zh">早间卡通剧场《喜羊羊与灰太狼之羊村守护者》</title>
 	</programme>
-	<programme channel="广东少儿" start="20250606040800 +0800" stop="20250606060000 +0800">
-		<title lang="zh">动画片2</title>
+	<programme channel="广东少儿" start="20250606080000 +0800" stop="20250606120000 +0800">
+		<title lang="zh">《熊出没之小小世界》</title>
 	</programme>
-	<programme channel="广东少儿" start="20250606060000 +0800" stop="20250606075200 +0800">
-		<title lang="zh">动画片</title>
+	<programme channel="广东少儿" start="20250606120000 +0800" stop="20250606130000 +0800">
+		<title lang="zh">《海底小纵队之中国之旅》</title>
 	</programme>
-	<programme channel="广东少儿" start="20250606075200 +0800" stop="20250606115200 +0800">
-		<title lang="zh">动画片1</title>
+	<programme channel="广东少儿" start="20250606130000 +0800" stop="20250606180000 +0800">
+		<title lang="zh">《猪猪侠》</title>
 	</programme>
-	<programme channel="广东少儿" start="20250606115200 +0800" stop="20250606122300 +0800">
-		<title lang="zh">动画片2</title>
+	<programme channel="广东少儿" start="20250606180000 +0800" stop="20250606190000 +0800">
+		<title lang="zh">《奶龙之奇妙冒险》</title>
 	</programme>
-	<programme channel="广东少儿" start="20250606122300 +0800" stop="20250606155000 +0800">
-		<title lang="zh">动画片</title>
+	<programme channel="广东少儿" start="20250606190000 +0800" stop="20250606192000 +0800">
+		<title lang="zh">《南方小记者》</title>
 	</programme>
-	<programme channel="广东少儿" start="20250606155000 +0800" stop="20250606174900 +0800">
-		<title lang="zh">动画片</title>
-	</programme>
-	<programme channel="广东少儿" start="20250606174900 +0800" stop="20250606190000 +0800">
-		<title lang="zh">动画片</title>
-	</programme>
-	<programme channel="广东少儿" start="20250606190000 +0800" stop="20250606191000 +0800">
-		<title lang="zh">南方小记者</title>
-	</programme>
-	<programme channel="广东少儿" start="20250606191000 +0800" stop="20250606204300 +0800">
-		<title lang="zh">动画片</title>
-	</programme>
-	<programme channel="广东少儿" start="20250606204300 +0800" stop="20250606222400 +0800">
-		<title lang="zh">动画片</title>
-	</programme>
-	<programme channel="广东少儿" start="20250606222400 +0800" stop="20250606235900 +0800">
-		<title lang="zh">动画片</title>
+	<programme channel="广东少儿" start="20250606192000 +0800" stop="20250606235900 +0800">
+		<title lang="zh">《熊出没之小小世界》</title>
 	</programme>
 	<channel id="广东影视">
 		<display-name lang="zh">广东影视</display-name>
@@ -36727,7 +36772,7 @@
 		<display-name lang="zh">广东移动</display-name>
 	</channel>
 	<programme channel="广东移动" start="20250606000300 +0800" stop="20250606003100 +0800">
-		<title lang="zh">马王堆岁月不朽</title>
+		<title lang="zh">马王堆·岁月不朽</title>
 	</programme>
 	<programme channel="广东移动" start="20250606003100 +0800" stop="20250606012100 +0800">
 		<title lang="zh">人参</title>
@@ -36781,7 +36826,7 @@
 		<title lang="zh">移动创星音乐榜</title>
 	</programme>
 	<programme channel="广东移动" start="20250606104300 +0800" stop="20250606111400 +0800">
-		<title lang="zh">马王堆岁月不朽</title>
+		<title lang="zh">马王堆·岁月不朽</title>
 	</programme>
 	<programme channel="广东移动" start="20250606111400 +0800" stop="20250606114400 +0800">
 		<title lang="zh">人参</title>
@@ -36838,7 +36883,7 @@
 		<title lang="zh">神奇的图书馆</title>
 	</programme>
 	<programme channel="广东移动" start="20250606171500 +0800" stop="20250606174200 +0800">
-		<title lang="zh">马王堆岁月不朽</title>
+		<title lang="zh">马王堆·岁月不朽</title>
 	</programme>
 	<programme channel="广东移动" start="20250606174200 +0800" stop="20250606174600 +0800">
 		<title lang="zh">移动创星音乐榜</title>
@@ -36910,7 +36955,7 @@
 		<title lang="zh">超级食材</title>
 	</programme>
 	<programme channel="广东移动" start="20250606235300 +0800" stop="20250606235900 +0800">
-		<title lang="zh">马王堆岁月不朽</title>
+		<title lang="zh">马王堆·岁月不朽</title>
 	</programme>
 	<channel id="广东经济科教">
 		<display-name lang="zh">广东经济科教</display-name>
@@ -65991,6 +66036,9 @@
 	<programme channel="纯享4K" start="20250606070000 +0800" stop="20250606071500 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 油画b7跳绳的女孩</title>
 	</programme>
+	<programme channel="纯享4K" start="20250606071500 +0800" stop="20250606072000 +0800">
+		<title lang="zh">如果国宝会说话4K 竹林七贤与荣启期砖画 六朝模范</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -67853,6 +67901,114 @@
 	</programme>
 	<programme channel="荆门科教文旅，荆门科教文旅" start="20250606230000 +0800" stop="20250606235900 +0800">
 		<title lang="zh">传奇</title>
+	</programme>
+	<channel id="莆田一套">
+		<display-name lang="zh">莆田一套</display-name>
+	</channel>
+	<programme channel="莆田一套" start="20250606060000 +0800" stop="20250606061200 +0800">
+		<title lang="zh">系列片《天下妈祖》</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606061200 +0800" stop="20250606063200 +0800">
+		<title lang="zh">秋生讲古</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606063200 +0800" stop="20250606065300 +0800">
+		<title lang="zh">健康生活</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606065300 +0800" stop="20250606070000 +0800">
+		<title lang="zh">歌曲《天下妈祖》</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606070000 +0800" stop="20250606070100 +0800">
+		<title lang="zh">国歌</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606070100 +0800" stop="20250606072500 +0800">
+		<title lang="zh">莆田新闻联播</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606072500 +0800" stop="20250606074000 +0800">
+		<title lang="zh">有味有醋（重播）</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606074000 +0800" stop="20250606104800 +0800">
+		<title lang="zh">阳光剧场</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606104800 +0800" stop="20250606113800 +0800">
+		<title lang="zh">专题节目</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606113800 +0800" stop="20250606114600 +0800">
+		<title lang="zh">天下妈祖MV</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606114600 +0800" stop="20250606120000 +0800">
+		<title lang="zh">公益在身边</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606120000 +0800" stop="20250606123000 +0800">
+		<title lang="zh">重播莆田新闻联播</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606123000 +0800" stop="20250606125500 +0800">
+		<title lang="zh">系列片《天下妈祖》</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606125500 +0800" stop="20250606132500 +0800">
+		<title lang="zh">健康生活</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606132500 +0800" stop="20250606134500 +0800">
+		<title lang="zh">有味有醋</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606134500 +0800" stop="20250606171000 +0800">
+		<title lang="zh">午后剧场</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606171000 +0800" stop="20250606174800 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606174800 +0800" stop="20250606175600 +0800">
+		<title lang="zh">天下妈祖MV</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606175600 +0800" stop="20250606180400 +0800">
+		<title lang="zh">妈祖髻教程</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606180400 +0800" stop="20250606181000 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606181000 +0800" stop="20250606183000 +0800">
+		<title lang="zh">秋生讲古</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606183000 +0800" stop="20250606184800 +0800">
+		<title lang="zh">系列片《天下妈祖》</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606184800 +0800" stop="20250606190000 +0800">
+		<title lang="zh">蝶变</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606190000 +0800" stop="20250606193500 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606193500 +0800" stop="20250606200300 +0800">
+		<title lang="zh">转播福建新闻联播</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606200300 +0800" stop="20250606202800 +0800">
+		<title lang="zh">莆田新闻联播</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606202800 +0800" stop="20250606204000 +0800">
+		<title lang="zh">系列片《天下妈祖》</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606204000 +0800" stop="20250606210000 +0800">
+		<title lang="zh">专题节目</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606210000 +0800" stop="20250606215200 +0800">
+		<title lang="zh">晚间剧场</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606215200 +0800" stop="20250606220000 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606220000 +0800" stop="20250606222300 +0800">
+		<title lang="zh">莆田新闻联播</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606222300 +0800" stop="20250606224000 +0800">
+		<title lang="zh">妈祖髻教程</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606224000 +0800" stop="20250606231000 +0800">
+		<title lang="zh">健康生活</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606231000 +0800" stop="20250606233000 +0800">
+		<title lang="zh">专题节目</title>
+	</programme>
+	<programme channel="莆田一套" start="20250606233000 +0800" stop="20250606235900 +0800">
+		<title lang="zh">海洋气象预报</title>
 	</programme>
 	<channel id="蒙语卫视">
 		<display-name lang="zh">蒙语卫视</display-name>
@@ -70820,6 +70976,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250606050900 +0800" stop="20250606071700 +0800">
 		<title lang="zh">退休快乐（下）</title>
+	</programme>
+	<programme channel="超级电影" start="20250606071700 +0800" stop="20250606091400 +0800">
+		<title lang="zh">廉政风云</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -81798,6 +81957,9 @@
 	<programme channel="黑莓动画" start="20250606055300 +0800" stop="20250606071100 +0800">
 		<title lang="zh">哪吒之灵珠重生</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250606071100 +0800" stop="20250606084500 +0800">
+		<title lang="zh">哆啦A梦：伴我同行</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82752,6 +82914,9 @@
 	<programme channel="newtv超级电影" start="20250606050900 +0800" stop="20250606071700 +0800">
 		<title lang="zh">退休快乐（下）</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250606071700 +0800" stop="20250606091400 +0800">
+		<title lang="zh">廉政风云</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -82839,6 +83004,9 @@
 	<programme channel="newtv精品纪录" start="20250606064700 +0800" stop="20250606070100 +0800">
 		<title lang="zh">第二集 自然之光</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250606071600 +0800" stop="20250606073000 +0800">
+		<title lang="zh">第四集 数字旅程</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82883,6 +83051,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250606063000 +0800" stop="20250606071600 +0800">
 		<title lang="zh">33_黄河在咆哮</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250606071600 +0800" stop="20250606080500 +0800">
+		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -82994,6 +83165,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250606063500 +0800" stop="20250606071200 +0800">
 		<title lang="zh">吸睛夺目的性感美腿</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250606071200 +0800" stop="20250606075500 +0800">
+		<title lang="zh">回家吃饭</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -83153,6 +83327,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250606063500 +0800" stop="20250606071500 +0800">
 		<title lang="zh">艾美特新风智能空气扇-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250606071500 +0800" stop="20250606090500 +0800">
+		<title lang="zh">脱口秀大会第3季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
