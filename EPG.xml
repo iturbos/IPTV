@@ -66315,6 +66315,9 @@
 	<programme channel="纯享4K" start="20250606122400 +0800" stop="20250606130900 +0800">
 		<title lang="zh">远方的家4K 独龙江的春天b7新生</title>
 	</programme>
+	<programme channel="纯享4K" start="20250606131500 +0800" stop="20250606132000 +0800">
+		<title lang="zh">美丽中国自然4K 大兴安岭系列 冰河红柳</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -83349,6 +83352,9 @@
 	<programme channel="newtv超级体育" start="20250606120000 +0800" stop="20250606130500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250606130500 +0800" stop="20250606132800 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -83904,6 +83910,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250606121300 +0800" stop="20250606130100 +0800">
 		<title lang="zh">舌尖上的中国 第一季</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250606130100 +0800" stop="20250606133100 +0800">
+		<title lang="zh">思独鲜桃酥7099版本10分钟</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -84149,6 +84158,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250606121900 +0800" stop="20250606130400 +0800">
 		<title lang="zh">光子能量半导体激光治疗仪-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250606130400 +0800" stop="20250606143000 +0800">
+		<title lang="zh">十三邀第8季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
