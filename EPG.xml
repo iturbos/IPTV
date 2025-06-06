@@ -39510,6 +39510,9 @@
 	<programme channel="惊悚悬疑" start="20250606164100 +0800" stop="20250606180100 +0800">
 		<title lang="zh">鲨卷风：锐利之心</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250606180100 +0800" stop="20250606193800 +0800">
+		<title lang="zh">特种兵归来之绝地营救</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -60411,6 +60414,9 @@
 	<programme channel="爱情喜剧" start="20250606171600 +0800" stop="20250606180500 +0800">
 		<title lang="zh">KGTOUE体感语音操控大吸力烟机-渠道（右）</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250606180500 +0800" stop="20250606184600 +0800">
+		<title lang="zh">02_刘家媳妇</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -71561,6 +71567,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250606163600 +0800" stop="20250606180600 +0800">
 		<title lang="zh">电影《唯一的受害者》</title>
+	</programme>
+	<programme channel="超级电影" start="20250606180600 +0800" stop="20250606194600 +0800">
+		<title lang="zh">电影《突袭》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -83943,6 +83952,9 @@
 	<programme channel="newtv超级综艺" start="20250606170700 +0800" stop="20250606180700 +0800">
 		<title lang="zh">非常6+1</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250606180700 +0800" stop="20250606193000 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -84030,6 +84042,9 @@
 	<programme channel="newtv超级电影" start="20250606163600 +0800" stop="20250606180600 +0800">
 		<title lang="zh">电影《唯一的受害者》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250606180600 +0800" stop="20250606194600 +0800">
+		<title lang="zh">电影《突袭》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -84101,6 +84116,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250606172100 +0800" stop="20250606180500 +0800">
 		<title lang="zh">24_旗袍美探</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250606180500 +0800" stop="20250606185000 +0800">
+		<title lang="zh">25_旗袍美探</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -84257,6 +84275,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250606174700 +0800" stop="20250606181400 +0800">
 		<title lang="zh">第六集：相生</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250606181400 +0800" stop="20250606185300 +0800">
+		<title lang="zh">家乡至味2022（55）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -84459,6 +84480,9 @@
 	<programme channel="newtv家庭剧场" start="20250606173600 +0800" stop="20250606180600 +0800">
 		<title lang="zh">《时尚小咖秀》推荐第34期</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250606180600 +0800" stop="20250606185200 +0800">
+		<title lang="zh">25_幸福来敲门</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -84569,6 +84593,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250606171600 +0800" stop="20250606180500 +0800">
 		<title lang="zh">KGTOUE体感语音操控大吸力烟机-渠道（右）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250606180500 +0800" stop="20250606184600 +0800">
+		<title lang="zh">02_刘家媳妇</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -84696,6 +84723,9 @@
 	<programme channel="newtv怡伴健康" start="20250606174300 +0800" stop="20250606181300 +0800">
 		<title lang="zh">《八段锦》推荐第24期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250606181300 +0800" stop="20250606185900 +0800">
+		<title lang="zh">山东好哥哥vs北京源莱慧精英--第5局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -84776,6 +84806,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250606172900 +0800" stop="20250606181100 +0800">
 		<title lang="zh">17_滤镜</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250606181100 +0800" stop="20250606184100 +0800">
+		<title lang="zh">思独鲜桃酥7099版本10分钟</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -84896,6 +84929,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250606174600 +0800" stop="20250606180800 +0800">
 		<title lang="zh">谁是军营厨王（8）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250606180800 +0800" stop="20250606183000 +0800">
+		<title lang="zh">谁是军营厨王（9）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -85083,6 +85119,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250606164100 +0800" stop="20250606180100 +0800">
 		<title lang="zh">鲨卷风：锐利之心</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250606180100 +0800" stop="20250606193800 +0800">
+		<title lang="zh">特种兵归来之绝地营救</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -85121,6 +85160,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250606163300 +0800" stop="20250606180500 +0800">
 		<title lang="zh">令人心动的offer第5季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250606180500 +0800" stop="20250606183400 +0800">
+		<title lang="zh">百年鑫堂西洋参粉滋补组-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
