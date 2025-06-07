@@ -27291,6 +27291,9 @@
 	<programme channel="咪咕综合体育" start="20250607120500 +0800" stop="20250607121000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250607121000 +0800" stop="20250607130500 +0800">
+		<title lang="zh">国球荣耀-2025国际乒联单打世界杯 男单决赛 林诗栋-雨果</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -42503,6 +42506,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250607112900 +0800" stop="20250607121400 +0800">
 		<title lang="zh">40_三生三世枕上书</title>
+	</programme>
+	<programme channel="明星大片" start="20250607121400 +0800" stop="20250607134800 +0800">
+		<title lang="zh">至爱梵高（英语版）</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -60014,6 +60020,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20250607113900 +0800" stop="20250607120800 +0800">
 		<title lang="zh">百年鑫堂西洋参粉滋补组-渠道（右）</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20250607120800 +0800" stop="20250607132000 +0800">
+		<title lang="zh">04_刘家媳妇</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -83124,6 +83133,9 @@
 	<programme channel="newtv热播精选" start="20250607114000 +0800" stop="20250607120900 +0800">
 		<title lang="zh">百年鑫堂西洋参粉滋补组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250607120900 +0800" stop="20250607133800 +0800">
+		<title lang="zh">斗战苍穹</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -83156,6 +83168,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250607113900 +0800" stop="20250607120800 +0800">
 		<title lang="zh">百年鑫堂西洋参粉滋补组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250607120800 +0800" stop="20250607132000 +0800">
+		<title lang="zh">04_刘家媳妇</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -83244,6 +83259,9 @@
 	<programme channel="newtv怡伴健康" start="20250607115100 +0800" stop="20250607120100 +0800">
 		<title lang="zh">相声《知父莫如子》 表演：李菁 李涵</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250607120100 +0800" stop="20250607125000 +0800">
+		<title lang="zh">美国Doctor Santon端粒酶胶囊-渠道（右）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -83297,6 +83315,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250607113400 +0800" stop="20250607121400 +0800">
 		<title lang="zh">艾美特新风智能空气扇-渠道（右）</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250607121400 +0800" stop="20250607130200 +0800">
+		<title lang="zh">舌尖上的中国 第一季</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -83424,6 +83445,9 @@
 	<programme channel="newtv炫舞未来" start="20250607114600 +0800" stop="20250607121200 +0800">
 		<title lang="zh">字画“游戏”（20250401）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250607121200 +0800" stop="20250607125900 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -83462,6 +83486,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250607112900 +0800" stop="20250607121400 +0800">
 		<title lang="zh">40_三生三世枕上书</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250607121400 +0800" stop="20250607134800 +0800">
+		<title lang="zh">至爱梵高（英语版）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -83522,6 +83549,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250607105700 +0800" stop="20250607121500 +0800">
 		<title lang="zh">十三邀第8季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250607121500 +0800" stop="20250607130000 +0800">
+		<title lang="zh">光子能量半导体激光治疗仪-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
