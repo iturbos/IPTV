@@ -39183,6 +39183,9 @@
 	<programme channel="惊悚悬疑" start="20250608125100 +0800" stop="20250608141300 +0800">
 		<title lang="zh">黑狱</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250608141300 +0800" stop="20250608154900 +0800">
+		<title lang="zh">虎胆杀机</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -65898,6 +65901,9 @@
 	<programme channel="纯享4K" start="20250608131900 +0800" stop="20250608140800 +0800">
 		<title lang="zh">智造美好生活4K 第2集 医 健康</title>
 	</programme>
+	<programme channel="纯享4K" start="20250608141300 +0800" stop="20250608141800 +0800">
+		<title lang="zh">香港之味4K 第8集</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -83085,6 +83091,9 @@
 	<programme channel="newtv古装剧场" start="20250608132400 +0800" stop="20250608141000 +0800">
 		<title lang="zh">01_美人心计</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250608141000 +0800" stop="20250608144700 +0800">
+		<title lang="zh">艾美特半导体塔式空调扇-渠道（右）</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -83240,6 +83249,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250608132200 +0800" stop="20250608140800 +0800">
 		<title lang="zh">15_绝密使命</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250608140800 +0800" stop="20250608145500 +0800">
+		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -83442,6 +83454,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250608131800 +0800" stop="20250608140700 +0800">
 		<title lang="zh">22_滤镜</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250608140700 +0800" stop="20250608144400 +0800">
+		<title lang="zh">艾美特半导体塔式空调扇-渠道（右）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -83535,6 +83550,9 @@
 	<programme channel="newtv军事评论" start="20250608134600 +0800" stop="20250608141100 +0800">
 		<title lang="zh">直击高难度狙击</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250608141100 +0800" stop="20250608143600 +0800">
+		<title lang="zh">数九寒天里的“火龙”出击</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -83585,6 +83603,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250608132400 +0800" stop="20250608141100 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250608141100 +0800" stop="20250608143800 +0800">
+		<title lang="zh">赤胆忠魂（上）（20250403）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -83672,6 +83693,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250608125100 +0800" stop="20250608141300 +0800">
 		<title lang="zh">黑狱</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250608141300 +0800" stop="20250608154900 +0800">
+		<title lang="zh">虎胆杀机</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
