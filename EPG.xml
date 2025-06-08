@@ -83409,6 +83409,9 @@
 	<programme channel="newtv精品纪录" start="20250608224700 +0800" stop="20250608230100 +0800">
 		<title lang="zh">第6集：卷筒粉</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250608230100 +0800" stop="20250608232300 +0800">
+		<title lang="zh">01_战场新势力——无人机</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -83669,6 +83672,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250608221900 +0800" stop="20250608230600 +0800">
 		<title lang="zh">23_林深见鹿</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250608230600 +0800" stop="20250608235200 +0800">
+		<title lang="zh">24_林深见鹿</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -83990,6 +83996,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250608225800 +0800" stop="20250608231600 +0800">
 		<title lang="zh">小品《啼笑皆非》贾玲、张小斐、许君聪</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250608231600 +0800" stop="20250608233400 +0800">
+		<title lang="zh">小品《还不还》沈腾、马丽、艾伦、常远、王成思、许文赫</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -84353,6 +84362,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250608225000 +0800" stop="20250608230600 +0800">
 		<title lang="zh">兄弟想你了-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250608231400 +0800" stop="20250608233300 +0800">
+		<title lang="zh">时光守护者b7刘乃涛（20250604）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
