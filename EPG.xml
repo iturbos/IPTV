@@ -37686,6 +37686,9 @@
 	<programme channel="惊悚悬疑" start="20250609214700 +0800" stop="20250609231100 +0800">
 		<title lang="zh">陆小凤传奇之绣花大盗</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250609231100 +0800" stop="20250609004200 +0800">
+		<title lang="zh">全境警戒</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -79128,6 +79131,9 @@
 	<programme channel="newtv超级综艺" start="20250609222000 +0800" stop="20250609232000 +0800">
 		<title lang="zh">选对健康</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250609232000 +0800" stop="20250609235600 +0800">
+		<title lang="zh">27_你是我的荣耀</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -79517,6 +79523,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250609225100 +0800" stop="20250609231400 +0800">
 		<title lang="zh">第一集 战车 戈</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250609231400 +0800" stop="20250609233700 +0800">
+		<title lang="zh">第二集 弩</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -80103,6 +80112,9 @@
 	<programme channel="newtv怡伴健康" start="20250609222600 +0800" stop="20250609230600 +0800">
 		<title lang="zh">上海天行奔源vs四川天门淘一街--第1局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250609230600 +0800" stop="20250609231900 +0800">
+		<title lang="zh">相声《这不是我的》苗阜、王声</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -80373,6 +80385,9 @@
 	<programme channel="newtv军事评论" start="20250609224000 +0800" stop="20250609230600 +0800">
 		<title lang="zh">台军防空导弹阵地被美曝光 日本紧随美国脚步拉拢文莱</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250609230600 +0800" stop="20250609233100 +0800">
+		<title lang="zh">普京：乌军进攻俄本土为扰乱大选 北约争论“出兵乌克兰”试探俄底线？</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -80618,6 +80633,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250609214700 +0800" stop="20250609231100 +0800">
 		<title lang="zh">陆小凤传奇之绣花大盗</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250609231100 +0800" stop="20250609004200 +0800">
+		<title lang="zh">全境警戒</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
