@@ -25659,6 +25659,9 @@
 	<programme channel="咪咕足球" start="20250609143000 +0800" stop="20250609144000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250609144000 +0800" stop="20250609161000 +0800">
+		<title lang="zh">篮球：为爱而生03 手足之情</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -63240,6 +63243,9 @@
 	<programme channel="纯享4K" start="20250609141600 +0800" stop="20250609144600 +0800">
 		<title lang="zh">美丽中国说4K 雨林王者</title>
 	</programme>
+	<programme channel="纯享4K" start="20250609144600 +0800" stop="20250609150100 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 东汉收获弋射画像砖</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -78921,6 +78927,9 @@
 	<programme channel="newtv超级电视剧" start="20250609135100 +0800" stop="20250609143600 +0800">
 		<title lang="zh">40_三十而已</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250609143600 +0800" stop="20250609152200 +0800">
+		<title lang="zh">41_三十而已</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -79076,6 +79085,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250609140300 +0800" stop="20250609144000 +0800">
 		<title lang="zh">艾美特半导体塔式空调扇-渠道（右）</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250609144000 +0800" stop="20250609152800 +0800">
+		<title lang="zh">04_大奉打更人</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -79443,6 +79455,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250609140400 +0800" stop="20250609144100 +0800">
 		<title lang="zh">艾美特半导体塔式空调扇-渠道（右）</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250609144100 +0800" stop="20250609152900 +0800">
+		<title lang="zh">27_滤镜</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -79722,6 +79737,9 @@
 	<programme channel="newtv金牌综艺" start="20250609131400 +0800" stop="20250609144900 +0800">
 		<title lang="zh">十三邀第8季</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250609144900 +0800" stop="20250609160300 +0800">
+		<title lang="zh">艾嘉食堂</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -79832,6 +79850,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250609135200 +0800" stop="20250609144000 +0800">
 		<title lang="zh">贝卡罗莱L-a-甘磷酸胆碱复合粉-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250609144000 +0800" stop="20250609151400 +0800">
+		<title lang="zh">12_墓王之王</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
