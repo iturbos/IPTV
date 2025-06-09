@@ -25671,6 +25671,12 @@
 	<programme channel="咪咕足球" start="20250609144000 +0800" stop="20250609161000 +0800">
 		<title lang="zh">篮球：为爱而生03 手足之情</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250609161000 +0800" stop="20250609162000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250609162000 +0800" stop="20250609180000 +0800">
+		<title lang="zh">当燃CBA-24/255常规赛第44轮 广东东阳光-浙江方兴渡</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -57693,6 +57699,9 @@
 	<programme channel="爱情喜剧" start="20250609153200 +0800" stop="20250609161400 +0800">
 		<title lang="zh">17_刘家媳妇</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250609161400 +0800" stop="20250609170300 +0800">
+		<title lang="zh">KGTOUE体感语音操控大吸力烟机-渠道（右）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -63284,6 +63293,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250609155600 +0800" stop="20250609162600 +0800">
 		<title lang="zh">记住乡愁 第五季4K 济南泉城老街——清泉垂柳 君子之风</title>
+	</programme>
+	<programme channel="纯享4K" start="20250609162600 +0800" stop="20250609165600 +0800">
+		<title lang="zh">记住乡愁 第五季4K 苏州平江路——状元街 义当先</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -78846,6 +78858,9 @@
 	<programme channel="newtv超级综艺" start="20250609151900 +0800" stop="20250609163600 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250609163600 +0800" stop="20250609180600 +0800">
+		<title lang="zh">诗画中国</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -78993,6 +79008,9 @@
 	<programme channel="newtv超级电视剧" start="20250609152200 +0800" stop="20250609160700 +0800">
 		<title lang="zh">42_三十而已</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250609160700 +0800" stop="20250609165400 +0800">
+		<title lang="zh">43_三十而已</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -79113,6 +79131,9 @@
 	<programme channel="newtv精品纪录" start="20250609155500 +0800" stop="20250609162000 +0800">
 		<title lang="zh">01_远方</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250609162000 +0800" stop="20250609164500 +0800">
+		<title lang="zh">02_水土</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -79166,6 +79187,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250609152800 +0800" stop="20250609161600 +0800">
 		<title lang="zh">05_大奉打更人</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250609161600 +0800" stop="20250609170400 +0800">
+		<title lang="zh">06_大奉打更人</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -79392,6 +79416,9 @@
 	<programme channel="newtv爱情喜剧" start="20250609153200 +0800" stop="20250609161400 +0800">
 		<title lang="zh">17_刘家媳妇</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250609161400 +0800" stop="20250609170300 +0800">
+		<title lang="zh">KGTOUE体感语音操控大吸力烟机-渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -79499,6 +79526,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250609153800 +0800" stop="20250609160500 +0800">
 		<title lang="zh">分手大爷来讨债</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250609160500 +0800" stop="20250609164400 +0800">
+		<title lang="zh">草本养生健康宝典（4）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -79683,6 +79713,12 @@
 	<programme channel="newtv军事评论" start="20250609154100 +0800" stop="20250609160700 +0800">
 		<title lang="zh">新春走军营之战友你健身了吗 第二集 山巅有群望海的兵</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250609160700 +0800" stop="20250609162900 +0800">
+		<title lang="zh">谁是军营厨王（37）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250609162900 +0800" stop="20250609165100 +0800">
+		<title lang="zh">谁是军营厨王（38）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -79748,6 +79784,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250609151200 +0800" stop="20250609162900 +0800">
 		<title lang="zh">第12期：尼格买提王冰冰被羊跨栏惊呆了</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250609162900 +0800" stop="20250609171800 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -80006,6 +80045,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250609151400 +0800" stop="20250609161100 +0800">
 		<title lang="zh">13_墓王之王</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250609161100 +0800" stop="20250609164900 +0800">
+		<title lang="zh">14_墓王之王</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
