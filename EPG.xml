@@ -43212,6 +43212,9 @@
 	<programme channel="明星大片" start="20250610182300 +0800" stop="20250610190100 +0800">
 		<title lang="zh">邻家诗话第5季</title>
 	</programme>
+	<programme channel="明星大片" start="20250610190100 +0800" stop="20250610193800 +0800">
+		<title lang="zh">艾美特半导体塔式空调扇-渠道（右）</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -60837,6 +60840,9 @@
 	<programme channel="爱情喜剧" start="20250610182600 +0800" stop="20250610185600 +0800">
 		<title lang="zh">《时尚小咖秀》推荐第39期</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250610185600 +0800" stop="20250610193500 +0800">
+		<title lang="zh">06_完美伴侣</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -66602,6 +66608,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250610182300 +0800" stop="20250610185300 +0800">
 		<title lang="zh">寻古中国4K 云梦记b7云梦迷踪</title>
+	</programme>
+	<programme channel="纯享4K" start="20250610185300 +0800" stop="20250610193300 +0800">
+		<title lang="zh">探索b7发现4K 探秘寿县蔡国大墓（1）</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -83862,6 +83871,9 @@
 	<programme channel="newtv超级体育" start="20250610180000 +0800" stop="20250610190000 +0800">
 		<title lang="zh">体育新闻</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250610190000 +0800" stop="20250610193000 +0800">
+		<title lang="zh">实况录像-2025年世界泳联花样游泳世界杯 加拿大站 1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -84432,6 +84444,9 @@
 	<programme channel="newtv热播精选" start="20250610181000 +0800" stop="20250610185600 +0800">
 		<title lang="zh">21_好团圆</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250610185600 +0800" stop="20250610192600 +0800">
+		<title lang="zh">《八段锦》推荐第25期</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -84488,6 +84503,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250610182600 +0800" stop="20250610185600 +0800">
 		<title lang="zh">《时尚小咖秀》推荐第39期</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250610185600 +0800" stop="20250610193500 +0800">
+		<title lang="zh">06_完美伴侣</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -84611,6 +84629,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250610181400 +0800" stop="20250610190100 +0800">
 		<title lang="zh">上海天行奔源vs四川天门淘一街--第3局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250610190100 +0800" stop="20250610193100 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第35期</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -84962,6 +84983,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250610182300 +0800" stop="20250610190100 +0800">
 		<title lang="zh">邻家诗话第5季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250610190100 +0800" stop="20250610193800 +0800">
+		<title lang="zh">艾美特半导体塔式空调扇-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
