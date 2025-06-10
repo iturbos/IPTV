@@ -43050,6 +43050,9 @@
 	<programme channel="明星大片" start="20250610155800 +0800" stop="20250610161200 +0800">
 		<title lang="zh">11_龙战士星源</title>
 	</programme>
+	<programme channel="明星大片" start="20250610161200 +0800" stop="20250610165600 +0800">
+		<title lang="zh">16_最好的时代</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -60614,6 +60617,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20250610153000 +0800" stop="20250610161200 +0800">
 		<title lang="zh">22_刘家媳妇</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20250610161200 +0800" stop="20250610170100 +0800">
+		<title lang="zh">KGTOUE体感语音操控大吸力烟机-渠道（右）</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -82665,6 +82671,9 @@
 	<programme channel="黑莓动画" start="20250610145200 +0800" stop="20250610160900 +0800">
 		<title lang="zh">西行纪之穷奇地洞</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250610160900 +0800" stop="20250610173800 +0800">
+		<title lang="zh">星际大逃亡</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83610,6 +83619,9 @@
 	<programme channel="newtv超级综艺" start="20250610142900 +0800" stop="20250610161800 +0800">
 		<title lang="zh">国家宝藏 第四季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250610161800 +0800" stop="20250610180500 +0800">
+		<title lang="zh">乐在旅途 第三季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -83765,6 +83777,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250610152700 +0800" stop="20250610161200 +0800">
 		<title lang="zh">04_曾少年</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250610161200 +0800" stop="20250610165700 +0800">
+		<title lang="zh">05_折腰</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -84087,6 +84102,9 @@
 	<programme channel="newtv家庭剧场" start="20250610151500 +0800" stop="20250610160300 +0800">
 		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250610160300 +0800" stop="20250610164900 +0800">
+		<title lang="zh">04_安家</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -84192,6 +84210,9 @@
 	<programme channel="newtv爱情喜剧" start="20250610153000 +0800" stop="20250610161200 +0800">
 		<title lang="zh">22_刘家媳妇</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250610161200 +0800" stop="20250610170100 +0800">
+		<title lang="zh">KGTOUE体感语音操控大吸力烟机-渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -84293,6 +84314,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250610154200 +0800" stop="20250610160900 +0800">
 		<title lang="zh">祖孙之间的裂痕</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250610160900 +0800" stop="20250610164700 +0800">
+		<title lang="zh">草本养生健康宝典（3）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -84468,6 +84492,9 @@
 	<programme channel="newtv军事评论" start="20250610154500 +0800" stop="20250610161000 +0800">
 		<title lang="zh">射击场上的狙击争锋</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250610161000 +0800" stop="20250610163200 +0800">
+		<title lang="zh">谁是军营厨王（48）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84588,6 +84615,9 @@
 	<programme channel="newtv精品综合" start="20250610155800 +0800" stop="20250610161200 +0800">
 		<title lang="zh">11_龙战士星源</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250610161200 +0800" stop="20250610165600 +0800">
+		<title lang="zh">16_最好的时代</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -84668,6 +84698,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250610152300 +0800" stop="20250610161200 +0800">
 		<title lang="zh">美国Doctor Santon端粒酶胶囊-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250610161200 +0800" stop="20250610172600 +0800">
+		<title lang="zh">艾嘉食堂</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
