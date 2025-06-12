@@ -58614,6 +58614,9 @@
 	<programme channel="黑莓动画" start="20250612150900 +0800" stop="20250612163100 +0800">
 		<title lang="zh">黑猫警长之翡翠之星</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250612163100 +0800" stop="20250612175700 +0800">
+		<title lang="zh">汪汪队立大功大电影（普通话版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -59211,6 +59214,9 @@
 	<programme channel="newtv精品大剧" start="20250612155400 +0800" stop="20250612164300 +0800">
 		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250612164300 +0800" stop="20250612173000 +0800">
+		<title lang="zh">02_大奉打更人</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -59324,6 +59330,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250612155400 +0800" stop="20250612164000 +0800">
 		<title lang="zh">17_大奉打更人</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250612164000 +0800" stop="20250612172800 +0800">
+		<title lang="zh">中元益宝牌灵芝孢子油-渠道（右）</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -59450,6 +59459,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250612154700 +0800" stop="20250612163400 +0800">
 		<title lang="zh">14_三十而已</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250612163400 +0800" stop="20250612170400 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第41期</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
