@@ -47868,6 +47868,9 @@
 	<programme channel="纯享4K" start="20250612211400 +0800" stop="20250612220300 +0800">
 		<title lang="zh">良渚4K 第1集 斗转星移</title>
 	</programme>
+	<programme channel="纯享4K" start="20250612221300 +0800" stop="20250612224300 +0800">
+		<title lang="zh">美丽中国说4K 沙洲奇缘</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60228,6 +60231,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250612212500 +0800" stop="20250612221000 +0800">
 		<title lang="zh">10_乐游原</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250612221000 +0800" stop="20250612225700 +0800">
+		<title lang="zh">11_乐游原</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -60593,6 +60599,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250612213300 +0800" stop="20250612220300 +0800">
 		<title lang="zh">美好人生推荐第二期</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250612220300 +0800" stop="20250612231900 +0800">
+		<title lang="zh">特别有种：致命行动</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
