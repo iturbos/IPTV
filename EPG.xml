@@ -48354,6 +48354,9 @@
 	<programme channel="纯享4K" start="20250613150000 +0800" stop="20250613150500 +0800">
 		<title lang="zh">如果国宝会说话4K 银鎏金论语玉烛龟形酒筹筒：将进酒</title>
 	</programme>
+	<programme channel="纯享4K" start="20250613151000 +0800" stop="20250613160100 +0800">
+		<title lang="zh">乘火车看中国4K 第三集 复兴之路</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -59964,6 +59967,9 @@
 	<programme channel="黑莓动画" start="20250613134500 +0800" stop="20250613150300 +0800">
 		<title lang="zh">西行纪之穷奇地洞</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250613150300 +0800" stop="20250613163200 +0800">
+		<title lang="zh">西游记之七十二变</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -60426,6 +60432,9 @@
 	<programme channel="newtv超级电影" start="20250613135100 +0800" stop="20250613151300 +0800">
 		<title lang="zh">电影《兴安岭猎人传说》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250613151300 +0800" stop="20250613163500 +0800">
+		<title lang="zh">电影《武神苏乞儿之黄金海盗》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -60491,6 +60500,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250613143200 +0800" stop="20250613151700 +0800">
 		<title lang="zh">14_曾少年</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250613151700 +0800" stop="20250613160300 +0800">
+		<title lang="zh">15_曾少年</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60770,6 +60782,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250613143000 +0800" stop="20250613151500 +0800">
 		<title lang="zh">18_三十而已</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250613151500 +0800" stop="20250613160100 +0800">
+		<title lang="zh">HOKO富硒款反渗透净水机-渠道（右）</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -61137,6 +61152,9 @@
 	<programme channel="newtv军事评论" start="20250613144300 +0800" stop="20250613150900 +0800">
 		<title lang="zh">海天战鹰守护者</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250613150900 +0800" stop="20250613153400 +0800">
+		<title lang="zh">雪域高原的家国印记</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -61293,6 +61311,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250613135000 +0800" stop="20250613151300 +0800">
 		<title lang="zh">兴安岭猎人传说</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250613151300 +0800" stop="20250613160100 +0800">
+		<title lang="zh">中元益宝牌灵芝孢子油-渠道（右）</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -61442,6 +61463,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250613143200 +0800" stop="20250613150600 +0800">
 		<title lang="zh">31_墓王之王</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250613150600 +0800" stop="20250613160000 +0800">
+		<title lang="zh">32_墓王之王</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
