@@ -17505,6 +17505,9 @@
 	<programme channel="咪咕足球" start="20250614144000 +0800" stop="20250614161000 +0800">
 		<title lang="zh">篮球：为爱而生08 梦之队</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250614162000 +0800" stop="20250614180000 +0800">
+		<title lang="zh">当燃CBA-24/25常规赛第45轮 天津先行者-山西汾酒</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -56814,6 +56817,9 @@
 	<programme channel="黑莓电影" start="20250614144000 +0800" stop="20250614161200 +0800">
 		<title lang="zh">时空之旅</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250614161200 +0800" stop="20250614175100 +0800">
+		<title lang="zh">真爱营业</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -57207,6 +57213,9 @@
 	<programme channel="newtv超级体育" start="20250614150000 +0800" stop="20250614160000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2025年亚洲举重锦标赛 男子81公斤级决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250614160000 +0800" stop="20250614180000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 半决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -57245,6 +57254,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250614145200 +0800" stop="20250614161600 +0800">
 		<title lang="zh">电影《锦鼠御猫之九幽血狼》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250614161600 +0800" stop="20250614174600 +0800">
+		<title lang="zh">电影《大导归来》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -57311,6 +57323,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250614152500 +0800" stop="20250614161100 +0800">
 		<title lang="zh">19_曾少年</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250614161100 +0800" stop="20250614165600 +0800">
+		<title lang="zh">20_曾少年</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -57431,6 +57446,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250614151800 +0800" stop="20250614160200 +0800">
 		<title lang="zh">第1集：向b7背</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250614160200 +0800" stop="20250614165100 +0800">
+		<title lang="zh">幻彩霓裳</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -57819,6 +57837,9 @@
 	<programme channel="newtv怡伴健康" start="20250614151900 +0800" stop="20250614160800 +0800">
 		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250614160800 +0800" stop="20250614163500 +0800">
+		<title lang="zh">燃气爆炸之后</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -57890,6 +57911,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250614153200 +0800" stop="20250614160200 +0800">
 		<title lang="zh">思独鲜桃酥7099版本10分钟</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250614160200 +0800" stop="20250614164700 +0800">
+		<title lang="zh">15_九重紫</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -58142,6 +58166,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250614152600 +0800" stop="20250614160500 +0800">
 		<title lang="zh">igoloo长款大裙摆防晒衣-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250614160500 +0800" stop="20250614171900 +0800">
+		<title lang="zh">杀戮部队</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
