@@ -44346,6 +44346,9 @@
 	<programme channel="纯享4K" start="20250616144900 +0800" stop="20250616150400 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 国画b7拟鸢图</title>
 	</programme>
+	<programme channel="纯享4K" start="20250616151400 +0800" stop="20250616160300 +0800">
+		<title lang="zh">乘火车看中国4K 第六集 茶马之路</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -53964,6 +53967,9 @@
 	<programme channel="黑莓电影" start="20250616134000 +0800" stop="20250616151300 +0800">
 		<title lang="zh">怪物史莱克4</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250616151300 +0800" stop="20250616164100 +0800">
+		<title lang="zh">市井英雄</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -54209,6 +54215,9 @@
 	</programme>
 	<programme channel="newtv超级综艺" start="20250616140000 +0800" stop="20250616151700 +0800">
 		<title lang="zh">向幸福出发</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20250616151700 +0800" stop="20250616171600 +0800">
+		<title lang="zh">乐在旅途 第三季</title>
 	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
@@ -54624,6 +54633,9 @@
 	<programme channel="newtv家庭剧场" start="20250616141900 +0800" stop="20250616150400 +0800">
 		<title lang="zh">29_三十而已</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250616150400 +0800" stop="20250616154300 +0800">
+		<title lang="zh">罗布雍措狼牙刺藏蜜-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -54756,6 +54768,9 @@
 	<programme channel="newtv动作电影" start="20250616134300 +0800" stop="20250616151000 +0800">
 		<title lang="zh">王牌保镖之疾速追击</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250616151000 +0800" stop="20250616163300 +0800">
+		<title lang="zh">初级特工</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -54815,6 +54830,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250616123400 +0800" stop="20250616150300 +0800">
 		<title lang="zh">京剧《四郎探母》</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250616150300 +0800" stop="20250616155200 +0800">
+		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
