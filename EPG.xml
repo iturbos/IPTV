@@ -41478,6 +41478,9 @@
 	<programme channel="纯享4K" start="20250617000400 +0800" stop="20250617003400 +0800">
 		<title lang="zh">记住乡愁 第五季4K 佛山祖庙历史文化街区——男儿当自强</title>
 	</programme>
+	<programme channel="纯享4K" start="20250617003400 +0800" stop="20250617010400 +0800">
+		<title lang="zh">记住乡愁4K第五季 都江堰西街——和为贵</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52080,6 +52083,9 @@
 	<programme channel="newtv超级综艺" start="20250617000600 +0800" stop="20250617005300 +0800">
 		<title lang="zh">27_折腰</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250617005300 +0800" stop="20250617014000 +0800">
+		<title lang="zh">28_折腰</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -52097,6 +52103,9 @@
 	</channel>
 	<programme channel="newtv超级电视剧" start="20250617000300 +0800" stop="20250617004400 +0800">
 		<title lang="zh">16_利刃出击</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250617004400 +0800" stop="20250617012900 +0800">
+		<title lang="zh">17_利刃出击</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -52119,41 +52128,8 @@
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
-	<programme channel="newtv军旅剧场" start="20250617000000 +0800" stop="20250617020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv军旅剧场" start="20250617020000 +0800" stop="20250617040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv军旅剧场" start="20250617060000 +0800" stop="20250617080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv军旅剧场" start="20250617080000 +0800" stop="20250617100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv军旅剧场" start="20250617100600 +0800" stop="20250617120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv军旅剧场" start="20250617120000 +0800" stop="20250617140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv军旅剧场" start="20250617140000 +0800" stop="20250617160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv军旅剧场" start="20250617160000 +0800" stop="20250617180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv军旅剧场" start="20250617180000 +0800" stop="20250617190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv军旅剧场" start="20250617190000 +0800" stop="20250617200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv军旅剧场" start="20250617200000 +0800" stop="20250617220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv军旅剧场" start="20250617220000 +0800" stop="20250617235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv军旅剧场" start="20250617003500 +0800" stop="20250617015200 +0800">
+		<title lang="zh">大号小兵第14集</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -52184,6 +52160,9 @@
 	</channel>
 	<programme channel="newtv怡伴健康" start="20250617000700 +0800" stop="20250617005600 +0800">
 		<title lang="zh">SHARP大容量双内胆IH电饭煲/健康筷/多功能饮品杯-渠道（右）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250617005600 +0800" stop="20250617013900 +0800">
+		<title lang="zh">08_新白蛇传</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -52230,6 +52209,9 @@
 	<programme channel="newtv军事评论" start="20250617000000 +0800" stop="20250617005300 +0800">
 		<title lang="zh">烽火兵工 第2集 胶东大地铸传奇</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250617005300 +0800" stop="20250617014300 +0800">
+		<title lang="zh">烽火兵工 第3集 钢铁柳沟旗帜扬</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -52251,41 +52233,8 @@
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
-	<programme channel="newtv金牌综艺" start="20250617000000 +0800" stop="20250617020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20250617020000 +0800" stop="20250617040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20250617060000 +0800" stop="20250617080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20250617080000 +0800" stop="20250617100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20250617100600 +0800" stop="20250617120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20250617120000 +0800" stop="20250617140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20250617140000 +0800" stop="20250617160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20250617160000 +0800" stop="20250617180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20250617180000 +0800" stop="20250617190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20250617190000 +0800" stop="20250617200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20250617200000 +0800" stop="20250617220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20250617220000 +0800" stop="20250617235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv金牌综艺" start="20250617004400 +0800" stop="20250617045300 +0800">
+		<title lang="zh">三餐四季 第二季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
