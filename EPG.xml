@@ -18183,6 +18183,9 @@
 	<programme channel="咪咕足球" start="20250617180000 +0800" stop="20250617181000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250617181000 +0800" stop="20250617193000 +0800">
+		<title lang="zh">2025全运会 男篮资格赛 B组第4轮 河北-天津</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -45166,19 +45169,19 @@
 		<title lang="zh">法治伴你行</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20250617075100 +0800" stop="20250617085200 +0800">
-		<title lang="zh">女子特战队(37)</title>
+		<title lang="zh">雄关剧场:女子特战队(37)</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20250617085200 +0800" stop="20250617094900 +0800">
-		<title lang="zh">女子特战队(38)</title>
+		<title lang="zh">雄关剧场:女子特战队(38)</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20250617094900 +0800" stop="20250617104800 +0800">
-		<title lang="zh">女子特战队(39)</title>
+		<title lang="zh">雄关剧场:女子特战队(39)</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20250617104800 +0800" stop="20250617113900 +0800">
-		<title lang="zh">女子特战队(40)</title>
+		<title lang="zh">雄关剧场:女子特战队(40)</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20250617113900 +0800" stop="20250617123000 +0800">
-		<title lang="zh">女子特战队(41)</title>
+		<title lang="zh">雄关剧场:女子特战队(41)</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20250617123000 +0800" stop="20250617125000 +0800">
 		<title lang="zh">午间20分</title>
@@ -45190,19 +45193,19 @@
 		<title lang="zh">午间天气预报</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20250617130900 +0800" stop="20250617135900 +0800">
-		<title lang="zh">猎鹰1949(37)</title>
+		<title lang="zh">花雨剧场:猎鹰1949(37)</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20250617135900 +0800" stop="20250617145600 +0800">
-		<title lang="zh">猎鹰1949(38)</title>
+		<title lang="zh">花雨剧场:猎鹰1949(38)</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20250617145600 +0800" stop="20250617154600 +0800">
-		<title lang="zh">猎鹰1949(39)</title>
+		<title lang="zh">花雨剧场:猎鹰1949(39)</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20250617154600 +0800" stop="20250617163700 +0800">
-		<title lang="zh">猎鹰1949(40)</title>
+		<title lang="zh">花雨剧场:猎鹰1949(40)</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20250617163700 +0800" stop="20250617173500 +0800">
-		<title lang="zh">猎鹰1949(41)</title>
+		<title lang="zh">花雨剧场:猎鹰1949(41)</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20250617173500 +0800" stop="20250617181000 +0800">
 		<title lang="zh">棉花糖和云朵妈妈(67)</title>
@@ -48164,6 +48167,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250617173300 +0800" stop="20250617180300 +0800">
 		<title lang="zh">味道4K 原味乡间b7景宁篇（上）</title>
+	</programme>
+	<programme channel="纯享4K" start="20250617180300 +0800" stop="20250617183300 +0800">
+		<title lang="zh">寻古中国4K 古蜀记b7璀璨金沙</title>
 	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
@@ -60210,6 +60216,9 @@
 	<programme channel="newtv精品纪录" start="20250617171700 +0800" stop="20250617180600 +0800">
 		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250617180600 +0800" stop="20250617184500 +0800">
+		<title lang="zh">家乡至味2022（70）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -60269,6 +60278,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250617172600 +0800" stop="20250617181100 +0800">
 		<title lang="zh">38_大奉打更人</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250617181100 +0800" stop="20250617185300 +0800">
+		<title lang="zh">39_大奉打更人</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -60335,6 +60347,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250617172500 +0800" stop="20250617181000 +0800">
 		<title lang="zh">32_特战行动</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250617181000 +0800" stop="20250617185600 +0800">
+		<title lang="zh">33_特战行动</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -60407,6 +60422,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250617172500 +0800" stop="20250617181000 +0800">
 		<title lang="zh">33_安家</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250617181000 +0800" stop="20250617185500 +0800">
+		<title lang="zh">34_安家</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -60650,6 +60668,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250617173800 +0800" stop="20250617180800 +0800">
 		<title lang="zh">《时尚小咖秀》推荐第45期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250617180800 +0800" stop="20250617184500 +0800">
+		<title lang="zh">北京源莱慧精英vs湖南名将--第3局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -60989,6 +61010,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250617170700 +0800" stop="20250617181600 +0800">
 		<title lang="zh">03_亲爱的仇敌</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250617181600 +0800" stop="20250617185500 +0800">
+		<title lang="zh">邻家诗话第5季</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
