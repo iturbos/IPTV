@@ -17190,6 +17190,9 @@
 	<programme channel="咪咕足球" start="20250619022600 +0800" stop="20250619024100 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250619024100 +0800" stop="20250619042100 +0800">
+		<title lang="zh">2024NBL 广西威壮-长沙湾田勇胜</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -41772,6 +41775,9 @@
 	<programme channel="纯享4K" start="20250619020300 +0800" stop="20250619023300 +0800">
 		<title lang="zh">寻古中国4K 玉石记b7玉耀古国</title>
 	</programme>
+	<programme channel="纯享4K" start="20250619023300 +0800" stop="20250619030300 +0800">
+		<title lang="zh">寻古中国4K 玉石记b7玉琢华章</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52575,6 +52581,9 @@
 	<programme channel="newtv精品纪录" start="20250619011900 +0800" stop="20250619023500 +0800">
 		<title lang="zh">走进纳米世界</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250619023500 +0800" stop="20250619034500 +0800">
+		<title lang="zh">蓝色能源 海盐</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -52604,6 +52613,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250619020000 +0800" stop="20250619024500 +0800">
 		<title lang="zh">31_向幸福出发</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250619024500 +0800" stop="20250619035000 +0800">
+		<title lang="zh">32_向幸福出发</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -52640,6 +52652,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250619013000 +0800" stop="20250619023200 +0800">
 		<title lang="zh">13_新白蛇传</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250619023200 +0800" stop="20250619031900 +0800">
+		<title lang="zh">动物的超凡技能（3）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -52679,6 +52694,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250619015300 +0800" stop="20250619023400 +0800">
 		<title lang="zh">第1集：粒粒皆辛苦</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250619023400 +0800" stop="20250619032400 +0800">
+		<title lang="zh">04_湖北</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
