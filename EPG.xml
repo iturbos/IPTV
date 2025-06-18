@@ -47595,6 +47595,9 @@
 	<programme channel="纯享4K" start="20250618224900 +0800" stop="20250618230400 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 养正图b7射箭</title>
 	</programme>
+	<programme channel="纯享4K" start="20250618231400 +0800" stop="20250618000300 +0800">
+		<title lang="zh">大数据时代4K 第2集 转型之路</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -59499,6 +59502,9 @@
 	<programme channel="newtv超级电视剧" start="20250618223300 +0800" stop="20250618231900 +0800">
 		<title lang="zh">36_安家</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250618231900 +0800" stop="20250618000500 +0800">
+		<title lang="zh">37_安家</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -59759,6 +59765,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250618222100 +0800" stop="20250618230600 +0800">
 		<title lang="zh">26_天行健</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250618230600 +0800" stop="20250618235000 +0800">
+		<title lang="zh">27_天行健</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -60101,6 +60110,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250618214900 +0800" stop="20250618230800 +0800">
 		<title lang="zh">心灵骇客</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250618230800 +0800" stop="20250618235700 +0800">
+		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -60513,6 +60525,9 @@
 	<programme channel="newtv军事评论" start="20250618224900 +0800" stop="20250618231400 +0800">
 		<title lang="zh">伊朗海军举行军演 以方称为“所有可能性”做好准备</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250618231400 +0800" stop="20250618234000 +0800">
+		<title lang="zh">中方坚决反制 菲方侵闯挑衅企图必遭失败</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -60608,6 +60623,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250618224100 +0800" stop="20250618230200 +0800">
 		<title lang="zh">全身健康操（20240812）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250618230200 +0800" stop="20250618232300 +0800">
+		<title lang="zh">全身健康操（20240819）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
