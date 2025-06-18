@@ -18069,6 +18069,9 @@
 	<programme channel="咪咕足球" start="20250618143000 +0800" stop="20250618144000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250618144000 +0800" stop="20250618161000 +0800">
+		<title lang="zh">篮球：为爱而生02 爱国主义与抗议</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -60140,6 +60143,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250618122800 +0800" stop="20250618131700 +0800">
 		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250618131700 +0800" stop="20250618143700 +0800">
+		<title lang="zh">勇者之战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250618143700 +0800" stop="20250618162600 +0800">
+		<title lang="zh">邻家诗话第4季</title>
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250618131700 +0800" stop="20250618143700 +0800">
 		<title lang="zh">勇者之战</title>
