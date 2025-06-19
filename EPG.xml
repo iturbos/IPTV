@@ -48546,6 +48546,9 @@
 	<programme channel="纯享4K" start="20250619225300 +0800" stop="20250619230800 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 油画b7钓鱼的人们</title>
 	</programme>
+	<programme channel="纯享4K" start="20250619231300 +0800" stop="20250619231800 +0800">
+		<title lang="zh">如果国宝会说话 第一季4K 曾侯乙尊盘：复刻传奇</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -61128,6 +61131,9 @@
 	<programme channel="newtv爱情喜剧" start="20250619221400 +0800" stop="20250619230300 +0800">
 		<title lang="zh">10_流水迢迢</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250619230300 +0800" stop="20250619235200 +0800">
+		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -61647,6 +61653,9 @@
 	<programme channel="newtv炫舞未来" start="20250619225400 +0800" stop="20250619230800 +0800">
 		<title lang="zh">饿狼传说-毕刚（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250619230800 +0800" stop="20250619232400 +0800">
+		<title lang="zh">兄弟想你了-李萍（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -61883,6 +61892,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250619210500 +0800" stop="20250619230500 +0800">
 		<title lang="zh">NBA季后赛4月26日：湖人VS森林狼</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250619230500 +0800" stop="20250619001500 +0800">
+		<title lang="zh">NBA附加赛4月19日：独行侠VS灰熊</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
