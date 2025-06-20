@@ -48882,6 +48882,9 @@
 	<programme channel="纯享4K" start="20250620203200 +0800" stop="20250620211300 +0800">
 		<title lang="zh">远方的家 秘境之旅 万物共生 多彩“川”行</title>
 	</programme>
+	<programme channel="纯享4K" start="20250620211300 +0800" stop="20250620211900 +0800">
+		<title lang="zh">美丽中国自然4K 大熊猫国家公园邛崃山系列 入境邛崃</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60795,6 +60798,9 @@
 	<programme channel="newtv精品大剧" start="20250620201700 +0800" stop="20250620210200 +0800">
 		<title lang="zh">07_星汉灿烂</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250620210200 +0800" stop="20250620213200 +0800">
+		<title lang="zh">美好人生推荐第二期</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -60972,6 +60978,9 @@
 	<programme channel="newtv古装剧场" start="20250620201800 +0800" stop="20250620210500 +0800">
 		<title lang="zh">28_折腰</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250620210500 +0800" stop="20250620213500 +0800">
+		<title lang="zh">《八段锦》推荐第25期</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -61046,6 +61055,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250620202600 +0800" stop="20250620210700 +0800">
 		<title lang="zh">11_雪域雄鹰</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250620210700 +0800" stop="20250620213700 +0800">
+		<title lang="zh">美好人生推荐第二期</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -61656,6 +61668,9 @@
 	<programme channel="newtv军事评论" start="20250620204600 +0800" stop="20250620211100 +0800">
 		<title lang="zh">美日煽动菲律宾在南海肇事挑衅 北约称支持乌克兰进攻库尔斯克</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250620211100 +0800" stop="20250620213600 +0800">
+		<title lang="zh">乌总统点名美英法德“松绑”远程武器限制 “出云”号替美航母部署亚太？</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -61920,6 +61935,9 @@
 	<programme channel="newtv金牌综艺" start="20250620184200 +0800" stop="20250620211000 +0800">
 		<title lang="zh">德云斗笑社</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250620211000 +0800" stop="20250620214900 +0800">
+		<title lang="zh">百年鑫堂霍山石斛粉滋补组-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -62078,6 +62096,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250620202600 +0800" stop="20250620210900 +0800">
 		<title lang="zh">35_且试天下</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250620210900 +0800" stop="20250620213900 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第49期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
