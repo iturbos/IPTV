@@ -48891,6 +48891,9 @@
 	<programme channel="纯享4K" start="20250620212400 +0800" stop="20250620221600 +0800">
 		<title lang="zh">遇鉴文明4K 佳肴美馔 中餐与西餐</title>
 	</programme>
+	<programme channel="纯享4K" start="20250620221600 +0800" stop="20250620222700 +0800">
+		<title lang="zh">秘境之眼4K 珠峰秘境</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60648,6 +60651,9 @@
 	<programme channel="newtv超级电影" start="20250620204600 +0800" stop="20250620222000 +0800">
 		<title lang="zh">电影《东邪西毒：终极版》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250620222000 +0800" stop="20250620000300 +0800">
+		<title lang="zh">电影《深海越狱》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -60932,6 +60938,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250620213400 +0800" stop="20250620221300 +0800">
 		<title lang="zh">潮州木雕</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250620221300 +0800" stop="20250620225200 +0800">
+		<title lang="zh">百年鑫堂霍山石斛粉滋补组-渠道（右）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -61491,6 +61500,9 @@
 	<programme channel="newtv怡伴健康" start="20250620213000 +0800" stop="20250620221000 +0800">
 		<title lang="zh">湖南名将vs北京东炸团--第5局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250620221000 +0800" stop="20250620224000 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第49期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -61595,6 +61607,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250620212400 +0800" stop="20250620220900 +0800">
 		<title lang="zh">03_大盛魁</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250620220900 +0800" stop="20250620224800 +0800">
+		<title lang="zh">森宝熊胆粉VIP超值组-渠道（右）</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -61955,6 +61970,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250620213400 +0800" stop="20250620220400 +0800">
 		<title lang="zh">美好人生推荐第二期</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250620220400 +0800" stop="20250620232200 +0800">
+		<title lang="zh">蜀山2剑魔篇</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
