@@ -18390,6 +18390,9 @@
 	<programme channel="咪咕足球" start="20250620143000 +0800" stop="20250620144000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250620144000 +0800" stop="20250620161000 +0800">
+		<title lang="zh">篮球：为爱而生04 五味杂陈的胜利</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -60225,6 +60228,9 @@
 	<programme channel="newtv超级电影" start="20250620132500 +0800" stop="20250620143500 +0800">
 		<title lang="zh">电影《凤归梧桐》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250620143500 +0800" stop="20250620160100 +0800">
+		<title lang="zh">电影《陈真之拳镇山河》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -60287,6 +60293,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250620134700 +0800" stop="20250620143100 +0800">
 		<title lang="zh">06_我和我爸的十七岁</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250620143100 +0800" stop="20250620151700 +0800">
+		<title lang="zh">07_我和我爸的十七岁</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60408,6 +60417,9 @@
 	<programme channel="newtv精品纪录" start="20250620141900 +0800" stop="20250620144400 +0800">
 		<title lang="zh">05_贵州从江侗乡 稻鱼鸭系统</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250620144400 +0800" stop="20250620150800 +0800">
+		<title lang="zh">01_人类最伟大的发明</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -60455,6 +60467,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250620135500 +0800" stop="20250620143400 +0800">
 		<title lang="zh">igoloo长款大裙摆防晒衣-渠道（右）</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250620143400 +0800" stop="20250620152000 +0800">
+		<title lang="zh">08_神医喜来乐</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -60828,6 +60843,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250620140200 +0800" stop="20250620143200 +0800">
 		<title lang="zh">09_鹊刀门传奇</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250620143200 +0800" stop="20250620145800 +0800">
+		<title lang="zh">10_鹊刀门传奇</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -60977,6 +60995,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250620140200 +0800" stop="20250620144200 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250620144200 +0800" stop="20250620155900 +0800">
+		<title lang="zh">以情歌为线 营造浪漫心动的氛围 将爱情进行到底（20250609）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
