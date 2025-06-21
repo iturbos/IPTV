@@ -18372,6 +18372,9 @@
 	<programme channel="咪咕综合体育" start="20250621113500 +0800" stop="20250621131500 +0800">
 		<title lang="zh">网球世界-2025WTA1000罗马站 1/4决赛 郑钦文-萨巴伦卡</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250621132500 +0800" stop="20250621151500 +0800">
+		<title lang="zh">2025全国跳水冠军赛 女子双人十米台</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -48915,6 +48918,9 @@
 	<programme channel="纯享4K" start="20250621122700 +0800" stop="20250621130900 +0800">
 		<title lang="zh">远方的家4K 秘境之旅 生态湿地 候鸟翩跹</title>
 	</programme>
+	<programme channel="纯享4K" start="20250621131400 +0800" stop="20250621131900 +0800">
+		<title lang="zh">美丽中国自然4K 大熊猫国家公园邛崃山系列 寻色</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60933,6 +60939,9 @@
 	<programme channel="newtv超级体育" start="20250621120000 +0800" stop="20250621130500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250621130500 +0800" stop="20250621132800 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -61068,6 +61077,9 @@
 	<programme channel="newtv精品大剧" start="20250621122300 +0800" stop="20250621131000 +0800">
 		<title lang="zh">35_大奉打更人</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250621131000 +0800" stop="20250621135600 +0800">
+		<title lang="zh">36_大奉打更人</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -61127,6 +61139,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250621124900 +0800" stop="20250621131400 +0800">
 		<title lang="zh">01_传承</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250621131400 +0800" stop="20250621133800 +0800">
+		<title lang="zh">02_守望</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -61509,6 +61524,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250621124000 +0800" stop="20250621131000 +0800">
 		<title lang="zh">思独鲜桃酥7099版本10分钟</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250621131000 +0800" stop="20250621133600 +0800">
+		<title lang="zh">15_鹊刀门传奇</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -61715,6 +61733,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250621114600 +0800" stop="20250621130800 +0800">
 		<title lang="zh">倩女仙缘</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250621130800 +0800" stop="20250621142800 +0800">
+		<title lang="zh">虎口夺金</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
