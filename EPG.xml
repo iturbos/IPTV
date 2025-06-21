@@ -61095,6 +61095,9 @@
 	<programme channel="newtv精品纪录" start="20250621110900 +0800" stop="20250621120500 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250621120500 +0800" stop="20250621122000 +0800">
+		<title lang="zh">04_丁王英 某士官学校学员</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -61173,6 +61176,9 @@
 	<programme channel="newtv军旅剧场" start="20250621111200 +0800" stop="20250621120800 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250621120800 +0800" stop="20250621125300 +0800">
+		<title lang="zh">06_一代枭雄</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -61217,6 +61223,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250621110800 +0800" stop="20250621121300 +0800">
 		<title lang="zh">34_大嫁风尚</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250621121300 +0800" stop="20250621130000 +0800">
+		<title lang="zh">04_亲爱的，你在哪里</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -61292,6 +61301,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250621111600 +0800" stop="20250621120100 +0800">
 		<title lang="zh">08_侦察英雄</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250621120100 +0800" stop="20250621124000 +0800">
+		<title lang="zh">igoloo长款大裙摆防晒衣-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -61440,6 +61452,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250621114100 +0800" stop="20250621121100 +0800">
 		<title lang="zh">13_鹊刀门传奇</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250621121100 +0800" stop="20250621124000 +0800">
+		<title lang="zh">14_鹊刀门传奇</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -61515,6 +61530,9 @@
 	<programme channel="newtv军事评论" start="20250621114100 +0800" stop="20250621120800 +0800">
 		<title lang="zh">微声杀手</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250621120800 +0800" stop="20250621123500 +0800">
+		<title lang="zh">新晋射手</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -61556,6 +61574,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250621110600 +0800" stop="20250621120200 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250621120200 +0800" stop="20250621125100 +0800">
+		<title lang="zh">01_自然的馈赠</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
