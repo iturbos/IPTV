@@ -39078,6 +39078,9 @@
 	<programme channel="纯享4K" start="20250623030100 +0800" stop="20250623034100 +0800">
 		<title lang="zh">探索b7发现4K 寻找乌垒城</title>
 	</programme>
+	<programme channel="纯享4K" start="20250623034100 +0800" stop="20250623042300 +0800">
+		<title lang="zh">远方的家4K 秘境之旅 走进大熊猫国家公园</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -47895,6 +47898,9 @@
 	<programme channel="newtv超级电视剧" start="20250623023900 +0800" stop="20250623032400 +0800">
 		<title lang="zh">04_军人荣誉之铁血雄心</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250623032400 +0800" stop="20250623040900 +0800">
+		<title lang="zh">05_军人荣誉之铁血雄心</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -47982,6 +47988,9 @@
 	<programme channel="newtv爱情喜剧" start="20250623010000 +0800" stop="20250623032600 +0800">
 		<title lang="zh">屁民报国</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250623032600 +0800" stop="20250623043700 +0800">
+		<title lang="zh">36_幸福有配方</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -48042,6 +48051,9 @@
 	<programme channel="newtv军事评论" start="20250623024300 +0800" stop="20250623033600 +0800">
 		<title lang="zh">穿越历史的空天航迹 空军知识挑战赛</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250623033600 +0800" stop="20250623042800 +0800">
+		<title lang="zh">秀出你的战斗力 走进白台山劲旅</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -48050,6 +48062,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250623015900 +0800" stop="20250623033200 +0800">
 		<title lang="zh">山水间的家 第三季（20240929）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250623033200 +0800" stop="20250623042400 +0800">
+		<title lang="zh">遇鉴文明 第二季 （20250103）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -48077,6 +48092,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20250623005300 +0800" stop="20250623034600 +0800">
 		<title lang="zh">环球综艺秀（2025）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250623034600 +0800" stop="20250623062500 +0800">
+		<title lang="zh">艺览天下（2025）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
