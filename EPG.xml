@@ -54222,6 +54222,9 @@
 	<programme channel="黑莓电影" start="20250623210700 +0800" stop="20250623231300 +0800">
 		<title lang="zh">大画王</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250623231300 +0800" stop="20250623011800 +0800">
+		<title lang="zh">碟中谍3</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -54978,6 +54981,9 @@
 	<programme channel="newtv古装剧场" start="20250623223200 +0800" stop="20250623231600 +0800">
 		<title lang="zh">04_繁城之下</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250623231600 +0800" stop="20250623001100 +0800">
+		<title lang="zh">05_繁城之下</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -55067,6 +55073,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250623222300 +0800" stop="20250623230900 +0800">
 		<title lang="zh">21_天涯浴血</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250623230900 +0800" stop="20250623235400 +0800">
+		<title lang="zh">22_天涯浴血</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -55737,6 +55746,9 @@
 	<programme channel="newtv军事评论" start="20250623224900 +0800" stop="20250623231400 +0800">
 		<title lang="zh">伊朗首次使用高超音速导弹打击以色列 以军在黎境内地面行动遭伏击</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250623231400 +0800" stop="20250623233900 +0800">
+		<title lang="zh">伊朗宣称不再自我克制 以色列决心抵御“七条战线”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -55820,6 +55832,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250623224800 +0800" stop="20250623231000 +0800">
 		<title lang="zh">健身舞《弥渡山歌》（20220711）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250623231000 +0800" stop="20250623233200 +0800">
+		<title lang="zh">爵士风健身舞（20220807）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -56180,6 +56195,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250623213200 +0800" stop="20250623231300 +0800">
 		<title lang="zh">画江湖之天罡</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250623231300 +0800" stop="20250623000200 +0800">
+		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
