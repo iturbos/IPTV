@@ -41784,6 +41784,9 @@
 	<programme channel="纯享4K" start="20250626001300 +0800" stop="20250626004300 +0800">
 		<title lang="zh">记住乡愁4K 第五季 第四十九集 宁德鹏程老街——鹏程万里 始于足下</title>
 	</programme>
+	<programme channel="纯享4K" start="20250626004300 +0800" stop="20250626011300 +0800">
+		<title lang="zh">记住乡愁4K 第五季 第五十一集 沙溪寺登街 —— 茶马古集市 和合天地美</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52236,44 +52239,14 @@
 	<programme channel="newtv精品纪录" start="20250626000500 +0800" stop="20250626003500 +0800">
 		<title lang="zh">第十集：北斗巡天</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250626003500 +0800" stop="20250626013500 +0800">
+		<title lang="zh">第十一集：天河筑梦</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
-	<programme channel="newtv古装剧场" start="20250626000000 +0800" stop="20250626020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv古装剧场" start="20250626020000 +0800" stop="20250626040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv古装剧场" start="20250626060000 +0800" stop="20250626080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv古装剧场" start="20250626080000 +0800" stop="20250626100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv古装剧场" start="20250626100600 +0800" stop="20250626120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv古装剧场" start="20250626120000 +0800" stop="20250626140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv古装剧场" start="20250626140000 +0800" stop="20250626160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv古装剧场" start="20250626160000 +0800" stop="20250626180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv古装剧场" start="20250626180000 +0800" stop="20250626190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv古装剧场" start="20250626190000 +0800" stop="20250626200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv古装剧场" start="20250626200000 +0800" stop="20250626220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv古装剧场" start="20250626220000 +0800" stop="20250626235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv古装剧场" start="20250626003600 +0800" stop="20250626015200 +0800">
+		<title lang="zh">45_大秦帝国之裂变</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -52310,6 +52283,9 @@
 	</channel>
 	<programme channel="newtv怡伴健康" start="20250626000200 +0800" stop="20250626004000 +0800">
 		<title lang="zh">礼贡堂非遗透骨灸舒筋通络保健膏-周年庆-渠道（右）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250626004000 +0800" stop="20250626012300 +0800">
+		<title lang="zh">26_新白蛇传</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
