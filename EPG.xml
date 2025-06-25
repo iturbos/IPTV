@@ -46404,6 +46404,9 @@
 	<programme channel="纯享4K" start="20250625125800 +0800" stop="20250625130300 +0800">
 		<title lang="zh">美丽中国自然4K 大熊猫国家公园邛崃山系列 归山还林</title>
 	</programme>
+	<programme channel="纯享4K" start="20250625130900 +0800" stop="20250625135900 +0800">
+		<title lang="zh">国家公园——万物共生之境4K 第1集 荒原新生</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -58458,6 +58461,9 @@
 	<programme channel="newtv爱情喜剧" start="20250625121600 +0800" stop="20250625130700 +0800">
 		<title lang="zh">28_侦察英雄</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250625130700 +0800" stop="20250625135700 +0800">
+		<title lang="zh">29_侦察英雄</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -58695,6 +58701,9 @@
 	<programme channel="newtv军事评论" start="20250625123600 +0800" stop="20250625130200 +0800">
 		<title lang="zh">直击“虎王”213号</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250625130200 +0800" stop="20250625132700 +0800">
+		<title lang="zh">“红三村”传奇</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -58884,6 +58893,9 @@
 	<programme channel="newtv精品体育" start="20250625111900 +0800" stop="20250625130400 +0800">
 		<title lang="zh">2025赛季中超联赛第12轮：山东泰山VS浙江俱乐部</title>
 	</programme>
+	<programme channel="newtv精品体育" start="20250625130400 +0800" stop="20250625144800 +0800">
+		<title lang="zh">2025赛季中超联赛第12轮：长春亚泰VS河南俱乐部</title>
+	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
 	</channel>
@@ -58961,6 +58973,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250625113600 +0800" stop="20250625130600 +0800">
 		<title lang="zh">大唐英豪之大漠秋水</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250625130600 +0800" stop="20250625135400 +0800">
+		<title lang="zh">日本跨境Yanagozawa牛黄宝营养素-周年庆-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
