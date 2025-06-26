@@ -48450,6 +48450,9 @@
 	<programme channel="纯享4K" start="20250626222700 +0800" stop="20250626231600 +0800">
 		<title lang="zh">玩的是古 第二季4K 第3集</title>
 	</programme>
+	<programme channel="纯享4K" start="20250626231600 +0800" stop="20250626234200 +0800">
+		<title lang="zh">好吃客4K 京城洋厨房</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60387,6 +60390,9 @@
 	<programme channel="newtv超级电视剧" start="20250626223000 +0800" stop="20250626231500 +0800">
 		<title lang="zh">07_珠江人家</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250626231500 +0800" stop="20250626000100 +0800">
+		<title lang="zh">08_珠江人家</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -60584,6 +60590,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250626224300 +0800" stop="20250626230800 +0800">
 		<title lang="zh">01_四方风物</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250626230800 +0800" stop="20250626233200 +0800">
+		<title lang="zh">02_他乡故乡</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -60843,6 +60852,9 @@
 	<programme channel="newtv家庭剧场" start="20250626222400 +0800" stop="20250626230800 +0800">
 		<title lang="zh">22_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250626230800 +0800" stop="20250626235200 +0800">
+		<title lang="zh">23_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -60998,6 +61010,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250626223200 +0800" stop="20250626231100 +0800">
 		<title lang="zh">艾美特无线折叠空气循环扇-周年庆-渠道（右）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250626231100 +0800" stop="20250626235700 +0800">
+		<title lang="zh">05_梦中的那片海</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -61526,6 +61541,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250626225700 +0800" stop="20250626231100 +0800">
 		<title lang="zh">触电-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250626231100 +0800" stop="20250626232500 +0800">
+		<title lang="zh">饿狼传说-毕刚（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
