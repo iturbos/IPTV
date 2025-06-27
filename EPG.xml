@@ -20646,6 +20646,9 @@
 	<programme channel="动作电影" start="20250627214300 +0800" stop="20250627221300 +0800">
 		<title lang="zh">【推荐】雅德荣氨糖软骨素</title>
 	</programme>
+	<programme channel="动作电影" start="20250627221300 +0800" stop="20250627235300 +0800">
+		<title lang="zh">街头霸王</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -27320,6 +27323,9 @@
 	</programme>
 	<programme channel="咪咕综合体育" start="20250627220000 +0800" stop="20250627221000 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250627221000 +0800" stop="20250627000000 +0800">
+		<title lang="zh">UFConESPN69期 主赛</title>
 	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
@@ -84309,6 +84315,9 @@
 	<programme channel="newtv精品大剧" start="20250627212600 +0800" stop="20250627221000 +0800">
 		<title lang="zh">08_藏海花</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250627221000 +0800" stop="20250627225600 +0800">
+		<title lang="zh">09_藏海花</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -84839,6 +84848,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250627214300 +0800" stop="20250627221300 +0800">
 		<title lang="zh">【推荐】雅德荣氨糖软骨素</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250627221300 +0800" stop="20250627235300 +0800">
+		<title lang="zh">街头霸王</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
