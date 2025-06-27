@@ -66693,6 +66693,9 @@
 	<programme channel="纯享4K" start="20250627130100 +0800" stop="20250627130600 +0800">
 		<title lang="zh">美丽中国自然4K 云岭之南系列 大理裂腹鱼</title>
 	</programme>
+	<programme channel="纯享4K" start="20250627131100 +0800" stop="20250627140100 +0800">
+		<title lang="zh">国家公园——万物共生之境4K 第3集 生命交响</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -83916,6 +83919,9 @@
 	<programme channel="newtv超级体育" start="20250627120000 +0800" stop="20250627130500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250627130500 +0800" stop="20250627132800 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -83996,6 +84002,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250627121800 +0800" stop="20250627130200 +0800">
 		<title lang="zh">06_婚内婚外</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250627130200 +0800" stop="20250627134600 +0800">
+		<title lang="zh">07_婚内婚外</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -84135,6 +84144,9 @@
 	<programme channel="newtv古装剧场" start="20250627121700 +0800" stop="20250627130800 +0800">
 		<title lang="zh">36_长歌行</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250627130800 +0800" stop="20250627135400 +0800">
+		<title lang="zh">37_长歌行</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -84227,6 +84239,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250627122300 +0800" stop="20250627131000 +0800">
 		<title lang="zh">28_亲爱的，你在哪里</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250627131000 +0800" stop="20250627135900 +0800">
+		<title lang="zh">雷曼金龙纪念版机械腕表-渠道（右）</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
