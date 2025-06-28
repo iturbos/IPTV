@@ -67284,6 +67284,9 @@
 	<programme channel="纯享4K" start="20250628122100 +0800" stop="20250628130300 +0800">
 		<title lang="zh">远方的家4K 秘境之旅 西北边疆绘生态画卷</title>
 	</programme>
+	<programme channel="纯享4K" start="20250628131400 +0800" stop="20250628140400 +0800">
+		<title lang="zh">国家公园——万物共生之境4K 第4集 回归之路</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -85101,6 +85104,9 @@
 	<programme channel="newtv精品大剧" start="20250628121300 +0800" stop="20250628131400 +0800">
 		<title lang="zh">23_新白蛇传</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250628131400 +0800" stop="20250628135600 +0800">
+		<title lang="zh">24_新白蛇传</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -85193,6 +85199,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250628122200 +0800" stop="20250628131300 +0800">
 		<title lang="zh">40_长歌行</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250628131300 +0800" stop="20250628135900 +0800">
+		<title lang="zh">41_长歌行</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -85533,6 +85542,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250628123200 +0800" stop="20250628130900 +0800">
 		<title lang="zh">17_鹊刀门传奇2</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250628130900 +0800" stop="20250628133600 +0800">
+		<title lang="zh">18_鹊刀门传奇2</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -85613,6 +85625,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250628124600 +0800" stop="20250628131200 +0800">
 		<title lang="zh">强弓长箭 射天狼</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250628131200 +0800" stop="20250628133900 +0800">
+		<title lang="zh">大学里的兵器博物馆</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
