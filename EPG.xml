@@ -38886,6 +38886,12 @@
 	<programme channel="纯享4K" start="20250630023900 +0800" stop="20250630031800 +0800">
 		<title lang="zh">探索b7发现4K 家乡至味2024（17）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250630032800 +0800" stop="20250630033800 +0800">
+		<title lang="zh">秘境之眼4K 世界珍禽朱鹮</title>
+	</programme>
+	<programme channel="纯享4K" start="20250630033800 +0800" stop="20250630042000 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 多彩丽江 田园诗画</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -47940,6 +47946,9 @@
 	<programme channel="newtv超级电影" start="20250630021400 +0800" stop="20250630035100 +0800">
 		<title lang="zh">虎皮枫木</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250630035100 +0800" stop="20250630052500 +0800">
+		<title lang="zh">天净沙</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -47955,6 +47964,9 @@
 	<programme channel="newtv超级电视剧" start="20250630024700 +0800" stop="20250630032900 +0800">
 		<title lang="zh">13_在希望的田野上</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250630032900 +0800" stop="20250630041300 +0800">
+		<title lang="zh">14_在希望的田野上</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -47966,6 +47978,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250630023200 +0800" stop="20250630031700 +0800">
 		<title lang="zh">37_大秦帝国之纵横</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250630031700 +0800" stop="20250630042300 +0800">
+		<title lang="zh">38_大秦帝国之纵横</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -48039,6 +48054,9 @@
 	<programme channel="newtv爱情喜剧" start="20250630021500 +0800" stop="20250630033100 +0800">
 		<title lang="zh">10_玉骨遥</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250630033100 +0800" stop="20250630044700 +0800">
+		<title lang="zh">11_玉骨遥</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -48047,6 +48065,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250630020000 +0800" stop="20250630032400 +0800">
 		<title lang="zh">无名客栈之麒麟觉醒</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250630032400 +0800" stop="20250630050800 +0800">
+		<title lang="zh">侠捕</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -48062,6 +48083,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250630024100 +0800" stop="20250630032900 +0800">
 		<title lang="zh">奥卡万戈三角洲（上）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250630032900 +0800" stop="20250630043600 +0800">
+		<title lang="zh">奥卡万戈三角洲（下）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -48080,6 +48104,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250630025200 +0800" stop="20250630033200 +0800">
 		<title lang="zh">07_御赐小仵作</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250630033200 +0800" stop="20250630040200 +0800">
+		<title lang="zh">黑藤黑根俪缇植物黑发霜</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -48104,6 +48131,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250630012900 +0800" stop="20250630031800 +0800">
 		<title lang="zh">国家宝藏 第四季（20240727）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250630031800 +0800" stop="20250630045100 +0800">
+		<title lang="zh">瞿独伊（20211121）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
