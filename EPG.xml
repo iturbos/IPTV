@@ -27048,6 +27048,9 @@
 	<programme channel="咪咕综合体育" start="20250629123000 +0800" stop="20250629132000 +0800">
 		<title lang="zh">国球荣耀-WTT常规挑战赛斯科普里站 男单决赛 温瑞博-杜达</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250629132000 +0800" stop="20250629132500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -39500,6 +39503,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250629123400 +0800" stop="20250629131200 +0800">
 		<title lang="zh">礼贡堂非遗透骨灸舒筋通络保健膏-周年庆-渠道（右）</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250629131200 +0800" stop="20250629150700 +0800">
+		<title lang="zh">侵占</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -66693,6 +66699,9 @@
 	<programme channel="纯享4K" start="20250629125900 +0800" stop="20250629130400 +0800">
 		<title lang="zh">美丽中国自然4K 云岭之南系列 野生芦荟</title>
 	</programme>
+	<programme channel="纯享4K" start="20250629131500 +0800" stop="20250629132000 +0800">
+		<title lang="zh">如果国宝会说话 第一季4K 龙山蛋壳黑陶杯：0.2毫米的精致</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -84369,6 +84378,9 @@
 	<programme channel="newtv超级电视剧" start="20250629122700 +0800" stop="20250629131100 +0800">
 		<title lang="zh">15_婚内婚外</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250629131100 +0800" stop="20250629135800 +0800">
+		<title lang="zh">18_玫瑰的故事</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -84927,6 +84939,9 @@
 	<programme channel="newtv军事评论" start="20250629124100 +0800" stop="20250629130800 +0800">
 		<title lang="zh">军迷打卡第十五届中国航展 第一集</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250629130800 +0800" stop="20250629133500 +0800">
+		<title lang="zh">军迷打卡第十五届中国航展 第二集</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85050,6 +85065,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250629123400 +0800" stop="20250629131200 +0800">
 		<title lang="zh">礼贡堂非遗透骨灸舒筋通络保健膏-周年庆-渠道（右）</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250629131200 +0800" stop="20250629150700 +0800">
+		<title lang="zh">侵占</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -85085,6 +85103,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250629123200 +0800" stop="20250629131900 +0800">
 		<title lang="zh">美国进口RN鱼油酸神经酸-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250629131900 +0800" stop="20250629145500 +0800">
+		<title lang="zh">经典咏流传b7正青春</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
