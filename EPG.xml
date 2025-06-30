@@ -44232,6 +44232,9 @@
 	<programme channel="纯享4K" start="20250630122300 +0800" stop="20250630130500 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 高原上的“黄河画卷”</title>
 	</programme>
+	<programme channel="纯享4K" start="20250630131500 +0800" stop="20250630132000 +0800">
+		<title lang="zh">如果国宝会说话 第一季4K 陶鹰鼎：一只鹰的新石器时代</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -55011,6 +55014,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250630123400 +0800" stop="20250630131200 +0800">
 		<title lang="zh">28_鹊刀门传奇2</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250630131200 +0800" stop="20250630134600 +0800">
+		<title lang="zh">29_鹊刀门传奇2</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -55092,6 +55098,9 @@
 	<programme channel="newtv军事评论" start="20250630124600 +0800" stop="20250630131300 +0800">
 		<title lang="zh">冰雪激情 白哈巴</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250630131300 +0800" stop="20250630133900 +0800">
+		<title lang="zh">武夷山中的红色秘道</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -55136,6 +55145,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250630114800 +0800" stop="20250630130400 +0800">
 		<title lang="zh">第2期：撒贝宁9岁自导自演整台晚会</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250630130400 +0800" stop="20250630135000 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -55244,6 +55256,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250630122400 +0800" stop="20250630131100 +0800">
 		<title lang="zh">美国进口RN鱼油酸神经酸-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250630131100 +0800" stop="20250630140600 +0800">
+		<title lang="zh">勇者之战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
