@@ -38952,6 +38952,9 @@
 	<programme channel="惊悚悬疑" start="20250701132700 +0800" stop="20250701150800 +0800">
 		<title lang="zh">大漠追凶</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250701150800 +0800" stop="20250701155400 +0800">
+		<title lang="zh">AKG39900西兰花种子水提物固体饮料-周年庆-渠道（右）</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -59922,6 +59925,9 @@
 	<programme channel="爱情喜剧" start="20250701141600 +0800" stop="20250701150500 +0800">
 		<title lang="zh">雷曼金龙纪念版机械腕表-渠道（右）</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250701150500 +0800" stop="20250701155600 +0800">
+		<title lang="zh">27_玫瑰的故事</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -65729,6 +65735,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250701145800 +0800" stop="20250701151300 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 油画b7橄榄球卡迪夫队</title>
+	</programme>
+	<programme channel="纯享4K" start="20250701151300 +0800" stop="20250701154100 +0800">
+		<title lang="zh">好吃客4K 潮州</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -83211,6 +83220,9 @@
 	<programme channel="newtv精品纪录" start="20250701144600 +0800" stop="20250701151100 +0800">
 		<title lang="zh">03_合</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250701151100 +0800" stop="20250701154600 +0800">
+		<title lang="zh">第1集：最初的甘甜</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -83418,6 +83430,9 @@
 	<programme channel="newtv热播精选" start="20250701143100 +0800" stop="20250701151000 +0800">
 		<title lang="zh">艾美特无线折叠空气循环扇-周年庆-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250701151000 +0800" stop="20250701160300 +0800">
+		<title lang="zh">20_黑白密码</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -83459,6 +83474,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250701141600 +0800" stop="20250701150500 +0800">
 		<title lang="zh">雷曼金龙纪念版机械腕表-渠道（右）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250701150500 +0800" stop="20250701155600 +0800">
+		<title lang="zh">27_玫瑰的故事</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -83627,6 +83645,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250701143100 +0800" stop="20250701150200 +0800">
 		<title lang="zh">35_鹊刀门传奇2</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250701150200 +0800" stop="20250701153800 +0800">
+		<title lang="zh">36_鹊刀门传奇2</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -83858,6 +83879,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250701132700 +0800" stop="20250701150800 +0800">
 		<title lang="zh">大漠追凶</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250701150800 +0800" stop="20250701155400 +0800">
+		<title lang="zh">AKG39900西兰花种子水提物固体饮料-周年庆-渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
