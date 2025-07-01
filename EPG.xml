@@ -42609,6 +42609,9 @@
 	<programme channel="明星大片" start="20250701161000 +0800" stop="20250701170000 +0800">
 		<title lang="zh">19_在希望的田野上</title>
 	</programme>
+	<programme channel="明星大片" start="20250701170000 +0800" stop="20250701174300 +0800">
+		<title lang="zh">20_在希望的田野上</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -59955,6 +59958,9 @@
 	<programme channel="爱情喜剧" start="20250701155600 +0800" stop="20250701164300 +0800">
 		<title lang="zh">28_玫瑰的故事</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250701164300 +0800" stop="20250701172200 +0800">
+		<title lang="zh">罗布雍措野藿香藏蜜-通用-渠道（右）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -65771,6 +65777,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250701161000 +0800" stop="20250701164000 +0800">
 		<title lang="zh">记住乡愁4K 第五季 都江堰西街——和为贵</title>
+	</programme>
+	<programme channel="纯享4K" start="20250701164000 +0800" stop="20250701171000 +0800">
+		<title lang="zh">记住乡愁4K 第五季 龙州老街——热血边关 义勇当先</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -83142,6 +83151,9 @@
 	<programme channel="newtv超级电视剧" start="20250701155400 +0800" stop="20250701164000 +0800">
 		<title lang="zh">29_玫瑰的故事</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250701164000 +0800" stop="20250701172600 +0800">
+		<title lang="zh">23_你比星光美丽</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -83204,6 +83216,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250701160200 +0800" stop="20250701164600 +0800">
 		<title lang="zh">49_星汉灿烂b7月升沧海</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250701164600 +0800" stop="20250701173500 +0800">
+		<title lang="zh">雷曼金龙纪念版机械腕表-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -83285,6 +83300,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250701161900 +0800" stop="20250701164800 +0800">
 		<title lang="zh">第3集：生命的滋养</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250701164800 +0800" stop="20250701172600 +0800">
+		<title lang="zh">FRUVGE司美能量态健康组-周年庆-渠道（右）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -83466,6 +83484,9 @@
 	<programme channel="newtv家庭剧场" start="20250701161000 +0800" stop="20250701170100 +0800">
 		<title lang="zh">06_岁岁年年柿柿红</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250701170100 +0800" stop="20250701174700 +0800">
+		<title lang="zh">09_好团圆</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -83564,6 +83585,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250701155600 +0800" stop="20250701164300 +0800">
 		<title lang="zh">28_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250701164300 +0800" stop="20250701172200 +0800">
+		<title lang="zh">罗布雍措野藿香藏蜜-通用-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -83754,6 +83778,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250701161100 +0800" stop="20250701163900 +0800">
 		<title lang="zh">38_鹊刀门传奇2</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250701163900 +0800" stop="20250701171700 +0800">
+		<title lang="zh">礼贡堂非遗透骨灸舒筋通络保健膏-周年庆-渠道（右）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -83858,6 +83885,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250701161100 +0800" stop="20250701163700 +0800">
 		<title lang="zh">国际赛场上的惊险逆转</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250701163700 +0800" stop="20250701170200 +0800">
+		<title lang="zh">聚焦海外维和一线</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -83972,6 +84002,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250701161000 +0800" stop="20250701170000 +0800">
 		<title lang="zh">19_在希望的田野上</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250701170000 +0800" stop="20250701174300 +0800">
+		<title lang="zh">20_在希望的田野上</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -84191,6 +84224,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250701160400 +0800" stop="20250701165500 +0800">
 		<title lang="zh">09_龙汇镖局</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250701165500 +0800" stop="20250701174000 +0800">
+		<title lang="zh">10_龙汇镖局</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
