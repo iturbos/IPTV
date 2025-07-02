@@ -66696,6 +66696,9 @@
 	<programme channel="纯享4K" start="20250702225600 +0800" stop="20250702231100 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 国画b7竹亭对弈图</title>
 	</programme>
+	<programme channel="纯享4K" start="20250702231100 +0800" stop="20250702233800 +0800">
+		<title lang="zh">好吃客4K 长沙</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -84027,6 +84030,9 @@
 	<programme channel="newtv精品纪录" start="20250702225000 +0800" stop="20250702230500 +0800">
 		<title lang="zh">01_赣南今朝</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250702230500 +0800" stop="20250702232000 +0800">
+		<title lang="zh">02_五岭逶迤</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -84953,6 +84959,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250702224900 +0800" stop="20250702231000 +0800">
 		<title lang="zh">臀腿力量训练（20250407）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250702231600 +0800" stop="20250702235000 +0800">
+		<title lang="zh">第1集：煌煌国色</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
