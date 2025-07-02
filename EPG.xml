@@ -60336,6 +60336,9 @@
 	<programme channel="爱情喜剧" start="20250702122600 +0800" stop="20250702131300 +0800">
 		<title lang="zh">30_玫瑰的故事</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250702131300 +0800" stop="20250702140000 +0800">
+		<title lang="zh">31_玫瑰的故事</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -66344,6 +66347,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250702122100 +0800" stop="20250702130300 +0800">
 		<title lang="zh">远方的家4K 秘境之旅 美丽海滨 动物家园</title>
+	</programme>
+	<programme channel="纯享4K" start="20250702131300 +0800" stop="20250702131800 +0800">
+		<title lang="zh">萌兔的奇妙旅程4K 第2集</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -83262,6 +83268,9 @@
 	<programme channel="newtv超级体育" start="20250702120000 +0800" stop="20250702130500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250702130500 +0800" stop="20250702132800 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -83445,6 +83454,9 @@
 	<programme channel="newtv精品纪录" start="20250702124600 +0800" stop="20250702131100 +0800">
 		<title lang="zh">02_原味西藏</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250702131100 +0800" stop="20250702133600 +0800">
+		<title lang="zh">01_丝绸之国</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -83580,6 +83592,9 @@
 	<programme channel="newtv家庭剧场" start="20250702121700 +0800" stop="20250702130200 +0800">
 		<title lang="zh">10_儿女情更长</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250702130200 +0800" stop="20250702134800 +0800">
+		<title lang="zh">AKG39900西兰花种子水提物固体饮料-周年庆-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -83622,6 +83637,9 @@
 	<programme channel="newtv热播精选" start="20250702120200 +0800" stop="20250702131400 +0800">
 		<title lang="zh">白垩纪世界</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250702131400 +0800" stop="20250702135200 +0800">
+		<title lang="zh">23_黑白密码</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -83657,6 +83675,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250702122600 +0800" stop="20250702131300 +0800">
 		<title lang="zh">30_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250702131300 +0800" stop="20250702140000 +0800">
+		<title lang="zh">31_玫瑰的故事</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -83814,6 +83835,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250702122400 +0800" stop="20250702130200 +0800">
 		<title lang="zh">39_鹊刀门传奇2</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250702130200 +0800" stop="20250702134100 +0800">
+		<title lang="zh">艾美特无线折叠空气循环扇-周年庆-渠道（右）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -83903,6 +83927,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250702124000 +0800" stop="20250702130600 +0800">
 		<title lang="zh">春节特别节目 舰艇探奇 走进澳大利亚悉尼国家海事博物馆（20240220）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250702130600 +0800" stop="20250702133300 +0800">
+		<title lang="zh">低空火力倾泻者</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -84050,6 +84077,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250702113900 +0800" stop="20250702131600 +0800">
 		<title lang="zh">乐在旅途 第3季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250702131600 +0800" stop="20250702140300 +0800">
+		<title lang="zh">美国进口RN鱼油酸神经酸-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
