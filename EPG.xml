@@ -43473,6 +43473,9 @@
 	<programme channel="明星大片" start="20250702140700 +0800" stop="20250702144500 +0800">
 		<title lang="zh">礼贡堂东甲陈皮皇-渠道（右）</title>
 	</programme>
+	<programme channel="明星大片" start="20250702144500 +0800" stop="20250702150900 +0800">
+		<title lang="zh">超级巴斯德</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -83523,6 +83526,9 @@
 	<programme channel="newtv精品纪录" start="20250702141500 +0800" stop="20250702143900 +0800">
 		<title lang="zh">02_丝绸之国</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250702143900 +0800" stop="20250702151400 +0800">
+		<title lang="zh">第4集：苍茫天地间</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -83676,6 +83682,9 @@
 	<programme channel="newtv家庭剧场" start="20250702134800 +0800" stop="20250702143400 +0800">
 		<title lang="zh">07_岁岁年年柿柿红</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250702143400 +0800" stop="20250702151900 +0800">
+		<title lang="zh">08_岁岁年年柿柿红</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -83723,6 +83732,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250702135200 +0800" stop="20250702143100 +0800">
 		<title lang="zh">艾美特无线折叠空气循环扇-周年庆-渠道（右）</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250702143100 +0800" stop="20250702154100 +0800">
+		<title lang="zh">24_黑白密码</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -83937,6 +83949,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250702141400 +0800" stop="20250702144400 +0800">
 		<title lang="zh">黑藤黑根俪缇植物黑发霜</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250702144400 +0800" stop="20250702152700 +0800">
+		<title lang="zh">01_扫黑风暴</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -84087,6 +84102,9 @@
 	<programme channel="newtv炫舞未来" start="20250702135700 +0800" stop="20250702144300 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250702144300 +0800" stop="20250702150500 +0800">
+		<title lang="zh">体育是最好的教育（20240826）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -84131,6 +84149,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250702140700 +0800" stop="20250702144500 +0800">
 		<title lang="zh">礼贡堂东甲陈皮皇-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250702144500 +0800" stop="20250702150900 +0800">
+		<title lang="zh">超级巴斯德</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -84233,6 +84254,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250702125900 +0800" stop="20250702144300 +0800">
 		<title lang="zh">2025赛季中超联赛第12轮：长春亚泰VS河南俱乐部</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250702144300 +0800" stop="20250702152100 +0800">
+		<title lang="zh">2025多哈世乒赛混双决赛：吉村真晴/大藤沙月VS王楚钦/孙颖莎</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
