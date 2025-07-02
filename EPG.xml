@@ -43497,6 +43497,9 @@
 	<programme channel="明星大片" start="20250702155600 +0800" stop="20250702164200 +0800">
 		<title lang="zh">22_在希望的田野上</title>
 	</programme>
+	<programme channel="明星大片" start="20250702164200 +0800" stop="20250702172700 +0800">
+		<title lang="zh">23_在希望的田野上</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -66426,6 +66429,9 @@
 	<programme channel="纯享4K" start="20250702160900 +0800" stop="20250702163900 +0800">
 		<title lang="zh">记住乡愁4K 第五季 第三十八集 守望相助西津渡</title>
 	</programme>
+	<programme channel="纯享4K" start="20250702163900 +0800" stop="20250702170900 +0800">
+		<title lang="zh">记住乡愁4K 第五季 第十集 开封书店街——开卷有益 启智明理</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -83682,6 +83688,9 @@
 	<programme channel="newtv古装剧场" start="20250702155400 +0800" stop="20250702164200 +0800">
 		<title lang="zh">20_有翡</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250702164200 +0800" stop="20250702173000 +0800">
+		<title lang="zh">日本跨境Yanagozawa牛黄宝营养素-周年庆-渠道（右）</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -83741,6 +83750,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250702155700 +0800" stop="20250702164300 +0800">
 		<title lang="zh">21_天狼星行动</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250702164300 +0800" stop="20250702172900 +0800">
+		<title lang="zh">24_大汉口</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -84024,6 +84036,9 @@
 	<programme channel="newtv怡伴健康" start="20250702160500 +0800" stop="20250702164300 +0800">
 		<title lang="zh">去伪存真来养生</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250702164300 +0800" stop="20250702171900 +0800">
+		<title lang="zh">山西清徐学栋vs北京东炸团 第4局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -84216,6 +84231,9 @@
 	<programme channel="newtv军事评论" start="20250702161300 +0800" stop="20250702163900 +0800">
 		<title lang="zh">来果月儿圆 共爱一个家</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250702163900 +0800" stop="20250702170400 +0800">
+		<title lang="zh">练为战 第六集 炮兵的荣誉之战</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84327,6 +84345,9 @@
 	<programme channel="newtv精品综合" start="20250702155600 +0800" stop="20250702164200 +0800">
 		<title lang="zh">22_在希望的田野上</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250702164200 +0800" stop="20250702172700 +0800">
+		<title lang="zh">23_在希望的田野上</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -84407,6 +84428,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250702152300 +0800" stop="20250702164900 +0800">
 		<title lang="zh">哈哈哈哈哈第5季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250702164900 +0800" stop="20250702173800 +0800">
+		<title lang="zh">雷曼金龙纪念版机械腕表-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250702152300 +0800" stop="20250702164900 +0800">
+		<title lang="zh">哈哈哈哈哈第5季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250702164900 +0800" stop="20250702173800 +0800">
+		<title lang="zh">雷曼金龙纪念版机械腕表-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -84542,6 +84572,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250702160100 +0800" stop="20250702164600 +0800">
 		<title lang="zh">13_龙汇镖局</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250702164600 +0800" stop="20250702173100 +0800">
+		<title lang="zh">14_龙汇镖局</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
