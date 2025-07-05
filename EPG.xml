@@ -39903,6 +39903,9 @@
 	<programme channel="惊悚悬疑" start="20250705214800 +0800" stop="20250705231400 +0800">
 		<title lang="zh">狙击者</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250705231400 +0800" stop="20250705003200 +0800">
+		<title lang="zh">寄生怪</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -67122,6 +67125,9 @@
 	<programme channel="纯享4K" start="20250705224600 +0800" stop="20250705231500 +0800">
 		<title lang="zh">好吃客4K 昆明</title>
 	</programme>
+	<programme channel="纯享4K" start="20250705231500 +0800" stop="20250705000400 +0800">
+		<title lang="zh">往事如歌4K 第3集</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -84774,6 +84780,9 @@
 	<programme channel="newtv精品大剧" start="20250705222400 +0800" stop="20250705230900 +0800">
 		<title lang="zh">11_棋士</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250705230900 +0800" stop="20250705235500 +0800">
+		<title lang="zh">12_棋士</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -84875,6 +84884,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250705224400 +0800" stop="20250705231500 +0800">
 		<title lang="zh">第7集：麻b7舌尖的颤栗</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250705231500 +0800" stop="20250705234500 +0800">
+		<title lang="zh">第8集：苦b7逆境的回甘</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -85112,6 +85124,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250705222800 +0800" stop="20250705231300 +0800">
 		<title lang="zh">27_好团圆</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250705231300 +0800" stop="20250705235900 +0800">
+		<title lang="zh">28_好团圆</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -85901,6 +85916,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250705214800 +0800" stop="20250705231400 +0800">
 		<title lang="zh">狙击者</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250705231400 +0800" stop="20250705003200 +0800">
+		<title lang="zh">寄生怪</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
