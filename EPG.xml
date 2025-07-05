@@ -27726,6 +27726,9 @@
 	<programme channel="咪咕综合体育" start="20250705132000 +0800" stop="20250705161000 +0800">
 		<title lang="zh">网球世界-2025WTA500柏林站 决赛 王欣瑜-万卓索娃</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250705162000 +0800" stop="20250705180000 +0800">
+		<title lang="zh">足球世界-2025赛季中甲 第12轮 深圳青年人-石家庄功夫</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -27779,6 +27782,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250705143000 +0800" stop="20250705161000 +0800">
 		<title lang="zh">篮球：为爱而生09 湖人铁三角</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250705162000 +0800" stop="20250705174000 +0800">
+		<title lang="zh">2025全运会男篮资格赛 A组第2轮 河南-四川</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -39834,6 +39840,9 @@
 	<programme channel="惊悚悬疑" start="20250705140100 +0800" stop="20250705160600 +0800">
 		<title lang="zh">扫毒3：人在天涯</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250705160600 +0800" stop="20250705164400 +0800">
+		<title lang="zh">礼贡堂东甲陈皮皇-渠道（右）</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -43283,6 +43292,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250705151800 +0800" stop="20250705160500 +0800">
 		<title lang="zh">美国进口RN鱼油酸神经酸-渠道（右）</title>
+	</programme>
+	<programme channel="明星大片" start="20250705160500 +0800" stop="20250705170700 +0800">
+		<title lang="zh">06_六姊妹</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -66960,6 +66972,9 @@
 	<programme channel="纯享4K" start="20250705151400 +0800" stop="20250705160400 +0800">
 		<title lang="zh">往事如歌4K 第3集</title>
 	</programme>
+	<programme channel="纯享4K" start="20250705160400 +0800" stop="20250705163300 +0800">
+		<title lang="zh">记住乡愁4K 第五季 梧州骑楼历史文化街区——握手楼里看中和</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -84291,6 +84306,9 @@
 	<programme channel="newtv超级综艺" start="20250705144300 +0800" stop="20250705161800 +0800">
 		<title lang="zh">非遗里的中国第2季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250705161800 +0800" stop="20250705180700 +0800">
+		<title lang="zh">国家宝藏 第四季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -85092,6 +85110,9 @@
 	<programme channel="newtv军事评论" start="20250705154600 +0800" stop="20250705161300 +0800">
 		<title lang="zh">舰载机的上舰之路</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250705161300 +0800" stop="20250705163900 +0800">
+		<title lang="zh">捣毁“军”字号“特供酒”产业链</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85221,6 +85242,9 @@
 	<programme channel="newtv精品综合" start="20250705151800 +0800" stop="20250705160500 +0800">
 		<title lang="zh">美国进口RN鱼油酸神经酸-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250705160500 +0800" stop="20250705170700 +0800">
+		<title lang="zh">06_六姊妹</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -85256,6 +85280,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250705140100 +0800" stop="20250705160600 +0800">
 		<title lang="zh">扫毒3：人在天涯</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250705160600 +0800" stop="20250705164400 +0800">
+		<title lang="zh">礼贡堂东甲陈皮皇-渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
