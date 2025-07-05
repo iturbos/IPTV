@@ -43353,6 +43353,9 @@
 	<programme channel="明星大片" start="20250705201600 +0800" stop="20250705210400 +0800">
 		<title lang="zh">日本跨境Yanagozawa牛黄宝营养素-周年庆-渠道（右）</title>
 	</programme>
+	<programme channel="明星大片" start="20250705210400 +0800" stop="20250705220700 +0800">
+		<title lang="zh">32_玫瑰的故事</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -61194,6 +61197,9 @@
 	<programme channel="爱情喜剧" start="20250705203400 +0800" stop="20250705210400 +0800">
 		<title lang="zh">《八段锦》推荐第26期</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250705210400 +0800" stop="20250705220800 +0800">
+		<title lang="zh">06_爱的二八定律</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -67070,6 +67076,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250705205700 +0800" stop="20250705210200 +0800">
 		<title lang="zh">美丽中国自然4K 青海山地系列 冲突中的和谐</title>
+	</programme>
+	<programme channel="纯享4K" start="20250705211200 +0800" stop="20250705220100 +0800">
+		<title lang="zh">跟着唐诗去旅行4K 第1集 杜甫 江湖</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -84681,6 +84690,9 @@
 	<programme channel="newtv精品大剧" start="20250705203800 +0800" stop="20250705210800 +0800">
 		<title lang="zh">《美好生活》推荐第三期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250705210800 +0800" stop="20250705215400 +0800">
+		<title lang="zh">10_棋士</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -84987,6 +84999,9 @@
 	<programme channel="newtv家庭剧场" start="20250705202600 +0800" stop="20250705211200 +0800">
 		<title lang="zh">25_好团圆</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250705211200 +0800" stop="20250705214200 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第59期</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -85056,6 +85071,9 @@
 	<programme channel="newtv热播精选" start="20250705203000 +0800" stop="20250705211600 +0800">
 		<title lang="zh">14_我的后半生</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250705211600 +0800" stop="20250705214600 +0800">
+		<title lang="zh">《八段锦》推荐第26期</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -85115,6 +85133,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250705203400 +0800" stop="20250705210400 +0800">
 		<title lang="zh">《八段锦》推荐第26期</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250705210400 +0800" stop="20250705220800 +0800">
+		<title lang="zh">06_爱的二八定律</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -85482,6 +85503,9 @@
 	<programme channel="newtv军事评论" start="20250705205000 +0800" stop="20250705211600 +0800">
 		<title lang="zh">俄军首次使用苏-34发射“匕首”导弹 美军侦察机在南海抵近侦</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250705211600 +0800" stop="20250705214100 +0800">
+		<title lang="zh">俄国防部：乌军打击“土耳其溪” 以色列与哈马斯达成加沙停火协议</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85578,6 +85602,9 @@
 	<programme channel="newtv炫舞未来" start="20250705195700 +0800" stop="20250705211400 +0800">
 		<title lang="zh">从海归精英变鸭厂厂花 梦想带着甜皮鸭走出全国（20240923）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250705211400 +0800" stop="20250705220300 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -85646,6 +85673,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250705201600 +0800" stop="20250705210400 +0800">
 		<title lang="zh">日本跨境Yanagozawa牛黄宝营养素-周年庆-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250705210400 +0800" stop="20250705220700 +0800">
+		<title lang="zh">32_玫瑰的故事</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
