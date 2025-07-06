@@ -67432,6 +67432,9 @@
 	<programme channel="纯享4K" start="20250706210100 +0800" stop="20250706210700 +0800">
 		<title lang="zh">美丽中国自然4K 青海山地系列 生命之巅</title>
 	</programme>
+	<programme channel="纯享4K" start="20250706211100 +0800" stop="20250706220000 +0800">
+		<title lang="zh">跟着唐诗去旅行4K 第2集 孟浩然 故人</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -85300,6 +85303,9 @@
 	<programme channel="newtv精品大剧" start="20250706204200 +0800" stop="20250706211200 +0800">
 		<title lang="zh">《八段锦》推荐第26期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250706211200 +0800" stop="20250706215700 +0800">
+		<title lang="zh">14_棋士</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -85588,6 +85594,9 @@
 	<programme channel="newtv家庭剧场" start="20250706202900 +0800" stop="20250706211400 +0800">
 		<title lang="zh">29_好团圆</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250706211400 +0800" stop="20250706214400 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第60期</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -85656,6 +85665,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250706201900 +0800" stop="20250706210500 +0800">
 		<title lang="zh">17_我的后半生</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250706210500 +0800" stop="20250706213500 +0800">
+		<title lang="zh">《八段锦》推荐第26期</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -85953,6 +85965,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250706204100 +0800" stop="20250706211100 +0800">
 		<title lang="zh">《时尚小咖秀》推荐第60期</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250706211100 +0800" stop="20250706215700 +0800">
+		<title lang="zh">08_天龙八部</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
