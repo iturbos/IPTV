@@ -27462,6 +27462,9 @@
 	<programme channel="咪咕足球" start="20250708143500 +0800" stop="20250708160500 +0800">
 		<title lang="zh">2025全运会男篮资格赛 A组第1轮 山东-新疆</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250708161000 +0800" stop="20250708175000 +0800">
+		<title lang="zh">当燃CBA-24/25季后赛12进8淘汰赛G1 山东高速-北京控股</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -39678,6 +39681,9 @@
 	<programme channel="惊悚悬疑" start="20250708143800 +0800" stop="20250708160200 +0800">
 		<title lang="zh">法医秦明之致命小说</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250708160200 +0800" stop="20250708164000 +0800">
+		<title lang="zh">礼贡堂东甲陈皮皇-渠道（右）</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -43247,6 +43253,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250708152200 +0800" stop="20250708160900 +0800">
 		<title lang="zh">美国进口RN鱼油酸神经酸-渠道（右）</title>
+	</programme>
+	<programme channel="明星大片" start="20250708160900 +0800" stop="20250708172500 +0800">
+		<title lang="zh">12_六姊妹</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -60251,6 +60260,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20250708151100 +0800" stop="20250708161300 +0800">
 		<title lang="zh">22_你比星光美丽</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20250708161300 +0800" stop="20250708165800 +0800">
+		<title lang="zh">23_你比星光美丽</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -82455,6 +82467,9 @@
 	<programme channel="黑莓动画" start="20250708144600 +0800" stop="20250708160400 +0800">
 		<title lang="zh">哪吒之灵珠重生</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250708160400 +0800" stop="20250708172800 +0800">
+		<title lang="zh">淘气包马小跳</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83661,6 +83676,9 @@
 	<programme channel="newtv精品纪录" start="20250708153100 +0800" stop="20250708161600 +0800">
 		<title lang="zh">古蜀记b7悠悠宝墩（20230611）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250708161600 +0800" stop="20250708170600 +0800">
+		<title lang="zh">第3集：酱料四海谈</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -83759,6 +83777,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250708151300 +0800" stop="20250708161500 +0800">
 		<title lang="zh">30_中国骑兵</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250708161500 +0800" stop="20250708171700 +0800">
+		<title lang="zh">39_天狼星行动</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -83903,6 +83924,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250708151100 +0800" stop="20250708161300 +0800">
 		<title lang="zh">22_你比星光美丽</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250708161300 +0800" stop="20250708165800 +0800">
+		<title lang="zh">23_你比星光美丽</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -84069,6 +84093,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250708151800 +0800" stop="20250708160200 +0800">
 		<title lang="zh">26_扫黑风暴</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250708160200 +0800" stop="20250708163200 +0800">
+		<title lang="zh">龙血树叶粉</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -84170,6 +84197,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250708154800 +0800" stop="20250708161400 +0800">
 		<title lang="zh">老兵的心愿 2024退伍季 难舍天马的故乡</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250708161400 +0800" stop="20250708163900 +0800">
+		<title lang="zh">赤子之心耀香江 我在香港上军舰</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -84300,6 +84330,9 @@
 	<programme channel="newtv精品综合" start="20250708152200 +0800" stop="20250708160900 +0800">
 		<title lang="zh">美国进口RN鱼油酸神经酸-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250708160900 +0800" stop="20250708172500 +0800">
+		<title lang="zh">12_六姊妹</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -84335,6 +84368,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250708143800 +0800" stop="20250708160200 +0800">
 		<title lang="zh">法医秦明之致命小说</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250708160200 +0800" stop="20250708164000 +0800">
+		<title lang="zh">礼贡堂东甲陈皮皇-渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
