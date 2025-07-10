@@ -16674,6 +16674,9 @@
 	<programme channel="咪咕综合体育" start="20250711024000 +0800" stop="20250711042000 +0800">
 		<title lang="zh">足球世界-2025国际足联世俱杯 A组第3轮 迈阿密国际-帕尔梅拉斯</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250711042000 +0800" stop="20250711044500 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16688,6 +16691,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250711032000 +0800" stop="20250711042000 +0800">
 		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250711042000 +0800" stop="20250711042500 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -49890,6 +49896,9 @@
 	<programme channel="newtv超级电视剧" start="20250711033600 +0800" stop="20250711042100 +0800">
 		<title lang="zh">13_一代枭雄</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250711042100 +0800" stop="20250711050300 +0800">
+		<title lang="zh">09_跨过鸭绿江</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -49904,6 +49913,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250711025900 +0800" stop="20250711041400 +0800">
 		<title lang="zh">31_驻站</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250711041400 +0800" stop="20250711045900 +0800">
+		<title lang="zh">38_我的绝密生涯</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -49928,6 +49940,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250711025900 +0800" stop="20250711041400 +0800">
 		<title lang="zh">19_且试天下</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250711041400 +0800" stop="20250711052700 +0800">
+		<title lang="zh">20_且试天下</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -49991,6 +50006,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250711022100 +0800" stop="20250711040800 +0800">
 		<title lang="zh">血战狙击岭</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250711040800 +0800" stop="20250711060000 +0800">
+		<title lang="zh">人口交易</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
