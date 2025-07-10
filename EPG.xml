@@ -44082,6 +44082,9 @@
 	<programme channel="明星大片" start="20250710211700 +0800" stop="20250710220200 +0800">
 		<title lang="zh">06_向幸福出发</title>
 	</programme>
+	<programme channel="明星大片" start="20250710220200 +0800" stop="20250710224700 +0800">
+		<title lang="zh">07_向幸福出发</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -67881,6 +67884,9 @@
 	<programme channel="纯享4K" start="20250710211900 +0800" stop="20250710220800 +0800">
 		<title lang="zh">跟着唐诗去旅行 第二季4K 第1集 石鼓歌</title>
 	</programme>
+	<programme channel="纯享4K" start="20250710220800 +0800" stop="20250710222300 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 油画b7在布洛涅森林骑行</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -86343,6 +86349,9 @@
 	<programme channel="newtv军旅剧场" start="20250710213700 +0800" stop="20250710220700 +0800">
 		<title lang="zh">《美丽密码》推荐第100期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250710220700 +0800" stop="20250710231000 +0800">
+		<title lang="zh">19_女特警</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -86814,6 +86823,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250710214300 +0800" stop="20250710221300 +0800">
 		<title lang="zh">《美丽密码》推荐第100期</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250710221300 +0800" stop="20250710225800 +0800">
+		<title lang="zh">24_天龙八部</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -86954,6 +86966,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250710214200 +0800" stop="20250710220700 +0800">
 		<title lang="zh">美将解冻8.7亿美元“对台军援” 美乌领导人爆发激烈争吵</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250710220700 +0800" stop="20250710223300 +0800">
+		<title lang="zh">激烈争吵！美乌会谈不欢而散 特朗普称或无法促成俄乌停战</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -87117,6 +87132,9 @@
 	<programme channel="newtv精品综合" start="20250710211700 +0800" stop="20250710220200 +0800">
 		<title lang="zh">06_向幸福出发</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250710220200 +0800" stop="20250710224700 +0800">
+		<title lang="zh">07_向幸福出发</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -87227,6 +87245,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250710212600 +0800" stop="20250710220500 +0800">
 		<title lang="zh">边疆骆驼有机纯驼乳粉-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250710220500 +0800" stop="20250710235300 +0800">
+		<title lang="zh">心动的信号第7季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
