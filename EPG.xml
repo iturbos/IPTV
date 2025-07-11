@@ -40368,6 +40368,9 @@
 	<programme channel="惊悚悬疑" start="20250711214400 +0800" stop="20250711231200 +0800">
 		<title lang="zh">鲨卷风5：全球鲨暴</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250711231200 +0800" stop="20250711001600 +0800">
+		<title lang="zh">狄仁杰之九层妖楼</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -71727,6 +71730,9 @@
 	<programme channel="超级电影" start="20250711213000 +0800" stop="20250711231100 +0800">
 		<title lang="zh">电影《突袭》</title>
 	</programme>
+	<programme channel="超级电影" start="20250711231100 +0800" stop="20250711003900 +0800">
+		<title lang="zh">电影《夺命三头鲨》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -84420,6 +84426,9 @@
 	<programme channel="newtv超级体育" start="20250711230000 +0800" stop="20250711232000 +0800">
 		<title lang="zh">体育世界</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250711232000 +0800" stop="20250711020500 +0800">
+		<title lang="zh">2025年温布尔登网球赛-男单半决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -84470,6 +84479,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250711213000 +0800" stop="20250711231100 +0800">
 		<title lang="zh">电影《突袭》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250711231100 +0800" stop="20250711003900 +0800">
+		<title lang="zh">电影《夺命三头鲨》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -84737,6 +84749,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250711225300 +0800" stop="20250711231300 +0800">
 		<title lang="zh">03_荣光照耀新征程</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250711231300 +0800" stop="20250711233300 +0800">
+		<title lang="zh">04_步调一致向前进</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -85638,6 +85653,9 @@
 	<programme channel="newtv炫舞未来" start="20250711225200 +0800" stop="20250711231400 +0800">
 		<title lang="zh">特色武术操（20240603）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250711231400 +0800" stop="20250711234400 +0800">
+		<title lang="zh">网红女主播情陷假“富豪”</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -85769,6 +85787,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250711214400 +0800" stop="20250711231200 +0800">
 		<title lang="zh">鲨卷风5：全球鲨暴</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250711231200 +0800" stop="20250711001600 +0800">
+		<title lang="zh">狄仁杰之九层妖楼</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
