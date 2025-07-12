@@ -61272,6 +61272,9 @@
 	<programme channel="爱情喜剧" start="20250712221400 +0800" stop="20250712230200 +0800">
 		<title lang="zh">38_爱的二八定律</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250712230200 +0800" stop="20250712234700 +0800">
+		<title lang="zh">光盾半导体激光治疗仪-渠道（右）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -67190,6 +67193,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250712222200 +0800" stop="20250712231200 +0800">
 		<title lang="zh">我们的征途4K 第3集</title>
+	</programme>
+	<programme channel="纯享4K" start="20250712231600 +0800" stop="20250712000600 +0800">
+		<title lang="zh">曹雪芹与红楼梦4K 第5集 凡鸟偏从末世来</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -84084,6 +84090,9 @@
 	<programme channel="黑莓动画" start="20250712214000 +0800" stop="20250712230900 +0800">
 		<title lang="zh">海绵宝宝：水兵陆战队</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250712230900 +0800" stop="20250712003500 +0800">
+		<title lang="zh">汪汪队立大功大电影（普通话版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -85473,6 +85482,9 @@
 	<programme channel="newtv精品纪录" start="20250712223800 +0800" stop="20250712230400 +0800">
 		<title lang="zh">隔江对垒</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250712230400 +0800" stop="20250712233100 +0800">
+		<title lang="zh">先遣侦察</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -85719,6 +85731,9 @@
 	<programme channel="newtv家庭剧场" start="20250712222100 +0800" stop="20250712230600 +0800">
 		<title lang="zh">58_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250712230600 +0800" stop="20250712235100 +0800">
+		<title lang="zh">59_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -85859,6 +85874,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250712221400 +0800" stop="20250712230200 +0800">
 		<title lang="zh">38_爱的二八定律</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250712230200 +0800" stop="20250712234700 +0800">
+		<title lang="zh">光盾半导体激光治疗仪-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -86003,6 +86021,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250712224000 +0800" stop="20250712231000 +0800">
 		<title lang="zh">《美丽密码》推荐第102期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250712231000 +0800" stop="20250712235300 +0800">
+		<title lang="zh">北京龙腾四海vs北京源莱慧精英 第3局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
