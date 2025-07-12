@@ -27858,6 +27858,9 @@
 	<programme channel="咪咕足球" start="20250712160000 +0800" stop="20250712161000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250712161000 +0800" stop="20250712175000 +0800">
+		<title lang="zh">当燃CBA-24/25季后赛12进8淘汰赛G2 上海久事-广东东阳光</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -66945,6 +66948,9 @@
 	<programme channel="纯享4K" start="20250712152000 +0800" stop="20250712161000 +0800">
 		<title lang="zh">曹雪芹与红楼梦4K 第5集 凡鸟偏从末世来</title>
 	</programme>
+	<programme channel="纯享4K" start="20250712161000 +0800" stop="20250712164000 +0800">
+		<title lang="zh">记住乡愁4K 第五季 沙溪寺登街 —— 茶马古集市 和合天地美</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -84966,6 +84972,9 @@
 	<programme channel="newtv精品大剧" start="20250712152600 +0800" stop="20250712160900 +0800">
 		<title lang="zh">48_红高粱</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250712160900 +0800" stop="20250712161900 +0800">
+		<title lang="zh">黑藤黑根俪缇植物黑发霜</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -85016,6 +85025,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250712153200 +0800" stop="20250712160200 +0800">
 		<title lang="zh">玉石记b7玉耀古国（20230711）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250712161300 +0800" stop="20250712162500 +0800">
+		<title lang="zh">第2集：沧海一鲜 b7 福建东山海鲜</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -85362,6 +85374,9 @@
 	<programme channel="newtv怡伴健康" start="20250712154500 +0800" stop="20250712161200 +0800">
 		<title lang="zh">酒后的冲动</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250712161200 +0800" stop="20250712165100 +0800">
+		<title lang="zh">调理脏腑有门道（下）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -85533,6 +85548,9 @@
 	<programme channel="newtv军事评论" start="20250712154400 +0800" stop="20250712161100 +0800">
 		<title lang="zh">云台山里的兵工传奇</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250712161100 +0800" stop="20250712163600 +0800">
+		<title lang="zh">深海潜航的无声较量</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85610,6 +85628,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250712151400 +0800" stop="20250712160200 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250712160200 +0800" stop="20250712171800 +0800">
+		<title lang="zh">“跑酷”男孩飞檐走壁惊呆众人 现场挑战空翻过七人（20250131）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
