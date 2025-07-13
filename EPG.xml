@@ -26844,6 +26844,9 @@
 	<programme channel="咪咕综合体育" start="20250713214000 +0800" stop="20250713232000 +0800">
 		<title lang="zh">足球世界-2025国际足联世俱杯 1/4决赛 皇家马德里-多特蒙德</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250713232000 +0800" stop="20250713235000 +0800">
+		<title lang="zh">世俱杯精华</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -59559,6 +59562,9 @@
 	<programme channel="爱情喜剧" start="20250713221800 +0800" stop="20250713230400 +0800">
 		<title lang="zh">02_柳舟记</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250713230400 +0800" stop="20250713234900 +0800">
+		<title lang="zh">光盾半导体激光治疗仪-渠道（右）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -65474,6 +65480,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250713222000 +0800" stop="20250713231000 +0800">
 		<title lang="zh">曹雪芹与红楼梦4K 第6集 清砧怨笛送黄昏</title>
+	</programme>
+	<programme channel="纯享4K" start="20250713231000 +0800" stop="20250713233800 +0800">
+		<title lang="zh">好吃客4K 北京胡同</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -83439,6 +83448,9 @@
 	<programme channel="newtv精品大剧" start="20250713221900 +0800" stop="20250713230600 +0800">
 		<title lang="zh">11_三十而已</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250713230600 +0800" stop="20250713235400 +0800">
+		<title lang="zh">12_三十而已</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -83552,6 +83564,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250713223700 +0800" stop="20250713230400 +0800">
 		<title lang="zh">风云即起</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250713230400 +0800" stop="20250713233000 +0800">
+		<title lang="zh">运筹帷幄</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -83928,6 +83943,9 @@
 	<programme channel="newtv爱情喜剧" start="20250713221800 +0800" stop="20250713230400 +0800">
 		<title lang="zh">02_柳舟记</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250713230400 +0800" stop="20250713234900 +0800">
+		<title lang="zh">光盾半导体激光治疗仪-渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -84176,6 +84194,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250713222500 +0800" stop="20250713230400 +0800">
 		<title lang="zh">黑藤黑根俪缇植物黑发霜</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250713230400 +0800" stop="20250713003500 +0800">
+		<title lang="zh">京城81号</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -84434,6 +84455,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250713222700 +0800" stop="20250713231200 +0800">
 		<title lang="zh">第6集：地气</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250713231200 +0800" stop="20250713002600 +0800">
+		<title lang="zh">第3期：撒贝宁说粤语看呆岳云鹏</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
