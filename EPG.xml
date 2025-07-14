@@ -41055,6 +41055,9 @@
 	<programme channel="明星大片" start="20250714145000 +0800" stop="20250714151400 +0800">
 		<title lang="zh">12_樱桃小丸子 第二季</title>
 	</programme>
+	<programme channel="明星大片" start="20250714151400 +0800" stop="20250714160200 +0800">
+		<title lang="zh">英国奥戈那负离子空气循环扇-渠道（右）</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -63423,6 +63426,9 @@
 	<programme channel="纯享4K" start="20250714150100 +0800" stop="20250714150600 +0800">
 		<title lang="zh">中国微名片b7世界遗产4K 第7集 红河哈尼梯田文化景观</title>
 	</programme>
+	<programme channel="纯享4K" start="20250714151100 +0800" stop="20250714153700 +0800">
+		<title lang="zh">好吃客4K 京城洋厨房</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -78291,6 +78297,9 @@
 	<programme channel="黑莓电影" start="20250714133300 +0800" stop="20250714151000 +0800">
 		<title lang="zh">丢羊</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250714151000 +0800" stop="20250714164200 +0800">
+		<title lang="zh">侠路相逢</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -79347,6 +79356,9 @@
 	<programme channel="newtv精品纪录" start="20250714143400 +0800" stop="20250714150400 +0800">
 		<title lang="zh">稻谷记b7一望万年（20230814）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250714150400 +0800" stop="20250714153400 +0800">
+		<title lang="zh">稻谷记b7晨曦寻稻（20230815）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -79839,6 +79851,9 @@
 	<programme channel="newtv军事评论" start="20250714143800 +0800" stop="20250714150400 +0800">
 		<title lang="zh">冰雪激情 白哈巴</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250714150400 +0800" stop="20250714153100 +0800">
+		<title lang="zh">武夷山中的红色秘道</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -79914,6 +79929,9 @@
 	<programme channel="newtv炫舞未来" start="20250714150100 +0800" stop="20250714151600 +0800">
 		<title lang="zh">01_南下干部</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250714151600 +0800" stop="20250714153000 +0800">
+		<title lang="zh">03_县委书记</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -79958,6 +79976,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250714145000 +0800" stop="20250714151400 +0800">
 		<title lang="zh">12_樱桃小丸子 第二季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250714151400 +0800" stop="20250714160200 +0800">
+		<title lang="zh">英国奥戈那负离子空气循环扇-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
