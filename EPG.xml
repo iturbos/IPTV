@@ -40449,6 +40449,9 @@
 	<programme channel="纯享4K" start="20250715045700 +0800" stop="20250715050200 +0800">
 		<title lang="zh">美丽中国自然4K 粤北林语系列 黄腹角雉</title>
 	</programme>
+	<programme channel="纯享4K" start="20250715050900 +0800" stop="20250715055900 +0800">
+		<title lang="zh">跟着唐诗去旅行 第二季4K 第5集 双星会</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51240,6 +51243,9 @@
 	<programme channel="newtv超级电影" start="20250715033400 +0800" stop="20250715050500 +0800">
 		<title lang="zh">橙味爱情</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250715050500 +0800" stop="20250715062400 +0800">
+		<title lang="zh">神秘谷</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -51264,6 +51270,9 @@
 	<programme channel="newtv超级电视剧" start="20250715042900 +0800" stop="20250715051100 +0800">
 		<title lang="zh">26_跨过鸭绿江</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250715051100 +0800" stop="20250715055200 +0800">
+		<title lang="zh">27_跨过鸭绿江</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -51281,6 +51290,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250715042300 +0800" stop="20250715050800 +0800">
 		<title lang="zh">16_旗袍美探</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250715050800 +0800" stop="20250715062300 +0800">
+		<title lang="zh">17_旗袍美探</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -51321,6 +51333,9 @@
 	<programme channel="newtv古装剧场" start="20250715040000 +0800" stop="20250715051400 +0800">
 		<title lang="zh">36_且试天下</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250715051400 +0800" stop="20250715062800 +0800">
+		<title lang="zh">05_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -51335,6 +51350,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250715035600 +0800" stop="20250715051100 +0800">
 		<title lang="zh">10_大漠苍狼</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250715051100 +0800" stop="20250715063600 +0800">
+		<title lang="zh">11_大漠苍狼</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -51353,6 +51371,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250715042400 +0800" stop="20250715051000 +0800">
 		<title lang="zh">13_非常有喜</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250715051000 +0800" stop="20250715062700 +0800">
+		<title lang="zh">14_非常有喜</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -51444,6 +51465,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250715041000 +0800" stop="20250715051200 +0800">
 		<title lang="zh">33_大秦赋</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250715051200 +0800" stop="20250715055100 +0800">
+		<title lang="zh">趣味运动保健康</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -51461,6 +51485,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250715044500 +0800" stop="20250715050700 +0800">
 		<title lang="zh">营地炊烟（16）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250715050700 +0800" stop="20250715052700 +0800">
+		<title lang="zh">高原之巅的忠诚（三）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -51506,6 +51533,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250715035900 +0800" stop="20250715051000 +0800">
 		<title lang="zh">最后的武林2铁砂掌</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250715051000 +0800" stop="20250715063300 +0800">
+		<title lang="zh">巨蟒1</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
