@@ -19872,6 +19872,9 @@
 	<programme channel="动作电影" start="20250714204800 +0800" stop="20250714211800 +0800">
 		<title lang="zh">《八段锦》推荐第26期</title>
 	</programme>
+	<programme channel="动作电影" start="20250714211800 +0800" stop="20250714233300 +0800">
+		<title lang="zh">异人之下</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -26072,6 +26075,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250714192000 +0800" stop="20250714214000 +0800">
 		<title lang="zh">2025NBL 常规赛第6轮 广西威壮-湖北文旅 直播</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250714214000 +0800" stop="20250714215500 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -79368,6 +79374,9 @@
 	<programme channel="newtv超级体育" start="20250714193000 +0800" stop="20250714213000 +0800">
 		<title lang="zh">2025年女篮亚洲杯-小组赛 B组(菲律宾队-日本队)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250714213000 +0800" stop="20250714223500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -79578,6 +79587,9 @@
 	<programme channel="newtv精品大剧" start="20250714204400 +0800" stop="20250714213000 +0800">
 		<title lang="zh">24_清平乐[DVD版]</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250714213000 +0800" stop="20250714220000 +0800">
+		<title lang="zh">《八段锦》推荐第26期</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -79761,6 +79773,9 @@
 	<programme channel="newtv古装剧场" start="20250714202800 +0800" stop="20250714211900 +0800">
 		<title lang="zh">43_星汉灿烂b7月升沧海</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250714211900 +0800" stop="20250714214900 +0800">
+		<title lang="zh">《八段锦》推荐第26期</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -79908,6 +79923,9 @@
 	<programme channel="newtv家庭剧场" start="20250714211200 +0800" stop="20250714214100 +0800">
 		<title lang="zh">《八段锦》推荐第26期</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250714214100 +0800" stop="20250714221000 +0800">
+		<title lang="zh">28_多彩庄家院第二季</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -79979,6 +79997,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250714204900 +0800" stop="20250714211900 +0800">
 		<title lang="zh">《八段锦》推荐第26期</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250714211900 +0800" stop="20250714220800 +0800">
+		<title lang="zh">10_爱的二八定律</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -80088,6 +80109,9 @@
 	<programme channel="newtv动作电影" start="20250714204800 +0800" stop="20250714211800 +0800">
 		<title lang="zh">《八段锦》推荐第26期</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250714211800 +0800" stop="20250714233300 +0800">
+		<title lang="zh">异人之下</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -80184,6 +80208,9 @@
 	<programme channel="newtv怡伴健康" start="20250714210100 +0800" stop="20250714212900 +0800">
 		<title lang="zh">福建梦幻vs重庆地主爱好者 第4局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250714212900 +0800" stop="20250714220600 +0800">
+		<title lang="zh">福建梦幻vs重庆地主爱好者 第5局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -80270,6 +80297,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250714203400 +0800" stop="20250714211900 +0800">
 		<title lang="zh">35_天龙八部</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250714211900 +0800" stop="20250714214900 +0800">
+		<title lang="zh">《八段锦》推荐第26期</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -80411,6 +80441,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250714210200 +0800" stop="20250714212600 +0800">
 		<title lang="zh">山东舰航母编队位台岛以东海空域演练 “台独”挑衅一日不止</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250714212600 +0800" stop="20250714215200 +0800">
+		<title lang="zh">美拟在澳部署“堤丰”导弹系统 俄或再用“榛树”打击乌本土</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -80697,6 +80730,15 @@
 	<programme channel="newtv金牌综艺" start="20250714195700 +0800" stop="20250714213200 +0800">
 		<title lang="zh">心动的信号第7季</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250714213200 +0800" stop="20250714221200 +0800">
+		<title lang="zh">黑藤黑根俪缇植物黑发霜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250714195700 +0800" stop="20250714213200 +0800">
+		<title lang="zh">心动的信号第7季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250714213200 +0800" stop="20250714221200 +0800">
+		<title lang="zh">黑藤黑根俪缇植物黑发霜</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -80852,6 +80894,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250714205200 +0800" stop="20250714213900 +0800">
 		<title lang="zh">05_燕云台</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250714213900 +0800" stop="20250714220900 +0800">
+		<title lang="zh">《八段锦》推荐第26期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
