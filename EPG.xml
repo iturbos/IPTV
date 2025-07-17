@@ -61281,6 +61281,9 @@
 	<programme channel="爱情喜剧" start="20250717215600 +0800" stop="20250717231200 +0800">
 		<title lang="zh">20_柳舟记</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250717231200 +0800" stop="20250717235800 +0800">
+		<title lang="zh">21_柳舟记</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -67292,6 +67295,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250717224700 +0800" stop="20250717231500 +0800">
 		<title lang="zh">好吃客4K 西安</title>
+	</programme>
+	<programme channel="纯享4K" start="20250717231500 +0800" stop="20250717234300 +0800">
+		<title lang="zh">好吃客4K 大同</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -83838,6 +83844,9 @@
 	<programme channel="黑莓动画" start="20250717214100 +0800" stop="20250717230900 +0800">
 		<title lang="zh">太空勇狗队</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250717230900 +0800" stop="20250717003500 +0800">
+		<title lang="zh">汪汪队立大功大电影（普通话版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -85125,6 +85134,9 @@
 	<programme channel="newtv精品大剧" start="20250717221700 +0800" stop="20250717230200 +0800">
 		<title lang="zh">37_清平乐[DVD版]</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250717230200 +0800" stop="20250717234900 +0800">
+		<title lang="zh">21_三十而已</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -85301,6 +85313,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250717221400 +0800" stop="20250717231500 +0800">
 		<title lang="zh">23_梦华录</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250717231500 +0800" stop="20250717000000 +0800">
+		<title lang="zh">24_梦华录</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -85613,6 +85628,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250717215600 +0800" stop="20250717231200 +0800">
 		<title lang="zh">20_柳舟记</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250717231200 +0800" stop="20250717235800 +0800">
+		<title lang="zh">21_柳舟记</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -86031,6 +86049,9 @@
 	<programme channel="newtv军事评论" start="20250717224600 +0800" stop="20250717231200 +0800">
 		<title lang="zh">美乌总统举行简短会晤讨论无条件停火 印巴在克什米尔地区小规模交火</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250717231200 +0800" stop="20250717233700 +0800">
+		<title lang="zh">以军或扩大加沙军事行动 美最新武器或落入胡塞之手 朝鲜新型驱逐舰下水</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -86135,6 +86156,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250717224700 +0800" stop="20250717230600 +0800">
 		<title lang="zh">算你狠-毕刚</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250717230600 +0800" stop="20250717003200 +0800">
+		<title lang="zh">第9期：陈赫范志毅美食三连胜，杨迪厚脸皮蹭饭</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
