@@ -27759,6 +27759,9 @@
 	<programme channel="咪咕综合体育" start="20250718193000 +0800" stop="20250718221000 +0800">
 		<title lang="zh">中超来噜-2025赛季中超 第17轮 浙江俱乐部绿城-云南玉昆 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250718222000 +0800" stop="20250718000000 +0800">
+		<title lang="zh">足球世界-2025国际足联世俱杯 1/4决赛 皇家马德里-多特蒙德</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -85443,6 +85446,9 @@
 	<programme channel="newtv精品大剧" start="20250718213400 +0800" stop="20250718220400 +0800">
 		<title lang="zh">《八段锦》推荐第26期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250718220400 +0800" stop="20250718224900 +0800">
+		<title lang="zh">41_清平乐[DVD版]</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -86061,6 +86067,9 @@
 	<programme channel="newtv怡伴健康" start="20250718213400 +0800" stop="20250718220500 +0800">
 		<title lang="zh">山东好哥哥vs安徽青竹居 第3局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250718220500 +0800" stop="20250718223500 +0800">
+		<title lang="zh">《八段锦》推荐第26期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -86307,6 +86316,9 @@
 	<programme channel="newtv军事评论" start="20250718214400 +0800" stop="20250718221000 +0800">
 		<title lang="zh">三人角逐 赖清德侥胜</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250718221000 +0800" stop="20250718223500 +0800">
+		<title lang="zh">拜登不支持“台独” 再次敲打赖清德</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -86396,6 +86408,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250718205800 +0800" stop="20250718221500 +0800">
 		<title lang="zh">架子鼓老师用鼓槌点亮星空 星光小课堂开课戏曲动作（20250628）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250718221500 +0800" stop="20250718230300 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
