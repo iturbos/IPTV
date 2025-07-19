@@ -27336,6 +27336,9 @@
 	<programme channel="咪咕足球" start="20250719114000 +0800" stop="20250719131500 +0800">
 		<title lang="zh">我爱女篮-24/25WCBA季后赛16进8第1轮 福建晋江众腾-上海浦发银行</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250719132000 +0800" stop="20250719132500 +0800">
+		<title lang="zh">睛彩AI速报</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -65598,6 +65601,9 @@
 	<programme channel="纯享4K" start="20250719122100 +0800" stop="20250719130300 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 黄河之水天际流</title>
 	</programme>
+	<programme channel="纯享4K" start="20250719131400 +0800" stop="20250719132400 +0800">
+		<title lang="zh">秘境之眼4K 飞鸟家园</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -70913,6 +70919,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250719113400 +0800" stop="20250719131200 +0800">
 		<title lang="zh">刑警荣誉</title>
+	</programme>
+	<programme channel="超级电影" start="20250719131200 +0800" stop="20250719143900 +0800">
+		<title lang="zh">电影《囧途夺宝》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -83079,6 +83088,9 @@
 	<programme channel="newtv超级体育" start="20250719120000 +0800" stop="20250719130500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250719130500 +0800" stop="20250719132800 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -83108,6 +83120,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250719113400 +0800" stop="20250719131200 +0800">
 		<title lang="zh">刑警荣誉</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250719131200 +0800" stop="20250719143900 +0800">
+		<title lang="zh">电影《囧途夺宝》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -83165,6 +83180,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250719123400 +0800" stop="20250719132000 +0800">
 		<title lang="zh">42_安家</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250719132000 +0800" stop="20250719140700 +0800">
+		<title lang="zh">21_九重紫</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -83264,6 +83282,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250719124900 +0800" stop="20250719131400 +0800">
 		<title lang="zh">04_巴斯德喊你回家打疫苗</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250719131400 +0800" stop="20250719134400 +0800">
+		<title lang="zh">河洛记b7何以为中（20231113）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
