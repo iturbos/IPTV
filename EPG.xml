@@ -65976,6 +65976,9 @@
 	<programme channel="纯享4K" start="20250720154400 +0800" stop="20250720160900 +0800">
 		<title lang="zh">了不起的冬天4K 第3集 捏一把汗的飞行</title>
 	</programme>
+	<programme channel="纯享4K" start="20250720160900 +0800" stop="20250720163900 +0800">
+		<title lang="zh">记住乡愁4K第六季 巍山古城——众人拾柴火焰高</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -82557,6 +82560,9 @@
 	<programme channel="黑莓动画" start="20250720143900 +0800" stop="20250720161200 +0800">
 		<title lang="zh">怪物史莱克4（4K）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250720161200 +0800" stop="20250720171700 +0800">
+		<title lang="zh">角落小伙伴电影版 蓝色月夜的魔法之子（普通话版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83934,6 +83940,9 @@
 	<programme channel="newtv军旅剧场" start="20250720150700 +0800" stop="20250720160800 +0800">
 		<title lang="zh">23_军人荣誉之铁血雄心</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250720160800 +0800" stop="20250720165300 +0800">
+		<title lang="zh">24_军人荣誉之铁血雄心</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -84038,6 +84047,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250720145400 +0800" stop="20250720161500 +0800">
 		<title lang="zh">27_风声</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250720161500 +0800" stop="20250720170000 +0800">
+		<title lang="zh">28_风声</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -84374,6 +84386,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250720154000 +0800" stop="20250720160200 +0800">
 		<title lang="zh">二战惊险行动b7厄克特的突围</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250720160200 +0800" stop="20250720162400 +0800">
+		<title lang="zh">二战惊险行动b7沙漠特种战</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
