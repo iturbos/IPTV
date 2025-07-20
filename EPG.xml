@@ -20598,6 +20598,9 @@
 	<programme channel="动作电影" start="20250720141700 +0800" stop="20250720150600 +0800">
 		<title lang="zh">AMOS无涂层钛健康低糖饭煲-渠道（右）</title>
 	</programme>
+	<programme channel="动作电影" start="20250720150600 +0800" stop="20250720165500 +0800">
+		<title lang="zh">夺宝家庭</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -27290,6 +27293,9 @@
 	</programme>
 	<programme channel="咪咕综合体育" start="20250720133000 +0800" stop="20250720151000 +0800">
 		<title lang="zh">足球世界-2025国际足联世俱杯 1/4决赛 弗卢米嫩塞-利雅得新月</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250720151500 +0800" stop="20250720165500 +0800">
+		<title lang="zh">足球世界-2025国际足联世俱杯 1/4决赛 帕尔梅拉斯-切尔西</title>
 	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
@@ -39671,6 +39677,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250720135700 +0800" stop="20250720150900 +0800">
 		<title lang="zh">六扇门之血手奇谭</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250720150900 +0800" stop="20250720155800 +0800">
+		<title lang="zh">LECEA缓释富硒焕活水杯超值组-渠道（右）</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -71118,6 +71127,9 @@
 	<programme channel="超级电影" start="20250720141200 +0800" stop="20250720152100 +0800">
 		<title lang="zh">电影《使命营救》</title>
 	</programme>
+	<programme channel="超级电影" start="20250720152100 +0800" stop="20250720165800 +0800">
+		<title lang="zh">电影《哈佛少女的快乐清单》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -83499,6 +83511,9 @@
 	<programme channel="newtv超级综艺" start="20250720134100 +0800" stop="20250720151100 +0800">
 		<title lang="zh">神采正飞扬——中国郎之夜</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250720151100 +0800" stop="20250720162800 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -83585,6 +83600,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250720141200 +0800" stop="20250720152100 +0800">
 		<title lang="zh">电影《使命营救》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250720152100 +0800" stop="20250720165800 +0800">
+		<title lang="zh">电影《哈佛少女的快乐清单》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -83702,6 +83720,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250720140900 +0800" stop="20250720151500 +0800">
 		<title lang="zh">PASSEZLA蒺藜木精油皂甄享组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250720151500 +0800" stop="20250720160100 +0800">
+		<title lang="zh">19_问心</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -83874,6 +83895,9 @@
 	<programme channel="newtv军旅剧场" start="20250720141000 +0800" stop="20250720150700 +0800">
 		<title lang="zh">04_跨过鸭绿江</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250720150700 +0800" stop="20250720160800 +0800">
+		<title lang="zh">23_军人荣誉之铁血雄心</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -83921,6 +83945,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250720142700 +0800" stop="20250720151200 +0800">
 		<title lang="zh">02_永夜星河</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250720151200 +0800" stop="20250720155000 +0800">
+		<title lang="zh">慕本崎安神助眠长康组-渠道（右）</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -84048,6 +84075,9 @@
 	<programme channel="newtv动作电影" start="20250720141700 +0800" stop="20250720150600 +0800">
 		<title lang="zh">AMOS无涂层钛健康低糖饭煲-渠道（右）</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250720150600 +0800" stop="20250720165500 +0800">
+		<title lang="zh">夺宝家庭</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -84113,6 +84143,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250720145400 +0800" stop="20250720150400 +0800">
 		<title lang="zh">相声《我的变 变 变》岳云鹏、孙越</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250720150400 +0800" stop="20250720155300 +0800">
+		<title lang="zh">AMOS无涂层钛健康低糖饭煲-渠道（右）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -84440,6 +84473,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250720135700 +0800" stop="20250720150900 +0800">
 		<title lang="zh">六扇门之血手奇谭</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250720150900 +0800" stop="20250720155800 +0800">
+		<title lang="zh">LECEA缓释富硒焕活水杯超值组-渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
