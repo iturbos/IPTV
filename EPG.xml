@@ -38973,6 +38973,9 @@
 	<programme channel="纯享4K" start="20250721045600 +0800" stop="20250721050200 +0800">
 		<title lang="zh">美丽中国自然4K 神农架系列自然秘境</title>
 	</programme>
+	<programme channel="纯享4K" start="20250721051200 +0800" stop="20250721052700 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 油画b7橄榄球比赛</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -47769,6 +47772,9 @@
 	<programme channel="newtv超级电影" start="20250721034500 +0800" stop="20250721052100 +0800">
 		<title lang="zh">侠盗鲁平</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250721052100 +0800" stop="20250721070300 +0800">
+		<title lang="zh">海关战线</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -47792,6 +47798,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250721042900 +0800" stop="20250721051500 +0800">
 		<title lang="zh">10_柳舟记</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250721051500 +0800" stop="20250721060200 +0800">
+		<title lang="zh">11_柳舟记</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -47973,6 +47982,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250721043000 +0800" stop="20250721051500 +0800">
 		<title lang="zh">57_大秦赋</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250721051500 +0800" stop="20250721054500 +0800">
+		<title lang="zh">龙血树叶粉</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -47994,6 +48006,9 @@
 	<programme channel="newtv军事评论" start="20250721043500 +0800" stop="20250721050200 +0800">
 		<title lang="zh">沙场试剑</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250721050200 +0800" stop="20250721052800 +0800">
+		<title lang="zh">观天慧眼</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -48014,6 +48029,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250721032800 +0800" stop="20250721050100 +0800">
 		<title lang="zh">山水间的家 第三季 （20241117）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250721050100 +0800" stop="20250721061200 +0800">
+		<title lang="zh">第4期：撒贝宁岳云鹏谈高光时刻</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -48038,6 +48056,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250721032900 +0800" stop="20250721050400 +0800">
 		<title lang="zh">不速之客</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250721050400 +0800" stop="20250721063300 +0800">
+		<title lang="zh">终极审判</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
