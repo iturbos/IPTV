@@ -16938,6 +16938,9 @@
 	<programme channel="咪咕足球" start="20250722000100 +0800" stop="20250722012100 +0800">
 		<title lang="zh">村BA</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250722012100 +0800" stop="20250722013000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -41124,6 +41127,9 @@
 	<programme channel="纯享4K" start="20250722004600 +0800" stop="20250722011600 +0800">
 		<title lang="zh">记住乡愁4K第六季 第四集 凭祥古城——热血边关 共建家园</title>
 	</programme>
+	<programme channel="纯享4K" start="20250722011600 +0800" stop="20250722014600 +0800">
+		<title lang="zh">味道4K 穿街走巷b7武汉篇 上</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51984,6 +51990,9 @@
 	<programme channel="newtv精品纪录" start="20250722000500 +0800" stop="20250722010500 +0800">
 		<title lang="zh">《顶尖科学》 20250110 科学梦想家</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250722010500 +0800" stop="20250722020500 +0800">
+		<title lang="zh">《顶尖科学》 20250111 科学探索者</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -51995,6 +52004,9 @@
 	</channel>
 	<programme channel="newtv军旅剧场" start="20250722000000 +0800" stop="20250722011600 +0800">
 		<title lang="zh">33_我的绝密生涯</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250722011600 +0800" stop="20250722023100 +0800">
+		<title lang="zh">34_我的绝密生涯</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -52055,6 +52067,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250722002100 +0800" stop="20250722011300 +0800">
 		<title lang="zh">军民共建谱华章 国防知识挑战赛走进双拥模范城</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250722011300 +0800" stop="20250722020600 +0800">
+		<title lang="zh">铁甲劲旅 王杰传人 陆军第71集团军某合成旅</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
