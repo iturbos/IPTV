@@ -41310,6 +41310,9 @@
 	<programme channel="明星大片" start="20250721174300 +0800" stop="20250721182900 +0800">
 		<title lang="zh">04_烟火人家</title>
 	</programme>
+	<programme channel="明星大片" start="20250721182900 +0800" stop="20250721191500 +0800">
+		<title lang="zh">朋友请吃饭b7烧烤季</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -57948,6 +57951,9 @@
 	<programme channel="爱情喜剧" start="20250721162800 +0800" stop="20250721183600 +0800">
 		<title lang="zh">疾风回旋曲</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250721183600 +0800" stop="20250721192200 +0800">
+		<title lang="zh">37_柳舟记</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -63791,6 +63797,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250721180400 +0800" stop="20250721182800 +0800">
 		<title lang="zh">大国医b7千金方4K 第9集 王清任b7血府逐瘀汤</title>
+	</programme>
+	<programme channel="纯享4K" start="20250721182800 +0800" stop="20250721190800 +0800">
+		<title lang="zh">探索b7发现4K 匠人b7匠心（18）</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -79548,6 +79557,9 @@
 	<programme channel="newtv超级电视剧" start="20250721175800 +0800" stop="20250721184400 +0800">
 		<title lang="zh">03_烟火人家</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250721184400 +0800" stop="20250721193000 +0800">
+		<title lang="zh">04_烟火人家</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -79613,6 +79625,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250721180900 +0800" stop="20250721183900 +0800">
 		<title lang="zh">《爱生活爱健康》推荐第二期</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250721183900 +0800" stop="20250721195400 +0800">
+		<title lang="zh">50_清平乐[DVD版]</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -79689,6 +79704,9 @@
 	<programme channel="newtv精品纪录" start="20250721175100 +0800" stop="20250721181600 +0800">
 		<title lang="zh">01_武烈之魂</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250721184100 +0800" stop="20250721191100 +0800">
+		<title lang="zh">陵若都邑</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -79745,6 +79763,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250721173100 +0800" stop="20250721181900 +0800">
 		<title lang="zh">29_榜上佳婿</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250721181900 +0800" stop="20250721190400 +0800">
+		<title lang="zh">17_九重紫</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -79806,6 +79827,9 @@
 	<programme channel="newtv军旅剧场" start="20250721174200 +0800" stop="20250721182700 +0800">
 		<title lang="zh">02_风声</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250721182700 +0800" stop="20250721191100 +0800">
+		<title lang="zh">03_风声</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -79865,6 +79889,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250721175100 +0800" stop="20250721182100 +0800">
 		<title lang="zh">《爱生活爱健康》推荐第二期</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250721182100 +0800" stop="20250721193300 +0800">
+		<title lang="zh">09_永夜星河</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -79977,6 +80004,9 @@
 	<programme channel="newtv爱情喜剧" start="20250721162800 +0800" stop="20250721183600 +0800">
 		<title lang="zh">疾风回旋曲</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250721183600 +0800" stop="20250721192200 +0800">
+		<title lang="zh">37_柳舟记</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -80084,6 +80114,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250721175000 +0800" stop="20250721182000 +0800">
 		<title lang="zh">《爱生活爱健康》推荐第二期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250721182000 +0800" stop="20250721190300 +0800">
+		<title lang="zh">福建梦幻vs重庆洁静精微 第2局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -80286,6 +80319,9 @@
 	<programme channel="newtv军事评论" start="20250721175200 +0800" stop="20250721181900 +0800">
 		<title lang="zh">俄乌战场轰鸣的火炮</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250721184500 +0800" stop="20250721191200 +0800">
+		<title lang="zh">海陆空无人侦察先锋</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -80364,6 +80400,9 @@
 	<programme channel="newtv炫舞未来" start="20250721174300 +0800" stop="20250721182100 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250721182100 +0800" stop="20250721192100 +0800">
+		<title lang="zh">曾经无缘婚姻，如今向往爱情</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -80423,6 +80462,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250721174300 +0800" stop="20250721182900 +0800">
 		<title lang="zh">04_烟火人家</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250721182900 +0800" stop="20250721191500 +0800">
+		<title lang="zh">朋友请吃饭b7烧烤季</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -80648,6 +80690,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250721174700 +0800" stop="20250721183400 +0800">
 		<title lang="zh">30_燕云台</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250721183400 +0800" stop="20250721190400 +0800">
+		<title lang="zh">《爱生活爱健康》推荐第二期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
