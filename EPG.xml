@@ -13290,10 +13290,10 @@
 	<programme channel="东方卫视" start="20250722090200 +0800" stop="20250722094300 +0800">
 		<title lang="zh">少年爱迪生第八季：明日世界（10）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250722094300 +0800" stop="20250722101500 +0800">
+	<programme channel="东方卫视" start="20250722094300 +0800" stop="20250722101600 +0800">
 		<title lang="zh">正当防卫（6）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250722101500 +0800" stop="20250722110700 +0800">
+	<programme channel="东方卫视" start="20250722101600 +0800" stop="20250722110700 +0800">
 		<title lang="zh">正当防卫（7）</title>
 	</programme>
 	<programme channel="东方卫视" start="20250722110700 +0800" stop="20250722115000 +0800">
@@ -13336,7 +13336,7 @@
 		<title lang="zh">东方新娱乐</title>
 	</programme>
 	<programme channel="东方卫视" start="20250722173100 +0800" stop="20250722180000 +0800">
-		<title lang="zh">名医话养生</title>
+		<title lang="zh">名医话养生（135）</title>
 	</programme>
 	<programme channel="东方卫视" start="20250722180000 +0800" stop="20250722185700 +0800">
 		<title lang="zh">东方新闻</title>
@@ -27117,6 +27117,9 @@
 	<programme channel="咪咕综合体育" start="20250722183000 +0800" stop="20250722184500 +0800">
 		<title lang="zh">睛彩圈圈点第二期</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250722184500 +0800" stop="20250722211000 +0800">
+		<title lang="zh">足球世界-2025中国足协杯 1/4决赛 青岛西海岸-北京国安 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -39620,6 +39623,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250722171400 +0800" stop="20250722183400 +0800">
 		<title lang="zh">沙鹰行动</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250722183400 +0800" stop="20250722195400 +0800">
+		<title lang="zh">锦衣之下之血滴子</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -66492,6 +66498,9 @@
 	<programme channel="纯享4K" start="20250722175500 +0800" stop="20250722183500 +0800">
 		<title lang="zh">探索b7发现4K 匠人b7匠心（19）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250722184500 +0800" stop="20250722185500 +0800">
+		<title lang="zh">秘境之眼4K 大漠生灵</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -84558,6 +84567,9 @@
 	<programme channel="newtv家庭剧场" start="20250722180900 +0800" stop="20250722183900 +0800">
 		<title lang="zh">《爱生活爱健康》推荐第二期</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250722183900 +0800" stop="20250722192400 +0800">
+		<title lang="zh">05_乔家的儿女</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -84623,6 +84635,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250722181300 +0800" stop="20250722184400 +0800">
 		<title lang="zh">风味人间 第3季</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250722184400 +0800" stop="20250722191400 +0800">
+		<title lang="zh">《爱生活爱健康》推荐第二期</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -85002,6 +85017,9 @@
 	<programme channel="newtv军事评论" start="20250722180900 +0800" stop="20250722183500 +0800">
 		<title lang="zh">2024国内武器装备大看台</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250722183500 +0800" stop="20250722190200 +0800">
+		<title lang="zh">2024国际武器装备大看台</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85191,6 +85209,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250722171400 +0800" stop="20250722183400 +0800">
 		<title lang="zh">沙鹰行动</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250722183400 +0800" stop="20250722195400 +0800">
+		<title lang="zh">锦衣之下之血滴子</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -85379,6 +85400,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250722175600 +0800" stop="20250722184000 +0800">
 		<title lang="zh">34_燕云台</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250722184000 +0800" stop="20250722191000 +0800">
+		<title lang="zh">《爱生活爱健康》推荐第二期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
