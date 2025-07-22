@@ -17181,6 +17181,9 @@
 	<programme channel="咪咕足球" start="20250723013000 +0800" stop="20250723031000 +0800">
 		<title lang="zh">2024NBL 石家庄翔蓝-合肥狂风峻茂</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250723032000 +0800" stop="20250723042000 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -41388,6 +41391,9 @@
 	<programme channel="纯享4K" start="20250723025800 +0800" stop="20250723030300 +0800">
 		<title lang="zh">如果国宝会说话4K 青州龙兴寺佛教造像：生命</title>
 	</programme>
+	<programme channel="纯享4K" start="20250723031300 +0800" stop="20250723032300 +0800">
+		<title lang="zh">秘境之眼4K 斑头雁育雏记</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52071,6 +52077,9 @@
 	<programme channel="newtv精品大剧" start="20250723021600 +0800" stop="20250723030300 +0800">
 		<title lang="zh">45_燕云台</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250723030300 +0800" stop="20250723042100 +0800">
+		<title lang="zh">46_燕云台</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -52091,6 +52100,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250723014900 +0800" stop="20250723030500 +0800">
 		<title lang="zh">26_三生三世枕上书</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250723030500 +0800" stop="20250723042100 +0800">
+		<title lang="zh">27_三生三世枕上书</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -52127,6 +52139,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250723021700 +0800" stop="20250723030300 +0800">
 		<title lang="zh">06_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250723030300 +0800" stop="20250723041000 +0800">
+		<title lang="zh">07_故乡，别来无恙</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
