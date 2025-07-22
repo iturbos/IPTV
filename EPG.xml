@@ -17169,6 +17169,9 @@
 	<programme channel="咪咕综合体育" start="20250723024500 +0800" stop="20250723051500 +0800">
 		<title lang="zh">UFC第316期 主赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250723052000 +0800" stop="20250723061000 +0800">
+		<title lang="zh">世俱杯全进球</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -52149,6 +52152,9 @@
 	<programme channel="newtv超级综艺" start="20250723035000 +0800" stop="20250723052100 +0800">
 		<title lang="zh">诗画中国</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250723052100 +0800" stop="20250723061100 +0800">
+		<title lang="zh">绽放吧！妈妈</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -52203,6 +52209,9 @@
 	<programme channel="newtv超级电视剧" start="20250723043400 +0800" stop="20250723052000 +0800">
 		<title lang="zh">18_柳舟记</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250723052000 +0800" stop="20250723060600 +0800">
+		<title lang="zh">19_柳舟记</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -52220,6 +52229,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250723042100 +0800" stop="20250723050600 +0800">
 		<title lang="zh">14_追爱家族</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250723050600 +0800" stop="20250723062100 +0800">
+		<title lang="zh">15_追爱家族</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -52268,6 +52280,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250723035800 +0800" stop="20250723051200 +0800">
 		<title lang="zh">08_危机迷雾</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250723051200 +0800" stop="20250723055700 +0800">
+		<title lang="zh">09_危机迷雾</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -52373,6 +52388,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250723042800 +0800" stop="20250723051400 +0800">
 		<title lang="zh">65_大秦赋</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250723051400 +0800" stop="20250723054400 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
