@@ -60702,6 +60702,9 @@
 	<programme channel="爱情喜剧" start="20250723221800 +0800" stop="20250723230400 +0800">
 		<title lang="zh">09_好团圆</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250723230400 +0800" stop="20250723235300 +0800">
+		<title lang="zh">高纯度零涂层超轻钛锅/全钛汤勺/全钛锅铲/双面抗菌砧板-渠道（右）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -82860,6 +82863,9 @@
 	<programme channel="黑莓电影" start="20250723213000 +0800" stop="20250723230500 +0800">
 		<title lang="zh">燕赤霞猎妖传</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250723230500 +0800" stop="20250723003600 +0800">
+		<title lang="zh">鬼吹灯之湘西密藏</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -83880,6 +83886,9 @@
 	<programme channel="newtv超级电视剧" start="20250723223000 +0800" stop="20250723231500 +0800">
 		<title lang="zh">28_乔家的儿女</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250723231500 +0800" stop="20250723000300 +0800">
+		<title lang="zh">29_乔家的儿女</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -83964,6 +83973,9 @@
 	<programme channel="newtv精品大剧" start="20250723221900 +0800" stop="20250723230400 +0800">
 		<title lang="zh">61_清平乐[DVD版]</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250723230400 +0800" stop="20250723235000 +0800">
+		<title lang="zh">30_三十而已</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -84047,6 +84059,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250723224500 +0800" stop="20250723231500 +0800">
 		<title lang="zh">乡味记（1）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250723231500 +0800" stop="20250723234400 +0800">
+		<title lang="zh">乡味记（2）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -84440,6 +84455,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250723221800 +0800" stop="20250723230400 +0800">
 		<title lang="zh">09_好团圆</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250723230400 +0800" stop="20250723235300 +0800">
+		<title lang="zh">高纯度零涂层超轻钛锅/全钛汤勺/全钛锅铲/双面抗菌砧板-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -84845,6 +84863,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250723224500 +0800" stop="20250723231000 +0800">
 		<title lang="zh">渔船事件余波未平 美国为何说三道四？</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250723231000 +0800" stop="20250723233600 +0800">
+		<title lang="zh">台军演练金门冲突 火上浇油难收场</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
