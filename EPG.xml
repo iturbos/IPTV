@@ -28083,6 +28083,9 @@
 	<programme channel="咪咕综合体育" start="20250723184000 +0800" stop="20250723184500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250723184500 +0800" stop="20250723205500 +0800">
+		<title lang="zh">足球世界-2025国际足联世俱杯 1/8决赛 曼城-利雅得新月</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -66453,6 +66456,9 @@
 	<programme channel="纯享4K" start="20250723183000 +0800" stop="20250723183500 +0800">
 		<title lang="zh">如果国宝会说话4K 竹林七贤与荣启期砖画 六朝模范</title>
 	</programme>
+	<programme channel="纯享4K" start="20250723184000 +0800" stop="20250723185000 +0800">
+		<title lang="zh">秘境之眼4K 龙湾脉动</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -83696,6 +83702,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250723175800 +0800" stop="20250723184300 +0800">
 		<title lang="zh">11_烟火人家</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250723184300 +0800" stop="20250723192900 +0800">
+		<title lang="zh">12_烟火人家</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
