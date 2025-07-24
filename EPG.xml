@@ -17061,6 +17061,9 @@
 	<programme channel="咪咕综合体育" start="20250725030000 +0800" stop="20250725052000 +0800">
 		<title lang="zh">UFC第317期 主赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250725052000 +0800" stop="20250725092000 +0800">
+		<title lang="zh">2025国际马联场地障碍赛世界杯中国联赛北京站 第1日</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -50808,6 +50811,9 @@
 	<programme channel="newtv爱情喜剧" start="20250725034900 +0800" stop="20250725050400 +0800">
 		<title lang="zh">11_乔家的儿女</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250725050400 +0800" stop="20250725061600 +0800">
+		<title lang="zh">12_乔家的儿女</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -50838,6 +50844,9 @@
 	<programme channel="newtv怡伴健康" start="20250725035600 +0800" stop="20250725051100 +0800">
 		<title lang="zh">微型杀手</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250725051100 +0800" stop="20250725055900 +0800">
+		<title lang="zh">40_燕云台</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -50858,6 +50867,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250725043700 +0800" stop="20250725050700 +0800">
 		<title lang="zh">龙血树叶粉</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250725050700 +0800" stop="20250725060900 +0800">
+		<title lang="zh">与奥运同行 一起动起来 3</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -50927,6 +50939,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250725034500 +0800" stop="20250725051200 +0800">
 		<title lang="zh">海平面上升</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250725051200 +0800" stop="20250725063900 +0800">
+		<title lang="zh">异形：汇合</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
