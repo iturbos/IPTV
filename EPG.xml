@@ -27879,6 +27879,9 @@
 	<programme channel="咪咕综合体育" start="20250724185000 +0800" stop="20250724191500 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第二期</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250724191500 +0800" stop="20250724194000 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -27953,6 +27956,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250724183500 +0800" stop="20250724191500 +0800">
 		<title lang="zh">一球一城 贝尔格莱德</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250724192000 +0800" stop="20250724214000 +0800">
+		<title lang="zh">2025中国男篮系列热身赛 中国男篮-委内瑞拉男篮 直播</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -85859,6 +85865,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250724182900 +0800" stop="20250724191700 +0800">
 		<title lang="zh">英国奥戈那负离子空气循环扇-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250724191700 +0800" stop="20250724200000 +0800">
+		<title lang="zh">活力满分的夏天</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
