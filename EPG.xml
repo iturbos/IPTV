@@ -81468,6 +81468,9 @@
 	<programme channel="黑莓动画" start="20250725210900 +0800" stop="20250725221300 +0800">
 		<title lang="zh">角落小伙伴电影版 蓝色月夜的魔法之子（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250725221300 +0800" stop="20250725235100 +0800">
+		<title lang="zh">银魂最终篇</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83052,6 +83055,9 @@
 	<programme channel="newtv家庭剧场" start="20250725212400 +0800" stop="20250725221200 +0800">
 		<title lang="zh">19_乔家的儿女</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250725221200 +0800" stop="20250725225900 +0800">
+		<title lang="zh">20_乔家的儿女</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -83129,6 +83135,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250725213400 +0800" stop="20250725220400 +0800">
 		<title lang="zh">《爱生活爱健康》推荐第二期</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250725220400 +0800" stop="20250725233600 +0800">
+		<title lang="zh">半熟恋人第4季</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -83427,6 +83436,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250725213700 +0800" stop="20250725221600 +0800">
 		<title lang="zh">美国云杉小分子PPC结节散-渠道（右）</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250725221600 +0800" stop="20250725233100 +0800">
+		<title lang="zh">齐天大圣b7无双</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -83571,6 +83583,9 @@
 	<programme channel="newtv军事评论" start="20250725214300 +0800" stop="20250725220900 +0800">
 		<title lang="zh">美国作势挺赖清德 把台湾当盘中餐</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250725220900 +0800" stop="20250725223400 +0800">
+		<title lang="zh">高调“视察”台军 蔡赖暗中较劲</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -83663,6 +83678,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250725212900 +0800" stop="20250725220800 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250725220800 +0800" stop="20250725222900 +0800">
+		<title lang="zh">牛仔舞系列教学（20240723）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
