@@ -82464,6 +82464,9 @@
 	<programme channel="newtv超级综艺" start="20250725222500 +0800" stop="20250725230900 +0800">
 		<title lang="zh">17_乔家的儿女</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250725230900 +0800" stop="20250725235500 +0800">
+		<title lang="zh">18_乔家的儿女</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -82760,6 +82763,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250725222500 +0800" stop="20250725231000 +0800">
 		<title lang="zh">34_三十而已</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250725231000 +0800" stop="20250725235700 +0800">
+		<title lang="zh">35_三十而已</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -83745,6 +83751,9 @@
 	<programme channel="newtv炫舞未来" start="20250725225000 +0800" stop="20250725230900 +0800">
 		<title lang="zh">算你狠-毕刚</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250725230900 +0800" stop="20250725003500 +0800">
+		<title lang="zh">第9期：陈赫范志毅美食三连胜，杨迪厚脸皮蹭饭</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -83945,6 +83954,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250725215800 +0800" stop="20250725231000 +0800">
 		<title lang="zh">艾嘉食堂</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250725231000 +0800" stop="20250725004400 +0800">
+		<title lang="zh">德云斗笑社 第2季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
