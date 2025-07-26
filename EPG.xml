@@ -27477,6 +27477,9 @@
 	<programme channel="咪咕综合体育" start="20250726160500 +0800" stop="20250726161000 +0800">
 		<title lang="zh">睛彩AI速报</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250726161000 +0800" stop="20250726171000 +0800">
+		<title lang="zh">国球荣耀-2025WTT美国大满贯 女双决赛 王艺迪/蒯曼-王曼昱/孙颖莎</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -66027,6 +66030,9 @@
 	<programme channel="纯享4K" start="20250726151400 +0800" stop="20250726160300 +0800">
 		<title lang="zh">大运河之歌4K 第2集 盛世气象</title>
 	</programme>
+	<programme channel="纯享4K" start="20250726160300 +0800" stop="20250726163300 +0800">
+		<title lang="zh">记住乡愁4K第六季 第八集 镇远古城——太极古城 勇于担当</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -84000,6 +84006,9 @@
 	<programme channel="newtv精品大剧" start="20250726153800 +0800" stop="20250726160400 +0800">
 		<title lang="zh">06_鹊刀门传奇</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250726160400 +0800" stop="20250726165300 +0800">
+		<title lang="zh">自然之臻阿拉善冬季荒漠肉苁蓉100%纯原浆-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -84165,6 +84174,9 @@
 	<programme channel="newtv军旅剧场" start="20250726145400 +0800" stop="20250726160900 +0800">
 		<title lang="zh">20_风声</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250726160900 +0800" stop="20250726172400 +0800">
+		<title lang="zh">21_风声</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -84218,6 +84230,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250726154700 +0800" stop="20250726160700 +0800">
 		<title lang="zh">南同虫草菌丝体洋参胶囊01</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250726160700 +0800" stop="20250726172300 +0800">
+		<title lang="zh">27_永夜星河</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
