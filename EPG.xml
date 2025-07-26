@@ -39483,6 +39483,9 @@
 	<programme channel="纯享4K" start="20250727043200 +0800" stop="20250727051400 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 草原钢城 绿色家园</title>
 	</programme>
+	<programme channel="纯享4K" start="20250727051400 +0800" stop="20250727051900 +0800">
+		<title lang="zh">美丽中国自然4K 尖峰岭系列 走进尖峰岭</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -50187,6 +50190,9 @@
 	<programme channel="newtv超级电影" start="20250727035300 +0800" stop="20250727051300 +0800">
 		<title lang="zh">小小港湾</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250727051300 +0800" stop="20250727054000 +0800">
+		<title lang="zh">我和我的家乡：北京好人</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50406,6 +50412,9 @@
 	<programme channel="newtv军事评论" start="20250727044200 +0800" stop="20250727050900 +0800">
 		<title lang="zh">新晋射手</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250727050900 +0800" stop="20250727053500 +0800">
+		<title lang="zh">暗夜奇袭</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -50424,6 +50433,9 @@
 	<programme channel="newtv炫舞未来" start="20250727041900 +0800" stop="20250727050400 +0800">
 		<title lang="zh">第1集 侨味：馋晕了！解锁顶级鲍鱼的销魂吃法</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250727050400 +0800" stop="20250727052500 +0800">
+		<title lang="zh">爵士风健身舞（20220807）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -50435,6 +50447,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250727040200 +0800" stop="20250727051300 +0800">
 		<title lang="zh">30_跨过鸭绿江</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250727051300 +0800" stop="20250727062500 +0800">
+		<title lang="zh">31_跨过鸭绿江</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -50451,6 +50466,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250727033300 +0800" stop="20250727050500 +0800">
 		<title lang="zh">昆仑神宫</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250727050500 +0800" stop="20250727063200 +0800">
+		<title lang="zh">寂静之地</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -50462,6 +50480,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250727031700 +0800" stop="20250727052100 +0800">
 		<title lang="zh">非日常恋爱</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250727052100 +0800" stop="20250727074000 +0800">
+		<title lang="zh">黄金100秒（2023）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
