@@ -17166,6 +17166,9 @@
 	<programme channel="咪咕足球" start="20250727031000 +0800" stop="20250727032000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250727032000 +0800" stop="20250727042000 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -39363,6 +39366,9 @@
 	<programme channel="纯享4K" start="20250727025000 +0800" stop="20250727034000 +0800">
 		<title lang="zh">大运河之歌4K 第3集 运河中心时代</title>
 	</programme>
+	<programme channel="纯享4K" start="20250727034500 +0800" stop="20250727035000 +0800">
+		<title lang="zh">如果国宝会说话4K 黄河铁牛 穿越时空的基建</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -50049,6 +50055,9 @@
 	<programme channel="newtv超级电影" start="20250727021800 +0800" stop="20250727035300 +0800">
 		<title lang="zh">热干面的味道</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250727035300 +0800" stop="20250727051300 +0800">
+		<title lang="zh">小小港湾</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50118,6 +50127,9 @@
 	<programme channel="newtv军旅剧场" start="20250727023800 +0800" stop="20250727034000 +0800">
 		<title lang="zh">12_暗战风云</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250727034000 +0800" stop="20250727044100 +0800">
+		<title lang="zh">20_危机迷雾</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -50178,6 +50190,9 @@
 	<programme channel="newtv怡伴健康" start="20250727025800 +0800" stop="20250727034600 +0800">
 		<title lang="zh">洪水创造奇迹（上）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250727034600 +0800" stop="20250727043300 +0800">
+		<title lang="zh">洪水创造奇迹（下）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -50220,6 +50235,9 @@
 	<programme channel="newtv炫舞未来" start="20250727031600 +0800" stop="20250727032900 +0800">
 		<title lang="zh">以后的以后-李莹（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250727032900 +0800" stop="20250727041900 +0800">
+		<title lang="zh">03_青海</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -50241,6 +50259,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250727015600 +0800" stop="20250727033300 +0800">
 		<title lang="zh">谷魂</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250727033300 +0800" stop="20250727050500 +0800">
+		<title lang="zh">昆仑神宫</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -50249,6 +50270,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250727024200 +0800" stop="20250727031700 +0800">
 		<title lang="zh">向幸福出发（20241210）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250727031700 +0800" stop="20250727052100 +0800">
+		<title lang="zh">非日常恋爱</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
