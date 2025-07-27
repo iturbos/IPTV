@@ -65931,6 +65931,9 @@
 	<programme channel="纯享4K" start="20250727205700 +0800" stop="20250727210200 +0800">
 		<title lang="zh">美丽中国自然4K 尖峰岭系列 走进尖峰岭</title>
 	</programme>
+	<programme channel="纯享4K" start="20250727210700 +0800" stop="20250727213700 +0800">
+		<title lang="zh">信仰的感召4K 铁肩道义 李大钊</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -83658,6 +83661,9 @@
 	<programme channel="newtv精品大剧" start="20250727203800 +0800" stop="20250727210800 +0800">
 		<title lang="zh">《百病食疗》推荐第三期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250727210800 +0800" stop="20250727215600 +0800">
+		<title lang="zh">08_雪中悍刀行</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -83739,6 +83745,9 @@
 	<programme channel="newtv精品纪录" start="20250727202300 +0800" stop="20250727210200 +0800">
 		<title lang="zh">DR.SUNFLOWER韩国原装进口红参牙膏-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250727210200 +0800" stop="20250727215200 +0800">
+		<title lang="zh">01_千古情缘—红楼梦</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -83810,6 +83819,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250727202200 +0800" stop="20250727210700 +0800">
 		<title lang="zh">06_似锦</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250727210700 +0800" stop="20250727213700 +0800">
+		<title lang="zh">《百病食疗》推荐第三期</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -84032,6 +84044,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250727201900 +0800" stop="20250727210500 +0800">
 		<title lang="zh">15_欢乐颂4</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250727210500 +0800" stop="20250727213500 +0800">
+		<title lang="zh">《美丽飞扬》推荐第一期</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -84521,6 +84536,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250727195200 +0800" stop="20250727210900 +0800">
 		<title lang="zh">零零后男孩捏出大英博物馆同款水月观音（20250423）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250727210900 +0800" stop="20250727214800 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
