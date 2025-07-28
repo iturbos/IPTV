@@ -62112,6 +62112,9 @@
 	<programme channel="纯享4K" start="20250728221400 +0800" stop="20250728230300 +0800">
 		<title lang="zh">长江之歌4K（文明篇） 第2集 文化之江</title>
 	</programme>
+	<programme channel="纯享4K" start="20250728231300 +0800" stop="20250728232800 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 油画b7摔跤手</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -78177,6 +78180,9 @@
 	<programme channel="newtv家庭剧场" start="20250728223000 +0800" stop="20250728231600 +0800">
 		<title lang="zh">32_乔家的儿女</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250728231600 +0800" stop="20250728235400 +0800">
+		<title lang="zh">散结通络保健膏-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -78573,6 +78579,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250728222400 +0800" stop="20250728231000 +0800">
 		<title lang="zh">34_兰桐花开</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250728231000 +0800" stop="20250728234900 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -78824,6 +78833,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250728224700 +0800" stop="20250728230700 +0800">
 		<title lang="zh">健身舞《酒醉的蝴蝶》（20220613）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250728231500 +0800" stop="20250728002500 +0800">
+		<title lang="zh">第一章 空（20250705）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
