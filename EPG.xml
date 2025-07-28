@@ -36033,6 +36033,9 @@
 	<programme channel="纯享4K" start="20250729004300 +0800" stop="20250729011300 +0800">
 		<title lang="zh">记住乡愁4K第六季 第二十四集 宁安古城——北国雪城宁古塔</title>
 	</programme>
+	<programme channel="纯享4K" start="20250729011300 +0800" stop="20250729014300 +0800">
+		<title lang="zh">味道4K 我的家乡菜b7青白江篇（上）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -45246,6 +45249,9 @@
 	<programme channel="newtv超级综艺" start="20250729001800 +0800" stop="20250729010600 +0800">
 		<title lang="zh">31_乔家的儿女</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250729010600 +0800" stop="20250729015200 +0800">
+		<title lang="zh">32_乔家的儿女</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -45276,6 +45282,9 @@
 	<programme channel="newtv精品大剧" start="20250729002100 +0800" stop="20250729010600 +0800">
 		<title lang="zh">19_加油！妈妈</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250729010600 +0800" stop="20250729022200 +0800">
+		<title lang="zh">20_加油！妈妈</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -45293,6 +45302,9 @@
 	</channel>
 	<programme channel="newtv军旅剧场" start="20250729000300 +0800" stop="20250729010600 +0800">
 		<title lang="zh">16_暗战风云</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250729010600 +0800" stop="20250729020900 +0800">
+		<title lang="zh">17_暗战风云</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -45330,47 +45342,17 @@
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
-	<programme channel="newtv潮妈辣婆" start="20250729000000 +0800" stop="20250729020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20250729020000 +0800" stop="20250729040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20250729060000 +0800" stop="20250729080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20250729080000 +0800" stop="20250729100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20250729100600 +0800" stop="20250729120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20250729120000 +0800" stop="20250729140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20250729140000 +0800" stop="20250729160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20250729160000 +0800" stop="20250729180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20250729180000 +0800" stop="20250729190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20250729190000 +0800" stop="20250729200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20250729200000 +0800" stop="20250729220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20250729220000 +0800" stop="20250729235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv潮妈辣婆" start="20250729011100 +0800" stop="20250729022200 +0800">
+		<title lang="zh">08_榜上佳婿</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
 	<programme channel="newtv军事评论" start="20250729001500 +0800" stop="20250729010700 +0800">
 		<title lang="zh">樊建川：为了和平 收藏战争</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250729010700 +0800" stop="20250729020100 +0800">
+		<title lang="zh">一片兵心在乡亲</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
