@@ -59109,6 +59109,9 @@
 	<programme channel="爱情喜剧" start="20250730224600 +0800" stop="20250730230500 +0800">
 		<title lang="zh">南同虫草菌丝体洋参胶囊01</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250730230500 +0800" stop="20250730235400 +0800">
+		<title lang="zh">03_滤镜</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -64844,6 +64847,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250730222700 +0800" stop="20250730231600 +0800">
 		<title lang="zh">长江之歌4K（文明篇） 第4集 生态家园</title>
+	</programme>
+	<programme channel="纯享4K" start="20250730231600 +0800" stop="20250730232100 +0800">
+		<title lang="zh">中国微名片 世界遗产 第二季4K 第17集 明清皇家陵寝</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -81852,6 +81858,9 @@
 	<programme channel="newtv精品纪录" start="20250730223700 +0800" stop="20250730230600 +0800">
 		<title lang="zh">原味乡间b7益阳篇（3）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250730230600 +0800" stop="20250730000000 +0800">
+		<title lang="zh">05_那个瞬间的年代</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82095,6 +82104,9 @@
 	<programme channel="newtv家庭剧场" start="20250730222100 +0800" stop="20250730230600 +0800">
 		<title lang="zh">03_珠江人家</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250730230600 +0800" stop="20250730234100 +0800">
+		<title lang="zh">美国云杉新一代东革阿里黑金能量丸-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -82173,6 +82185,9 @@
 	<programme channel="newtv热播精选" start="20250730222700 +0800" stop="20250730231300 +0800">
 		<title lang="zh">28_欢乐颂4</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250730231300 +0800" stop="20250730232500 +0800">
+		<title lang="zh">南同虫草菌丝体洋参胶囊01</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -82244,6 +82259,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250730224600 +0800" stop="20250730230500 +0800">
 		<title lang="zh">南同虫草菌丝体洋参胶囊01</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250730230500 +0800" stop="20250730235400 +0800">
+		<title lang="zh">03_滤镜</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -82391,6 +82409,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250730223100 +0800" stop="20250730230100 +0800">
 		<title lang="zh">《百病食疗》推荐第三期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250730230100 +0800" stop="20250730234000 +0800">
+		<title lang="zh">重庆洁静精微vs山东好哥哥 第4局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -82635,6 +82656,9 @@
 	<programme channel="newtv军事评论" start="20250730225000 +0800" stop="20250730231500 +0800">
 		<title lang="zh">布林肯访华 台湾问题再交锋</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250730231500 +0800" stop="20250730234100 +0800">
+		<title lang="zh">美国务卿访华 台湾问题摊牌</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -82736,6 +82760,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250730225000 +0800" stop="20250730231000 +0800">
 		<title lang="zh">宝贝对不起-毕刚（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250730231000 +0800" stop="20250730002700 +0800">
+		<title lang="zh">谁是真正的男低音歌者？（20250625）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
