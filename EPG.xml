@@ -35760,6 +35760,9 @@
 	<programme channel="纯享4K" start="20250731004100 +0800" stop="20250731011100 +0800">
 		<title lang="zh">记住乡愁4K第六季 第二十八集?台州古城——海滨邹鲁 无私无畏</title>
 	</programme>
+	<programme channel="纯享4K" start="20250731011100 +0800" stop="20250731014100 +0800">
+		<title lang="zh">味道4K 原味乡间b7秦皇岛篇（上）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -44943,6 +44946,9 @@
 	<programme channel="newtv精品大剧" start="20250731002700 +0800" stop="20250731011200 +0800">
 		<title lang="zh">27_加油！妈妈</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250731011200 +0800" stop="20250731022800 +0800">
+		<title lang="zh">28_加油！妈妈</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -44966,6 +44972,9 @@
 	</channel>
 	<programme channel="newtv家庭剧场" start="20250731002700 +0800" stop="20250731011200 +0800">
 		<title lang="zh">22_我的后半生</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250731011200 +0800" stop="20250731022800 +0800">
+		<title lang="zh">23_我的后半生</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
