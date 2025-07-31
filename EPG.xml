@@ -36273,6 +36273,9 @@
 	<programme channel="纯享4K" start="20250801045700 +0800" stop="20250801050200 +0800">
 		<title lang="zh">美丽中国自然4K 秦岭系列 迁徙的羚牛</title>
 	</programme>
+	<programme channel="纯享4K" start="20250801050700 +0800" stop="20250801053700 +0800">
+		<title lang="zh">信仰的感召4K 丹心永照 夏明翰</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -45861,6 +45864,9 @@
 	<programme channel="newtv热播精选" start="20250801043000 +0800" stop="20250801051500 +0800">
 		<title lang="zh">17_青山不墨</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250801051500 +0800" stop="20250801062000 +0800">
+		<title lang="zh">18_青山不墨</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -45906,6 +45912,9 @@
 	<programme channel="newtv怡伴健康" start="20250801041800 +0800" stop="20250801050300 +0800">
 		<title lang="zh">06_大武当</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250801050300 +0800" stop="20250801060800 +0800">
+		<title lang="zh">07_大武当</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -45923,6 +45932,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250801041900 +0800" stop="20250801050400 +0800">
 		<title lang="zh">23_榜上佳婿</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250801050400 +0800" stop="20250801053400 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -46073,6 +46085,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250801034000 +0800" stop="20250801050800 +0800">
 		<title lang="zh">男子南拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250801050800 +0800" stop="20250801070100 +0800">
+		<title lang="zh">拳王争霸赛：贝纳维德斯VS普兰特</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
