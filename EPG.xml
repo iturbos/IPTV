@@ -26937,6 +26937,9 @@
 	<programme channel="咪咕综合体育" start="20250731223000 +0800" stop="20250731223500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250731223500 +0800" stop="20250731232500 +0800">
+		<title lang="zh">世俱杯全进球</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -82587,6 +82590,9 @@
 	<programme channel="newtv超级综艺" start="20250731214600 +0800" stop="20250731224100 +0800">
 		<title lang="zh">艺览天下</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250731224100 +0800" stop="20250731232900 +0800">
+		<title lang="zh">05_大奉打更人</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -82649,6 +82655,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250731213000 +0800" stop="20250731223500 +0800">
 		<title lang="zh">体育世界</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250731223500 +0800" stop="20250731233500 +0800">
+		<title lang="zh">足球之夜</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -83064,6 +83073,9 @@
 	<programme channel="newtv古装剧场" start="20250731214800 +0800" stop="20250731223400 +0800">
 		<title lang="zh">10_永安梦</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250731223400 +0800" stop="20250731234900 +0800">
+		<title lang="zh">11_永安梦</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -83223,6 +83235,9 @@
 	<programme channel="newtv家庭剧场" start="20250731215300 +0800" stop="20250731223800 +0800">
 		<title lang="zh">07_珠江人家</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250731223800 +0800" stop="20250731231300 +0800">
+		<title lang="zh">美国云杉新一代东革阿里黑金能量丸-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -83297,6 +83312,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250731215600 +0800" stop="20250731224200 +0800">
 		<title lang="zh">31_欢乐颂4</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250731224200 +0800" stop="20250731225700 +0800">
+		<title lang="zh">南同虫草菌丝体洋参胶囊01</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -83865,6 +83883,9 @@
 	<programme channel="newtv炫舞未来" start="20250731222400 +0800" stop="20250731224000 +0800">
 		<title lang="zh">错位时空-孙爱迪（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250731224000 +0800" stop="20250731225300 +0800">
+		<title lang="zh">形体拉伸操-于航（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -84206,6 +84227,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250731222600 +0800" stop="20250731224500 +0800">
 		<title lang="zh">南同虫草菌丝体洋参胶囊01</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250731224500 +0800" stop="20250731001300 +0800">
+		<title lang="zh">混世四猴：神猴归来</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
