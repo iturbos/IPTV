@@ -26823,6 +26823,9 @@
 	<programme channel="咪咕综合体育" start="20250801193000 +0800" stop="20250801231500 +0800">
 		<title lang="zh">一杆定音-2025斯诺克上海大师赛 半决赛第1场 第二阶段 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250801231500 +0800" stop="20250801233000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -59232,6 +59235,9 @@
 	<programme channel="爱情喜剧" start="20250801224800 +0800" stop="20250801230700 +0800">
 		<title lang="zh">南同虫草菌丝体洋参胶囊01</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250801230700 +0800" stop="20250801235300 +0800">
+		<title lang="zh">13_滤镜</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -65036,6 +65042,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250801221400 +0800" stop="20250801230700 +0800">
 		<title lang="zh">遇鉴文明4K 雅韵美声 京剧与歌剧</title>
+	</programme>
+	<programme channel="纯享4K" start="20250801231400 +0800" stop="20250801232900 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 东汉拳勇画像石</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -81153,6 +81162,9 @@
 	<programme channel="黑莓电影" start="20250801214200 +0800" stop="20250801231300 +0800">
 		<title lang="zh">妈妈你真棒</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250801231300 +0800" stop="20250801003900 +0800">
+		<title lang="zh">忠犬情缘</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -82500,6 +82512,9 @@
 	<programme channel="newtv精品纪录" start="20250801223700 +0800" stop="20250801230700 +0800">
 		<title lang="zh">原味乡间b7长阳篇（上）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250801230700 +0800" stop="20250801233700 +0800">
+		<title lang="zh">02_勇者不惧</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82740,6 +82755,9 @@
 	<programme channel="newtv家庭剧场" start="20250801221900 +0800" stop="20250801230400 +0800">
 		<title lang="zh">11_珠江人家</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250801230400 +0800" stop="20250801233900 +0800">
+		<title lang="zh">美国云杉新一代东革阿里黑金能量丸-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -82886,6 +82904,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250801224800 +0800" stop="20250801230700 +0800">
 		<title lang="zh">南同虫草菌丝体洋参胶囊01</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250801230700 +0800" stop="20250801235300 +0800">
+		<title lang="zh">13_滤镜</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
