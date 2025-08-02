@@ -20094,6 +20094,9 @@
 	<programme channel="动作电影" start="20250802113300 +0800" stop="20250802132100 +0800">
 		<title lang="zh">上海王</title>
 	</programme>
+	<programme channel="动作电影" start="20250802132100 +0800" stop="20250802142200 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -27021,6 +27024,9 @@
 	<programme channel="咪咕综合体育" start="20250802122000 +0800" stop="20250802132000 +0800">
 		<title lang="zh">国球荣耀-2025WTT美国大满贯 女单半决赛 伊藤美诚-朱雨玲</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250802132000 +0800" stop="20250802134500 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -27053,6 +27059,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250802114500 +0800" stop="20250802131500 +0800">
 		<title lang="zh">我爱女篮-24/25WCBA季后赛1/4决赛第2轮 四川蜀道远达-江苏南钢</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250802132000 +0800" stop="20250802132500 +0800">
+		<title lang="zh">睛彩AI速报</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250802133500 +0800" stop="20250802141500 +0800">
+		<title lang="zh">西班牙黄金一代02 篮球万岁</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -61173,6 +61185,9 @@
 	<programme channel="爱情喜剧" start="20250802123900 +0800" stop="20250802132500 +0800">
 		<title lang="zh">04_蔷薇风暴</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250802132500 +0800" stop="20250802141000 +0800">
+		<title lang="zh">05_蔷薇风暴</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -67124,6 +67139,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250802130100 +0800" stop="20250802130600 +0800">
 		<title lang="zh">美丽中国自然4K 唐家河系列 四川羚牛</title>
+	</programme>
+	<programme channel="纯享4K" start="20250802130600 +0800" stop="20250802133600 +0800">
+		<title lang="zh">信仰的感召4K 觉醒兄弟 陈延年 陈乔年</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -83289,6 +83307,9 @@
 	<programme channel="黑莓电影" start="20250802115600 +0800" stop="20250802132900 +0800">
 		<title lang="zh">命运速递</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250802132900 +0800" stop="20250802150100 +0800">
+		<title lang="zh">为了明天升起的太阳</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -84258,6 +84279,9 @@
 	<programme channel="newtv超级体育" start="20250802121500 +0800" stop="20250802132000 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250802132000 +0800" stop="20250802134000 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -84350,6 +84374,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250802123000 +0800" stop="20250802131900 +0800">
 		<title lang="zh">07_爱的二八定律</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250802131900 +0800" stop="20250802140600 +0800">
+		<title lang="zh">08_爱的二八定律</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -84479,6 +84506,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250802121700 +0800" stop="20250802130400 +0800">
 		<title lang="zh">LECEA超轻结晶钛炒锅-渠道（右）</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250802130400 +0800" stop="20250802135000 +0800">
+		<title lang="zh">20_独孤天下</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -84612,6 +84642,9 @@
 	<programme channel="newtv热播精选" start="20250802124900 +0800" stop="20250802132800 +0800">
 		<title lang="zh">茯苓添康健康2</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250802132800 +0800" stop="20250802141300 +0800">
+		<title lang="zh">04_前夜</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -84651,6 +84684,9 @@
 	<programme channel="newtv爱情喜剧" start="20250802123900 +0800" stop="20250802132500 +0800">
 		<title lang="zh">04_蔷薇风暴</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250802132500 +0800" stop="20250802141000 +0800">
+		<title lang="zh">05_蔷薇风暴</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -84683,6 +84719,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250802113300 +0800" stop="20250802132100 +0800">
 		<title lang="zh">上海王</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250802132100 +0800" stop="20250802142200 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -84786,6 +84825,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250802125300 +0800" stop="20250802130200 +0800">
 		<title lang="zh">第28集：甘肃兰州 烤羔羊肉</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250802130200 +0800" stop="20250802133200 +0800">
+		<title lang="zh">龙血树叶粉</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -84870,6 +84912,9 @@
 	<programme channel="newtv军事评论" start="20250802125300 +0800" stop="20250802131500 +0800">
 		<title lang="zh">二战空袭大揭秘（六）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250802131500 +0800" stop="20250802133700 +0800">
+		<title lang="zh">二战空袭大揭秘（七）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84917,6 +84962,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250802124000 +0800" stop="20250802132000 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250802132000 +0800" stop="20250802133900 +0800">
+		<title lang="zh">小品《还不还》沈腾、马丽、艾伦、常远、王成思、许文赫</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
