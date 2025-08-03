@@ -71010,6 +71010,9 @@
 	<programme channel="超级电影" start="20250803143900 +0800" stop="20250803160600 +0800">
 		<title lang="zh">电影《复仇者格林：战事再起》</title>
 	</programme>
+	<programme channel="超级电影" start="20250803160600 +0800" stop="20250803172800 +0800">
+		<title lang="zh">电影《迷毒之东风破》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -83307,6 +83310,9 @@
 	<programme channel="newtv超级电影" start="20250803143900 +0800" stop="20250803160600 +0800">
 		<title lang="zh">电影《复仇者格林：战事再起》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250803160600 +0800" stop="20250803172800 +0800">
+		<title lang="zh">电影《迷毒之东风破》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -83484,6 +83490,9 @@
 	<programme channel="newtv精品纪录" start="20250803154700 +0800" stop="20250803161500 +0800">
 		<title lang="zh">义宁陈氏——君子气节（20250113）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250803161500 +0800" stop="20250803164300 +0800">
+		<title lang="zh">容城杨氏——丹心照万古（20250114）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -83639,6 +83648,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250803151500 +0800" stop="20250803160400 +0800">
 		<title lang="zh">飞利浦超薄三防全网通手机-渠道（右）</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250803160400 +0800" stop="20250803172800 +0800">
+		<title lang="zh">27_承欢记</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -83907,6 +83919,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250803152200 +0800" stop="20250803160700 +0800">
 		<title lang="zh">12_似锦</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250803160700 +0800" stop="20250803163700 +0800">
+		<title lang="zh">龙血树叶粉</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -84014,6 +84029,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250803155000 +0800" stop="20250803161200 +0800">
 		<title lang="zh">二战沙场b7阿登战役（上）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250803161200 +0800" stop="20250803163400 +0800">
+		<title lang="zh">利舰破浪行</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
