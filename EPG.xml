@@ -20142,6 +20142,108 @@
 	<programme channel="峨嵋电影" start="20250804231500 +0800" stop="20250804235900 +0800">
 		<title lang="zh">剧宝藏4:家国恩仇记(58)</title>
 	</programme>
+	<channel id="常州新闻">
+		<display-name lang="zh">常州新闻</display-name>
+	</channel>
+	<programme channel="常州新闻" start="20250804060000 +0800" stop="20250804063000 +0800">
+		<title lang="zh">奇趣大自然</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804063000 +0800" stop="20250804070000 +0800">
+		<title lang="zh">传奇</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804070000 +0800" stop="20250804070100 +0800">
+		<title lang="zh">国歌</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804070100 +0800" stop="20250804073200 +0800">
+		<title lang="zh">常州新闻</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804073200 +0800" stop="20250804082000 +0800">
+		<title lang="zh">社会写真</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804082000 +0800" stop="20250804100000 +0800">
+		<title lang="zh">活力剧场1</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804100000 +0800" stop="20250804105000 +0800">
+		<title lang="zh">活力剧场2</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804105000 +0800" stop="20250804115000 +0800">
+		<title lang="zh">健康小剧场</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804115000 +0800" stop="20250804120000 +0800">
+		<title lang="zh">联播常州</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804120000 +0800" stop="20250804123000 +0800">
+		<title lang="zh">常州新闻</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804123000 +0800" stop="20250804131000 +0800">
+		<title lang="zh">健康小剧场</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804131000 +0800" stop="20250804133500 +0800">
+		<title lang="zh">金色年华</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804133500 +0800" stop="20250804140500 +0800">
+		<title lang="zh">世界多美丽</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804140500 +0800" stop="20250804145000 +0800">
+		<title lang="zh">健康小剧场</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804145000 +0800" stop="20250804151500 +0800">
+		<title lang="zh">广告专题</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804151500 +0800" stop="20250804152500 +0800">
+		<title lang="zh">寻味龙城</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804152500 +0800" stop="20250804162000 +0800">
+		<title lang="zh">健康小剧场</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804162000 +0800" stop="20250804162900 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804162900 +0800" stop="20250804164400 +0800">
+		<title lang="zh">新华纵横</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804164400 +0800" stop="20250804172400 +0800">
+		<title lang="zh">健康小剧场</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804172400 +0800" stop="20250804180000 +0800">
+		<title lang="zh">龙城少儿风采</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804180000 +0800" stop="20250804183000 +0800">
+		<title lang="zh">人文中国</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804183000 +0800" stop="20250804190000 +0800">
+		<title lang="zh">常州新闻</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804190000 +0800" stop="20250804193300 +0800">
+		<title lang="zh">央视新闻联播</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804193300 +0800" stop="20250804194000 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804194000 +0800" stop="20250804203000 +0800">
+		<title lang="zh">黄金剧场(1)</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804203000 +0800" stop="20250804212000 +0800">
+		<title lang="zh">黄金剧场(2)</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804212000 +0800" stop="20250804215000 +0800">
+		<title lang="zh">常州新闻</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804215000 +0800" stop="20250804220000 +0800">
+		<title lang="zh">常州高新区新闻</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804220000 +0800" stop="20250804221500 +0800">
+		<title lang="zh">联播常州</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804221500 +0800" stop="20250804223000 +0800">
+		<title lang="zh">新华纵横</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804223000 +0800" stop="20250804231500 +0800">
+		<title lang="zh">社会写真</title>
+	</programme>
+	<programme channel="常州新闻" start="20250804231500 +0800" stop="20250804060000 +0800">
+		<title lang="zh">结束</title>
+	</programme>
 	<channel id="幼儿教育">
 		<display-name lang="zh">幼儿教育</display-name>
 	</channel>
@@ -45270,6 +45372,9 @@
 	<programme channel="newtv超级综艺" start="20250804034000 +0800" stop="20250804041200 +0800">
 		<title lang="zh">敬浓烈的生活</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250804041200 +0800" stop="20250804054200 +0800">
+		<title lang="zh">金牌喜剧班</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -45458,6 +45563,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250804024000 +0800" stop="20250804040400 +0800">
 		<title lang="zh">34_榜上佳婿</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250804040400 +0800" stop="20250804045000 +0800">
+		<title lang="zh">35_榜上佳婿</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
