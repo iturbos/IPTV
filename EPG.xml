@@ -38541,6 +38541,9 @@
 	<programme channel="纯享4K" start="20250806045800 +0800" stop="20250806050300 +0800">
 		<title lang="zh">美丽中国自然4K 呼伦贝尔系列 林下精灵</title>
 	</programme>
+	<programme channel="纯享4K" start="20250806050800 +0800" stop="20250806053800 +0800">
+		<title lang="zh">美丽中国说4K </title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -48306,6 +48309,9 @@
 	<programme channel="newtv超级电影" start="20250806045100 +0800" stop="20250806051600 +0800">
 		<title lang="zh">北京爱情故事 青年篇</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250806051600 +0800" stop="20250806053500 +0800">
+		<title lang="zh">北京爱情故事 中年篇</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -48326,6 +48332,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250806041500 +0800" stop="20250806050000 +0800">
 		<title lang="zh">34_我的后半生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250806050000 +0800" stop="20250806054600 +0800">
+		<title lang="zh">35_我的后半生</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -48377,6 +48386,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250806035400 +0800" stop="20250806050300 +0800">
 		<title lang="zh">16_天行健</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250806050300 +0800" stop="20250806061900 +0800">
+		<title lang="zh">17_天行健</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -48477,6 +48489,9 @@
 	<programme channel="newtv怡伴健康" start="20250806042200 +0800" stop="20250806050600 +0800">
 		<title lang="zh">16_大武当</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250806050600 +0800" stop="20250806061100 +0800">
+		<title lang="zh">17_大武当</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -48521,6 +48536,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250806045200 +0800" stop="20250806051400 +0800">
 		<title lang="zh">谁是军营厨王（36）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250806051400 +0800" stop="20250806053600 +0800">
+		<title lang="zh">谁是军营厨王（37）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
