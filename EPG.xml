@@ -38427,6 +38427,9 @@
 	<programme channel="纯享4K" start="20250806024500 +0800" stop="20250806033400 +0800">
 		<title lang="zh">世界遗产漫步 中国南方喀斯特4K 第1集</title>
 	</programme>
+	<programme channel="纯享4K" start="20250806033400 +0800" stop="20250806041600 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 时光长河 古韵悠悠</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -47850,6 +47853,9 @@
 	<programme channel="黑莓动画" start="20250806015900 +0800" stop="20250806032800 +0800">
 		<title lang="zh">海绵宝宝：水兵陆战队</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250806032800 +0800" stop="20250806045900 +0800">
+		<title lang="zh">太空夺旗</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -48162,6 +48168,9 @@
 	<programme channel="newtv超级体育" start="20250806023600 +0800" stop="20250806040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 6</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250806040000 +0800" stop="20250806053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第20轮 摩纳哥-欧塞尔(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -48188,6 +48197,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250806024000 +0800" stop="20250806032500 +0800">
 		<title lang="zh">40_特战荣耀</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250806032900 +0800" stop="20250806041500 +0800">
+		<title lang="zh">33_我的后半生</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -48228,6 +48240,9 @@
 	<programme channel="newtv古装剧场" start="20250806023800 +0800" stop="20250806035400 +0800">
 		<title lang="zh">25_庆余年</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250806035400 +0800" stop="20250806050300 +0800">
+		<title lang="zh">16_天行健</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -48252,6 +48267,9 @@
 	<programme channel="newtv家庭剧场" start="20250806025100 +0800" stop="20250806033100 +0800">
 		<title lang="zh">13_亲爱的仇敌</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250806033100 +0800" stop="20250806045300 +0800">
+		<title lang="zh">14_亲爱的仇敌</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -48272,6 +48290,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250806020600 +0800" stop="20250806033100 +0800">
 		<title lang="zh">34_生活就是家</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250806033100 +0800" stop="20250806045600 +0800">
+		<title lang="zh">35_生活就是家</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -48299,6 +48320,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250806024600 +0800" stop="20250806033400 +0800">
 		<title lang="zh">大猫乐园</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250806033400 +0800" stop="20250806042200 +0800">
+		<title lang="zh">魅力大猫（上）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -48330,6 +48354,9 @@
 	<programme channel="newtv军事评论" start="20250806024300 +0800" stop="20250806033700 +0800">
 		<title lang="zh">五月青春季特别节目《以青春的名义》 第3集 逐风而行</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250806033700 +0800" stop="20250806043000 +0800">
+		<title lang="zh">老兵的茶香之歌</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -48347,6 +48374,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250806015600 +0800" stop="20250806034700 +0800">
 		<title lang="zh">一见你就笑</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250806034700 +0800" stop="20250806045700 +0800">
+		<title lang="zh">18_铁血使命</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -48422,6 +48452,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250806013400 +0800" stop="20250806032300 +0800">
 		<title lang="zh">武动乾坤：九重符塔</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250806032300 +0800" stop="20250806042000 +0800">
+		<title lang="zh">女子南拳决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
