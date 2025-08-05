@@ -43098,6 +43098,9 @@
 	<programme channel="明星大片" start="20250805214800 +0800" stop="20250805223300 +0800">
 		<title lang="zh">33_承欢记</title>
 	</programme>
+	<programme channel="明星大片" start="20250805223300 +0800" stop="20250805000200 +0800">
+		<title lang="zh">绝地危机</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -83493,6 +83496,9 @@
 	<programme channel="newtv超级体育" start="20250805214500 +0800" stop="20250805225000 +0800">
 		<title lang="zh">体育世界</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250805225000 +0800" stop="20250805010500 +0800">
+		<title lang="zh">2025年男篮亚洲杯-小组赛(中国队-沙特阿拉伯队)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -83640,6 +83646,9 @@
 	<programme channel="newtv超级电视剧" start="20250805220700 +0800" stop="20250805225200 +0800">
 		<title lang="zh">30_女士的法则</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250805225200 +0800" stop="20250805233800 +0800">
+		<title lang="zh">31_女士的法则</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -83726,6 +83735,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250805215600 +0800" stop="20250805223900 +0800">
 		<title lang="zh">22_我和我爸的十七岁</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250805223900 +0800" stop="20250805232300 +0800">
+		<title lang="zh">23_我和我爸的十七岁</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -83843,6 +83855,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250805221400 +0800" stop="20250805224400 +0800">
 		<title lang="zh">巴科隆钛养生壶 CD-E318</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250805224400 +0800" stop="20250805225900 +0800">
+		<title lang="zh">09_陕甘新颜</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -84669,6 +84684,9 @@
 	<programme channel="newtv军事评论" start="20250805222000 +0800" stop="20250805224500 +0800">
 		<title lang="zh">马英九办公室痛批赖清德“新两国论”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250805224500 +0800" stop="20250805231000 +0800">
+		<title lang="zh">蔡英文三点叮咛 赖清德很难堪</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84765,6 +84783,9 @@
 	<programme channel="newtv炫舞未来" start="20250805215400 +0800" stop="20250805224400 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250805224400 +0800" stop="20250805225800 +0800">
+		<title lang="zh">触电-李萍（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -84833,6 +84854,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250805214800 +0800" stop="20250805223300 +0800">
 		<title lang="zh">33_承欢记</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250805223300 +0800" stop="20250805000200 +0800">
+		<title lang="zh">绝地危机</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -85109,6 +85133,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250805214900 +0800" stop="20250805223500 +0800">
 		<title lang="zh">44_倚天屠龙记</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250805223500 +0800" stop="20250805234200 +0800">
+		<title lang="zh">封神之九曲黄河阵</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
