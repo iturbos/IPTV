@@ -16074,6 +16074,9 @@
 	<programme channel="咪咕综合体育" start="20250810010000 +0800" stop="20250810051000 +0800">
 		<title lang="zh">2025斯诺克上海大师赛第2轮 丁俊晖-张安达</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250810051000 +0800" stop="20250810074000 +0800">
+		<title lang="zh">2025揭阳马拉松</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -38871,6 +38874,9 @@
 	<programme channel="纯享4K" start="20250810045700 +0800" stop="20250810050300 +0800">
 		<title lang="zh">美丽中国自然4K 江苏盐城系列 沙洲仙境</title>
 	</programme>
+	<programme channel="纯享4K" start="20250810050800 +0800" stop="20250810053800 +0800">
+		<title lang="zh">村庄故事4K 枣香乾坤湾（上）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -48918,6 +48924,9 @@
 	<programme channel="newtv超级电视剧" start="20250810043000 +0800" stop="20250810051200 +0800">
 		<title lang="zh">14_热血青春</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250810051200 +0800" stop="20250810055300 +0800">
+		<title lang="zh">15_热血青春</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -49134,6 +49143,9 @@
 	<programme channel="newtv炫舞未来" start="20250810050100 +0800" stop="20250810050300 +0800">
 		<title lang="zh">广场舞金曲《福气东来》舞蹈：王广成 段睿 等</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250810051100 +0800" stop="20250810054900 +0800">
+		<title lang="zh">巧用动作调体态（20240702）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -49160,6 +49172,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250810034700 +0800" stop="20250810050700 +0800">
 		<title lang="zh">魁拔之幽弥狂</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250810050700 +0800" stop="20250810063600 +0800">
+		<title lang="zh">武动乾坤：九重符塔</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
