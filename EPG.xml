@@ -84537,6 +84537,9 @@
 	<programme channel="newtv超级体育" start="20250809185000 +0800" stop="20250809210500 +0800">
 		<title lang="zh">2025年男篮亚洲杯-小组赛(中国队-约旦队)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250809210500 +0800" stop="20250809220000 +0800">
+		<title lang="zh">2025年成都世界运动会-蹦床,技巧决赛等</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -84665,6 +84668,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250809201700 +0800" stop="20250809210200 +0800">
 		<title lang="zh">26_新居之约</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250809210200 +0800" stop="20250809214800 +0800">
+		<title lang="zh">27_新居之约</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
