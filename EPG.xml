@@ -66597,6 +66597,9 @@
 	<programme channel="纯享4K" start="20250810130100 +0800" stop="20250810130700 +0800">
 		<title lang="zh">美丽中国自然4K 江苏盐城系列 鹳舞东方</title>
 	</programme>
+	<programme channel="纯享4K" start="20250810130700 +0800" stop="20250810133700 +0800">
+		<title lang="zh">村庄故事4K 枣香乾坤湾（上）</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -83967,6 +83970,9 @@
 	<programme channel="newtv超级体育" start="20250810120000 +0800" stop="20250810130500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250810130500 +0800" stop="20250810132500 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -84141,6 +84147,9 @@
 	<programme channel="newtv精品纪录" start="20250810124600 +0800" stop="20250810131100 +0800">
 		<title lang="zh">02_就是要跑</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250810131100 +0800" stop="20250810140000 +0800">
+		<title lang="zh">帕米便携式氢氧一体机特价款-渠道（右）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -84182,6 +84191,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250810122600 +0800" stop="20250810130600 +0800">
 		<title lang="zh">08_御赐小仵作</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250810130600 +0800" stop="20250810134600 +0800">
+		<title lang="zh">09_御赐小仵作</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
