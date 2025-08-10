@@ -39267,6 +39267,9 @@
 	<programme channel="纯享4K" start="20250811045900 +0800" stop="20250811050400 +0800">
 		<title lang="zh">美丽中国自然4K 江苏盐城系列 暗夜鸬鹚</title>
 	</programme>
+	<programme channel="纯享4K" start="20250811050900 +0800" stop="20250811053900 +0800">
+		<title lang="zh">村庄故事4K 山水岩龙（上）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -48168,6 +48171,9 @@
 	<programme channel="newtv古装剧场" start="20250811035500 +0800" stop="20250811050800 +0800">
 		<title lang="zh">31_天行健</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250811050800 +0800" stop="20250811062500 +0800">
+		<title lang="zh">32_天行健</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -48231,6 +48237,9 @@
 	<programme channel="newtv爱情喜剧" start="20250811034000 +0800" stop="20250811050200 +0800">
 		<title lang="zh">12_乔家的儿女</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250811050200 +0800" stop="20250811061800 +0800">
+		<title lang="zh">13_乔家的儿女</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -48245,6 +48254,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250811042500 +0800" stop="20250811050400 +0800">
 		<title lang="zh">茯苓添康健康2</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250811050400 +0800" stop="20250811065100 +0800">
+		<title lang="zh">混世四猴：神猴归来</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -48345,6 +48357,9 @@
 	<programme channel="newtv精品综合" start="20250811020800 +0800" stop="20250811050800 +0800">
 		<title lang="zh">令人心动的offer第5季</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250811050800 +0800" stop="20250811065400 +0800">
+		<title lang="zh">33_铁血使命</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -48434,6 +48449,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250811034400 +0800" stop="20250811050500 +0800">
 		<title lang="zh">男子长拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250811050500 +0800" stop="20250811063300 +0800">
+		<title lang="zh">男子南拳决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
