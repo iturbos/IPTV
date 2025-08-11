@@ -58585,6 +58585,9 @@
 	<programme channel="爱情喜剧" start="20250811172900 +0800" stop="20250811190500 +0800">
 		<title lang="zh">娜希德</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250811190500 +0800" stop="20250811193500 +0800">
+		<title lang="zh">《添能羊奶粉推荐》</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -79522,6 +79525,9 @@
 	<programme channel="黑莓电影" start="20250811172600 +0800" stop="20250811190600 +0800">
 		<title lang="zh">谎言西西里</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250811190600 +0800" stop="20250811205200 +0800">
+		<title lang="zh">解救吾先生</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -80686,6 +80692,9 @@
 	<programme channel="newtv精品纪录" start="20250811182400 +0800" stop="20250811190300 +0800">
 		<title lang="zh">第一集 移山之智</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250811190300 +0800" stop="20250811194200 +0800">
+		<title lang="zh">第二集 宏伟工程</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -80751,6 +80760,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250811182800 +0800" stop="20250811190700 +0800">
 		<title lang="zh">14_永夜星河</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250811190700 +0800" stop="20250811193700 +0800">
+		<title lang="zh">《八段锦》推荐第30期</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -81006,6 +81018,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250811172900 +0800" stop="20250811190500 +0800">
 		<title lang="zh">娜希德</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250811190500 +0800" stop="20250811193500 +0800">
+		<title lang="zh">《添能羊奶粉推荐》</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -81340,6 +81355,9 @@
 	<programme channel="newtv军事评论" start="20250811185600 +0800" stop="20250811191600 +0800">
 		<title lang="zh">红箭传奇</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250811191600 +0800" stop="20250811193600 +0800">
+		<title lang="zh">军武时光机（10）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -81420,6 +81438,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250811181600 +0800" stop="20250811190600 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250811190600 +0800" stop="20250811200600 +0800">
+		<title lang="zh">我愿为你发光</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -81583,6 +81604,9 @@
 	<programme channel="newtv金牌综艺" start="20250811180400 +0800" stop="20250811190300 +0800">
 		<title lang="zh">开始推理吧第2季</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250811190300 +0800" stop="20250811195300 +0800">
+		<title lang="zh">盛世国宝熊猫币珍藏组-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -81723,6 +81747,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250811181800 +0800" stop="20250811190200 +0800">
 		<title lang="zh">15_且试天下</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250811190200 +0800" stop="20250811193200 +0800">
+		<title lang="zh">《八段锦》推荐第30期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
