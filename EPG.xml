@@ -60382,6 +60382,9 @@
 	<programme channel="爱情喜剧" start="20250812120900 +0800" stop="20250812125900 +0800">
 		<title lang="zh">盛世国宝熊猫币珍藏组-渠道（右）</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250812125900 +0800" stop="20250812141500 +0800">
+		<title lang="zh">13_大奉打更人</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -66207,6 +66210,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250812121900 +0800" stop="20250812130100 +0800">
 		<title lang="zh">远方的家4K 我家那片海 依港而兴 魅力钦州</title>
+	</programme>
+	<programme channel="纯享4K" start="20250812131100 +0800" stop="20250812134100 +0800">
+		<title lang="zh">村庄故事4K 寻根右龙</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -84307,6 +84313,9 @@
 	<programme channel="newtv精品纪录" start="20250812122800 +0800" stop="20250812125200 +0800">
 		<title lang="zh">03_来电了</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250812125200 +0800" stop="20250812131700 +0800">
+		<title lang="zh">04_我们的生活比蜜甜</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -84348,6 +84357,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250812120200 +0800" stop="20250812131200 +0800">
 		<title lang="zh">16_御赐小仵作</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250812131200 +0800" stop="20250812135100 +0800">
+		<title lang="zh">17_御赐小仵作</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -84475,6 +84487,9 @@
 	<programme channel="newtv热播精选" start="20250812115000 +0800" stop="20250812131300 +0800">
 		<title lang="zh">巨蟒1</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250812131300 +0800" stop="20250812140300 +0800">
+		<title lang="zh">盛世国宝熊猫币珍藏组-渠道（右）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -84507,6 +84522,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250812120900 +0800" stop="20250812125900 +0800">
 		<title lang="zh">盛世国宝熊猫币珍藏组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250812125900 +0800" stop="20250812141500 +0800">
+		<title lang="zh">13_大奉打更人</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -84643,6 +84661,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250812123100 +0800" stop="20250812125200 +0800">
 		<title lang="zh">03_国际版味道云南</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250812125200 +0800" stop="20250812132100 +0800">
+		<title lang="zh">龙血树叶粉</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -84721,6 +84742,9 @@
 	<programme channel="newtv军事评论" start="20250812123700 +0800" stop="20250812125900 +0800">
 		<title lang="zh">二战生死战 轰炸亚眠</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250812125900 +0800" stop="20250812132100 +0800">
+		<title lang="zh">二战生死战 激战科希马</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84768,6 +84792,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250812122100 +0800" stop="20250812131000 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250812131000 +0800" stop="20250812141000 +0800">
+		<title lang="zh">选对健康（20250425）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
