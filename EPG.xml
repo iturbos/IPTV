@@ -20782,6 +20782,9 @@
 	<programme channel="动作电影" start="20250812144700 +0800" stop="20250812160600 +0800">
 		<title lang="zh">山寨大黄蜂</title>
 	</programme>
+	<programme channel="动作电影" start="20250812160600 +0800" stop="20250812164600 +0800">
+		<title lang="zh">茯苓添康健康2</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -60448,6 +60451,9 @@
 	<programme channel="爱情喜剧" start="20250812152100 +0800" stop="20250812160700 +0800">
 		<title lang="zh">15_大奉打更人</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250812160700 +0800" stop="20250812165400 +0800">
+		<title lang="zh">16_大奉打更人</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -66291,6 +66297,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250812154300 +0800" stop="20250812160700 +0800">
 		<title lang="zh">鲜生史 第二季4K 第7集 陆游 卷王美食诗人的养成之路</title>
+	</programme>
+	<programme channel="纯享4K" start="20250812160700 +0800" stop="20250812163700 +0800">
+		<title lang="zh">记住乡愁4K第七季 第三集 兴化——妈祖故里 挑山担海（下）</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -84736,6 +84745,9 @@
 	<programme channel="newtv爱情喜剧" start="20250812152100 +0800" stop="20250812160700 +0800">
 		<title lang="zh">15_大奉打更人</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250812160700 +0800" stop="20250812165400 +0800">
+		<title lang="zh">16_大奉打更人</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -84774,6 +84786,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250812144700 +0800" stop="20250812160600 +0800">
 		<title lang="zh">山寨大黄蜂</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250812160600 +0800" stop="20250812164600 +0800">
+		<title lang="zh">茯苓添康健康2</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -85005,6 +85020,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250812155100 +0800" stop="20250812161100 +0800">
 		<title lang="zh">智胜未来（1）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250812161100 +0800" stop="20250812163300 +0800">
+		<title lang="zh">智胜未来（2）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
