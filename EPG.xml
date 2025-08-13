@@ -60346,6 +60346,9 @@
 	<programme channel="爱情喜剧" start="20250813144500 +0800" stop="20250813151500 +0800">
 		<title lang="zh">宝岛台湾高粱酒</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250813151500 +0800" stop="20250813160500 +0800">
+		<title lang="zh">20_大奉打更人</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -83113,6 +83116,9 @@
 	<programme channel="newtv精品纪录" start="20250813141900 +0800" stop="20250813150400 +0800">
 		<title lang="zh">01_战沙安土</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250813150400 +0800" stop="20250813154800 +0800">
+		<title lang="zh">02_兴草茂林</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -83317,6 +83323,9 @@
 	<programme channel="newtv热播精选" start="20250813143600 +0800" stop="20250813151500 +0800">
 		<title lang="zh">茯苓添康健康1</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250813151500 +0800" stop="20250813155100 +0800">
+		<title lang="zh">07_双探</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -83358,6 +83367,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250813144500 +0800" stop="20250813151500 +0800">
 		<title lang="zh">宝岛台湾高粱酒</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250813151500 +0800" stop="20250813160500 +0800">
+		<title lang="zh">20_大奉打更人</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -83904,6 +83916,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250813142600 +0800" stop="20250813151000 +0800">
 		<title lang="zh">17_九流霸主</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250813151000 +0800" stop="20250813154900 +0800">
+		<title lang="zh">茯苓添康健康1</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
