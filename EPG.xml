@@ -40392,6 +40392,9 @@
 	<programme channel="纯享4K" start="20250815042800 +0800" stop="20250815051000 +0800">
 		<title lang="zh">远方的家4K 我家那片海 扬帆出海 乐游海岛</title>
 	</programme>
+	<programme channel="纯享4K" start="20250815051500 +0800" stop="20250815052100 +0800">
+		<title lang="zh">美丽中国自然4K 川西胜境系列 红石滩</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51216,6 +51219,9 @@
 	<programme channel="newtv超级综艺" start="20250815034400 +0800" stop="20250815051200 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250815051200 +0800" stop="20250815061200 +0800">
+		<title lang="zh">非常6+1</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -51245,6 +51251,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250815034400 +0800" stop="20250815051000 +0800">
 		<title lang="zh">如何成为好妻子</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250815051000 +0800" stop="20250815053300 +0800">
+		<title lang="zh">我和我的家乡-回乡之路</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -51420,6 +51429,9 @@
 	<programme channel="newtv怡伴健康" start="20250815042600 +0800" stop="20250815051500 +0800">
 		<title lang="zh">09_骊歌行</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250815051500 +0800" stop="20250815060400 +0800">
+		<title lang="zh">10_骊歌行</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -51459,6 +51471,9 @@
 	<programme channel="newtv军事评论" start="20250815044300 +0800" stop="20250815051000 +0800">
 		<title lang="zh">走进“雷锋连”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250815051000 +0800" stop="20250815053700 +0800">
+		<title lang="zh">协同救援</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -51494,6 +51509,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250815045000 +0800" stop="20250815051100 +0800">
 		<title lang="zh">健身舞《最美最美的中国》（20241001）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250815051100 +0800" stop="20250815062800 +0800">
+		<title lang="zh">相差二十五岁的跨国小夫妻 缘起中国书写别样浪漫（20240911）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
