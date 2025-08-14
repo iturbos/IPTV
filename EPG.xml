@@ -28555,6 +28555,9 @@
 	<programme channel="咪咕综合体育" start="20250814150500 +0800" stop="20250814152000 +0800">
 		<title lang="zh">睛彩圈圈点第五期</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250814152000 +0800" stop="20250814160000 +0800">
+		<title lang="zh">国球荣耀-2025国际乒联多哈世乒赛 女单半决赛 陈幸同-王曼昱</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -61528,6 +61531,9 @@
 	<programme channel="爱情喜剧" start="20250814143500 +0800" stop="20250814150500 +0800">
 		<title lang="zh">宝岛台湾高粱酒</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250814150500 +0800" stop="20250814155100 +0800">
+		<title lang="zh">25_大奉打更人</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -72633,6 +72639,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250814135900 +0800" stop="20250814152200 +0800">
 		<title lang="zh">电影《兴安岭猎人传说》</title>
+	</programme>
+	<programme channel="超级电影" start="20250814152200 +0800" stop="20250814164400 +0800">
+		<title lang="zh">电影《梦想之门》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -85045,6 +85054,9 @@
 	<programme channel="newtv超级电影" start="20250814135900 +0800" stop="20250814152200 +0800">
 		<title lang="zh">电影《兴安岭猎人传说》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250814152200 +0800" stop="20250814164400 +0800">
+		<title lang="zh">电影《梦想之门》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -85258,6 +85270,9 @@
 	<programme channel="newtv古装剧场" start="20250814143400 +0800" stop="20250814151300 +0800">
 		<title lang="zh">26_御赐小仵作</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250814151300 +0800" stop="20250814161800 +0800">
+		<title lang="zh">茯苓添康健康1</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -85449,6 +85464,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250814143500 +0800" stop="20250814150500 +0800">
 		<title lang="zh">宝岛台湾高粱酒</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250814150500 +0800" stop="20250814155100 +0800">
+		<title lang="zh">25_大奉打更人</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -85693,6 +85711,9 @@
 	<programme channel="newtv军事评论" start="20250814144900 +0800" stop="20250814151100 +0800">
 		<title lang="zh">神秘的轰炸机</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250814151100 +0800" stop="20250814153300 +0800">
+		<title lang="zh">特工南希</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85764,6 +85785,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250814144900 +0800" stop="20250814150200 +0800">
 		<title lang="zh">情深深雨蒙蒙-李萍</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250814151300 +0800" stop="20250814152700 +0800">
+		<title lang="zh">大田后生仔-李莹</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -85998,6 +86022,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250814143000 +0800" stop="20250814151500 +0800">
 		<title lang="zh">20_九流霸主</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250814151500 +0800" stop="20250814155400 +0800">
+		<title lang="zh">茯苓添康健康1</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
