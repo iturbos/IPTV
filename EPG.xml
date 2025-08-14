@@ -16908,11 +16908,17 @@
 	<programme channel="咪咕综合体育" start="20250815000000 +0800" stop="20250815011500 +0800">
 		<title lang="zh">一杆定音-2025斯诺克上海大师赛半决赛 塞尔比-卡特 第二阶段</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250815011500 +0800" stop="20250815021000 +0800">
+		<title lang="zh">纪录片曼联92班第二季 第一集</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
 	<programme channel="咪咕足球" start="20250815000100 +0800" stop="20250815012100 +0800">
 		<title lang="zh">村BA</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250815012100 +0800" stop="20250815013000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -40251,6 +40257,9 @@
 	<programme channel="纯享4K" start="20250815003900 +0800" stop="20250815010900 +0800">
 		<title lang="zh">记住乡愁4K第七季 第十集 亳州——中华药都 厚道立世</title>
 	</programme>
+	<programme channel="纯享4K" start="20250815010900 +0800" stop="20250815013800 +0800">
+		<title lang="zh">味道4K 原味乡间b7鹤山篇（上）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51036,6 +51045,9 @@
 	<programme channel="newtv炫舞未来" start="20250815004100 +0800" stop="20250815011500 +0800">
 		<title lang="zh">06_国泰民安</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250815011500 +0800" stop="20250815012700 +0800">
+		<title lang="zh">百花香-饶子龙（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -51045,41 +51057,8 @@
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
-	<programme channel="newtv惊悚悬疑" start="20250815000000 +0800" stop="20250815020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250815020000 +0800" stop="20250815040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250815060000 +0800" stop="20250815080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250815080000 +0800" stop="20250815100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250815100600 +0800" stop="20250815120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250815120000 +0800" stop="20250815140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250815140000 +0800" stop="20250815160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250815160000 +0800" stop="20250815180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250815180000 +0800" stop="20250815190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250815190000 +0800" stop="20250815200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250815200000 +0800" stop="20250815220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250815220000 +0800" stop="20250815235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv惊悚悬疑" start="20250815010300 +0800" stop="20250815013400 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
