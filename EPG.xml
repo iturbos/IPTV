@@ -28663,6 +28663,9 @@
 	<programme channel="咪咕综合体育" start="20250815144000 +0800" stop="20250815150500 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250815152000 +0800" stop="20250815160000 +0800">
+		<title lang="zh">国球荣耀-2025乒乓球亚洲杯 男单铜牌赛 林诗栋-林昀儒</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -61390,6 +61393,9 @@
 	<programme channel="爱情喜剧" start="20250815142800 +0800" stop="20250815151600 +0800">
 		<title lang="zh">29_大奉打更人</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250815151600 +0800" stop="20250815160400 +0800">
+		<title lang="zh">30_大奉打更人</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -85285,6 +85291,9 @@
 	<programme channel="newtv超级综艺" start="20250815132700 +0800" stop="20250815151500 +0800">
 		<title lang="zh">此生要去的100个地方</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250815151500 +0800" stop="20250815161500 +0800">
+		<title lang="zh">非常6+1</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -85579,6 +85588,9 @@
 	<programme channel="newtv古装剧场" start="20250815143200 +0800" stop="20250815150800 +0800">
 		<title lang="zh">30_御赐小仵作</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250815150800 +0800" stop="20250815161400 +0800">
+		<title lang="zh">茯苓添康健康1</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -85623,6 +85635,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250815135600 +0800" stop="20250815151400 +0800">
 		<title lang="zh">01_红色娘子军</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250815151400 +0800" stop="20250815163100 +0800">
+		<title lang="zh">02_红色娘子军</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -85773,6 +85788,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250815142800 +0800" stop="20250815151600 +0800">
 		<title lang="zh">29_大奉打更人</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250815151600 +0800" stop="20250815160400 +0800">
+		<title lang="zh">30_大奉打更人</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -86026,6 +86044,9 @@
 	<programme channel="newtv军事评论" start="20250815144400 +0800" stop="20250815150600 +0800">
 		<title lang="zh">二战东线战记b7闪击（上）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250815150600 +0800" stop="20250815152800 +0800">
+		<title lang="zh">二战东线战记b7闪击（下）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -86097,6 +86118,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250815142500 +0800" stop="20250815151000 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250815151000 +0800" stop="20250815152100 +0800">
+		<title lang="zh">对面的小姐姐-李莹</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -86328,6 +86352,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250815143000 +0800" stop="20250815151600 +0800">
 		<title lang="zh">23_九流霸主</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250815151600 +0800" stop="20250815155500 +0800">
+		<title lang="zh">茯苓添康健康1</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
