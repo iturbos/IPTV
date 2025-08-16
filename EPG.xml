@@ -28081,6 +28081,9 @@
 	<programme channel="咪咕综合体育" start="20250816120000 +0800" stop="20250816120500 +0800">
 		<title lang="zh">睛彩AI速报</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250816120500 +0800" stop="20250816123000 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第五期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -72670,6 +72673,9 @@
 	<programme channel="超级电影" start="20250816115500 +0800" stop="20250816120500 +0800">
 		<title lang="zh">音乐电影欣赏</title>
 	</programme>
+	<programme channel="超级电影" start="20250816120500 +0800" stop="20250816135000 +0800">
+		<title lang="zh">电影《海浪》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -85342,6 +85348,9 @@
 	<programme channel="newtv超级电影" start="20250816115500 +0800" stop="20250816120500 +0800">
 		<title lang="zh">音乐电影欣赏</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250816120500 +0800" stop="20250816135000 +0800">
+		<title lang="zh">电影《海浪》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -85563,6 +85572,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250816112400 +0800" stop="20250816120500 +0800">
 		<title lang="zh">31_热血青春</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250816120500 +0800" stop="20250816124500 +0800">
+		<title lang="zh">《超级美味》推荐第2期</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -85909,6 +85921,9 @@
 	<programme channel="newtv炫舞未来" start="20250816105000 +0800" stop="20250816120700 +0800">
 		<title lang="zh">方秀惠现场教学多民族舞蹈 青春老男孩现场遭民间高手挑战飙歌（20250301）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250816120700 +0800" stop="20250816125200 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -86100,6 +86115,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250816114300 +0800" stop="20250816120100 +0800">
 		<title lang="zh">南同虫草菌丝体洋参胶囊新版1</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250816120100 +0800" stop="20250816133100 +0800">
+		<title lang="zh">寻侠英雄传之飞贼</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
