@@ -44587,6 +44587,9 @@
 	<programme channel="明星大片" start="20250816213200 +0800" stop="20250816230500 +0800">
 		<title lang="zh">20_舍不得星星</title>
 	</programme>
+	<programme channel="明星大片" start="20250816230500 +0800" stop="20250816002700 +0800">
+		<title lang="zh">九辫灵狐</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -73339,6 +73342,9 @@
 	<programme channel="超级电影" start="20250816213700 +0800" stop="20250816231000 +0800">
 		<title lang="zh">电影《变体》</title>
 	</programme>
+	<programme channel="超级电影" start="20250816231000 +0800" stop="20250816005500 +0800">
+		<title lang="zh">电影《鬼吹灯之南海归墟》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -85231,6 +85237,9 @@
 	<programme channel="黑莓电影" start="20250816211000 +0800" stop="20250816231200 +0800">
 		<title lang="zh">独行月球</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250816231200 +0800" stop="20250816003700 +0800">
+		<title lang="zh">暗影</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -86203,6 +86212,9 @@
 	<programme channel="newtv超级综艺" start="20250816221900 +0800" stop="20250816231400 +0800">
 		<title lang="zh">勇者之战</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250816231400 +0800" stop="20250816235800 +0800">
+		<title lang="zh">31_功勋</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -86314,6 +86326,9 @@
 	<programme channel="newtv超级电影" start="20250816213700 +0800" stop="20250816231000 +0800">
 		<title lang="zh">电影《变体》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250816231000 +0800" stop="20250816005500 +0800">
+		<title lang="zh">电影《鬼吹灯之南海归墟》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -86409,6 +86424,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250816223100 +0800" stop="20250816231600 +0800">
 		<title lang="zh">24_大嫁风尚</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250816231600 +0800" stop="20250816000100 +0800">
+		<title lang="zh">25_大嫁风尚</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -87208,6 +87226,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250816223700 +0800" stop="20250816230700 +0800">
 		<title lang="zh">宝岛台湾高粱酒</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250816230700 +0800" stop="20250816002200 +0800">
+		<title lang="zh">怪谈五命河</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -87543,6 +87564,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250816213200 +0800" stop="20250816230500 +0800">
 		<title lang="zh">20_舍不得星星</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250816230500 +0800" stop="20250816002700 +0800">
+		<title lang="zh">九辫灵狐</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
