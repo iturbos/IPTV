@@ -28198,6 +28198,9 @@
 	<programme channel="咪咕综合体育" start="20250816190000 +0800" stop="20250816212000 +0800">
 		<title lang="zh">中超来噜-2025赛季中超 第21轮 青岛西海岸-北京国安 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250816212000 +0800" stop="20250816212500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -87474,6 +87477,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250816202600 +0800" stop="20250816212100 +0800">
 		<title lang="zh">绽放吧！妈妈</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250816212100 +0800" stop="20250816221000 +0800">
+		<title lang="zh">飞利浦超薄三防全网通手机-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
