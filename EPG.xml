@@ -20803,6 +20803,9 @@
 	<programme channel="动作电影" start="20250817200400 +0800" stop="20250817211600 +0800">
 		<title lang="zh">夺命巨鳄</title>
 	</programme>
+	<programme channel="动作电影" start="20250817211600 +0800" stop="20250817214600 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -28281,6 +28284,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250817183000 +0800" stop="20250817211000 +0800">
 		<title lang="zh">2025国际篮联男篮亚洲杯 季军赛 直播</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250817212000 +0800" stop="20250817222000 +0800">
+		<title lang="zh">超级三对三-2025超三联赛</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -68197,6 +68203,9 @@
 	<programme channel="纯享4K" start="20250817205900 +0800" stop="20250817210500 +0800">
 		<title lang="zh">美丽中国自然4K 高黎贡山系列 水中凤凰</title>
 	</programme>
+	<programme channel="纯享4K" start="20250817211000 +0800" stop="20250817212000 +0800">
+		<title lang="zh">秘境之眼4K 向海之约</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -84943,6 +84952,9 @@
 	<programme channel="黑莓动画" start="20250817194500 +0800" stop="20250817210900 +0800">
 		<title lang="zh">淘气包马小跳</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250817210900 +0800" stop="20250817221400 +0800">
+		<title lang="zh">角落小伙伴电影版 魔法绘本里的新朋友（普通话）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -86374,6 +86386,9 @@
 	<programme channel="newtv古装剧场" start="20250817203500 +0800" stop="20250817210500 +0800">
 		<title lang="zh">《八段锦》推荐第31期</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250817210500 +0800" stop="20250817223100 +0800">
+		<title lang="zh">31_长相思</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -86689,6 +86704,9 @@
 	<programme channel="newtv动作电影" start="20250817200400 +0800" stop="20250817211600 +0800">
 		<title lang="zh">夺命巨鳄</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250817211600 +0800" stop="20250817214600 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -86776,6 +86794,9 @@
 	<programme channel="newtv怡伴健康" start="20250817204400 +0800" stop="20250817211400 +0800">
 		<title lang="zh">《八段锦》推荐第31期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250817211400 +0800" stop="20250817215100 +0800">
+		<title lang="zh">天津狼图腾vs广东瑜满珠江-第4局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -86847,6 +86868,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250817202600 +0800" stop="20250817211200 +0800">
 		<title lang="zh">09_大奉打更人</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250817211200 +0800" stop="20250817214200 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -86982,6 +87006,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250817203800 +0800" stop="20250817210300 +0800">
 		<title lang="zh">“台独”翻不了天：美国衰落有心无力</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250817210300 +0800" stop="20250817212900 +0800">
+		<title lang="zh">“台独”翻不了天：勾连日本必遭反噬</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
