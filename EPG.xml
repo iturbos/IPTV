@@ -67656,6 +67656,9 @@
 	<programme channel="纯享4K" start="20250819221300 +0800" stop="20250819230300 +0800">
 		<title lang="zh">往事如歌4K 第1集</title>
 	</programme>
+	<programme channel="纯享4K" start="20250819230300 +0800" stop="20250819231800 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 敦煌壁画b7马术组图（下）</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -84846,6 +84849,9 @@
 	<programme channel="newtv超级综艺" start="20250819220300 +0800" stop="20250819230700 +0800">
 		<title lang="zh">民歌b7中国</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250819230700 +0800" stop="20250819235200 +0800">
+		<title lang="zh">43_功勋</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -85134,6 +85140,9 @@
 	<programme channel="newtv精品大剧" start="20250819222500 +0800" stop="20250819231100 +0800">
 		<title lang="zh">24_欢迎光临</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250819231100 +0800" stop="20250819235700 +0800">
+		<title lang="zh">25_欢迎光临</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -85226,6 +85235,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250819223500 +0800" stop="20250819230500 +0800">
 		<title lang="zh">我的家乡菜b7庆元篇（下）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250819230500 +0800" stop="20250819233500 +0800">
+		<title lang="zh">我的家乡菜b7延吉篇</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -85466,6 +85478,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250819225700 +0800" stop="20250819231100 +0800">
 		<title lang="zh">南同虫草菌丝体洋参胶囊新版1</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250819231100 +0800" stop="20250819235700 +0800">
+		<title lang="zh">29_失笑</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
