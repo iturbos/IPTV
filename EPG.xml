@@ -84603,6 +84603,9 @@
 	<programme channel="newtv超级综艺" start="20250819144200 +0800" stop="20250819161600 +0800">
 		<title lang="zh">中央广播电视总台主持人大赛 新闻主播季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250819161600 +0800" stop="20250819180600 +0800">
+		<title lang="zh">国家宝藏 第四季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -84749,6 +84752,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250819152200 +0800" stop="20250819160700 +0800">
 		<title lang="zh">10_我的后半生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250819160700 +0800" stop="20250819165300 +0800">
+		<title lang="zh">11_我的后半生</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
