@@ -68043,6 +68043,9 @@
 	<programme channel="纯享4K" start="20250820221400 +0800" stop="20250820230300 +0800">
 		<title lang="zh">往事如歌4K 第2集</title>
 	</programme>
+	<programme channel="纯享4K" start="20250820230800 +0800" stop="20250820232300 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 微笑版顾拜旦</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -84498,6 +84501,9 @@
 	<programme channel="黑莓动画" start="20250820213700 +0800" stop="20250820231000 +0800">
 		<title lang="zh">蜡笔小新：梦境世界大突击</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250820231000 +0800" stop="20250820010500 +0800">
+		<title lang="zh">战栗的乐谱 中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -85647,6 +85653,9 @@
 	<programme channel="newtv超级电视剧" start="20250820223200 +0800" stop="20250820231600 +0800">
 		<title lang="zh">36_大嫁风尚</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250820231600 +0800" stop="20250820000100 +0800">
+		<title lang="zh">37_大嫁风尚</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -86070,6 +86079,9 @@
 	<programme channel="newtv家庭剧场" start="20250820223100 +0800" stop="20250820230100 +0800">
 		<title lang="zh">睡眠专题分享</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250820230100 +0800" stop="20250820234700 +0800">
+		<title lang="zh">18_梦中的那片海</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -86475,6 +86487,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250820223500 +0800" stop="20250820230500 +0800">
 		<title lang="zh">黑藤黑根俪缇植物黑发霜</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250820230500 +0800" stop="20250820004500 +0800">
+		<title lang="zh">燃冬</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -86624,6 +86639,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250820223800 +0800" stop="20250820230400 +0800">
 		<title lang="zh">美国总统怎么换 台海大局“三不变”</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250820230400 +0800" stop="20250820232900 +0800">
+		<title lang="zh">高官糊弄赖清德 民进党内斗难治</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
