@@ -28695,6 +28695,9 @@
 	<programme channel="咪咕综合体育" start="20250820220000 +0800" stop="20250820221500 +0800">
 		<title lang="zh">睛彩圈圈点第六期</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250820221500 +0800" stop="20250820000000 +0800">
+		<title lang="zh">网球世界-2025WTA蒙特利尔站决赛 姆博科-大阪直美</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28778,6 +28781,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250820211500 +0800" stop="20250820221500 +0800">
 		<title lang="zh">超级三对三-2025超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250820222000 +0800" stop="20250820000000 +0800">
+		<title lang="zh">2025国际篮联女篮亚洲杯 小组赛 中国女篮-新西兰女篮</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -41342,6 +41348,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250820214300 +0800" stop="20250820221300 +0800">
 		<title lang="zh">《八段锦》推荐第31期</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250820221300 +0800" stop="20250820234500 +0800">
+		<title lang="zh">变体</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -61947,6 +61956,9 @@
 	<programme channel="爱情喜剧" start="20250820211500 +0800" stop="20250820220100 +0800">
 		<title lang="zh">20_春色寄情人</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250820220100 +0800" stop="20250820225800 +0800">
+		<title lang="zh">21_春色寄情人</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -68021,6 +68033,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250820212400 +0800" stop="20250820221400 +0800">
 		<title lang="zh">玩的是古 第二季4K 第3集</title>
+	</programme>
+	<programme channel="纯享4K" start="20250820221400 +0800" stop="20250820230300 +0800">
+		<title lang="zh">往事如歌4K 第2集</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -85782,6 +85797,9 @@
 	<programme channel="newtv精品纪录" start="20250820213800 +0800" stop="20250820220800 +0800">
 		<title lang="zh">我的家乡菜b7开化篇（下）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250820220800 +0800" stop="20250820223800 +0800">
+		<title lang="zh">宝岛台湾高粱酒</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -86166,6 +86184,9 @@
 	<programme channel="newtv爱情喜剧" start="20250820211500 +0800" stop="20250820220100 +0800">
 		<title lang="zh">20_春色寄情人</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250820220100 +0800" stop="20250820225800 +0800">
+		<title lang="zh">21_春色寄情人</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -86318,6 +86339,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250820213100 +0800" stop="20250820220600 +0800">
 		<title lang="zh">天津狼图腾vs四川天门淘一街-第3局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250820220600 +0800" stop="20250820223600 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -86544,6 +86568,9 @@
 	<programme channel="newtv军事评论" start="20250820214700 +0800" stop="20250820221200 +0800">
 		<title lang="zh">洪秀柱痛斥赖清德 投机分子背祖弃宗</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250820221200 +0800" stop="20250820223800 +0800">
+		<title lang="zh">无视战争新形态 台军未战先败</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -86756,6 +86783,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250820214300 +0800" stop="20250820221300 +0800">
 		<title lang="zh">《八段锦》推荐第31期</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250820221300 +0800" stop="20250820234500 +0800">
+		<title lang="zh">变体</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
