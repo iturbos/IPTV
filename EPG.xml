@@ -28338,6 +28338,9 @@
 	<programme channel="咪咕综合体育" start="20250821220000 +0800" stop="20250821221000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250821221000 +0800" stop="20250821000000 +0800">
+		<title lang="zh">网球世界-2025WTA华盛顿站女单半决赛 卡琳斯卡娅-拉杜卡努</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28427,6 +28430,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250821211500 +0800" stop="20250821221500 +0800">
 		<title lang="zh">超级三对三-2025超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250821221500 +0800" stop="20250821222000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -61764,6 +61770,9 @@
 	<programme channel="爱情喜剧" start="20250821212500 +0800" stop="20250821221000 +0800">
 		<title lang="zh">04_香水佳人</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250821221000 +0800" stop="20250821225600 +0800">
+		<title lang="zh">05_香水佳人</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -67814,6 +67823,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250821211900 +0800" stop="20250821220800 +0800">
 		<title lang="zh">黄河之歌4K 第1集 黄河西来</title>
+	</programme>
+	<programme channel="纯享4K" start="20250821220800 +0800" stop="20250821225700 +0800">
+		<title lang="zh">往事如歌4K 第3集</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -84027,6 +84039,9 @@
 	<programme channel="黑莓动画" start="20250821210400 +0800" stop="20250821220800 +0800">
 		<title lang="zh">角落小伙伴电影版 蓝色月夜的魔法之子（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250821220800 +0800" stop="20250821234600 +0800">
+		<title lang="zh">银魂最终篇</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -84068,6 +84083,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250821201800 +0800" stop="20250821221000 +0800">
 		<title lang="zh">温暖的抱抱</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250821221000 +0800" stop="20250821234500 +0800">
+		<title lang="zh">燕赤霞猎妖传</title>
 	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
@@ -85350,6 +85368,9 @@
 	<programme channel="newtv精品纪录" start="20250821213900 +0800" stop="20250821220900 +0800">
 		<title lang="zh">我的家乡菜b7成武篇（上）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250821220900 +0800" stop="20250821223900 +0800">
+		<title lang="zh">宝岛台湾高粱酒</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -85578,6 +85599,9 @@
 	<programme channel="newtv家庭剧场" start="20250821212800 +0800" stop="20250821221400 +0800">
 		<title lang="zh">21_梦中的那片海</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250821221400 +0800" stop="20250821224400 +0800">
+		<title lang="zh">睡眠专题分享</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -85662,6 +85686,9 @@
 	<programme channel="newtv热播精选" start="20250821211900 +0800" stop="20250821220500 +0800">
 		<title lang="zh">24_梦中的那片海</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250821220500 +0800" stop="20250821232700 +0800">
+		<title lang="zh">现在就出发</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -85730,6 +85757,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250821212500 +0800" stop="20250821221000 +0800">
 		<title lang="zh">04_香水佳人</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250821221000 +0800" stop="20250821225600 +0800">
+		<title lang="zh">05_香水佳人</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -86108,6 +86138,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250821214100 +0800" stop="20250821220600 +0800">
 		<title lang="zh">台当局持续关注特朗普 外事部门前负责人：特朗普是商人思维</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250821220600 +0800" stop="20250821223200 +0800">
+		<title lang="zh">台立法机构再爆冲突 蓝绿互呛 争抢麦克风</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
