@@ -21171,6 +21171,9 @@
 	<programme channel="动作电影" start="20250822101500 +0800" stop="20250822120700 +0800">
 		<title lang="zh">虚拟世界</title>
 	</programme>
+	<programme channel="动作电影" start="20250822120700 +0800" stop="20250822123700 +0800">
+		<title lang="zh">宝岛台湾高粱酒</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -28649,6 +28652,9 @@
 	</programme>
 	<programme channel="咪咕综合体育" start="20250822120000 +0800" stop="20250822120500 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250822120500 +0800" stop="20250822123000 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第六期</title>
 	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
@@ -41078,6 +41084,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250822113500 +0800" stop="20250822120500 +0800">
 		<title lang="zh">宝岛台湾高粱酒</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250822120500 +0800" stop="20250822132300 +0800">
+		<title lang="zh">法医秦明之血色婚礼</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -85065,6 +85074,9 @@
 	<programme channel="newtv超级综艺" start="20250822105800 +0800" stop="20250822121500 +0800">
 		<title lang="zh">星光大道</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250822121500 +0800" stop="20250822133200 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -85181,6 +85193,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250822113600 +0800" stop="20250822122100 +0800">
 		<title lang="zh">10_谢谢你医生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250822122100 +0800" stop="20250822130600 +0800">
+		<title lang="zh">11_谢谢你医生</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -85422,6 +85437,9 @@
 	<programme channel="newtv热播精选" start="20250822113400 +0800" stop="20250822120400 +0800">
 		<title lang="zh">宝岛台湾高粱酒</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250822120400 +0800" stop="20250822134000 +0800">
+		<title lang="zh">特种兵归来之绝地营救</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -85481,6 +85499,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250822101500 +0800" stop="20250822120700 +0800">
 		<title lang="zh">虚拟世界</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250822120700 +0800" stop="20250822123700 +0800">
+		<title lang="zh">宝岛台湾高粱酒</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -85766,6 +85787,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250822113500 +0800" stop="20250822120500 +0800">
 		<title lang="zh">宝岛台湾高粱酒</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250822120500 +0800" stop="20250822132300 +0800">
+		<title lang="zh">法医秦明之血色婚礼</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
