@@ -16485,6 +16485,9 @@
 	<programme channel="咪咕综合体育" start="20250824000000 +0800" stop="20250824025500 +0800">
 		<title lang="zh">英超赛场-25/26赛季英超 第2轮 阿森纳-利兹联 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250824031500 +0800" stop="20250824055500 +0800">
+		<title lang="zh">足球世界-25/26赛季西甲 第2轮 莱万特-巴塞罗那 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16493,6 +16496,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250824013000 +0800" stop="20250824031000 +0800">
 		<title lang="zh">2024NBL 武汉鲲鹏-广西威壮</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250824032000 +0800" stop="20250824042000 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -40482,6 +40488,9 @@
 	<programme channel="纯享4K" start="20250824020700 +0800" stop="20250824024700 +0800">
 		<title lang="zh">探索b7发现4K 邯郸后百家北墓地</title>
 	</programme>
+	<programme channel="纯享4K" start="20250824024700 +0800" stop="20250824033200 +0800">
+		<title lang="zh">传承b7智慧篇4K 第2集 时光之鉴</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51240,6 +51249,9 @@
 	<programme channel="newtv超级电视剧" start="20250824023000 +0800" stop="20250824031500 +0800">
 		<title lang="zh">06_一代枭雄</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250824031500 +0800" stop="20250824040000 +0800">
+		<title lang="zh">07_一代枭雄</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -51251,6 +51263,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250824020300 +0800" stop="20250824024800 +0800">
 		<title lang="zh">15_新居之约</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250824024800 +0800" stop="20250824040300 +0800">
+		<title lang="zh">16_新居之约</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -51273,6 +51288,9 @@
 	<programme channel="newtv古装剧场" start="20250824013500 +0800" stop="20250824025100 +0800">
 		<title lang="zh">32_庆余年第二季</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250824025100 +0800" stop="20250824040800 +0800">
+		<title lang="zh">33_庆余年第二季</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -51281,6 +51299,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250824012800 +0800" stop="20250824024800 +0800">
 		<title lang="zh">06_黑白密码</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250824024800 +0800" stop="20250824041100 +0800">
+		<title lang="zh">07_黑白密码</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -51324,6 +51345,9 @@
 	<programme channel="newtv动作电影" start="20250824020900 +0800" stop="20250824024800 +0800">
 		<title lang="zh">祛湿专题分享</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250824024800 +0800" stop="20250824044500 +0800">
+		<title lang="zh">特种兵归来之绝地营救</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -51335,6 +51359,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250824013900 +0800" stop="20250824025400 +0800">
 		<title lang="zh">40_倚天屠龙记</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250824025400 +0800" stop="20250824034200 +0800">
+		<title lang="zh">生存斗争</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -51356,6 +51383,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250824020700 +0800" stop="20250824025900 +0800">
 		<title lang="zh">博物馆里话海军 海军知识挑战赛 人民海军成立75周年特别策划</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250824025900 +0800" stop="20250824035100 +0800">
+		<title lang="zh">曙光初升耀皖江 国防知识挑战赛走进安庆</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
