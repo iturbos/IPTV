@@ -60504,6 +60504,9 @@
 	<programme channel="爱情喜剧" start="20250823211000 +0800" stop="20250823215600 +0800">
 		<title lang="zh">14_香水佳人</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250823215600 +0800" stop="20250823224100 +0800">
+		<title lang="zh">15_香水佳人</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -66206,6 +66209,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250823211200 +0800" stop="20250823220100 +0800">
 		<title lang="zh">黄河之歌4K 第3集 万里胸怀</title>
+	</programme>
+	<programme channel="纯享4K" start="20250823220100 +0800" stop="20250823225000 +0800">
+		<title lang="zh">曹雪芹与红楼梦4K 第2集 斜阳寒草带重门</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -83940,6 +83946,9 @@
 	<programme channel="newtv古装剧场" start="20250823211000 +0800" stop="20250823215600 +0800">
 		<title lang="zh">09_长相思 第二季</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250823215600 +0800" stop="20250823232200 +0800">
+		<title lang="zh">10_长相思 第二季</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -84096,6 +84105,9 @@
 	<programme channel="newtv家庭剧场" start="20250823210500 +0800" stop="20250823215100 +0800">
 		<title lang="zh">28_梦中的那片海</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250823215100 +0800" stop="20250823223600 +0800">
+		<title lang="zh">29_梦中的那片海</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -84248,6 +84260,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250823211000 +0800" stop="20250823215600 +0800">
 		<title lang="zh">14_香水佳人</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250823215600 +0800" stop="20250823224100 +0800">
+		<title lang="zh">15_香水佳人</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -84492,6 +84507,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250823211100 +0800" stop="20250823215800 +0800">
 		<title lang="zh">24_大奉打更人</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250823215800 +0800" stop="20250823222800 +0800">
+		<title lang="zh">《八段锦》推荐第32期</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -84633,6 +84651,9 @@
 	<programme channel="newtv军事评论" start="20250823212400 +0800" stop="20250823215000 +0800">
 		<title lang="zh">赖清德吹捧佩洛西 自夸“印太心脏”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250823215000 +0800" stop="20250823221500 +0800">
+		<title lang="zh">学韩国搞戒严 民进党唯恐台湾不乱</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84716,6 +84737,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250823210100 +0800" stop="20250823214700 +0800">
 		<title lang="zh">19_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250823214700 +0800" stop="20250823223600 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -85049,6 +85073,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250823212000 +0800" stop="20250823215000 +0800">
 		<title lang="zh">《八段锦》推荐第32期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250823215000 +0800" stop="20250823223800 +0800">
+		<title lang="zh">26_雪中悍刀行</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
