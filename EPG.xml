@@ -25716,6 +25716,9 @@
 	<programme channel="咪咕综合体育" start="20250825193000 +0800" stop="20250825221500 +0800">
 		<title lang="zh">中超来噜-2025赛季中超 第22轮 北京国安-武汉三镇 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250825221500 +0800" stop="20250825222000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -25799,6 +25802,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250825211500 +0800" stop="20250825221500 +0800">
 		<title lang="zh">超级三对三-2025超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250825221500 +0800" stop="20250825222000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -63777,6 +63783,9 @@
 	<programme channel="纯享4K" start="20250825212200 +0800" stop="20250825221100 +0800">
 		<title lang="zh">黄河之歌4K 第5集 惊涛拍岸</title>
 	</programme>
+	<programme channel="纯享4K" start="20250825221100 +0800" stop="20250825230000 +0800">
+		<title lang="zh">曹雪芹与红楼梦4K 第4集 眼前春色梦中人</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -79872,6 +79881,9 @@
 	<programme channel="newtv精品大剧" start="20250825212800 +0800" stop="20250825221400 +0800">
 		<title lang="zh">35_欢迎光临</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250825221400 +0800" stop="20250825230300 +0800">
+		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -79988,6 +80000,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250825214900 +0800" stop="20250825221500 +0800">
 		<title lang="zh">迎来新生</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250825221500 +0800" stop="20250825230300 +0800">
+		<title lang="zh">HENGSH恒适艾灸按摩床垫-渠道（右）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
