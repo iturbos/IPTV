@@ -27240,6 +27240,9 @@
 	<programme channel="咪咕综合体育" start="20250826102000 +0800" stop="20250826120000 +0800">
 		<title lang="zh">足球世界-2025赛季中甲 第21轮 深圳青年人-延边龙鼎</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250826120500 +0800" stop="20250826123000 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第七期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -27287,6 +27290,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250826113500 +0800" stop="20250826120000 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第七期</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250826120500 +0800" stop="20250826122000 +0800">
+		<title lang="zh">睛彩圈圈点第七期</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -65151,6 +65157,9 @@
 	<programme channel="纯享4K" start="20250826113400 +0800" stop="20250826121600 +0800">
 		<title lang="zh">远方的家4K 我家那片海 多面即墨的惬意生活</title>
 	</programme>
+	<programme channel="纯享4K" start="20250826121600 +0800" stop="20250826125800 +0800">
+		<title lang="zh">远方的家4K 我家那片海 日照：耕海牧渔喜丰收</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -82557,6 +82566,9 @@
 	<programme channel="newtv超级综艺" start="20250826111500 +0800" stop="20250826121500 +0800">
 		<title lang="zh">选对健康</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250826121500 +0800" stop="20250826133200 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -82583,6 +82595,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250826090000 +0800" stop="20250826120000 +0800">
 		<title lang="zh">2025年美国网球公开赛-第1轮2</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250826120000 +0800" stop="20250826130500 +0800">
+		<title lang="zh">体坛快讯</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -83232,6 +83247,9 @@
 	<programme channel="newtv军事评论" start="20250826114800 +0800" stop="20250826121500 +0800">
 		<title lang="zh">飞越云端 直击2024新加坡航展</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250826121500 +0800" stop="20250826123600 +0800">
+		<title lang="zh">缝缝补补的美军野战防空</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -83288,6 +83306,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250826105600 +0800" stop="20250826121300 +0800">
 		<title lang="zh">自媒体博主何锦沅唱功了得 多种唱法自由切换（20250329）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250826121300 +0800" stop="20250826125800 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
