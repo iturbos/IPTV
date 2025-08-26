@@ -27267,6 +27267,9 @@
 	<programme channel="咪咕综合体育" start="20250826150000 +0800" stop="20250826150500 +0800">
 		<title lang="zh">睛彩AI速报</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250826150500 +0800" stop="20250826152000 +0800">
+		<title lang="zh">睛彩圈圈点第七期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
