@@ -83280,6 +83280,9 @@
 	<programme channel="newtv军旅剧场" start="20250827111700 +0800" stop="20250827120300 +0800">
 		<title lang="zh">17_再造之恩</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250827120300 +0800" stop="20250827125200 +0800">
+		<title lang="zh">自然之臻阿拉善冬季荒漠肉苁蓉100%纯原浆-渠道（右）</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -83378,6 +83381,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250827112700 +0800" stop="20250827120300 +0800">
 		<title lang="zh">何首乌防脱育发精华液-渠道（右）</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250827120300 +0800" stop="20250827131500 +0800">
+		<title lang="zh">狼人杀b7启源</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -83624,6 +83630,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250827113500 +0800" stop="20250827120100 +0800">
 		<title lang="zh">云端砺剑（20250515）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250827120100 +0800" stop="20250827122800 +0800">
+		<title lang="zh">揭秘“金穹”计划/六代机 未来“空战风暴”？（20250522）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
