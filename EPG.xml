@@ -65787,6 +65787,9 @@
 	<programme channel="纯享4K" start="20250827154600 +0800" stop="20250827161000 +0800">
 		<title lang="zh">了不起的冬天4K 第7集 跨界</title>
 	</programme>
+	<programme channel="纯享4K" start="20250827161000 +0800" stop="20250827164000 +0800">
+		<title lang="zh">记住乡愁4K第七季 第三十四集 南丰——满城橘香 物丰人和</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -82281,6 +82284,9 @@
 	<programme channel="黑莓电影" start="20250827143500 +0800" stop="20250827161400 +0800">
 		<title lang="zh">大奉打更人之世间无我这般人</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250827161400 +0800" stop="20250827174800 +0800">
+		<title lang="zh">别叫我酒神2</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -83310,6 +83316,9 @@
 	<programme channel="newtv精品大剧" start="20250827152400 +0800" stop="20250827161200 +0800">
 		<title lang="zh">17_骊歌行</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250827161200 +0800" stop="20250827170000 +0800">
+		<title lang="zh">双峰驼王新疆有机纯驼乳粉（新）-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -83649,6 +83658,9 @@
 	<programme channel="newtv热播精选" start="20250827152100 +0800" stop="20250827160600 +0800">
 		<title lang="zh">20_画眉</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250827160600 +0800" stop="20250827165400 +0800">
+		<title lang="zh">双峰驼王新疆有机纯驼乳粉（新）-渠道（右）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -83807,6 +83819,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250827152700 +0800" stop="20250827160400 +0800">
 		<title lang="zh">何首乌防脱育发精华液</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250827160400 +0800" stop="20250827164900 +0800">
+		<title lang="zh">20_棋士</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -83978,6 +83993,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250827155100 +0800" stop="20250827161300 +0800">
 		<title lang="zh">俄乌冲突中的新型无人装备（20250113）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250827161300 +0800" stop="20250827163500 +0800">
+		<title lang="zh">缅甸地震救灾纪实（20250404）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
