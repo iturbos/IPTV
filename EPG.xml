@@ -40641,6 +40641,9 @@
 	<programme channel="纯享4K" start="20250829004100 +0800" stop="20250829011100 +0800">
 		<title lang="zh">记住乡愁4K第七季 第三十九集 桂林——山水甲天下 风雨独秀峰（上）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250829011100 +0800" stop="20250829014100 +0800">
+		<title lang="zh">味道4K 原味乡间b7定南篇（上）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51555,6 +51558,9 @@
 	<programme channel="newtv怡伴健康" start="20250829005000 +0800" stop="20250829011500 +0800">
 		<title lang="zh">03_西b7云霞绕西岭</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250829011500 +0800" stop="20250829014000 +0800">
+		<title lang="zh">04_北b7丹曦映北国</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -51566,6 +51572,9 @@
 	</channel>
 	<programme channel="newtv军事评论" start="20250829001300 +0800" stop="20250829010500 +0800">
 		<title lang="zh">灯火背后的橄榄绿（20250216）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250829010500 +0800" stop="20250829015700 +0800">
+		<title lang="zh">军民共建谱华章 国防知识挑战赛走进双拥模范城（20250223）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -51582,41 +51591,8 @@
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
-	<programme channel="newtv惊悚悬疑" start="20250829000000 +0800" stop="20250829020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250829020000 +0800" stop="20250829040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250829060000 +0800" stop="20250829080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250829080000 +0800" stop="20250829100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250829100600 +0800" stop="20250829120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250829120000 +0800" stop="20250829140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250829140000 +0800" stop="20250829160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250829160000 +0800" stop="20250829180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250829180000 +0800" stop="20250829190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250829190000 +0800" stop="20250829200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250829200000 +0800" stop="20250829220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250829220000 +0800" stop="20250829235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv惊悚悬疑" start="20250829010200 +0800" stop="20250829015800 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
