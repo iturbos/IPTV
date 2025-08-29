@@ -27897,6 +27897,9 @@
 	<programme channel="咪咕足球" start="20250829193000 +0800" stop="20250829211000 +0800">
 		<title lang="zh">当燃CBA 24/25总决赛G2 浙江方兴渡-北京北汽</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250829211500 +0800" stop="20250829221500 +0800">
+		<title lang="zh">超级三对三-2025超三联赛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -66921,6 +66924,9 @@
 	<programme channel="纯享4K" start="20250829205800 +0800" stop="20250829210300 +0800">
 		<title lang="zh">美丽中国自然4K 岭南之南系列 蓝喉蜂虎</title>
 	</programme>
+	<programme channel="纯享4K" start="20250829210800 +0800" stop="20250829211800 +0800">
+		<title lang="zh">秘境之眼4K 虎影探秘</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -72041,6 +72047,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250829191000 +0800" stop="20250829211100 +0800">
 		<title lang="zh">电影《非凡任务》</title>
+	</programme>
+	<programme channel="超级电影" start="20250829211100 +0800" stop="20250829224000 +0800">
+		<title lang="zh">电影《西游降魔篇之快活城》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -83805,6 +83814,9 @@
 	<programme channel="黑莓动画" start="20250829205900 +0800" stop="20250829210400 +0800">
 		<title lang="zh">01_摹张萱虢国夫人游春图</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250829211400 +0800" stop="20250829211900 +0800">
+		<title lang="zh">04_乾隆皇帝射猎图</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -84867,6 +84879,9 @@
 	<programme channel="newtv超级电影" start="20250829191000 +0800" stop="20250829211100 +0800">
 		<title lang="zh">电影《非凡任务》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250829211100 +0800" stop="20250829224000 +0800">
+		<title lang="zh">电影《西游降魔篇之快活城》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -85919,6 +85934,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250829204800 +0800" stop="20250829211400 +0800">
 		<title lang="zh">两岸开新局 台湾离不开大陆（20250129）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250829211400 +0800" stop="20250829214000 +0800">
+		<title lang="zh">台胞新足迹 苏郁程：推动两岸体育交流（20250130）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
