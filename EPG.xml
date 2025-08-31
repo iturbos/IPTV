@@ -27312,6 +27312,9 @@
 	<programme channel="咪咕综合体育" start="20250831120000 +0800" stop="20250831120500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250831120500 +0800" stop="20250831130000 +0800">
+		<title lang="zh">国球荣耀-2025WTT美国大满贯 男单半决赛 Fb7勒布伦-王楚钦</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -27362,6 +27365,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250831115500 +0800" stop="20250831120500 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250831120500 +0800" stop="20250831122000 +0800">
+		<title lang="zh">睛彩圈圈点第七期</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -59814,6 +59820,9 @@
 	<programme channel="爱情喜剧" start="20250831113000 +0800" stop="20250831121600 +0800">
 		<title lang="zh">04_似锦</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250831121600 +0800" stop="20250831130400 +0800">
+		<title lang="zh">英国奥戈那负离子空气循环扇-渠道（右）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -83637,6 +83646,9 @@
 	<programme channel="newtv超级电视剧" start="20250831111900 +0800" stop="20250831120500 +0800">
 		<title lang="zh">06_你比星光美丽</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250831120500 +0800" stop="20250831125100 +0800">
+		<title lang="zh">07_你比星光美丽</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -83687,6 +83699,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250831111900 +0800" stop="20250831120600 +0800">
 		<title lang="zh">05_繁花（沪语版）</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250831120600 +0800" stop="20250831125300 +0800">
+		<title lang="zh">06_繁花（沪语版）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -83999,6 +84014,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250831113000 +0800" stop="20250831121600 +0800">
 		<title lang="zh">04_似锦</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250831121600 +0800" stop="20250831130400 +0800">
+		<title lang="zh">英国奥戈那负离子空气循环扇-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -84467,6 +84485,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250831111300 +0800" stop="20250831120200 +0800">
 		<title lang="zh">自然之臻阿拉善冬季荒漠肉苁蓉100%纯原浆-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250831120200 +0800" stop="20250831133000 +0800">
+		<title lang="zh">南宋猎人之决战御街</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
