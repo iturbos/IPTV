@@ -81177,6 +81177,9 @@
 	<programme channel="newtv金牌综艺" start="20250901212900 +0800" stop="20250901230900 +0800">
 		<title lang="zh">半熟恋人第4季</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250901230900 +0800" stop="20250901003700 +0800">
+		<title lang="zh">令人心动的offer第6季</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
