@@ -20247,6 +20247,9 @@
 	<programme channel="动作电影" start="20250902131100 +0800" stop="20250902144400 +0800">
 		<title lang="zh">纵横千里之铁凤凰</title>
 	</programme>
+	<programme channel="动作电影" start="20250902144400 +0800" stop="20250902161700 +0800">
+		<title lang="zh">特工艾米拉</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -70230,6 +70233,9 @@
 	<programme channel="超级电影" start="20250902133200 +0800" stop="20250902145000 +0800">
 		<title lang="zh">电影《记忆迷宫》</title>
 	</programme>
+	<programme channel="超级电影" start="20250902145000 +0800" stop="20250902163500 +0800">
+		<title lang="zh">电影《音乐永不停歇》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -82827,6 +82833,9 @@
 	<programme channel="newtv超级电影" start="20250902133200 +0800" stop="20250902145000 +0800">
 		<title lang="zh">电影《记忆迷宫》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250902145000 +0800" stop="20250902163500 +0800">
+		<title lang="zh">电影《音乐永不停歇》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -82947,6 +82956,9 @@
 	<programme channel="newtv精品大剧" start="20250902134400 +0800" stop="20250902143200 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款（新）-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250902143200 +0800" stop="20250902151900 +0800">
+		<title lang="zh">39_骊歌行</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -83003,6 +83015,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250902134700 +0800" stop="20250902143500 +0800">
 		<title lang="zh">英国奥戈那负离子空气循环扇-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250902143500 +0800" stop="20250902150000 +0800">
+		<title lang="zh">海龟去哪儿（20250303）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -83124,6 +83139,9 @@
 	<programme channel="newtv军旅剧场" start="20250902140000 +0800" stop="20250902144000 +0800">
 		<title lang="zh">10_双刺</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250902144000 +0800" stop="20250902152600 +0800">
+		<title lang="zh">14_解放大西南</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -83238,6 +83256,9 @@
 	<programme channel="newtv热播精选" start="20250902135000 +0800" stop="20250902143800 +0800">
 		<title lang="zh">英国奥戈那负离子空气循环扇-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250902143800 +0800" stop="20250902152300 +0800">
+		<title lang="zh">05_梅花红桃</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -83325,6 +83346,9 @@
 	<programme channel="newtv动作电影" start="20250902131100 +0800" stop="20250902144400 +0800">
 		<title lang="zh">纵横千里之铁凤凰</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250902144400 +0800" stop="20250902161700 +0800">
+		<title lang="zh">特工艾米拉</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -83384,6 +83408,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250902121200 +0800" stop="20250902144100 +0800">
 		<title lang="zh">京剧《四郎探母》</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250902144100 +0800" stop="20250902153000 +0800">
+		<title lang="zh">自然之臻阿拉善冬季荒漠肉苁蓉100%纯原浆</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -83540,6 +83567,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250902141800 +0800" stop="20250902144000 +0800">
 		<title lang="zh">铸剑兴邦b7铁甲强基</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250902144000 +0800" stop="20250902150200 +0800">
+		<title lang="zh">铸剑兴邦b7科技领航</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -83729,6 +83759,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250902134300 +0800" stop="20250902143100 +0800">
 		<title lang="zh">英国奥戈那负离子空气循环扇-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250902143100 +0800" stop="20250902154200 +0800">
+		<title lang="zh">邻家诗话第4季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
