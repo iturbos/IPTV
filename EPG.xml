@@ -64011,6 +64011,9 @@
 	<programme channel="纯享4K" start="20250903221500 +0800" stop="20250903230500 +0800">
 		<title lang="zh">我们的征途4K 第2集</title>
 	</programme>
+	<programme channel="纯享4K" start="20250903230500 +0800" stop="20250903232000 +0800">
+		<title lang="zh">艺术里的奥林匹克4K，敦煌壁画b7马术组图（上）</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -80022,6 +80025,9 @@
 	<programme channel="黑莓动画" start="20250903224900 +0800" stop="20250903231300 +0800">
 		<title lang="zh">04_有根 有远方</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250903231300 +0800" stop="20250903233700 +0800">
+		<title lang="zh">05_科技少年与导师团</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -80613,6 +80619,9 @@
 	<programme channel="newtv精品纪录" start="20250903230100 +0800" stop="20250903230800 +0800">
 		<title lang="zh">第8集：马鞍山当涂大肉面</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250903231500 +0800" stop="20250903234500 +0800">
+		<title lang="zh">01_特殊使命</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -80829,6 +80838,9 @@
 	<programme channel="newtv热播精选" start="20250903221400 +0800" stop="20250903230300 +0800">
 		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250903230300 +0800" stop="20250903005100 +0800">
+		<title lang="zh">现在就出发</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -81026,6 +81038,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250903221500 +0800" stop="20250903230400 +0800">
 		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250903230400 +0800" stop="20250903001000 +0800">
+		<title lang="zh">夺宝同盟之神秘笔记</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
