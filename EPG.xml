@@ -59281,6 +59281,9 @@
 	<programme channel="爱情喜剧" start="20250904130200 +0800" stop="20250904143500 +0800">
 		<title lang="zh">回归</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250904143500 +0800" stop="20250904152400 +0800">
+		<title lang="zh">Healthwow100%南极磷虾油高吸收尊享装-渠道（右）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -81163,6 +81166,9 @@
 	<programme channel="黑莓动画" start="20250904130200 +0800" stop="20250904144200 +0800">
 		<title lang="zh">通往天国的倒计时 中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250904144200 +0800" stop="20250904153100 +0800">
+		<title lang="zh">04_岑参 边塞</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82102,6 +82108,9 @@
 	<programme channel="newtv超级综艺" start="20250904132400 +0800" stop="20250904144600 +0800">
 		<title lang="zh">特别节目</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250904144600 +0800" stop="20250904160000 +0800">
+		<title lang="zh">民歌b7中国</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -82288,6 +82297,9 @@
 	<programme channel="newtv精品大剧" start="20250904134900 +0800" stop="20250904143700 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款（新）-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250904143700 +0800" stop="20250904152200 +0800">
+		<title lang="zh">47_骊歌行</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -82347,6 +82359,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250904135400 +0800" stop="20250904144200 +0800">
 		<title lang="zh">英国奥戈那负离子空气循环扇-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250904144200 +0800" stop="20250904150700 +0800">
+		<title lang="zh">野性家园 第3集 神农架b7共生的家园（20250319）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -82531,6 +82546,9 @@
 	<programme channel="newtv家庭剧场" start="20250904140500 +0800" stop="20250904144200 +0800">
 		<title lang="zh">04_兰闺喜事</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250904144200 +0800" stop="20250904153000 +0800">
+		<title lang="zh">英国奥戈那负离子空气循环扇-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -82582,6 +82600,9 @@
 	<programme channel="newtv热播精选" start="20250904135600 +0800" stop="20250904144400 +0800">
 		<title lang="zh">英国奥戈那负离子空气循环扇-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250904144400 +0800" stop="20250904152900 +0800">
+		<title lang="zh">13_梅花红桃</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -82629,6 +82650,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250904130200 +0800" stop="20250904143500 +0800">
 		<title lang="zh">回归</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250904143500 +0800" stop="20250904152400 +0800">
+		<title lang="zh">Healthwow100%南极磷虾油高吸收尊享装-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -82707,6 +82731,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250904121700 +0800" stop="20250904143800 +0800">
 		<title lang="zh">琼剧《状元桥》</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250904143800 +0800" stop="20250904152700 +0800">
+		<title lang="zh">自然之臻阿拉善冬季荒漠肉苁蓉100%纯原浆</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -82863,6 +82890,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250904141500 +0800" stop="20250904143700 +0800">
 		<title lang="zh">从航母撞船事故看美海军现状</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250904143700 +0800" stop="20250904145800 +0800">
+		<title lang="zh">从抢滩登陆到全域作战 两栖战舰新观察</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
