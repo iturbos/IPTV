@@ -81991,6 +81991,9 @@
 	<programme channel="newtv超级综艺" start="20250904092900 +0800" stop="20250904110400 +0800">
 		<title lang="zh">民歌b7中国</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250904110400 +0800" stop="20250904132400 +0800">
+		<title lang="zh">烽火战歌</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -82086,6 +82089,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250904103100 +0800" stop="20250904111600 +0800">
 		<title lang="zh">21_你比星光美丽</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250904111600 +0800" stop="20250904120200 +0800">
+		<title lang="zh">22_你比星光美丽</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -82516,6 +82522,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250904102000 +0800" stop="20250904110500 +0800">
 		<title lang="zh">24_女人的抗战</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250904110500 +0800" stop="20250904114200 +0800">
+		<title lang="zh">何首乌防脱育发精华液-渠道（右）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -82578,6 +82587,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250904104400 +0800" stop="20250904110900 +0800">
 		<title lang="zh">新春走军营之多彩民俗进军营 第五集 云岭之南的老兵心愿</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250904110900 +0800" stop="20250904113500 +0800">
+		<title lang="zh">新春走军营之多彩民俗进军营 第六集 北疆梅花迎春开</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -82818,6 +82830,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250904102700 +0800" stop="20250904111200 +0800">
 		<title lang="zh">37_三国机密之潜龙在渊</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250904111200 +0800" stop="20250904120100 +0800">
+		<title lang="zh">自然之臻阿拉善冬季荒漠肉苁蓉100%纯原浆-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
