@@ -43720,6 +43720,9 @@
 	<programme channel="明星大片" start="20250905152700 +0800" stop="20250905161500 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款（新）-渠道（右）</title>
 	</programme>
+	<programme channel="明星大片" start="20250905161500 +0800" stop="20250905170000 +0800">
+		<title lang="zh">07_那座城这家人</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -67264,6 +67267,9 @@
 	<programme channel="纯享4K" start="20250905153700 +0800" stop="20250905160200 +0800">
 		<title lang="zh">在乡村4K 第6集 从许村到青田</title>
 	</programme>
+	<programme channel="纯享4K" start="20250905160200 +0800" stop="20250905163000 +0800">
+		<title lang="zh">记住乡愁4K 第七季  第五十二集 梅州——梅花香自苦寒来（下）</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -83617,6 +83623,9 @@
 	<programme channel="黑莓动画" start="20250905151400 +0800" stop="20250905160300 +0800">
 		<title lang="zh">04_岑参 边塞</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250905160300 +0800" stop="20250905165200 +0800">
+		<title lang="zh">05_李白 仙山</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -84805,6 +84814,9 @@
 	<programme channel="newtv精品大剧" start="20250905152400 +0800" stop="20250905161100 +0800">
 		<title lang="zh">52_骊歌行</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250905161100 +0800" stop="20250905170000 +0800">
+		<title lang="zh">自然之臻阿拉善冬季荒漠肉苁蓉100%纯原浆-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -84885,6 +84897,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250905154600 +0800" stop="20250905161100 +0800">
 		<title lang="zh">乡聚春天里 长江逐浪b7“蟹”逅江南（20250401）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250905161100 +0800" stop="20250905163500 +0800">
+		<title lang="zh">乡聚春天里 一念万里 第1集 故乡在路上（20250407）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -85018,6 +85033,9 @@
 	<programme channel="newtv军旅剧场" start="20250905152200 +0800" stop="20250905160800 +0800">
 		<title lang="zh">27_解放大西南</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250905160800 +0800" stop="20250905165300 +0800">
+		<title lang="zh">28_解放大西南</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -85084,6 +85102,9 @@
 	<programme channel="newtv家庭剧场" start="20250905152700 +0800" stop="20250905161500 +0800">
 		<title lang="zh">英国奥戈那负离子空气循环扇-渠道（右）</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250905161500 +0800" stop="20250905165600 +0800">
+		<title lang="zh">12_娘亲舅大</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -85140,6 +85161,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250905151800 +0800" stop="20250905160400 +0800">
 		<title lang="zh">18_梅花红桃</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250905160400 +0800" stop="20250905165200 +0800">
+		<title lang="zh">Healthwow100%南极磷虾油高吸收尊贵组-渠道（右）</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -85285,6 +85309,9 @@
 	<programme channel="newtv怡伴健康" start="20250905151300 +0800" stop="20250905160200 +0800">
 		<title lang="zh">自然之臻阿拉善冬季荒漠肉苁蓉100%纯原浆-渠道（右）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250905160200 +0800" stop="20250905162700 +0800">
+		<title lang="zh">05_龙族来了</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -85353,6 +85380,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250905152300 +0800" stop="20250905160400 +0800">
 		<title lang="zh">35_女人的抗战</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250905160400 +0800" stop="20250905171500 +0800">
+		<title lang="zh">第10期下：五嘿游乐园喜迎勇气测试2.0</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -85455,6 +85485,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250905154500 +0800" stop="20250905160700 +0800">
 		<title lang="zh">俄乌冲突中的新型无人装备</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250905160700 +0800" stop="20250905162900 +0800">
+		<title lang="zh">缅甸地震救灾纪实</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -85593,6 +85626,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250905152700 +0800" stop="20250905161500 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款（新）-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250905161500 +0800" stop="20250905170000 +0800">
+		<title lang="zh">07_那座城这家人</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
