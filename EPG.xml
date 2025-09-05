@@ -40189,6 +40189,9 @@
 	<programme channel="惊悚悬疑" start="20250905220900 +0800" stop="20250905230500 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250905230500 +0800" stop="20250905002000 +0800">
+		<title lang="zh">狄仁杰之伏妖篇</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -85501,6 +85504,9 @@
 	<programme channel="newtv军旅剧场" start="20250905222800 +0800" stop="20250905230700 +0800">
 		<title lang="zh">47_北国英雄</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250905230700 +0800" stop="20250905235500 +0800">
+		<title lang="zh">HENGSH恒适艾灸按摩床垫-渠道（右）</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -86143,6 +86149,9 @@
 	<programme channel="newtv军事评论" start="20250905224500 +0800" stop="20250905231000 +0800">
 		<title lang="zh">美准国务卿妄称大陆“2030侵台”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250905231000 +0800" stop="20250905233600 +0800">
+		<title lang="zh">打造三层“护身网” 赖清德保命不惜力</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -86394,6 +86403,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250905220900 +0800" stop="20250905230500 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250905230500 +0800" stop="20250905002000 +0800">
+		<title lang="zh">狄仁杰之伏妖篇</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
