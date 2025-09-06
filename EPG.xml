@@ -20397,6 +20397,9 @@
 	<programme channel="动作电影" start="20250906092800 +0800" stop="20250906111600 +0800">
 		<title lang="zh">冰川鲨鱼</title>
 	</programme>
+	<programme channel="动作电影" start="20250906111600 +0800" stop="20250906114700 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -66202,6 +66205,9 @@
 	<programme channel="纯享4K" start="20250906104500 +0800" stop="20250906111500 +0800">
 		<title lang="zh">传承 第三季4K 第一集 归处</title>
 	</programme>
+	<programme channel="纯享4K" start="20250906111500 +0800" stop="20250906112000 +0800">
+		<title lang="zh">5亿年，岩石里的生命奇迹 第一季4K 第2集 浙江曙鱼</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -82318,6 +82324,9 @@
 	<programme channel="黑莓动画" start="20250906094700 +0800" stop="20250906111600 +0800">
 		<title lang="zh">太空神鹰</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250906111600 +0800" stop="20250906123900 +0800">
+		<title lang="zh">淘气包马小跳</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82338,6 +82347,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250906092400 +0800" stop="20250906111100 +0800">
 		<title lang="zh">疯狂特警队</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250906111100 +0800" stop="20250906130400 +0800">
+		<title lang="zh">命中注定</title>
 	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
@@ -83221,6 +83233,9 @@
 	<programme channel="newtv超级综艺" start="20250906095300 +0800" stop="20250906111000 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250906111000 +0800" stop="20250906115400 +0800">
+		<title lang="zh">烽火战歌</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -83458,6 +83473,9 @@
 	<programme channel="newtv军旅剧场" start="20250906095600 +0800" stop="20250906111200 +0800">
 		<title lang="zh">02_海魂</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250906111200 +0800" stop="20250906115700 +0800">
+		<title lang="zh">03_海魂</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -83566,6 +83584,9 @@
 	<programme channel="newtv动作电影" start="20250906092800 +0800" stop="20250906111600 +0800">
 		<title lang="zh">冰川鲨鱼</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250906111600 +0800" stop="20250906114700 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -83607,6 +83628,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250906094100 +0800" stop="20250906110300 +0800">
 		<title lang="zh">30_完美伴侣</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250906110300 +0800" stop="20250906115900 +0800">
+		<title lang="zh">31_完美伴侣</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -83709,6 +83733,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250906104100 +0800" stop="20250906110300 +0800">
 		<title lang="zh">谁是军营厨王（2）9（20250712）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250906110300 +0800" stop="20250906112500 +0800">
+		<title lang="zh">谁是军营厨王（2）11（20250726）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
