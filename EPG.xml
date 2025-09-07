@@ -38697,6 +38697,9 @@
 	<programme channel="纯享4K" start="20250908023900 +0800" stop="20250908030900 +0800">
 		<title lang="zh">传承 第三季4K 第三集 生技</title>
 	</programme>
+	<programme channel="纯享4K" start="20250908031400 +0800" stop="20250908032900 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 溪山独钓图</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -47340,11 +47343,17 @@
 	<programme channel="黑莓动画" start="20250908014000 +0800" stop="20250908030800 +0800">
 		<title lang="zh">星际大逃亡</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250908030800 +0800" stop="20250908042600 +0800">
+		<title lang="zh">西行纪之穷奇地洞</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20250908004400 +0800" stop="20250908031000 +0800">
 		<title lang="zh">第八日的蝉</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250908031000 +0800" stop="20250908050700 +0800">
+		<title lang="zh">红楼梦之金玉良缘</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -47583,6 +47592,9 @@
 	<programme channel="newtv精品大剧" start="20250908020700 +0800" stop="20250908025100 +0800">
 		<title lang="zh">32_警犬来啦</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250908025100 +0800" stop="20250908040500 +0800">
+		<title lang="zh">33_警犬来啦</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -47604,6 +47616,9 @@
 	<programme channel="newtv古装剧场" start="20250908013700 +0800" stop="20250908030200 +0800">
 		<title lang="zh">14_燕云台</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250908030200 +0800" stop="20250908041600 +0800">
+		<title lang="zh">15_燕云台</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -47615,6 +47630,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250908014400 +0800" stop="20250908030800 +0800">
 		<title lang="zh">05_小站风云</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250908030800 +0800" stop="20250908043300 +0800">
+		<title lang="zh">06_小站风云</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -47679,6 +47697,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250908022500 +0800" stop="20250908025500 +0800">
 		<title lang="zh">龙血树叶粉</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250908025500 +0800" stop="20250908042100 +0800">
+		<title lang="zh">49_三国机密之潜龙在渊</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -47720,6 +47741,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250908010600 +0800" stop="20250908025100 +0800">
 		<title lang="zh">追凶十九年</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250908025100 +0800" stop="20250908042100 +0800">
+		<title lang="zh">生死下一秒</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
