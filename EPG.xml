@@ -14475,6 +14475,9 @@
 	<programme channel="咪咕足球" start="20250908042500 +0800" stop="20250908052500 +0800">
 		<title lang="zh">村BA</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250908053500 +0800" stop="20250908071500 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA常规赛第16轮 黑龙江上东-辽宁大连体产</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -47781,6 +47784,9 @@
 	<programme channel="newtv超级综艺" start="20250908044800 +0800" stop="20250908053100 +0800">
 		<title lang="zh">烽火战歌</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250908053100 +0800" stop="20250908070200 +0800">
+		<title lang="zh">诗画中国</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -47795,6 +47801,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250908050000 +0800" stop="20250908053000 +0800">
 		<title lang="zh">实况录像-2025年三人篮球世界杯 1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250908053000 +0800" stop="20250908060000 +0800">
+		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 1</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -47834,6 +47843,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250908045800 +0800" stop="20250908054300 +0800">
 		<title lang="zh">04_亮剑</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250908054300 +0800" stop="20250908062900 +0800">
+		<title lang="zh">05_亮剑</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -47889,6 +47901,9 @@
 	<programme channel="newtv古装剧场" start="20250908041600 +0800" stop="20250908053100 +0800">
 		<title lang="zh">51_清平乐</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250908053100 +0800" stop="20250908064600 +0800">
+		<title lang="zh">52_清平乐</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -47924,6 +47939,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250908043300 +0800" stop="20250908051900 +0800">
 		<title lang="zh">50_安家</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250908051900 +0800" stop="20250908060600 +0800">
+		<title lang="zh">51_安家</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -48006,6 +48024,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250908050700 +0800" stop="20250908053700 +0800">
 		<title lang="zh">龙血树叶粉</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250908053700 +0800" stop="20250908065400 +0800">
+		<title lang="zh">护好牙齿有法宝（下）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -48030,6 +48051,12 @@
 	<programme channel="newtv军事评论" start="20250908045400 +0800" stop="20250908052000 +0800">
 		<title lang="zh">俄军在冲突区域部署新型武器 北约欲主导协调对乌军援 伊朗喊话以色列将受到“惩罚”（20240407）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250908052000 +0800" stop="20250908054200 +0800">
+		<title lang="zh">伟大的胜利 抗美援朝启示录 第一集 风骨（上）（20250101）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250908054200 +0800" stop="20250908060400 +0800">
+		<title lang="zh">伟大的胜利 抗美援朝启示录 第二集 风骨（下）（20250102）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -48050,6 +48077,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250908041600 +0800" stop="20250908053300 +0800">
 		<title lang="zh">肩上芭蕾首秀 弥补挚爱心中憾（20250726）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250908053300 +0800" stop="20250908061100 +0800">
+		<title lang="zh">分秒必争的急救（20240707）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -48077,6 +48107,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250908042100 +0800" stop="20250908053000 +0800">
 		<title lang="zh">毒战生死线</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250908053000 +0800" stop="20250908064600 +0800">
+		<title lang="zh">毒战生死线2</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
