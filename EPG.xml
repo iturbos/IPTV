@@ -65287,6 +65287,9 @@
 	<programme channel="纯享4K" start="20250907131400 +0800" stop="20250907140300 +0800">
 		<title lang="zh">中国智慧 老子篇4K</title>
 	</programme>
+	<programme channel="纯享4K" start="20250907140300 +0800" stop="20250907145200 +0800">
+		<title lang="zh">智造美好生活4K 第3集 慧 城市</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -82906,6 +82909,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250907132200 +0800" stop="20250907140700 +0800">
 		<title lang="zh">39_女人的抗战</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250907140700 +0800" stop="20250907144700 +0800">
+		<title lang="zh">太空骨王骨胶原蛋白肽</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -83253,6 +83259,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250907123200 +0800" stop="20250907140100 +0800">
 		<title lang="zh">蜀山之万剑封魔</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250907140100 +0800" stop="20250907143200 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
