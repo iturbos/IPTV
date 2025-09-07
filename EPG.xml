@@ -59323,6 +59323,9 @@
 	<programme channel="爱情喜剧" start="20250907153700 +0800" stop="20250907161400 +0800">
 		<title lang="zh">40_爱的阶梯</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250907161400 +0800" stop="20250907165400 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -65328,6 +65331,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250907152400 +0800" stop="20250907160400 +0800">
 		<title lang="zh">荣宝斋4K 第2集 宝增艺圃</title>
+	</programme>
+	<programme channel="纯享4K" start="20250907160400 +0800" stop="20250907163200 +0800">
+		<title lang="zh">记住乡愁4K 第七季 第56集 潮州——潮起潮落处 风物冠天南（下）</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -82540,6 +82546,9 @@
 	<programme channel="newtv超级电视剧" start="20250907153000 +0800" stop="20250907161300 +0800">
 		<title lang="zh">20_岁岁青莲</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250907161300 +0800" stop="20250907165600 +0800">
+		<title lang="zh">21_岁岁青莲</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -82645,6 +82654,9 @@
 	<programme channel="newtv精品纪录" start="20250907152200 +0800" stop="20250907160600 +0800">
 		<title lang="zh">02_猎手与猎物的终极对决</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250907160600 +0800" stop="20250907165000 +0800">
+		<title lang="zh">03_猎手与猎物的终极对决</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82695,6 +82707,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250907144700 +0800" stop="20250907161200 +0800">
 		<title lang="zh">47_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250907161200 +0800" stop="20250907165700 +0800">
+		<title lang="zh">48_那年花开月正圆</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -82894,6 +82909,9 @@
 	<programme channel="newtv爱情喜剧" start="20250907153700 +0800" stop="20250907161400 +0800">
 		<title lang="zh">40_爱的阶梯</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250907161400 +0800" stop="20250907165400 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -82987,6 +83005,9 @@
 	<programme channel="newtv怡伴健康" start="20250907155900 +0800" stop="20250907160900 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250907160900 +0800" stop="20250907164500 +0800">
+		<title lang="zh">最后1公里的爱b7让爱流动</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -83046,6 +83067,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250907153300 +0800" stop="20250907160300 +0800">
 		<title lang="zh">龙血树叶粉</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250907160300 +0800" stop="20250907172000 +0800">
+		<title lang="zh">01_蓝盔特战队</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -83143,6 +83167,9 @@
 	<programme channel="newtv军事评论" start="20250907154300 +0800" stop="20250907160500 +0800">
 		<title lang="zh">热点冲突中的主战坦克（20240201）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250907160500 +0800" stop="20250907162700 +0800">
+		<title lang="zh">热点冲突中的防空反导装备（20240202）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -83205,6 +83232,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250907154900 +0800" stop="20250907161100 +0800">
 		<title lang="zh">腿部稳定性与力量训练（20250113）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250907161100 +0800" stop="20250907170700 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -83328,6 +83358,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250907145000 +0800" stop="20250907161200 +0800">
 		<title lang="zh">典籍里的中国第2季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250907161200 +0800" stop="20250907164200 +0800">
+		<title lang="zh">睡眠专题分享</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
