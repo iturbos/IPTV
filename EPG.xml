@@ -37656,6 +37656,9 @@
 	<programme channel="惊悚悬疑" start="20250908143800 +0800" stop="20250908160500 +0800">
 		<title lang="zh">死亡斗士</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250908161500 +0800" stop="20250908162600 +0800">
+		<title lang="zh">睡眠专题分享</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -79335,6 +79338,9 @@
 	<programme channel="newtv超级电视剧" start="20250908152400 +0800" stop="20250908160800 +0800">
 		<title lang="zh">24_岁岁青莲</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250908160800 +0800" stop="20250908165100 +0800">
+		<title lang="zh">25_岁岁青莲</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -79451,6 +79457,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250908152700 +0800" stop="20250908161000 +0800">
 		<title lang="zh">04_猎手与猎物的终极对决</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250908161000 +0800" stop="20250908164100 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -79794,6 +79803,9 @@
 	<programme channel="newtv怡伴健康" start="20250908153600 +0800" stop="20250908161200 +0800">
 		<title lang="zh">陈燕和导盲犬珍妮</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250908161200 +0800" stop="20250908165100 +0800">
+		<title lang="zh">时节之食b7夏 6</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -80123,6 +80135,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250908143800 +0800" stop="20250908160500 +0800">
 		<title lang="zh">死亡斗士</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250908161500 +0800" stop="20250908162600 +0800">
+		<title lang="zh">睡眠专题分享</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
