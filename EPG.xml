@@ -39580,6 +39580,9 @@
 	<programme channel="惊悚悬疑" start="20250909210600 +0800" stop="20250909213600 +0800">
 		<title lang="zh">《八段锦》推荐第34期</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250909213600 +0800" stop="20250909231900 +0800">
+		<title lang="zh">毒战（普通话版）</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -42906,6 +42909,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250909202600 +0800" stop="20250909213900 +0800">
 		<title lang="zh">05_欢乐颂2</title>
+	</programme>
+	<programme channel="明星大片" start="20250909213900 +0800" stop="20250909214900 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -82918,6 +82924,9 @@
 	<programme channel="newtv家庭剧场" start="20250909210600 +0800" stop="20250909213600 +0800">
 		<title lang="zh">《八段锦》推荐第35期</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250909213600 +0800" stop="20250909221700 +0800">
+		<title lang="zh">29_娘亲舅大</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -83278,6 +83287,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250909210500 +0800" stop="20250909213500 +0800">
 		<title lang="zh">《八段锦》推荐第35期</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250909213500 +0800" stop="20250909222100 +0800">
+		<title lang="zh">30_六姊妹</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -83575,6 +83587,9 @@
 	<programme channel="newtv精品综合" start="20250909202600 +0800" stop="20250909213900 +0800">
 		<title lang="zh">05_欢乐颂2</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250909213900 +0800" stop="20250909214900 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -83628,6 +83643,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250909210600 +0800" stop="20250909213600 +0800">
 		<title lang="zh">《八段锦》推荐第34期</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250909213600 +0800" stop="20250909231900 +0800">
+		<title lang="zh">毒战（普通话版）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -83820,6 +83838,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250909210200 +0800" stop="20250909213200 +0800">
 		<title lang="zh">《八段锦》推荐第35期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250909213200 +0800" stop="20250909221900 +0800">
+		<title lang="zh">06_庆余年</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
