@@ -40566,6 +40566,9 @@
 	<programme channel="纯享4K" start="20250910020300 +0800" stop="20250910024300 +0800">
 		<title lang="zh">探索b7发现4K 姑蔑古国寻踪</title>
 	</programme>
+	<programme channel="纯享4K" start="20250910024300 +0800" stop="20250910031300 +0800">
+		<title lang="zh">传承 第三季4K 第五集 承心</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51201,6 +51204,9 @@
 	<programme channel="newtv超级体育" start="20250910010500 +0800" stop="20250910023600 +0800">
 		<title lang="zh">实况录像-2025年世界田联钻石联赛 拉巴特站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250910023600 +0800" stop="20250910040000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 3</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -51222,6 +51228,9 @@
 	<programme channel="newtv超级电视剧" start="20250910015000 +0800" stop="20250910023500 +0800">
 		<title lang="zh">06_千金女贼</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250910023500 +0800" stop="20250910032100 +0800">
+		<title lang="zh">07_千金女贼</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -51233,6 +51242,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250910013900 +0800" stop="20250910022400 +0800">
 		<title lang="zh">40_警犬来啦</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250910022400 +0800" stop="20250910030800 +0800">
+		<title lang="zh">41_警犬来啦</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -51251,6 +51263,12 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250910020700 +0800" stop="20250910021700 +0800">
 		<title lang="zh">全天候智能驾驶</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250910022700 +0800" stop="20250910023700 +0800">
+		<title lang="zh">智能物流配送</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250910023700 +0800" stop="20250910024700 +0800">
+		<title lang="zh">智能分拣机器人</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -51279,6 +51297,9 @@
 	<programme channel="newtv军旅剧场" start="20250910013600 +0800" stop="20250910022100 +0800">
 		<title lang="zh">12_小站风云</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250910022100 +0800" stop="20250910030700 +0800">
+		<title lang="zh">13_小站风云</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -51291,6 +51312,9 @@
 	<programme channel="newtv家庭剧场" start="20250910014200 +0800" stop="20250910022700 +0800">
 		<title lang="zh">45_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250910022700 +0800" stop="20250910031300 +0800">
+		<title lang="zh">46_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -51300,6 +51324,9 @@
 	<programme channel="newtv热播精选" start="20250910004500 +0800" stop="20250910022300 +0800">
 		<title lang="zh">惊爆缉捕令</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250910022300 +0800" stop="20250910025900 +0800">
+		<title lang="zh">01_最遥远的距离</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -51308,6 +51335,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250910014200 +0800" stop="20250910022900 +0800">
 		<title lang="zh">53_三生三世枕上书</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250910022900 +0800" stop="20250910031400 +0800">
+		<title lang="zh">54_三生三世枕上书</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -51332,6 +51362,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250910013700 +0800" stop="20250910022400 +0800">
 		<title lang="zh">50_倚天屠龙记</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250910022400 +0800" stop="20250910031100 +0800">
+		<title lang="zh">为了生存</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -51366,6 +51399,9 @@
 	<programme channel="newtv炫舞未来" start="20250910014900 +0800" stop="20250910024500 +0800">
 		<title lang="zh">新生代音乐人黄唯铭感恩父母 献唱原创作品《我快乐所以你快乐》（20250316）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250910024500 +0800" stop="20250910030700 +0800">
+		<title lang="zh">傣族民间舞蹈（20250624）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -51384,11 +51420,17 @@
 	<programme channel="newtv惊悚悬疑" start="20250910004900 +0800" stop="20250910022800 +0800">
 		<title lang="zh">死亡之舞</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250910022800 +0800" stop="20250910042200 +0800">
+		<title lang="zh">大黄蜂（普通话版）</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
 	<programme channel="newtv金牌综艺" start="20250910000800 +0800" stop="20250910024200 +0800">
 		<title lang="zh">开门大吉（2024）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250910024200 +0800" stop="20250910051500 +0800">
+		<title lang="zh">越战越勇（2024）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
