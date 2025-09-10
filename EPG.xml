@@ -20388,6 +20388,9 @@
 	<programme channel="动作电影" start="20250910095900 +0800" stop="20250910110300 +0800">
 		<title lang="zh">铁甲狂猴之亡命雷霆</title>
 	</programme>
+	<programme channel="动作电影" start="20250910110300 +0800" stop="20250910113200 +0800">
+		<title lang="zh">《时尚新达人》推荐第一期</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -83346,6 +83349,9 @@
 	<programme channel="newtv超级综艺" start="20250910103700 +0800" stop="20250910111200 +0800">
 		<title lang="zh">TOP音乐咖</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250910111200 +0800" stop="20250910122300 +0800">
+		<title lang="zh">大地的号角</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -83862,6 +83868,9 @@
 	<programme channel="newtv动作电影" start="20250910095900 +0800" stop="20250910110300 +0800">
 		<title lang="zh">铁甲狂猴之亡命雷霆</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250910110300 +0800" stop="20250910113200 +0800">
+		<title lang="zh">《时尚新达人》推荐第一期</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -83921,6 +83930,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250910104000 +0800" stop="20250910111000 +0800">
 		<title lang="zh">《超级美味》</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250910111000 +0800" stop="20250910113100 +0800">
+		<title lang="zh">39_完美伴侣</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -84180,6 +84192,9 @@
 	<programme channel="newtv金牌综艺" start="20250910103800 +0800" stop="20250910110800 +0800">
 		<title lang="zh">《超级美味》推荐第4期30分钟</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250910110800 +0800" stop="20250910130800 +0800">
+		<title lang="zh">德云斗笑社 第2季</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -84284,6 +84299,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250910103200 +0800" stop="20250910111600 +0800">
 		<title lang="zh">03_九流霸主</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250910111600 +0800" stop="20250910114500 +0800">
+		<title lang="zh">《时尚新达人》推荐第一期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
