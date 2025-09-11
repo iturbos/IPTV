@@ -66585,6 +66585,9 @@
 	<programme channel="纯享4K" start="20250911144300 +0800" stop="20250911150700 +0800">
 		<title lang="zh">辣椒的征途4K 第1集 红色征途的起点</title>
 	</programme>
+	<programme channel="纯享4K" start="20250911150700 +0800" stop="20250911153700 +0800">
+		<title lang="zh">好吃客4K 海口</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -83034,6 +83037,9 @@
 	<programme channel="黑莓电影" start="20250911133600 +0800" stop="20250911150800 +0800">
 		<title lang="zh">仙剑奇侠传前传：酒剑仙</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250911150800 +0800" stop="20250911165300 +0800">
+		<title lang="zh">捍卫者</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -84246,6 +84252,9 @@
 	<programme channel="newtv精品纪录" start="20250911144500 +0800" stop="20250911151500 +0800">
 		<title lang="zh">《超级美味》推荐第4期30分钟</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250911151500 +0800" stop="20250911155400 +0800">
+		<title lang="zh">川味（二）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -84308,6 +84317,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250911142900 +0800" stop="20250911151400 +0800">
 		<title lang="zh">34_榜上佳婿</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250911151400 +0800" stop="20250911154400 +0800">
+		<title lang="zh">《超级美味》推荐第4期30分钟</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -84375,6 +84387,9 @@
 	<programme channel="newtv军旅剧场" start="20250911142700 +0800" stop="20250911150800 +0800">
 		<title lang="zh">41_双刺</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250911150800 +0800" stop="20250911153800 +0800">
+		<title lang="zh">《超级美味》推荐第4期30分钟</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -84440,6 +84455,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250911142700 +0800" stop="20250911151300 +0800">
 		<title lang="zh">07_儿女情更长</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250911151300 +0800" stop="20250911154300 +0800">
+		<title lang="zh">《超级美味》推荐第4期30分钟</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -84746,6 +84764,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250911133500 +0800" stop="20250911150600 +0800">
 		<title lang="zh">第3期下：《年会“卷”不停》-穿越无限流</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250911150600 +0800" stop="20250911153600 +0800">
+		<title lang="zh">《超级美味》推荐第4期30分钟</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -85172,6 +85193,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250911143100 +0800" stop="20250911150100 +0800">
 		<title lang="zh">《超级美味》推荐第4期30分钟</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250911150100 +0800" stop="20250911154400 +0800">
+		<title lang="zh">27_千古玦尘</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
