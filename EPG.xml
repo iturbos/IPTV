@@ -16428,6 +16428,9 @@
 	<programme channel="咪咕足球" start="20250912013000 +0800" stop="20250912031000 +0800">
 		<title lang="zh">2025NBL联赛 常规赛第3轮 江西鲸裕清酒-长沙勇胜</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250912032000 +0800" stop="20250912042000 +0800">
+		<title lang="zh">超级三对三-2025超三联赛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -40713,6 +40716,9 @@
 	<programme channel="纯享4K" start="20250912021300 +0800" stop="20250912025300 +0800">
 		<title lang="zh">探索b7发现4K 荆门战国楚墓</title>
 	</programme>
+	<programme channel="纯享4K" start="20250912025300 +0800" stop="20250912032300 +0800">
+		<title lang="zh">传承 第三季4K 第七集 迭新</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51327,6 +51333,9 @@
 	<programme channel="newtv超级电视剧" start="20250912021800 +0800" stop="20250912030000 +0800">
 		<title lang="zh">17_千金女贼</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250912030000 +0800" stop="20250912034400 +0800">
+		<title lang="zh">18_千金女贼</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -51341,6 +51350,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250912021200 +0800" stop="20250912025100 +0800">
 		<title lang="zh">01_前夜</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250912025100 +0800" stop="20250912033600 +0800">
+		<title lang="zh">36_天狼星行动</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -51359,6 +51371,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250912024100 +0800" stop="20250912031100 +0800">
 		<title lang="zh">第十三集：化生万物</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250912031100 +0800" stop="20250912034100 +0800">
+		<title lang="zh">01_三跨天山</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -51390,6 +51405,9 @@
 	<programme channel="newtv军旅剧场" start="20250912021500 +0800" stop="20250912030100 +0800">
 		<title lang="zh">20_小站风云</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250912030100 +0800" stop="20250912034600 +0800">
+		<title lang="zh">21_小站风云</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -51402,6 +51420,9 @@
 	<programme channel="newtv家庭剧场" start="20250912021400 +0800" stop="20250912025900 +0800">
 		<title lang="zh">53_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250912025900 +0800" stop="20250912034200 +0800">
+		<title lang="zh">54_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -51413,6 +51434,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250912021500 +0800" stop="20250912030000 +0800">
 		<title lang="zh">09_最遥远的距离</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250912030000 +0800" stop="20250912034600 +0800">
+		<title lang="zh">10_最遥远的距离</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -51465,6 +51489,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250912022400 +0800" stop="20250912030900 +0800">
 		<title lang="zh">我姥爷1945之绝命枪第12集</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250912030900 +0800" stop="20250912034700 +0800">
+		<title lang="zh">秋天就要润着过（下）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -51476,6 +51503,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250912020200 +0800" stop="20250912025500 +0800">
 		<title lang="zh">王建华：从炊事员到金牌大厨</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250912025500 +0800" stop="20250912034800 +0800">
+		<title lang="zh">你们的样子 2025年清明节特别节目</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -51506,6 +51536,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20250912005700 +0800" stop="20250912025700 +0800">
 		<title lang="zh">拆弹专家（普通话版）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250912025700 +0800" stop="20250912043000 +0800">
+		<title lang="zh">浴血山河</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
