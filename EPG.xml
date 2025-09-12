@@ -27660,6 +27660,9 @@
 	<programme channel="咪咕综合体育" start="20250912220000 +0800" stop="20250912221500 +0800">
 		<title lang="zh">睛彩圈圈点第八期</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250912222000 +0800" stop="20250912000000 +0800">
+		<title lang="zh">一杆定音-2025斯诺克上海大师赛第1轮 张安达-袁思俊</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -27746,6 +27749,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250912211500 +0800" stop="20250912221500 +0800">
 		<title lang="zh">超级三对三-2025超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250912222000 +0800" stop="20250912000000 +0800">
+		<title lang="zh">当燃CBA-24/25总决赛G2 浙江方兴渡-北京北汽</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -40059,6 +40065,9 @@
 	<programme channel="惊悚悬疑" start="20250912213400 +0800" stop="20250912220400 +0800">
 		<title lang="zh">《时尚新达人》推荐第一期</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250912220400 +0800" stop="20250912230900 +0800">
+		<title lang="zh">夺宝同盟之神秘笔记</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -43655,6 +43664,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250912212900 +0800" stop="20250912221200 +0800">
 		<title lang="zh">14_欢乐颂2</title>
+	</programme>
+	<programme channel="明星大片" start="20250912221200 +0800" stop="20250912224200 +0800">
+		<title lang="zh">《超级美味》推荐第4期30分钟</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -84717,6 +84729,9 @@
 	<programme channel="newtv精品纪录" start="20250912214900 +0800" stop="20250912221400 +0800">
 		<title lang="zh">04_岁月怀想</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250912221400 +0800" stop="20250912223900 +0800">
+		<title lang="zh">05_异情别恋</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -84815,6 +84830,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250912212400 +0800" stop="20250912220500 +0800">
 		<title lang="zh">30_天行健</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250912220500 +0800" stop="20250912224800 +0800">
+		<title lang="zh">31_天行健</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -85016,6 +85034,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250912211500 +0800" stop="20250912220200 +0800">
 		<title lang="zh">01_血脉</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250912220200 +0800" stop="20250912223200 +0800">
+		<title lang="zh">《时尚新达人》推荐第一期</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -85377,6 +85398,9 @@
 	<programme channel="newtv怡伴健康" start="20250912212700 +0800" stop="20250912221200 +0800">
 		<title lang="zh">湖南名将vs四川天门淘一街-第3局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250912221200 +0800" stop="20250912224200 +0800">
+		<title lang="zh">《时尚新达人》推荐第一期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -85701,6 +85725,9 @@
 	<programme channel="newtv炫舞未来" start="20250912211200 +0800" stop="20250912220800 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250912221300 +0800" stop="20250912221700 +0800">
+		<title lang="zh">卢昆带来爵士风健身舞《Levitating》</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -85797,6 +85824,9 @@
 	<programme channel="newtv精品综合" start="20250912212900 +0800" stop="20250912221200 +0800">
 		<title lang="zh">14_欢乐颂2</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250912221200 +0800" stop="20250912224200 +0800">
+		<title lang="zh">《超级美味》推荐第4期30分钟</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -85853,6 +85883,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250912213400 +0800" stop="20250912220400 +0800">
 		<title lang="zh">《时尚新达人》推荐第一期</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250912220400 +0800" stop="20250912230900 +0800">
+		<title lang="zh">夺宝同盟之神秘笔记</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -85919,6 +85952,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250912205300 +0800" stop="20250912220700 +0800">
 		<title lang="zh">五十公里桃花坞第5季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250912220700 +0800" stop="20250912223700 +0800">
+		<title lang="zh">《超级美味》推荐第4期30分钟</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
