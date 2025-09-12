@@ -47367,6 +47367,9 @@
 	<programme channel="newtv超级电影" start="20250913035400 +0800" stop="20250913051200 +0800">
 		<title lang="zh">倾城之爱</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250913051200 +0800" stop="20250913065900 +0800">
+		<title lang="zh">青面兽杨志</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -47415,6 +47418,9 @@
 	<programme channel="newtv精品大剧" start="20250913040300 +0800" stop="20250913044800 +0800">
 		<title lang="zh">01_上海滩生死较量</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250913044800 +0800" stop="20250913053300 +0800">
+		<title lang="zh">02_上海滩生死较量</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -47444,6 +47450,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250913043700 +0800" stop="20250913050200 +0800">
 		<title lang="zh">02_熊孩子来了</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250913050200 +0800" stop="20250913052600 +0800">
+		<title lang="zh">03_追你到天边</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -47553,6 +47562,9 @@
 	<programme channel="newtv爱情喜剧" start="20250913041200 +0800" stop="20250913045900 +0800">
 		<title lang="zh">13_柳舟记</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250913045900 +0800" stop="20250913054500 +0800">
+		<title lang="zh">14_柳舟记</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -47567,6 +47579,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250913025700 +0800" stop="20250913045100 +0800">
 		<title lang="zh">武动乾坤：涅槃神石</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250913045100 +0800" stop="20250913061700 +0800">
+		<title lang="zh">热武青春</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -47616,6 +47631,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250913042900 +0800" stop="20250913051400 +0800">
 		<title lang="zh">40_十送红军</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250913051400 +0800" stop="20250913060000 +0800">
+		<title lang="zh">41_十送红军</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -47637,6 +47655,9 @@
 	<programme channel="newtv军事评论" start="20250913043700 +0800" stop="20250913050400 +0800">
 		<title lang="zh">新春特别节目 透视国际军械库</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250913050400 +0800" stop="20250913053100 +0800">
+		<title lang="zh">英国2025退役装备知多少</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -47655,6 +47676,9 @@
 	<programme channel="newtv炫舞未来" start="20250913035600 +0800" stop="20250913051300 +0800">
 		<title lang="zh">一句承诺信守六十余年 用爱点亮一盏盏心灯（20250825）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250913051300 +0800" stop="20250913053800 +0800">
+		<title lang="zh">01_俑气冲天</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -47672,6 +47696,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250913041800 +0800" stop="20250913050200 +0800">
 		<title lang="zh">22_狐影</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250913050200 +0800" stop="20250913061500 +0800">
+		<title lang="zh">23_狐影</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -47762,6 +47789,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250913035800 +0800" stop="20250913045900 +0800">
 		<title lang="zh">男子长拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250913045900 +0800" stop="20250913054600 +0800">
+		<title lang="zh">拳王争霸赛：科尔迪纳VS拉西莫夫</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
