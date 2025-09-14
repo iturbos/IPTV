@@ -84363,6 +84363,9 @@
 	<programme channel="newtv超级电视剧" start="20250914152900 +0800" stop="20250914161000 +0800">
 		<title lang="zh">15_星汉灿烂</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250914161000 +0800" stop="20250914165400 +0800">
+		<title lang="zh">16_星汉灿烂</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
