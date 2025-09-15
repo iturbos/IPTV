@@ -18984,6 +18984,9 @@
 	<programme channel="动作电影" start="20250915104000 +0800" stop="20250915120800 +0800">
 		<title lang="zh">火线追凶2之爱本无罪</title>
 	</programme>
+	<programme channel="动作电影" start="20250915120800 +0800" stop="20250915123800 +0800">
+		<title lang="zh">【推荐】-舒安柔按摩椅</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -25134,6 +25137,9 @@
 	<programme channel="咪咕综合体育" start="20250915115500 +0800" stop="20250915120500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250915120500 +0800" stop="20250915123000 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第九期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -25172,6 +25178,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250915113500 +0800" stop="20250915120000 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第九期</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250915120500 +0800" stop="20250915122000 +0800">
+		<title lang="zh">睛彩圈圈点第九期</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -67656,6 +67665,9 @@
 	<programme channel="超级电影" start="20250915102900 +0800" stop="20250915121600 +0800">
 		<title lang="zh">远东特遣队-狭路相逢</title>
 	</programme>
+	<programme channel="超级电影" start="20250915121600 +0800" stop="20250915122400 +0800">
+		<title lang="zh">音乐电影欣赏</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -78855,6 +78867,9 @@
 	<programme channel="newtv超级体育" start="20250915110500 +0800" stop="20250915120000 +0800">
 		<title lang="zh">实况录像-2025年世界职业拳王争霸赛 14</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250915120000 +0800" stop="20250915130500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -78878,6 +78893,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250915102900 +0800" stop="20250915121600 +0800">
 		<title lang="zh">远东特遣队-狭路相逢</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250915121600 +0800" stop="20250915122400 +0800">
+		<title lang="zh">音乐电影欣赏</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -79158,6 +79176,9 @@
 	<programme channel="newtv军旅剧场" start="20250915114000 +0800" stop="20250915121000 +0800">
 		<title lang="zh">【推荐】-舒安柔按摩椅</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250915121000 +0800" stop="20250915125500 +0800">
+		<title lang="zh">03_中国骑兵</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -79212,6 +79233,9 @@
 	<programme channel="newtv家庭剧场" start="20250915113700 +0800" stop="20250915120700 +0800">
 		<title lang="zh">【推荐】-舒安柔按摩椅</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250915120700 +0800" stop="20250915125300 +0800">
+		<title lang="zh">21_儿女情更长</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -79262,6 +79286,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250915113300 +0800" stop="20250915120300 +0800">
 		<title lang="zh">【推荐】-舒安柔按摩椅</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250915120300 +0800" stop="20250915133000 +0800">
+		<title lang="zh">速度与激战</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -79344,6 +79371,9 @@
 	<programme channel="newtv动作电影" start="20250915104000 +0800" stop="20250915120800 +0800">
 		<title lang="zh">火线追凶2之爱本无罪</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250915120800 +0800" stop="20250915123800 +0800">
+		<title lang="zh">【推荐】-舒安柔按摩椅</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -79409,6 +79439,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250915113000 +0800" stop="20250915121200 +0800">
 		<title lang="zh">生活圈</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250915121200 +0800" stop="20250915124200 +0800">
+		<title lang="zh">【推荐】-舒安柔按摩椅</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -79535,6 +79568,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250915114200 +0800" stop="20250915120700 +0800">
 		<title lang="zh">雪域高原的家国印记</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250915120700 +0800" stop="20250915123300 +0800">
+		<title lang="zh">英雄之路 第一集 白山黑水除敌寇</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
