@@ -27189,6 +27189,9 @@
 	<programme channel="咪咕足球" start="20250916211500 +0800" stop="20250916221500 +0800">
 		<title lang="zh">超级三对三-2025超三联赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250916221500 +0800" stop="20250916222000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -82772,6 +82775,9 @@
 	</programme>
 	<programme channel="newtv超级综艺" start="20250916210600 +0800" stop="20250916220400 +0800">
 		<title lang="zh">烽火战歌</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20250916220400 +0800" stop="20250916230800 +0800">
+		<title lang="zh">一起音乐吧</title>
 	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
