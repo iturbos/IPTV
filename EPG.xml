@@ -59592,6 +59592,9 @@
 	<programme channel="爱情喜剧" start="20250917223400 +0800" stop="20250917230400 +0800">
 		<title lang="zh">《超级美味》推荐第7期</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250917230400 +0800" stop="20250917005300 +0800">
+		<title lang="zh">血证一九二八</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -65687,6 +65690,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250917224700 +0800" stop="20250917231600 +0800">
 		<title lang="zh">好吃客4K 乌镇</title>
+	</programme>
+	<programme channel="纯享4K" start="20250917231600 +0800" stop="20250917232100 +0800">
+		<title lang="zh">如果国宝会说话 第一季4K 龙山蛋壳黑陶杯：0.2毫米的精致</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -83430,6 +83436,9 @@
 	<programme channel="newtv精品纪录" start="20250917223800 +0800" stop="20250917230800 +0800">
 		<title lang="zh">【和田玉推荐】第二期</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250917230800 +0800" stop="20250917233400 +0800">
+		<title lang="zh">迎来新生</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -83751,6 +83760,9 @@
 	<programme channel="newtv家庭剧场" start="20250917223800 +0800" stop="20250917230800 +0800">
 		<title lang="zh">《超级美味》推荐第7期</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250917230800 +0800" stop="20250917235400 +0800">
+		<title lang="zh">22_血脉</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -83850,6 +83862,9 @@
 	<programme channel="newtv热播精选" start="20250917224100 +0800" stop="20250917231100 +0800">
 		<title lang="zh">《超级美味》推荐第7期</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250917231100 +0800" stop="20250917002300 +0800">
+		<title lang="zh">现在就出发第2季</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -83942,6 +83957,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250917223400 +0800" stop="20250917230400 +0800">
 		<title lang="zh">《超级美味》推荐第7期</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250917230400 +0800" stop="20250917005300 +0800">
+		<title lang="zh">血证一九二八</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -84122,6 +84140,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250917223700 +0800" stop="20250917230700 +0800">
 		<title lang="zh">《超级美味》推荐第7期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250917230700 +0800" stop="20250917234500 +0800">
+		<title lang="zh">湖南名将vs重庆一针见血-第1局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
