@@ -1,5 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv info-name="by spark " info-url="https://epg.112114.xyz">
+	<channel id="1905环球经典">
+		<display-name lang="zh">1905环球经典</display-name>
+	</channel>
+	<programme channel="1905环球经典" start="20250919000000 +0800" stop="20250919001500 +0800">
+		<title lang="zh">窈窕淑女</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250919001500 +0800" stop="20250919031000 +0800">
+		<title lang="zh">音乐之声</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250919031000 +0800" stop="20250919050000 +0800">
+		<title lang="zh">蓬门碧玉红颜泪</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250919050000 +0800" stop="20250919063800 +0800">
+		<title lang="zh">千面佳人</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250919063800 +0800" stop="20250919084300 +0800">
+		<title lang="zh">桃色公寓</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250919084300 +0800" stop="20250919095500 +0800">
+		<title lang="zh">百老汇小姐</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250919095500 +0800" stop="20250919121700 +0800">
+		<title lang="zh">爱玛姑娘</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250919121700 +0800" stop="20250919141300 +0800">
+		<title lang="zh">金粉世界</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250919141300 +0800" stop="20250919160400 +0800">
+		<title lang="zh">火树银花</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250919160400 +0800" stop="20250919175100 +0800">
+		<title lang="zh">封面女郎</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250919175100 +0800" stop="20250919191500 +0800">
+		<title lang="zh">亮眼睛</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250919191500 +0800" stop="20250919221100 +0800">
+		<title lang="zh">一个明星的诞生</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250919221100 +0800" stop="20250919235400 +0800">
+		<title lang="zh">花开蝶满枝</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250919235400 +0800" stop="20250919235900 +0800">
+		<title lang="zh">甜姐儿</title>
+	</programme>
+	<channel id="BTV体育">
+		<display-name lang="zh">BTV体育</display-name>
+	</channel>
+	<programme channel="BTV体育" start="20250919004500 +0800" stop="20250919011500 +0800">
+		<title lang="zh">天天体育（2025-9-19）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250919011500 +0800" stop="20250919015500 +0800">
+		<title lang="zh">BRTV赛场：2024-2025德甲集锦（30）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250919015500 +0800" stop="20250919024500 +0800">
+		<title lang="zh">欢乐二打一（2025-9-19）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250919024500 +0800" stop="20250919042500 +0800">
+		<title lang="zh">BRTV赛场：待定（网球）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250919042500 +0800" stop="20250919051500 +0800">
+		<title lang="zh">重返经典（新24）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250919051500 +0800" stop="20250919054500 +0800">
+		<title lang="zh">天天体育（2025-9-19）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250919054500 +0800" stop="20250919060000 +0800">
+		<title lang="zh">2024-2025德甲进球集锦（2）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250919060500 +0800" stop="20250919061500 +0800">
+		<title lang="zh">2025赛季北京国安进球集锦（3）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250919061500 +0800" stop="20250919075500 +0800">
+		<title lang="zh">BRTV赛场：2025-2026赛季德甲联赛(圣保利-奥格斯堡)</title>
+	</programme>
+	<programme channel="BTV体育" start="20250919080000 +0800" stop="20250919083000 +0800">
+		<title lang="zh">天天体育（2025-9-18）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250919083000 +0800" stop="20250919092000 +0800">
+		<title lang="zh">欢乐二打一（2025-9-18）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250919092000 +0800" stop="20250919100500 +0800">
+		<title lang="zh">乐活北京211（9-18）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250919101000 +0800" stop="20250919110000 +0800">
+		<title lang="zh">重返经典（新24）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250919110000 +0800" stop="20250919110500 +0800">
+		<title lang="zh">奥运夺金时刻（1）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250919111000 +0800" stop="20250919114000 +0800">
+		<title lang="zh">天天体育（2025-9-18）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250919114000 +0800" stop="20250919123000 +0800">
+		<title lang="zh">欢乐二打一（2025-9-18）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250919123000 +0800" stop="20250919131500 +0800">
+		<title lang="zh">乐活北京212（9-19）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250919132000 +0800" stop="20250919150000 +0800">
+		<title lang="zh">BRTV赛场：待定（网球）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250919150500 +0800" stop="20250919151500 +0800">
+		<title lang="zh">2025赛季北京国安进球集锦（3）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250919152000 +0800" stop="20250919170000 +0800">
+		<title lang="zh">BRTV赛场：  2025-2026赛季德甲联赛(美因茨-莱比锡)</title>
+	</programme>
+	<programme channel="BTV体育" start="20250919171000 +0800" stop="20250919175500 +0800">
+		<title lang="zh">乐活北京212（9-19）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250919175500 +0800" stop="20250919184500 +0800">
+		<title lang="zh">欢乐二打一（2025-9-19）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250919185000 +0800" stop="20250919192000 +0800">
+		<title lang="zh">直播：天天体育</title>
+	</programme>
+	<programme channel="BTV体育" start="20250919192000 +0800" stop="20250919192500 +0800">
+		<title lang="zh">奥运夺金时刻（1）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250919193000 +0800" stop="20250919211000 +0800">
+		<title lang="zh">BRTV赛场：2025“京”彩赛事（10）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250919212000 +0800" stop="20250919221000 +0800">
+		<title lang="zh">欢乐二打一（2025-9-19）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250919221500 +0800" stop="20250919230500 +0800">
+		<title lang="zh">重返经典（新24）</title>
+	</programme>
 	<channel id="BTV影视">
 		<display-name lang="zh">BTV影视</display-name>
 	</channel>
