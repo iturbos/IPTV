@@ -27654,6 +27654,9 @@
 	<programme channel="咪咕足球" start="20250919193000 +0800" stop="20250919211000 +0800">
 		<title lang="zh">2025NBL联赛 总决赛G2 香港金牛-长沙电信勇胜</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250919211500 +0800" stop="20250919221500 +0800">
+		<title lang="zh">超级三对三-2025超三联赛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -67500,6 +67503,9 @@
 	<programme channel="纯享4K" start="20250919205600 +0800" stop="20250919210200 +0800">
 		<title lang="zh">美丽中国自然4K 江西宜丰系列 中华蜜蜂</title>
 	</programme>
+	<programme channel="纯享4K" start="20250919210700 +0800" stop="20250919213700 +0800">
+		<title lang="zh">寻古中国4K 河洛记b7匠心独具</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -83898,6 +83904,9 @@
 	<programme channel="黑莓动画" start="20250919193100 +0800" stop="20250919211200 +0800">
 		<title lang="zh">画江湖之天罡</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250919211200 +0800" stop="20250919223700 +0800">
+		<title lang="zh">绝代双骄之天外有天</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -85161,6 +85170,9 @@
 	<programme channel="newtv精品大剧" start="20250919203500 +0800" stop="20250919210500 +0800">
 		<title lang="zh">《超级美味》推荐第7期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250919210500 +0800" stop="20250919215100 +0800">
+		<title lang="zh">37_安家</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -85278,6 +85290,9 @@
 	<programme channel="newtv精品纪录" start="20250919203100 +0800" stop="20250919210100 +0800">
 		<title lang="zh">《超级美味》推荐第7期</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250919210100 +0800" stop="20250919212600 +0800">
+		<title lang="zh">05_桥济沧海</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -85373,6 +85388,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250919204200 +0800" stop="20250919211200 +0800">
 		<title lang="zh">《超级美味》推荐第7期</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250919211200 +0800" stop="20250919215900 +0800">
+		<title lang="zh">21_庆余年第二季</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -85565,6 +85583,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250919202800 +0800" stop="20250919211400 +0800">
 		<title lang="zh">27_血脉</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250919211400 +0800" stop="20250919214400 +0800">
+		<title lang="zh">《超级美味》推荐第7期</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -86157,6 +86178,9 @@
 	<programme channel="newtv军事评论" start="20250919204000 +0800" stop="20250919210500 +0800">
 		<title lang="zh">特朗普自挖大坑 台湾别跟着跳</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250919210500 +0800" stop="20250919213100 +0800">
+		<title lang="zh">台湾各地办灯会迎元宵节</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -86243,6 +86267,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250919202900 +0800" stop="20250919211400 +0800">
 		<title lang="zh">09_折腰</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250919211400 +0800" stop="20250919214900 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -86621,6 +86648,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250919202800 +0800" stop="20250919211500 +0800">
 		<title lang="zh">45_庆余年</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250919211500 +0800" stop="20250919214500 +0800">
+		<title lang="zh">《超级美味》推荐第7期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
