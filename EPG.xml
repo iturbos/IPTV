@@ -27465,6 +27465,9 @@
 	<programme channel="咪咕足球" start="20250920114000 +0800" stop="20250920132000 +0800">
 		<title lang="zh">我爱女篮-24/25WCBA季后赛半决赛第2轮 内蒙古农信-东莞新彤盛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250920132000 +0800" stop="20250920132500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -67107,6 +67110,9 @@
 	<programme channel="纯享4K" start="20250920121900 +0800" stop="20250920130200 +0800">
 		<title lang="zh">远方的家4K 长沙贡玛国家级自然保护区 长沙贡玛：探秘“最美高原湿地”</title>
 	</programme>
+	<programme channel="纯享4K" start="20250920131200 +0800" stop="20250920134200 +0800">
+		<title lang="zh">寻古中国4K 河洛记b7兼收并蓄</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -84807,6 +84813,9 @@
 	<programme channel="newtv古装剧场" start="20250920122900 +0800" stop="20250920131400 +0800">
 		<title lang="zh">31_长歌行</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250920131400 +0800" stop="20250920135400 +0800">
+		<title lang="zh">黑芝麻丸</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -84864,6 +84873,9 @@
 	<programme channel="newtv军旅剧场" start="20250920122700 +0800" stop="20250920131200 +0800">
 		<title lang="zh">23_中国骑兵</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250920131200 +0800" stop="20250920135200 +0800">
+		<title lang="zh">07_姐妹情缘</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -84920,6 +84932,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250920122600 +0800" stop="20250920131100 +0800">
 		<title lang="zh">41_儿女情更长</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250920131100 +0800" stop="20250920135100 +0800">
+		<title lang="zh">黑芝麻丸</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -85281,6 +85296,9 @@
 	<programme channel="newtv军事评论" start="20250920124000 +0800" stop="20250920130200 +0800">
 		<title lang="zh">全球两栖攻击舰新动态</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250920130200 +0800" stop="20250920132400 +0800">
+		<title lang="zh">聚焦二〇二五印度航展</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85331,6 +85349,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250920121500 +0800" stop="20250920130400 +0800">
 		<title lang="zh">同心b7万里长城万里长（20250907）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250920130400 +0800" stop="20250920135300 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
