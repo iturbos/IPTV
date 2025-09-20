@@ -27471,6 +27471,9 @@
 	<programme channel="咪咕足球" start="20250920132500 +0800" stop="20250920140500 +0800">
 		<title lang="zh">西班牙黄金一代 01 屏障</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250920141000 +0800" stop="20250920154000 +0800">
+		<title lang="zh">2025国际篮联男篮亚洲杯 1/4决赛 中国男篮-韩国男篮</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -43364,6 +43367,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250920134900 +0800" stop="20250920140400 +0800">
 		<title lang="zh">26_喜羊羊与灰太狼之嘻哈闯世界之四</title>
+	</programme>
+	<programme channel="明星大片" start="20250920140400 +0800" stop="20250920141800 +0800">
+		<title lang="zh">27_喜羊羊与灰太狼之嘻哈闯世界之四</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -61011,6 +61017,9 @@
 	<programme channel="爱情喜剧" start="20250920132200 +0800" stop="20250920140200 +0800">
 		<title lang="zh">黑芝麻丸</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250920140200 +0800" stop="20250920144800 +0800">
+		<title lang="zh">34_你比星光美丽</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -67131,6 +67140,9 @@
 	<programme channel="纯享4K" start="20250920134200 +0800" stop="20250920141200 +0800">
 		<title lang="zh">寻古中国4K 古蜀记b7古蜀之源</title>
 	</programme>
+	<programme channel="纯享4K" start="20250920141200 +0800" stop="20250920141700 +0800">
+		<title lang="zh">香港之味 第6集</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -72023,6 +72035,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250920125000 +0800" stop="20250920141100 +0800">
 		<title lang="zh">电影《别叫我酒神》</title>
+	</programme>
+	<programme channel="超级电影" start="20250920141100 +0800" stop="20250920152400 +0800">
+		<title lang="zh">电影《鲁班四杰之伏龙海眼》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -84594,6 +84609,9 @@
 	<programme channel="newtv超级电影" start="20250920125000 +0800" stop="20250920141100 +0800">
 		<title lang="zh">电影《别叫我酒神》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250920141100 +0800" stop="20250920152400 +0800">
+		<title lang="zh">电影《鲁班四杰之伏龙海眼》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -84785,6 +84803,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250920133000 +0800" stop="20250920141000 +0800">
 		<title lang="zh">黑芝麻丸</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250920141000 +0800" stop="20250920150000 +0800">
+		<title lang="zh">大瀑布——非洲动物的乐园</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -85092,6 +85113,9 @@
 	<programme channel="newtv爱情喜剧" start="20250920132200 +0800" stop="20250920140200 +0800">
 		<title lang="zh">黑芝麻丸</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250920140200 +0800" stop="20250920144800 +0800">
+		<title lang="zh">34_你比星光美丽</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -85356,6 +85380,9 @@
 	<programme channel="newtv军事评论" start="20250920134600 +0800" stop="20250920140800 +0800">
 		<title lang="zh">乌克兰上空的“幻影”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250920140800 +0800" stop="20250920143000 +0800">
+		<title lang="zh">从航母撞船事故看美海军现状</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85470,6 +85497,9 @@
 	<programme channel="newtv精品综合" start="20250920134900 +0800" stop="20250920140400 +0800">
 		<title lang="zh">26_喜羊羊与灰太狼之嘻哈闯世界之四</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250920140400 +0800" stop="20250920141800 +0800">
+		<title lang="zh">27_喜羊羊与灰太狼之嘻哈闯世界之四</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -85553,6 +85583,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250920121600 +0800" stop="20250920133600 +0800">
 		<title lang="zh">心动的信号第6季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250920133600 +0800" stop="20250920141600 +0800">
+		<title lang="zh">黑芝麻丸</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250920141600 +0800" stop="20250920155900 +0800">
+		<title lang="zh">乐在旅途 第2季</title>
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250920133600 +0800" stop="20250920141600 +0800">
 		<title lang="zh">黑芝麻丸</title>
