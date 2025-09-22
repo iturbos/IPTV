@@ -19302,6 +19302,9 @@
 	<programme channel="动作电影" start="20250922103300 +0800" stop="20250922120300 +0800">
 		<title lang="zh">生死下一秒</title>
 	</programme>
+	<programme channel="动作电影" start="20250922120300 +0800" stop="20250922123300 +0800">
+		<title lang="zh">《花样人生》推荐第61期</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -58023,6 +58026,9 @@
 	<programme channel="爱情喜剧" start="20250922112700 +0800" stop="20250922120700 +0800">
 		<title lang="zh">02_兰闺喜事</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250922120700 +0800" stop="20250922123700 +0800">
+		<title lang="zh">《花样人生》推荐第61期</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -63746,6 +63752,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250922113400 +0800" stop="20250922121600 +0800">
 		<title lang="zh">远方的家4K 金佛山国家级自然保护区 珍稀动植物的家园</title>
+	</programme>
+	<programme channel="纯享4K" start="20250922121600 +0800" stop="20250922125800 +0800">
+		<title lang="zh">远方的家4K 厦门珍稀海洋物种国家级自然保护区：鹭岛生灵</title>
 	</programme>
 	<channel id="绍兴文化影视">
 		<display-name lang="zh">绍兴文化影视</display-name>
@@ -79458,6 +79467,9 @@
 	<programme channel="newtv精品大剧" start="20250922114300 +0800" stop="20250922121300 +0800">
 		<title lang="zh">《花样人生》推荐第61期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250922121300 +0800" stop="20250922125800 +0800">
+		<title lang="zh">16_再造之恩</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -79644,6 +79656,9 @@
 	<programme channel="newtv军旅剧场" start="20250922114500 +0800" stop="20250922121500 +0800">
 		<title lang="zh">《花样人生》推荐第61期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250922121500 +0800" stop="20250922130000 +0800">
+		<title lang="zh">01_风声</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -79749,6 +79764,9 @@
 	<programme channel="newtv热播精选" start="20250922113500 +0800" stop="20250922120500 +0800">
 		<title lang="zh">《花样人生》推荐第61期</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250922120500 +0800" stop="20250922130900 +0800">
+		<title lang="zh">特种兵归来2：黑色罂粟</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -79794,6 +79812,9 @@
 	<programme channel="newtv爱情喜剧" start="20250922112700 +0800" stop="20250922120700 +0800">
 		<title lang="zh">02_兰闺喜事</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250922120700 +0800" stop="20250922123700 +0800">
+		<title lang="zh">《花样人生》推荐第61期</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -79829,6 +79850,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250922103300 +0800" stop="20250922120300 +0800">
 		<title lang="zh">生死下一秒</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250922120300 +0800" stop="20250922123300 +0800">
+		<title lang="zh">《花样人生》推荐第61期</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -79889,6 +79913,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250922115300 +0800" stop="20250922120300 +0800">
 		<title lang="zh">相声《我的变 变 变》岳云鹏、孙越</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250922120300 +0800" stop="20250922124300 +0800">
+		<title lang="zh">黑芝麻丸</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -80015,6 +80042,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250922114300 +0800" stop="20250922120500 +0800">
 		<title lang="zh">谁是军营厨王（2）10</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250922120500 +0800" stop="20250922122700 +0800">
+		<title lang="zh">二〇二三热点冲突冷思考 主战坦克何去何从</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
