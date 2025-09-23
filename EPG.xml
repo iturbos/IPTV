@@ -44253,6 +44253,9 @@
 	<programme channel="明星大片" start="20250923151700 +0800" stop="20250923160400 +0800">
 		<title lang="zh">09_小日子</title>
 	</programme>
+	<programme channel="明星大片" start="20250923160400 +0800" stop="20250923163400 +0800">
+		<title lang="zh">《花样人生》推荐第61期</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -61974,6 +61977,9 @@
 	<programme channel="爱情喜剧" start="20250923141700 +0800" stop="20250923160400 +0800">
 		<title lang="zh">遗忘尼克</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250923160400 +0800" stop="20250923164400 +0800">
+		<title lang="zh">健康推荐</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -67961,6 +67967,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250923151300 +0800" stop="20250923160300 +0800">
 		<title lang="zh">大敦煌4K 第4集 再造敦煌</title>
+	</programme>
+	<programme channel="纯享4K" start="20250923160300 +0800" stop="20250923163100 +0800">
+		<title lang="zh">记住乡愁4K第八季 下山头村——“千金草”垒出金银山</title>
 	</programme>
 	<channel id="绍兴文化影视">
 		<display-name lang="zh">绍兴文化影视</display-name>
@@ -85683,6 +85692,9 @@
 	<programme channel="newtv古装剧场" start="20250923152600 +0800" stop="20250923161300 +0800">
 		<title lang="zh">01_梦华录</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250923161300 +0800" stop="20250923164300 +0800">
+		<title lang="zh">《花样人生》推荐第61期</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -85751,6 +85763,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250923152200 +0800" stop="20250923160400 +0800">
 		<title lang="zh">21_姐妹情缘</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250923160400 +0800" stop="20250923164500 +0800">
+		<title lang="zh">22_姐妹情缘</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -85956,6 +85971,9 @@
 	<programme channel="newtv爱情喜剧" start="20250923141700 +0800" stop="20250923160400 +0800">
 		<title lang="zh">遗忘尼克</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250923160400 +0800" stop="20250923164400 +0800">
+		<title lang="zh">健康推荐</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -86151,6 +86169,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250923152500 +0800" stop="20250923160500 +0800">
 		<title lang="zh">健康推荐</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250923160500 +0800" stop="20250923165100 +0800">
+		<title lang="zh">09_庆余年</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -86252,6 +86273,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250923155200 +0800" stop="20250923161400 +0800">
 		<title lang="zh">战场新秀巡飞弹</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250923161400 +0800" stop="20250923163600 +0800">
+		<title lang="zh">刀锋精编版 卫国刀鸣（上）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -86375,6 +86399,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250923151700 +0800" stop="20250923160400 +0800">
 		<title lang="zh">09_小日子</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250923160400 +0800" stop="20250923163400 +0800">
+		<title lang="zh">《花样人生》推荐第61期</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
