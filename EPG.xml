@@ -85629,6 +85629,9 @@
 	<programme channel="newtv超级综艺" start="20250923205600 +0800" stop="20250923231500 +0800">
 		<title lang="zh">第二届金熊猫盛典</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250923231500 +0800" stop="20250923000100 +0800">
+		<title lang="zh">21_舍不得星星</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -86271,6 +86274,9 @@
 	<programme channel="newtv军旅剧场" start="20250923223500 +0800" stop="20250923230500 +0800">
 		<title lang="zh">《花样人生》推荐第61期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250923230500 +0800" stop="20250923235100 +0800">
+		<title lang="zh">18_女特警</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -86471,6 +86477,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250923223300 +0800" stop="20250923230300 +0800">
 		<title lang="zh">《花样人生》推荐第61期</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250923230300 +0800" stop="20250923001700 +0800">
+		<title lang="zh">现在就出发第2季</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -86999,6 +87008,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250923224400 +0800" stop="20250923230900 +0800">
 		<title lang="zh">宋涛会见台东县长饶庆铃一行</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250923230900 +0800" stop="20250923233400 +0800">
+		<title lang="zh">山东舰战力飙升 美军出动核潜艇</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
