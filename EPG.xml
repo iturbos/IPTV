@@ -61569,6 +61569,9 @@
 	<programme channel="爱情喜剧" start="20250924102300 +0800" stop="20250924110300 +0800">
 		<title lang="zh">龙血树叶粉</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250924110300 +0800" stop="20250924114200 +0800">
+		<title lang="zh">12_兰闺喜事</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -84078,6 +84081,9 @@
 	<programme channel="黑莓动画" start="20250924094200 +0800" stop="20250924110500 +0800">
 		<title lang="zh">淘气包马小跳</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250924110500 +0800" stop="20250924123500 +0800">
+		<title lang="zh">金猴降妖</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -85146,6 +85152,9 @@
 	<programme channel="newtv精品纪录" start="20250924102900 +0800" stop="20250924110900 +0800">
 		<title lang="zh">龙血树叶粉</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250924110900 +0800" stop="20250924113900 +0800">
+		<title lang="zh">相聚雪域</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -85196,6 +85205,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250924103100 +0800" stop="20250924111100 +0800">
 		<title lang="zh">龙血树叶粉</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250924111100 +0800" stop="20250924115600 +0800">
+		<title lang="zh">46_长歌行</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -85377,6 +85389,9 @@
 	<programme channel="newtv爱情喜剧" start="20250924102300 +0800" stop="20250924110300 +0800">
 		<title lang="zh">龙血树叶粉</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250924110300 +0800" stop="20250924114200 +0800">
+		<title lang="zh">12_兰闺喜事</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -85469,6 +85484,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250924101500 +0800" stop="20250924110400 +0800">
 		<title lang="zh">小品《的哥嘚啵嘚》 表演：矫正健 李易衡 等</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250924110400 +0800" stop="20250924114900 +0800">
+		<title lang="zh">20_承欢记</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -85593,6 +85611,9 @@
 	<programme channel="newtv军事评论" start="20250924104900 +0800" stop="20250924111400 +0800">
 		<title lang="zh">直击西藏定日县6.8级地震救援 第三集</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250924111400 +0800" stop="20250924113900 +0800">
+		<title lang="zh">清缓存在这里淬火 第三集 我和我的新兵班长</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85634,6 +85655,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250924100400 +0800" stop="20250924110400 +0800">
 		<title lang="zh">缘分和我捉迷藏</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250924110400 +0800" stop="20250924115300 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
