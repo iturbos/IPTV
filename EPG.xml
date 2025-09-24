@@ -85254,6 +85254,9 @@
 	<programme channel="newtv精品纪录" start="20250924123900 +0800" stop="20250924130900 +0800">
 		<title lang="zh">坚韧之力</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250924130900 +0800" stop="20250924133900 +0800">
+		<title lang="zh">开辟天路</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -85313,6 +85316,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250924122600 +0800" stop="20250924131200 +0800">
 		<title lang="zh">47_长歌行</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250924131200 +0800" stop="20250924135200 +0800">
+		<title lang="zh">黑芝麻丸</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -85788,6 +85794,9 @@
 	<programme channel="newtv军事评论" start="20250924125200 +0800" stop="20250924131400 +0800">
 		<title lang="zh">二〇二四兵器大事件b7铁甲突击</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250924131400 +0800" stop="20250924133600 +0800">
+		<title lang="zh">二〇二四兵器大事件b7战舰风云</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85835,6 +85844,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250924115300 +0800" stop="20250924131000 +0800">
 		<title lang="zh">新能源行业从业者钟文隆兴趣广泛 寻找志趣相投的另一半（20250311）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250924131000 +0800" stop="20250924134500 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
