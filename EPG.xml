@@ -87885,6 +87885,9 @@
 	<programme channel="newtv军旅剧场" start="20250925224100 +0800" stop="20250925231100 +0800">
 		<title lang="zh">《花样人生》推荐第62期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250925231100 +0800" stop="20250925235700 +0800">
+		<title lang="zh">23_女特警</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -88346,6 +88349,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250925223800 +0800" stop="20250925230800 +0800">
 		<title lang="zh">《花样人生》推荐第62期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250925230800 +0800" stop="20250925234600 +0800">
+		<title lang="zh">福建梦幻vs山西刀削面-第5局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -88925,6 +88931,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250925223900 +0800" stop="20250925230900 +0800">
 		<title lang="zh">《花样人生》推荐第62期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250925230900 +0800" stop="20250925004400 +0800">
+		<title lang="zh">非遗里的中国第2季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
