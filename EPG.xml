@@ -63309,6 +63309,9 @@
 	<programme channel="爱情喜剧" start="20250925153200 +0800" stop="20250925161400 +0800">
 		<title lang="zh">20_兰闺喜事</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250925161400 +0800" stop="20250925164400 +0800">
+		<title lang="zh">《花样人生》推荐第62期</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -69383,6 +69386,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250925154900 +0800" stop="20250925161300 +0800">
 		<title lang="zh">大国医b7千金方4K 第2集 孙思邈b7独活寄生汤</title>
+	</programme>
+	<programme channel="纯享4K" start="20250925161300 +0800" stop="20250925164100 +0800">
+		<title lang="zh">记住乡愁4K第八季 万古寺村——四季橙香 万古流芳</title>
 	</programme>
 	<channel id="绍兴文化影视">
 		<display-name lang="zh">绍兴文化影视</display-name>
@@ -86031,6 +86037,9 @@
 	<programme channel="黑莓电影" start="20250925144500 +0800" stop="20250925161500 +0800">
 		<title lang="zh">雷霆行动</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250925161500 +0800" stop="20250925173900 +0800">
+		<title lang="zh">锦衣之下之绣春刀</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -87336,6 +87345,9 @@
 	<programme channel="newtv古装剧场" start="20250925151800 +0800" stop="20250925160400 +0800">
 		<title lang="zh">09_梦华录</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250925160400 +0800" stop="20250925165100 +0800">
+		<title lang="zh">10_梦华录</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -87407,6 +87419,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250925152900 +0800" stop="20250925161000 +0800">
 		<title lang="zh">29_姐妹情缘</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250925161000 +0800" stop="20250925165100 +0800">
+		<title lang="zh">30_姐妹情缘</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -87606,6 +87621,9 @@
 	<programme channel="newtv爱情喜剧" start="20250925153200 +0800" stop="20250925161400 +0800">
 		<title lang="zh">20_兰闺喜事</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250925161400 +0800" stop="20250925164400 +0800">
+		<title lang="zh">《花样人生》推荐第62期</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -87786,6 +87804,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250925152500 +0800" stop="20250925160400 +0800">
 		<title lang="zh">祛湿专题分享</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250925160400 +0800" stop="20250925165100 +0800">
+		<title lang="zh">17_庆余年</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -87893,6 +87914,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250925154900 +0800" stop="20250925161100 +0800">
 		<title lang="zh">决胜利器b7陆战先锋</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250925161100 +0800" stop="20250925163300 +0800">
+		<title lang="zh">蓝天之盾（二）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
