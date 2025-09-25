@@ -52128,6 +52128,9 @@
 	<programme channel="newtv超级电视剧" start="20250926002200 +0800" stop="20250926010700 +0800">
 		<title lang="zh">11_大潮如歌</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250926010700 +0800" stop="20250926015200 +0800">
+		<title lang="zh">12_大潮如歌</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
