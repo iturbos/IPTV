@@ -28509,6 +28509,9 @@
 	<programme channel="咪咕足球" start="20250925193000 +0800" stop="20250925211000 +0800">
 		<title lang="zh">2025NBL联赛 半决赛G2 香港金牛-石家庄翔蓝</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250925211500 +0800" stop="20250925221500 +0800">
+		<title lang="zh">超级三对三-2025超三联赛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -87345,6 +87348,9 @@
 	<programme channel="newtv超级电视剧" start="20250925203400 +0800" stop="20250925212100 +0800">
 		<title lang="zh">19_我和我爸的十七岁</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250925212100 +0800" stop="20250925220500 +0800">
+		<title lang="zh">20_我和我爸的十七岁</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -87555,6 +87561,9 @@
 	<programme channel="newtv精品纪录" start="20250925203500 +0800" stop="20250925210500 +0800">
 		<title lang="zh">《花样人生》推荐第62期</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250925210500 +0800" stop="20250925213000 +0800">
+		<title lang="zh">07_收获桑榆</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -87650,6 +87659,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250925203900 +0800" stop="20250925210900 +0800">
 		<title lang="zh">《花样人生》推荐第62期</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250925210900 +0800" stop="20250925220000 +0800">
+		<title lang="zh">09_雁回时</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -87840,6 +87852,9 @@
 	<programme channel="newtv家庭剧场" start="20250925202700 +0800" stop="20250925211300 +0800">
 		<title lang="zh">10_失笑</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250925211300 +0800" stop="20250925214300 +0800">
+		<title lang="zh">《花样人生》推荐第62期</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -87926,6 +87941,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250925203400 +0800" stop="20250925210400 +0800">
 		<title lang="zh">《花样人生》推荐第62期</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250925210400 +0800" stop="20250925213900 +0800">
+		<title lang="zh">04_南海归墟</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -88254,6 +88272,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250925204000 +0800" stop="20250925211000 +0800">
 		<title lang="zh">《花样人生》推荐第62期</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250925211000 +0800" stop="20250925230000 +0800">
+		<title lang="zh">绝海的侦探 日语版</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -88401,6 +88422,9 @@
 	<programme channel="newtv军事评论" start="20250925204900 +0800" stop="20250925211500 +0800">
 		<title lang="zh">对华“河海之争” 美国一败再败</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250925211500 +0800" stop="20250925214000 +0800">
+		<title lang="zh">拜登对台最后承诺 特朗普无心亦无力</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -88481,6 +88505,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250925202300 +0800" stop="20250925210900 +0800">
 		<title lang="zh">15_折腰</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250925210900 +0800" stop="20250925215800 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -88686,6 +88713,9 @@
 	<programme channel="newtv金牌综艺" start="20250925203500 +0800" stop="20250925210500 +0800">
 		<title lang="zh">《花样人生》推荐第62期</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250925210500 +0800" stop="20250925223900 +0800">
+		<title lang="zh">非遗里的中国第2季</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -88850,6 +88880,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250925202100 +0800" stop="20250925210900 +0800">
 		<title lang="zh">18_庆余年第二季</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250925210900 +0800" stop="20250925213900 +0800">
+		<title lang="zh">《花样人生》推荐第62期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
