@@ -28287,6 +28287,9 @@
 	<programme channel="咪咕足球" start="20250926193000 +0800" stop="20250926211000 +0800">
 		<title lang="zh">2025国际篮联洲际杯 小组赛 NBA发展联盟联队-弗拉门戈</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250926211500 +0800" stop="20250926221500 +0800">
+		<title lang="zh">超级三对三-2025超三联赛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -44642,6 +44645,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250926200900 +0800" stop="20250926211500 +0800">
 		<title lang="zh">活力满分的夏天</title>
+	</programme>
+	<programme channel="明星大片" start="20250926211500 +0800" stop="20250926214500 +0800">
+		<title lang="zh">《花样人生》推荐第62期</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -62544,6 +62550,9 @@
 	<programme channel="爱情喜剧" start="20250926202500 +0800" stop="20250926211100 +0800">
 		<title lang="zh">28_失笑</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250926211100 +0800" stop="20250926214100 +0800">
+		<title lang="zh">《花样人生》推荐第62期</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -68690,6 +68699,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250926205700 +0800" stop="20250926210200 +0800">
 		<title lang="zh">美丽中国自然4K 宁夏系列 沙坡头</title>
+	</programme>
+	<programme channel="纯享4K" start="20250926210200 +0800" stop="20250926213200 +0800">
+		<title lang="zh">寻古中国4K 寻夏记b7夏迹寻踪</title>
 	</programme>
 	<channel id="绍兴文化影视">
 		<display-name lang="zh">绍兴文化影视</display-name>
@@ -86418,6 +86430,9 @@
 	<programme channel="newtv超级电视剧" start="20250926202000 +0800" stop="20250926210300 +0800">
 		<title lang="zh">22_我和我爸的十七岁</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250926210300 +0800" stop="20250926214700 +0800">
+		<title lang="zh">23_我和我爸的十七岁</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -86510,6 +86525,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250926202400 +0800" stop="20250926211000 +0800">
 		<title lang="zh">14_小日子</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250926211000 +0800" stop="20250926214000 +0800">
+		<title lang="zh">《花样人生》推荐第62期</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -86642,6 +86660,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250926202000 +0800" stop="20250926210700 +0800">
 		<title lang="zh">第1集：李清照</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250926210700 +0800" stop="20250926213700 +0800">
+		<title lang="zh">《花样人生》推荐第62期</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -86835,6 +86856,9 @@
 	<programme channel="newtv军旅剧场" start="20250926204400 +0800" stop="20250926211400 +0800">
 		<title lang="zh">《花样人生》推荐第62期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250926211400 +0800" stop="20250926220000 +0800">
+		<title lang="zh">27_伏击</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -87018,6 +87042,9 @@
 	<programme channel="newtv热播精选" start="20250926203600 +0800" stop="20250926210600 +0800">
 		<title lang="zh">《花样人生》推荐第62期</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250926210600 +0800" stop="20250926214000 +0800">
+		<title lang="zh">08_南海归墟</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -87101,6 +87128,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250926202500 +0800" stop="20250926211100 +0800">
 		<title lang="zh">28_失笑</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250926211100 +0800" stop="20250926214100 +0800">
+		<title lang="zh">《花样人生》推荐第62期</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -87260,6 +87290,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250926203300 +0800" stop="20250926211200 +0800">
 		<title lang="zh">天津格调研学vs上海拉家军-第1局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250926211200 +0800" stop="20250926214200 +0800">
+		<title lang="zh">《花样人生》推荐第62期</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -87498,6 +87531,9 @@
 	<programme channel="newtv军事评论" start="20250926203900 +0800" stop="20250926210500 +0800">
 		<title lang="zh">特朗普就职 台媒分析美国无意“保台”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250926210500 +0800" stop="20250926213000 +0800">
+		<title lang="zh">民进党当局总预算被砍后仍创新高</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -87578,6 +87614,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250926201200 +0800" stop="20250926210100 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250926210100 +0800" stop="20250926214800 +0800">
+		<title lang="zh">16_折腰</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -87668,6 +87707,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250926200900 +0800" stop="20250926211500 +0800">
 		<title lang="zh">活力满分的夏天</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250926211500 +0800" stop="20250926214500 +0800">
+		<title lang="zh">《花样人生》推荐第62期</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
