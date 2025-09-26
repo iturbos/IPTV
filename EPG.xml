@@ -86358,6 +86358,9 @@
 	<programme channel="newtv超级体育" start="20250926212000 +0800" stop="20250926230500 +0800">
 		<title lang="zh">2025年中国网球公开赛- 女单第2轮,男单第1轮</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250926230500 +0800" stop="20250926003500 +0800">
+		<title lang="zh">实况录像-2025年世界田径锦标赛 4</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
