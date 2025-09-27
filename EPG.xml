@@ -40029,6 +40029,9 @@
 	<programme channel="惊悚悬疑" start="20250927095500 +0800" stop="20250927111000 +0800">
 		<title lang="zh">怪谈五命河</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250927111000 +0800" stop="20250927114000 +0800">
+		<title lang="zh">《超级美味》推荐第10期</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -66864,6 +66867,9 @@
 	<programme channel="纯享4K" start="20250927104100 +0800" stop="20250927111100 +0800">
 		<title lang="zh">信仰的感召4K 骁将传奇 寻淮洲</title>
 	</programme>
+	<programme channel="纯享4K" start="20250927111100 +0800" stop="20250927113600 +0800">
+		<title lang="zh">大国医b7千金方4K 第4集 李东垣b7补中益气汤</title>
+	</programme>
 	<channel id="绍兴文化影视">
 		<display-name lang="zh">绍兴文化影视</display-name>
 	</channel>
@@ -84393,6 +84399,9 @@
 	<programme channel="newtv超级综艺" start="20250927100300 +0800" stop="20250927111300 +0800">
 		<title lang="zh">沧海运河谣</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250927111300 +0800" stop="20250927124700 +0800">
+		<title lang="zh">艺览天下</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -84552,6 +84561,9 @@
 	<programme channel="newtv精品大剧" start="20250927102900 +0800" stop="20250927110900 +0800">
 		<title lang="zh">营养健康20新</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250927110900 +0800" stop="20250927115400 +0800">
+		<title lang="zh">34_大秦帝国之纵横</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -84624,6 +84636,9 @@
 	<programme channel="newtv精品纪录" start="20250927102400 +0800" stop="20250927104400 +0800">
 		<title lang="zh">营养健康20新</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250927110400 +0800" stop="20250927112900 +0800">
+		<title lang="zh">11_心中有一团火</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -84674,6 +84689,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250927102800 +0800" stop="20250927110800 +0800">
 		<title lang="zh">营养健康20</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250927110800 +0800" stop="20250927115500 +0800">
+		<title lang="zh">09_柳舟记</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -84731,6 +84749,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250927102700 +0800" stop="20250927110700 +0800">
 		<title lang="zh">营养健康20新</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250927110700 +0800" stop="20250927115200 +0800">
+		<title lang="zh">21_风声</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -84827,6 +84848,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250927102800 +0800" stop="20250927110800 +0800">
 		<title lang="zh">营养健康20</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250927110800 +0800" stop="20250927115600 +0800">
+		<title lang="zh">25_乐游原</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -84972,6 +84996,9 @@
 	<programme channel="newtv怡伴健康" start="20250927103400 +0800" stop="20250927111400 +0800">
 		<title lang="zh">营养健康20新</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250927111400 +0800" stop="20250927115900 +0800">
+		<title lang="zh">27_承欢记</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -85095,6 +85122,9 @@
 	<programme channel="newtv军事评论" start="20250927103900 +0800" stop="20250927110500 +0800">
 		<title lang="zh">射击场上的狙击争锋</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250927110500 +0800" stop="20250927112900 +0800">
+		<title lang="zh">察隅戍边故事</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85214,6 +85244,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250927095500 +0800" stop="20250927111000 +0800">
 		<title lang="zh">怪谈五命河</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250927111000 +0800" stop="20250927114000 +0800">
+		<title lang="zh">《超级美味》推荐第10期</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
