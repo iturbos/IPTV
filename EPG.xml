@@ -67002,6 +67002,9 @@
 	<programme channel="纯享4K" start="20250927151800 +0800" stop="20250927160800 +0800">
 		<title lang="zh">大运河之歌4K 第4集 奔流南北</title>
 	</programme>
+	<programme channel="纯享4K" start="20250927160800 +0800" stop="20250927163600 +0800">
+		<title lang="zh">记住乡愁4K第八季 化屋村——悬崖之下 苗歌悠扬</title>
+	</programme>
 	<channel id="绍兴文化影视">
 		<display-name lang="zh">绍兴文化影视</display-name>
 	</channel>
@@ -84903,6 +84906,9 @@
 	<programme channel="newtv精品纪录" start="20250927153300 +0800" stop="20250927160300 +0800">
 		<title lang="zh">05_坤草益母</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250927160300 +0800" stop="20250927163400 +0800">
+		<title lang="zh">第6集：宁波，心气是一粒种子</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -84974,6 +84980,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250927151700 +0800" stop="20250927160300 +0800">
 		<title lang="zh">17_梦华录</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250927160300 +0800" stop="20250927164900 +0800">
+		<title lang="zh">18_梦华录</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -85127,6 +85136,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250927153200 +0800" stop="20250927161500 +0800">
 		<title lang="zh">08_乔家的儿女</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250927161500 +0800" stop="20250927164500 +0800">
+		<title lang="zh">《超级美味》推荐第10期</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -85311,6 +85323,9 @@
 	<programme channel="newtv动作电影" start="20250927154000 +0800" stop="20250927161000 +0800">
 		<title lang="zh">《超级美味》推荐第10期</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250927161000 +0800" stop="20250927182000 +0800">
+		<title lang="zh">一代宗师</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -85463,6 +85478,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250927152800 +0800" stop="20250927161500 +0800">
 		<title lang="zh">25_庆余年</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250927161500 +0800" stop="20250927164400 +0800">
+		<title lang="zh">《超级美味》推荐第10期</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -85793,6 +85811,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250927142200 +0800" stop="20250927161600 +0800">
 		<title lang="zh">登录圆鱼洲</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250927161600 +0800" stop="20250927164600 +0800">
+		<title lang="zh">《花样人生》推荐第63期</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
