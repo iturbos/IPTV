@@ -40341,6 +40341,9 @@
 	<programme channel="惊悚悬疑" start="20250928105100 +0800" stop="20250928121300 +0800">
 		<title lang="zh">北海屠龙记</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250928121300 +0800" stop="20250928124300 +0800">
+		<title lang="zh">《超级美味》推荐第10期</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -85611,6 +85614,9 @@
 	<programme channel="newtv精品大剧" start="20250928113700 +0800" stop="20250928120700 +0800">
 		<title lang="zh">《超级美味》推荐第10期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250928120700 +0800" stop="20250928125200 +0800">
+		<title lang="zh">07_三国机密之潜龙在渊</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -85734,6 +85740,9 @@
 	<programme channel="newtv古装剧场" start="20250928112500 +0800" stop="20250928121100 +0800">
 		<title lang="zh">13_柳舟记</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250928121100 +0800" stop="20250928124100 +0800">
+		<title lang="zh">《超级美味》推荐第10期</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -85791,6 +85800,9 @@
 	<programme channel="newtv军旅剧场" start="20250928114200 +0800" stop="20250928121200 +0800">
 		<title lang="zh">《超级美味》推荐第10期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250928121200 +0800" stop="20250928125400 +0800">
+		<title lang="zh">39_姐妹情缘</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -85844,6 +85856,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250928113100 +0800" stop="20250928120100 +0800">
 		<title lang="zh">《超级美味》推荐第10期</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250928120100 +0800" stop="20250928124600 +0800">
+		<title lang="zh">09_乔家的儿女</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -86048,6 +86063,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250928111600 +0800" stop="20250928120100 +0800">
 		<title lang="zh">29_承欢记</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250928120100 +0800" stop="20250928123100 +0800">
+		<title lang="zh">《超级美味》推荐第10期</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -86318,6 +86336,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250928105100 +0800" stop="20250928121300 +0800">
 		<title lang="zh">北海屠龙记</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250928121300 +0800" stop="20250928124300 +0800">
+		<title lang="zh">《超级美味》推荐第10期</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
