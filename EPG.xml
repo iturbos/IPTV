@@ -27630,6 +27630,9 @@
 	<programme channel="咪咕足球" start="20250928193000 +0800" stop="20250928211000 +0800">
 		<title lang="zh">2025国际篮联洲际杯 小组赛 伊拉瓦拉老鹰-弗拉门戈</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250928211500 +0800" stop="20250928221500 +0800">
+		<title lang="zh">超级三对三-2025超三联赛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -86228,6 +86231,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250928202600 +0800" stop="20250928211100 +0800">
 		<title lang="zh">04_梅花红桃</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250928211100 +0800" stop="20250928215700 +0800">
+		<title lang="zh">05_梅花红桃</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
