@@ -25692,6 +25692,9 @@
 	<programme channel="咪咕综合体育" start="20250929150500 +0800" stop="20250929152000 +0800">
 		<title lang="zh">睛彩圈圈点第十一期</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250929152000 +0800" stop="20250929154500 +0800">
+		<title lang="zh">欧陆足球版图-英超特辑</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -38328,6 +38331,9 @@
 	<programme channel="惊悚悬疑" start="20250929142700 +0800" stop="20250929150600 +0800">
 		<title lang="zh">祛湿专题分享</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250929150600 +0800" stop="20250929163400 +0800">
+		<title lang="zh">死亡斗士</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -41504,6 +41510,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250929141600 +0800" stop="20250929150100 +0800">
 		<title lang="zh">04_我的后半生</title>
+	</programme>
+	<programme channel="明星大片" start="20250929150100 +0800" stop="20250929154100 +0800">
+		<title lang="zh">营养健康20新</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -58734,6 +58743,9 @@
 	<programme channel="爱情喜剧" start="20250929142300 +0800" stop="20250929150300 +0800">
 		<title lang="zh">营养健康20新</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250929150300 +0800" stop="20250929155300 +0800">
+		<title lang="zh">14_陷入我们的热恋</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -68993,6 +69005,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250929140100 +0800" stop="20250929151300 +0800">
 		<title lang="zh">电影《石榴熟了之一拍到底》</title>
+	</programme>
+	<programme channel="超级电影" start="20250929151300 +0800" stop="20250929164400 +0800">
+		<title lang="zh">电影《妈妈你真棒》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -80514,6 +80529,9 @@
 	<programme channel="newtv超级电影" start="20250929140100 +0800" stop="20250929151300 +0800">
 		<title lang="zh">电影《石榴熟了之一拍到底》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250929151300 +0800" stop="20250929164400 +0800">
+		<title lang="zh">电影《妈妈你真棒》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -80652,6 +80670,9 @@
 	<programme channel="newtv精品大剧" start="20250929142900 +0800" stop="20250929151600 +0800">
 		<title lang="zh">13_三国机密之潜龙在渊</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250929151600 +0800" stop="20250929155500 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -80723,6 +80744,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250929143500 +0800" stop="20250929150500 +0800">
 		<title lang="zh">10_野葛绵绵</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250929150500 +0800" stop="20250929152500 +0800">
+		<title lang="zh">营养健康20新</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -80991,6 +81015,9 @@
 	<programme channel="newtv热播精选" start="20250929142200 +0800" stop="20250929150700 +0800">
 		<title lang="zh">02_风声</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250929150700 +0800" stop="20250929154700 +0800">
+		<title lang="zh">营养健康20</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -81044,6 +81071,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250929142300 +0800" stop="20250929150300 +0800">
 		<title lang="zh">营养健康20新</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250929150300 +0800" stop="20250929155300 +0800">
+		<title lang="zh">14_陷入我们的热恋</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -81483,6 +81513,9 @@
 	<programme channel="newtv精品综合" start="20250929141600 +0800" stop="20250929150100 +0800">
 		<title lang="zh">04_我的后半生</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250929150100 +0800" stop="20250929154100 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -81524,6 +81557,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250929142700 +0800" stop="20250929150600 +0800">
 		<title lang="zh">祛湿专题分享</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250929150600 +0800" stop="20250929163400 +0800">
+		<title lang="zh">死亡斗士</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -81701,6 +81737,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250929143100 +0800" stop="20250929151100 +0800">
 		<title lang="zh">营养健康20</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250929151100 +0800" stop="20250929155200 +0800">
+		<title lang="zh">15_楚留香新传</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
