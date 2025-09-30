@@ -85995,6 +85995,9 @@
 	<programme channel="newtv超级电视剧" start="20250930142700 +0800" stop="20250930151100 +0800">
 		<title lang="zh">33_锦月如歌</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250930151100 +0800" stop="20250930155400 +0800">
+		<title lang="zh">34_锦月如歌</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -86063,6 +86066,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250930142700 +0800" stop="20250930151300 +0800">
 		<title lang="zh">18_三国机密之潜龙在渊</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250930151300 +0800" stop="20250930153300 +0800">
+		<title lang="zh">营养健康20新</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -86150,6 +86156,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250930142200 +0800" stop="20250930151000 +0800">
 		<title lang="zh">01_求偶与诞生</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250930151000 +0800" stop="20250930155000 +0800">
+		<title lang="zh">营养健康20新</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -86514,6 +86523,9 @@
 	<programme channel="newtv动作电影" start="20250930142400 +0800" stop="20250930150300 +0800">
 		<title lang="zh">祛湿专题分享</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250930150300 +0800" stop="20250930160900 +0800">
+		<title lang="zh">猎心之迷毒之罪</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -86667,6 +86679,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250930143300 +0800" stop="20250930151300 +0800">
 		<title lang="zh">营养健康20新</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250930151300 +0800" stop="20250930160000 +0800">
+		<title lang="zh">37_庆余年</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -86760,6 +86775,9 @@
 	<programme channel="newtv军事评论" start="20250930144800 +0800" stop="20250930151000 +0800">
 		<title lang="zh">美日韩军演背后的互信危机</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250930151000 +0800" stop="20250930153200 +0800">
+		<title lang="zh">人民海军向前进</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -86822,6 +86840,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250930143200 +0800" stop="20250930151100 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250930151100 +0800" stop="20250930153200 +0800">
+		<title lang="zh">民族风健身舞《金风吹来的时候》（20240513）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
