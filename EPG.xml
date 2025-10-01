@@ -28044,6 +28044,9 @@
 	<programme channel="咪咕足球" start="20251001193000 +0800" stop="20251001211000 +0800">
 		<title lang="zh">当燃CBA-24/25总决赛G2 浙江方兴渡-北京北汽</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251001211500 +0800" stop="20251001221500 +0800">
+		<title lang="zh">超级三对三-2025超三联赛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -86291,6 +86294,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251001202600 +0800" stop="20251001211200 +0800">
 		<title lang="zh">13_梅花红桃</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251001211200 +0800" stop="20251001215700 +0800">
+		<title lang="zh">14_梅花红桃</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
