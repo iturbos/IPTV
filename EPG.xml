@@ -41166,6 +41166,9 @@
 	<programme channel="惊悚悬疑" start="20251002195300 +0800" stop="20251002212700 +0800">
 		<title lang="zh">陆小凤传奇之幽灵山庄</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20251002212700 +0800" stop="20251002215700 +0800">
+		<title lang="zh">美好人生推荐第二期</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -44828,6 +44831,9 @@
 	</programme>
 	<programme channel="明星大片" start="20251002210300 +0800" stop="20251002214300 +0800">
 		<title lang="zh">龙血树叶粉</title>
+	</programme>
+	<programme channel="明星大片" start="20251002214300 +0800" stop="20251002222800 +0800">
+		<title lang="zh">11_玫瑰的故事</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -62912,6 +62918,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20251002205400 +0800" stop="20251002214000 +0800">
 		<title lang="zh">01_我的后半生</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20251002214000 +0800" stop="20251002215000 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -85623,6 +85632,9 @@
 	<programme channel="黑莓电影" start="20251002193600 +0800" stop="20251002213100 +0800">
 		<title lang="zh">疯狂的外星人</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251002213100 +0800" stop="20251002230300 +0800">
+		<title lang="zh">唐门斗罗传</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -86757,6 +86769,9 @@
 	<programme channel="newtv超级电视剧" start="20251002205100 +0800" stop="20251002213700 +0800">
 		<title lang="zh">16_梅花红桃</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251002213700 +0800" stop="20251002222300 +0800">
+		<title lang="zh">17_梅花红桃</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -86970,6 +86985,12 @@
 	<programme channel="newtv精品纪录" start="20251002210400 +0800" stop="20251002211900 +0800">
 		<title lang="zh">第11集：酸奶和赛马梦 内蒙浩来宝特嘎查</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251002211900 +0800" stop="20251002213400 +0800">
+		<title lang="zh">第12集：苞谷酸和乡村爱情 湖南利湖村</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251002213400 +0800" stop="20251002221000 +0800">
+		<title lang="zh">第1集：森林的芳香</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -87066,6 +87087,9 @@
 	<programme channel="newtv古装剧场" start="20251002210200 +0800" stop="20251002213200 +0800">
 		<title lang="zh">美好人生推荐第二期</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251002213200 +0800" stop="20251002221600 +0800">
+		<title lang="zh">08_锦月如歌</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -87161,6 +87185,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251002203800 +0800" stop="20251002212200 +0800">
 		<title lang="zh">05_悬镜</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251002212200 +0800" stop="20251002215200 +0800">
+		<title lang="zh">美好人生推荐第二期</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -87348,6 +87375,9 @@
 	<programme channel="newtv热播精选" start="20251002205100 +0800" stop="20251002212000 +0800">
 		<title lang="zh">龙血树叶粉</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251002212000 +0800" stop="20251002215500 +0800">
+		<title lang="zh">12_西出玉门</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -87434,6 +87464,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251002205400 +0800" stop="20251002214000 +0800">
 		<title lang="zh">01_我的后半生</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251002214000 +0800" stop="20251002215000 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -87702,6 +87735,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251002211000 +0800" stop="20251002214000 +0800">
 		<title lang="zh">美好人生推荐第二期</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251002214000 +0800" stop="20251002224900 +0800">
+		<title lang="zh">鲁班奇术</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -87849,6 +87885,9 @@
 	<programme channel="newtv军事评论" start="20251002205900 +0800" stop="20251002212400 +0800">
 		<title lang="zh">特朗普玩变脸 岛内认清三件事</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251002212400 +0800" stop="20251002215000 +0800">
+		<title lang="zh">承认特朗普有威胁 赖清德加码“进贡”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -87932,6 +87971,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251002204200 +0800" stop="20251002212900 +0800">
 		<title lang="zh">22_折腰</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251002212900 +0800" stop="20251002221400 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -88020,6 +88062,9 @@
 	<programme channel="newtv精品综合" start="20251002210300 +0800" stop="20251002214300 +0800">
 		<title lang="zh">龙血树叶粉</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251002214300 +0800" stop="20251002222800 +0800">
+		<title lang="zh">11_玫瑰的故事</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -88076,6 +88121,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251002195300 +0800" stop="20251002212700 +0800">
 		<title lang="zh">陆小凤传奇之幽灵山庄</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251002212700 +0800" stop="20251002215700 +0800">
+		<title lang="zh">美好人生推荐第二期</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -88142,6 +88190,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251002195400 +0800" stop="20251002214300 +0800">
 		<title lang="zh">乐在旅途 第三季（20250405）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251002214300 +0800" stop="20251002222300 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -88310,6 +88361,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251002203600 +0800" stop="20251002212200 +0800">
 		<title lang="zh">09_倚天屠龙记</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251002212200 +0800" stop="20251002215200 +0800">
+		<title lang="zh">美好人生推荐第二期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
