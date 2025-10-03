@@ -28692,6 +28692,9 @@
 	<programme channel="咪咕足球" start="20251003211500 +0800" stop="20251003221500 +0800">
 		<title lang="zh">超级三对三-2025超三联赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251003222000 +0800" stop="20251003000000 +0800">
+		<title lang="zh">当燃CBA-24/25总决赛G4 北京北汽-浙江方兴渡</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -45524,6 +45527,9 @@
 	</programme>
 	<programme channel="明星大片" start="20251003212000 +0800" stop="20251003220700 +0800">
 		<title lang="zh">13_玫瑰的故事</title>
+	</programme>
+	<programme channel="明星大片" start="20251003220700 +0800" stop="20251003224700 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -69900,6 +69906,9 @@
 	<programme channel="纯享4K" start="20251003220000 +0800" stop="20251003221400 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 雪如意</title>
 	</programme>
+	<programme channel="纯享4K" start="20251003221400 +0800" stop="20251003224300 +0800">
+		<title lang="zh">好吃客4K 海南四大名菜</title>
+	</programme>
 	<channel id="绍兴新闻综合">
 		<display-name lang="zh">绍兴新闻综合</display-name>
 	</channel>
@@ -87150,6 +87159,9 @@
 	<programme channel="newtv超级综艺" start="20251003210400 +0800" stop="20251003222200 +0800">
 		<title lang="zh">沧海运河谣</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251003222200 +0800" stop="20251003234000 +0800">
+		<title lang="zh">唱享中国——智造美好品质 通达幸福生活</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -87341,6 +87353,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251003212200 +0800" stop="20251003220700 +0800">
 		<title lang="zh">20_梅花红桃</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251003220700 +0800" stop="20251003225200 +0800">
+		<title lang="zh">04_陷入我们的热恋</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -88215,6 +88230,9 @@
 	<programme channel="newtv怡伴健康" start="20251003213700 +0800" stop="20251003221200 +0800">
 		<title lang="zh">福建梦幻vs山西刀削面-第4局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251003221200 +0800" stop="20251003224200 +0800">
+		<title lang="zh">美好人生推荐第二期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -88644,6 +88662,9 @@
 	<programme channel="newtv精品综合" start="20251003212000 +0800" stop="20251003220700 +0800">
 		<title lang="zh">13_玫瑰的故事</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251003220700 +0800" stop="20251003224700 +0800">
+		<title lang="zh">龙血树叶粉</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -88760,6 +88781,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251003214100 +0800" stop="20251003222100 +0800">
 		<title lang="zh">龙血树叶粉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251003222100 +0800" stop="20251003224900 +0800">
+		<title lang="zh">非日常恋爱</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
