@@ -17949,6 +17949,9 @@
 	<programme channel="咪咕综合体育" start="20251004101500 +0800" stop="20251004111500 +0800">
 		<title lang="zh">国球荣耀-2025WTT中国大满贯 每日精彩回顾5</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251004111500 +0800" stop="20251004113500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -49032,6 +49035,9 @@
 	<programme channel="纯享4K" start="20251004104200 +0800" stop="20251004111200 +0800">
 		<title lang="zh">信仰的感召4K 铁血军魂 吴焕先</title>
 	</programme>
+	<programme channel="纯享4K" start="20251004111200 +0800" stop="20251004113600 +0800">
+		<title lang="zh">青蘋之末4K 第2集 石中天书</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -61023,6 +61029,9 @@
 	<programme channel="newtv超级电影" start="20251004105600 +0800" stop="20251004111400 +0800">
 		<title lang="zh">音乐电影欣赏</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251004111400 +0800" stop="20251004124600 +0800">
+		<title lang="zh">乌龙大侠</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -61188,6 +61197,9 @@
 	<programme channel="newtv精品纪录" start="20251004103700 +0800" stop="20251004110600 +0800">
 		<title lang="zh">书法视频</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251004110600 +0800" stop="20251004113000 +0800">
+		<title lang="zh">05_沙漠绿野</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -61337,6 +61349,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251004104400 +0800" stop="20251004110400 +0800">
 		<title lang="zh">营养健康20新</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251004110400 +0800" stop="20251004115000 +0800">
+		<title lang="zh">17_兰桐花开</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -61635,6 +61650,9 @@
 	<programme channel="newtv军事评论" start="20251004103700 +0800" stop="20251004110300 +0800">
 		<title lang="zh">青春在这里淬火 第一集 我的女儿是海军女兵</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251004110300 +0800" stop="20251004112700 +0800">
+		<title lang="zh">直击西藏定日县6.8级地震救援 第一集</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -61676,6 +61694,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251004100600 +0800" stop="20251004110600 +0800">
 		<title lang="zh">优秀的我，魅力四射</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251004110600 +0800" stop="20251004115500 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
