@@ -15969,6 +15969,9 @@
 	<programme channel="咪咕足球" start="20251006140000 +0800" stop="20251006141000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251006141000 +0800" stop="20251006154000 +0800">
+		<title lang="zh">2025国际篮联女篮亚洲杯 决赛 日本女篮-澳大利亚女篮</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -44493,6 +44496,9 @@
 	<programme channel="纯享4K" start="20251006135600 +0800" stop="20251006141100 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 雕塑b7走向世界</title>
 	</programme>
+	<programme channel="纯享4K" start="20251006141100 +0800" stop="20251006150000 +0800">
+		<title lang="zh">世界遗产漫步4K 第3集 杭州</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -54255,6 +54261,9 @@
 	<programme channel="黑莓电影" start="20251006123300 +0800" stop="20251006140700 +0800">
 		<title lang="zh">感动她77次</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251006140700 +0800" stop="20251006152000 +0800">
+		<title lang="zh">余生，请多指教</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -54503,6 +54512,9 @@
 	</programme>
 	<programme channel="newtv超级综艺" start="20251006122800 +0800" stop="20251006141300 +0800">
 		<title lang="zh">你好时光</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20251006141300 +0800" stop="20251006153000 +0800">
+		<title lang="zh">开门大吉</title>
 	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
@@ -54846,6 +54858,9 @@
 	<programme channel="newtv古装剧场" start="20251006132900 +0800" stop="20251006140900 +0800">
 		<title lang="zh">龙血树叶粉</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251006140900 +0800" stop="20251006145600 +0800">
+		<title lang="zh">07_长相思</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -55124,6 +55139,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251006133500 +0800" stop="20251006141500 +0800">
 		<title lang="zh">太空骨王骨胶原新版</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251006141500 +0800" stop="20251006154300 +0800">
+		<title lang="zh">火线追凶2之同名为仇</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -55491,6 +55509,9 @@
 	<programme channel="newtv精品综合" start="20251006120300 +0800" stop="20251006140500 +0800">
 		<title lang="zh">独行月球</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251006140500 +0800" stop="20251006144500 +0800">
+		<title lang="zh">太空骨王骨胶原新版</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -55526,6 +55547,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251006122000 +0800" stop="20251006140800 +0800">
 		<title lang="zh">龙之战</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251006140800 +0800" stop="20251006143700 +0800">
+		<title lang="zh">书法视频</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
