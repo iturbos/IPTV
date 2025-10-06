@@ -54630,6 +54630,9 @@
 	<programme channel="newtv超级电影" start="20251006150000 +0800" stop="20251006161800 +0800">
 		<title lang="zh">电影《兵临城下-虎贲》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251006161800 +0800" stop="20251006175100 +0800">
+		<title lang="zh">电影《垫底联盟》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -54692,6 +54695,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251006152100 +0800" stop="20251006160700 +0800">
 		<title lang="zh">23_嫣语赋</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251006160700 +0800" stop="20251006165600 +0800">
+		<title lang="zh">33_故乡，别来无恙</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -54764,6 +54770,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251006153100 +0800" stop="20251006161600 +0800">
 		<title lang="zh">31_再造之恩</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251006161600 +0800" stop="20251006164500 +0800">
+		<title lang="zh">书法视频</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -54863,6 +54872,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251006153800 +0800" stop="20251006160400 +0800">
 		<title lang="zh">第1集：独特的主食</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251006160400 +0800" stop="20251006163000 +0800">
+		<title lang="zh">第2集：温暖的河谷</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -55254,6 +55266,9 @@
 	<programme channel="newtv动作电影" start="20251006154300 +0800" stop="20251006161300 +0800">
 		<title lang="zh">健康有道睡眠</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20251006161300 +0800" stop="20251006174700 +0800">
+		<title lang="zh">花花型警</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -55328,6 +55343,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251006153200 +0800" stop="20251006160300 +0800">
 		<title lang="zh">云杉心脑通</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251006160300 +0800" stop="20251006163900 +0800">
+		<title lang="zh">三胎奶爸的养育之道</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -55530,6 +55548,9 @@
 	<programme channel="newtv军事评论" start="20251006154600 +0800" stop="20251006160600 +0800">
 		<title lang="zh">军工征途 深蓝智造</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251006160600 +0800" stop="20251006162800 +0800">
+		<title lang="zh">营地炊烟（25）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -55601,6 +55622,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251006143800 +0800" stop="20251006151700 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251006160900 +0800" stop="20251006172600 +0800">
+		<title lang="zh">独属于自己的了不起的小成就 绽放平凡人不平凡的光（20250421）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
