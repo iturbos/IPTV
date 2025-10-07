@@ -44994,6 +44994,9 @@
 	<programme channel="明星大片" start="20251007222500 +0800" stop="20251007230500 +0800">
 		<title lang="zh">龙血树叶粉</title>
 	</programme>
+	<programme channel="明星大片" start="20251007230500 +0800" stop="20251007001600 +0800">
+		<title lang="zh">蟒山</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -86931,6 +86934,9 @@
 	<programme channel="newtv超级电视剧" start="20251007221700 +0800" stop="20251007230600 +0800">
 		<title lang="zh">16_陷入我们的热恋</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251007230600 +0800" stop="20251007235500 +0800">
+		<title lang="zh">17_陷入我们的热恋</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -87159,6 +87165,9 @@
 	<programme channel="newtv精品纪录" start="20251007224600 +0800" stop="20251007230600 +0800">
 		<title lang="zh">03_荣光照耀新征程</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251007230600 +0800" stop="20251007232600 +0800">
+		<title lang="zh">04_步调一致向前进</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -87371,6 +87380,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251007221700 +0800" stop="20251007230200 +0800">
 		<title lang="zh">26_女人的抗战</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251007230200 +0800" stop="20251007234400 +0800">
+		<title lang="zh">27_女人的抗战</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -87858,6 +87870,9 @@
 	<programme channel="newtv怡伴健康" start="20251007223600 +0800" stop="20251007231400 +0800">
 		<title lang="zh">上海天行奔源vs天津格调研学-第3局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251007231400 +0800" stop="20251007234000 +0800">
+		<title lang="zh">时尚全知道——无独有“藕”</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -87956,6 +87971,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251007223200 +0800" stop="20251007231200 +0800">
 		<title lang="zh">龙血树叶粉</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251007231200 +0800" stop="20251007232700 +0800">
+		<title lang="zh">第21集：美食最强辅助，超绝香辛料</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -88103,6 +88121,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251007224500 +0800" stop="20251007231100 +0800">
 		<title lang="zh">国台办发布会 民进党当局改变不了“卖台求荣”的本质</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251007231100 +0800" stop="20251007233600 +0800">
+		<title lang="zh">台立法机构展开激烈攻防 蓝白联手否决绿营两大复议案</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -88284,6 +88305,9 @@
 	<programme channel="newtv精品综合" start="20251007222500 +0800" stop="20251007230500 +0800">
 		<title lang="zh">龙血树叶粉</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251007230500 +0800" stop="20251007001600 +0800">
+		<title lang="zh">蟒山</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -88412,6 +88436,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251007222500 +0800" stop="20251007231500 +0800">
 		<title lang="zh">一笑一周</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251007231500 +0800" stop="20251007235400 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
