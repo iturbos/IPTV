@@ -69090,6 +69090,9 @@
 	<programme channel="纯享4K" start="20251008113500 +0800" stop="20251008121600 +0800">
 		<title lang="zh">远方的家4K 大运河特辑（14） 北京 创新改变生活</title>
 	</programme>
+	<programme channel="纯享4K" start="20251008121600 +0800" stop="20251008125700 +0800">
+		<title lang="zh">远方的家4K 大运河特辑（15） 运河水看北京</title>
+	</programme>
 	<channel id="绍兴新闻综合">
 		<display-name lang="zh">绍兴新闻综合</display-name>
 	</channel>
@@ -86457,6 +86460,9 @@
 	<programme channel="newtv超级综艺" start="20251008110200 +0800" stop="20251008121900 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251008121900 +0800" stop="20251008123900 +0800">
+		<title lang="zh">文化十分</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -86573,6 +86579,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251008112700 +0800" stop="20251008121500 +0800">
 		<title lang="zh">12_爱的二八定律</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251008121500 +0800" stop="20251008130300 +0800">
+		<title lang="zh">13_爱的二八定律</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -86696,6 +86705,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251008114600 +0800" stop="20251008121100 +0800">
 		<title lang="zh">04_耐心</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251008121100 +0800" stop="20251008125100 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -87066,6 +87078,9 @@
 	<programme channel="newtv怡伴健康" start="20251008114000 +0800" stop="20251008121000 +0800">
 		<title lang="zh">健康有道睡眠</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251008121000 +0800" stop="20251008125100 +0800">
+		<title lang="zh">相声《如此家长》金霏、陈曦</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -87122,6 +87137,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251008114400 +0800" stop="20251008121400 +0800">
 		<title lang="zh">健康有道睡眠</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251008121400 +0800" stop="20251008130000 +0800">
+		<title lang="zh">12_小日子</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -87194,6 +87212,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251008114600 +0800" stop="20251008121100 +0800">
 		<title lang="zh">海上利剑的守护者</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251008121100 +0800" stop="20251008123600 +0800">
+		<title lang="zh">“硬核”营长张冬旭</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -87467,6 +87488,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251008114200 +0800" stop="20251008121100 +0800">
 		<title lang="zh">书法视频</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251008121100 +0800" stop="20251008134900 +0800">
+		<title lang="zh">津门奇案之元凶</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
