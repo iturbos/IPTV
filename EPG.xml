@@ -85887,6 +85887,9 @@
 	<programme channel="黑莓动画" start="20251008211200 +0800" stop="20251008231400 +0800">
 		<title lang="zh">01_大地上的成长</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251008231400 +0800" stop="20251008233300 +0800">
+		<title lang="zh">11_奶龙之奇妙冒险</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -87267,6 +87270,9 @@
 	<programme channel="newtv精品纪录" start="20251008224400 +0800" stop="20251008231100 +0800">
 		<title lang="zh">先遣侦察</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251008231100 +0800" stop="20251008233700 +0800">
+		<title lang="zh">胜利渡江</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -87954,6 +87960,9 @@
 	<programme channel="newtv怡伴健康" start="20251008222200 +0800" stop="20251008230400 +0800">
 		<title lang="zh">福建梦幻vs山东好哥哥-第3局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251008230400 +0800" stop="20251008234300 +0800">
+		<title lang="zh">福建梦幻vs山东好哥哥-第4局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -88052,6 +88061,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251008223100 +0800" stop="20251008231100 +0800">
 		<title lang="zh">龙血树叶粉</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251008231100 +0800" stop="20251008234500 +0800">
+		<title lang="zh">第22集：大吉大利，今日吃鸡（上）</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -88203,6 +88215,9 @@
 	<programme channel="newtv军事评论" start="20251008224600 +0800" stop="20251008231100 +0800">
 		<title lang="zh">狂言给中国“立规矩” 美国根本没资格</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251008231100 +0800" stop="20251008233700 +0800">
+		<title lang="zh">跟民进党“拼刺刀” 国民党不能怯战</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -88289,6 +88304,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251008224100 +0800" stop="20251008230200 +0800">
 		<title lang="zh">民族健身舞《纳林湖等你》（20231127）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251008230200 +0800" stop="20251008001900 +0800">
+		<title lang="zh">独属于自己的了不起的小成就 绽放平凡人不平凡的光（20250421）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
