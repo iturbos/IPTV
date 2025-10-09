@@ -28344,6 +28344,9 @@
 	<programme channel="咪咕综合体育" start="20251009150500 +0800" stop="20251009152000 +0800">
 		<title lang="zh">睛彩圈圈点第十一期</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251009152000 +0800" stop="20251009154500 +0800">
+		<title lang="zh">欧陆足球版图-英超特辑</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -69216,6 +69219,9 @@
 	<programme channel="纯享4K" start="20251009150100 +0800" stop="20251009150500 +0800">
 		<title lang="zh">来龙去脉4K 第2集</title>
 	</programme>
+	<programme channel="纯享4K" start="20251009151000 +0800" stop="20251009155900 +0800">
+		<title lang="zh">黄河之歌4K 第2集 大河滔滔</title>
+	</programme>
 	<channel id="绍兴新闻综合">
 		<display-name lang="zh">绍兴新闻综合</display-name>
 	</channel>
@@ -74105,6 +74111,9 @@
 	</programme>
 	<programme channel="超级电影" start="20251009135700 +0800" stop="20251009152300 +0800">
 		<title lang="zh">电影《永不消失的广播》</title>
+	</programme>
+	<programme channel="超级电影" start="20251009152300 +0800" stop="20251009163400 +0800">
+		<title lang="zh">电影《军火大劫案》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -86736,6 +86745,9 @@
 	<programme channel="newtv超级电影" start="20251009135700 +0800" stop="20251009152300 +0800">
 		<title lang="zh">电影《永不消失的广播》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251009152300 +0800" stop="20251009163400 +0800">
+		<title lang="zh">电影《军火大劫案》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -86960,6 +86972,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251009143700 +0800" stop="20251009150600 +0800">
 		<title lang="zh">第3集：生命的滋养</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251009150600 +0800" stop="20251009154100 +0800">
+		<title lang="zh">第4集：苍茫天地间</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -87230,6 +87245,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251009142100 +0800" stop="20251009150600 +0800">
 		<title lang="zh">31_风声</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251009150600 +0800" stop="20251009153700 +0800">
+		<title lang="zh">云杉心脑通</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
