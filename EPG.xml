@@ -62817,6 +62817,9 @@
 	<programme channel="爱情喜剧" start="20251009112500 +0800" stop="20251009120800 +0800">
 		<title lang="zh">16_怎敌她千娇百媚</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20251009120800 +0800" stop="20251009124800 +0800">
+		<title lang="zh">太空骨王骨胶原新版</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -69137,6 +69140,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20251009113400 +0800" stop="20251009121500 +0800">
 		<title lang="zh">远方的家4K 大运河 从枫桥到阊门</title>
+	</programme>
+	<programme channel="纯享4K" start="20251009121500 +0800" stop="20251009125700 +0800">
+		<title lang="zh">远方的家4K 大运河 江南水乡 姑苏风情</title>
 	</programme>
 	<channel id="绍兴新闻综合">
 		<display-name lang="zh">绍兴新闻综合</display-name>
@@ -85602,6 +85608,9 @@
 	<programme channel="黑莓动画" start="20251009103000 +0800" stop="20251009121000 +0800">
 		<title lang="zh">通往天国的倒计时 中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251009121000 +0800" stop="20251009135100 +0800">
+		<title lang="zh">蜡笔小新：我的搬家物语 仙人掌大袭击</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -86967,6 +86976,9 @@
 	<programme channel="newtv家庭剧场" start="20251009114200 +0800" stop="20251009120200 +0800">
 		<title lang="zh">营养健康20新</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251009120200 +0800" stop="20251009124700 +0800">
+		<title lang="zh">05_乔家的儿女</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -87066,6 +87078,9 @@
 	<programme channel="newtv爱情喜剧" start="20251009112500 +0800" stop="20251009120800 +0800">
 		<title lang="zh">16_怎敌她千娇百媚</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251009120800 +0800" stop="20251009124800 +0800">
+		<title lang="zh">太空骨王骨胶原新版</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -87098,6 +87113,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251009104400 +0800" stop="20251009121300 +0800">
 		<title lang="zh">鲨卷风3</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251009121300 +0800" stop="20251009124300 +0800">
+		<title lang="zh">健康有道睡眠</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -87297,6 +87315,9 @@
 	<programme channel="newtv军事评论" start="20251009114800 +0800" stop="20251009121300 +0800">
 		<title lang="zh">向极致瞄准 第二集 “教员射手”梁启明</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251009121300 +0800" stop="20251009124000 +0800">
+		<title lang="zh">“小鹰”归巢</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -87459,6 +87480,9 @@
 	<programme channel="newtv金牌综艺" start="20251009104500 +0800" stop="20251009121300 +0800">
 		<title lang="zh">心动的信号第6季</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20251009121300 +0800" stop="20251009125300 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -87566,6 +87590,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251009114300 +0800" stop="20251009121200 +0800">
 		<title lang="zh">书法视频</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251009121200 +0800" stop="20251009134100 +0800">
+		<title lang="zh">江湖英雄联盟之奇门惊情</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
