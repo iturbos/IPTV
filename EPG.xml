@@ -85758,6 +85758,9 @@
 	<programme channel="newtv超级综艺" start="20251010145900 +0800" stop="20251010161600 +0800">
 		<title lang="zh">星光大道</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251010161600 +0800" stop="20251010175500 +0800">
+		<title lang="zh">跟着春晚游中国</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
