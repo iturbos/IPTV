@@ -44073,6 +44073,9 @@
 	<programme channel="明星大片" start="20251011151900 +0800" stop="20251011160500 +0800">
 		<title lang="zh">31_我的后半生</title>
 	</programme>
+	<programme channel="明星大片" start="20251011160500 +0800" stop="20251011164500 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -62271,6 +62274,9 @@
 	<programme channel="爱情喜剧" start="20251011153400 +0800" stop="20251011161400 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20251011161400 +0800" stop="20251011175300 +0800">
+		<title lang="zh">特工过家家</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -68627,6 +68633,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20251011151400 +0800" stop="20251011160300 +0800">
 		<title lang="zh">黄河之歌4K 第4集 大浪淘沙</title>
+	</programme>
+	<programme channel="纯享4K" start="20251011160300 +0800" stop="20251011163100 +0800">
+		<title lang="zh">记住乡愁 第八季4K 措麦村——碧湖之下 青稞飘香</title>
 	</programme>
 	<channel id="绍兴新闻综合">
 		<display-name lang="zh">绍兴新闻综合</display-name>
@@ -86172,6 +86181,9 @@
 	<programme channel="newtv古装剧场" start="20251011152700 +0800" stop="20251011161400 +0800">
 		<title lang="zh">27_长相思</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251011161400 +0800" stop="20251011165400 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -86441,6 +86453,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251011153400 +0800" stop="20251011161400 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251011161400 +0800" stop="20251011175300 +0800">
+		<title lang="zh">特工过家家</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -86748,6 +86763,9 @@
 	<programme channel="newtv军事评论" start="20251011155300 +0800" stop="20251011161500 +0800">
 		<title lang="zh">那个瞬间的年代（8）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251011161500 +0800" stop="20251011163700 +0800">
+		<title lang="zh">那个瞬间的年代（9）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -86886,6 +86904,9 @@
 	<programme channel="newtv精品综合" start="20251011151900 +0800" stop="20251011160500 +0800">
 		<title lang="zh">31_我的后半生</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251011160500 +0800" stop="20251011164500 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -86987,6 +87008,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251011153700 +0800" stop="20251011161700 +0800">
 		<title lang="zh">营养健康20新</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251011161700 +0800" stop="20251011172300 +0800">
+		<title lang="zh">活力满分的夏天</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
