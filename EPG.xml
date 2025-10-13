@@ -26601,6 +26601,12 @@
 	<programme channel="咪咕足球" start="20251013184500 +0800" stop="20251013185000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251013185000 +0800" stop="20251013191500 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第六期</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251013191500 +0800" stop="20251013193000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -39384,6 +39390,9 @@
 	<programme channel="惊悚悬疑" start="20251013183200 +0800" stop="20251013191200 +0800">
 		<title lang="zh">黑芝麻丸</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20251013191200 +0800" stop="20251013204300 +0800">
+		<title lang="zh">魔戟战神</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -42617,6 +42626,9 @@
 	</programme>
 	<programme channel="明星大片" start="20251013182500 +0800" stop="20251013190500 +0800">
 		<title lang="zh">营养健康20新</title>
+	</programme>
+	<programme channel="明星大片" start="20251013190500 +0800" stop="20251013193500 +0800">
+		<title lang="zh">《花样人生》推荐第67期</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -65667,6 +65679,9 @@
 	<programme channel="纯享4K" start="20251013183600 +0800" stop="20251013190600 +0800">
 		<title lang="zh">美丽中国说4K 成长中的陪伴</title>
 	</programme>
+	<programme channel="纯享4K" start="20251013190600 +0800" stop="20251013193600 +0800">
+		<title lang="zh">美丽中国说4K 雨林王者</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -80871,6 +80886,9 @@
 	<programme channel="黑莓电影" start="20251013172000 +0800" stop="20251013190800 +0800">
 		<title lang="zh">谁的青春不迷茫</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251013190800 +0800" stop="20251013210800 +0800">
+		<title lang="zh">绣春刀b7修罗战场</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -81936,6 +81954,9 @@
 	<programme channel="newtv精品大剧" start="20251013180900 +0800" stop="20251013184700 +0800">
 		<title lang="zh">13_证词</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251013184700 +0800" stop="20251013192600 +0800">
+		<title lang="zh">14_证词</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -82025,6 +82046,12 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251013183300 +0800" stop="20251013185000 +0800">
 		<title lang="zh">第19集：鱼鱼我啊，也是在美食圈上桌了（上）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251013185000 +0800" stop="20251013190400 +0800">
+		<title lang="zh">第20集：鱼鱼我啊，也是在美食圈上桌了（下）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251013190400 +0800" stop="20251013191900 +0800">
+		<title lang="zh">第21集：美食最强辅助，超绝香辛料</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -82356,6 +82383,9 @@
 	<programme channel="newtv热播精选" start="20251013180900 +0800" stop="20251013190400 +0800">
 		<title lang="zh">风味人间第4季</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251013190400 +0800" stop="20251013193400 +0800">
+		<title lang="zh">《超级美味》推荐第11期</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -82485,6 +82515,9 @@
 	<programme channel="newtv动作电影" start="20251013184500 +0800" stop="20251013191500 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20251013191500 +0800" stop="20251013202600 +0800">
+		<title lang="zh">重装战警</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -82556,6 +82589,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251013183200 +0800" stop="20251013191000 +0800">
 		<title lang="zh">管好慢病三字经b7痛风</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251013191000 +0800" stop="20251013194700 +0800">
+		<title lang="zh">山西清徐学栋vs湖南星火燎原-第6局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -82764,6 +82800,9 @@
 	<programme channel="newtv军事评论" start="20251013183900 +0800" stop="20251013190100 +0800">
 		<title lang="zh">“锋刃-2025”国际狙击手射击竞赛纪实</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251013190100 +0800" stop="20251013192300 +0800">
+		<title lang="zh">特级英雄黄继光（一）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -82838,6 +82877,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251013175200 +0800" stop="20251013184800 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251013184800 +0800" stop="20251013200500 +0800">
+		<title lang="zh">伏尚尚回乡创业 通过短视频为家乡花椒带货（20241118）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -82917,6 +82959,9 @@
 	<programme channel="newtv精品综合" start="20251013182500 +0800" stop="20251013190500 +0800">
 		<title lang="zh">营养健康20新</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251013190500 +0800" stop="20251013193500 +0800">
+		<title lang="zh">《花样人生》推荐第67期</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -82967,6 +83012,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251013183200 +0800" stop="20251013191200 +0800">
 		<title lang="zh">黑芝麻丸</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251013191200 +0800" stop="20251013204300 +0800">
+		<title lang="zh">魔戟战神</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -83171,6 +83219,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251013182100 +0800" stop="20251013190900 +0800">
 		<title lang="zh">35_有翡</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251013190900 +0800" stop="20251013193900 +0800">
+		<title lang="zh">《花样人生》推荐第67期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
