@@ -62889,6 +62889,9 @@
 	<programme channel="爱情喜剧" start="20251014152900 +0800" stop="20251014160900 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20251014160900 +0800" stop="20251014165500 +0800">
+		<title lang="zh">17_似锦</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -68957,6 +68960,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20251014151500 +0800" stop="20251014160400 +0800">
 		<title lang="zh">天宫建造4K 第1集</title>
+	</programme>
+	<programme channel="纯享4K" start="20251014160400 +0800" stop="20251014163200 +0800">
+		<title lang="zh">记住乡愁 第八季4K 渡渎村——江南水乡 古韵悠长</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -86397,6 +86403,9 @@
 	<programme channel="newtv精品大剧" start="20251014152300 +0800" stop="20251014160300 +0800">
 		<title lang="zh">营养健康20新</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251014160300 +0800" stop="20251014165000 +0800">
+		<title lang="zh">20_三国机密之潜龙在渊</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -86775,6 +86784,9 @@
 	<programme channel="newtv热播精选" start="20251014152700 +0800" stop="20251014161100 +0800">
 		<title lang="zh">09_扫黑风暴</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251014161100 +0800" stop="20251014165100 +0800">
+		<title lang="zh">黑芝麻丸</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -86835,6 +86847,9 @@
 	<programme channel="newtv爱情喜剧" start="20251014152900 +0800" stop="20251014160900 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251014160900 +0800" stop="20251014165500 +0800">
+		<title lang="zh">17_似锦</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -86882,6 +86897,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251014144100 +0800" stop="20251014160900 +0800">
 		<title lang="zh">战斧行动</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251014160900 +0800" stop="20251014164900 +0800">
+		<title lang="zh">黑芝麻丸</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -87023,6 +87041,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251014153300 +0800" stop="20251014161500 +0800">
 		<title lang="zh">11_只是结婚的关系</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251014161500 +0800" stop="20251014165500 +0800">
+		<title lang="zh">营养健康20新</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -87521,6 +87542,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251014152100 +0800" stop="20251014160800 +0800">
 		<title lang="zh">37_有翡</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251014160800 +0800" stop="20251014164900 +0800">
+		<title lang="zh">太空骨王骨胶原新版</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
