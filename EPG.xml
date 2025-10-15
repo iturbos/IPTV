@@ -52938,6 +52938,9 @@
 	<programme channel="newtv精品纪录" start="20251016045900 +0800" stop="20251016054900 +0800">
 		<title lang="zh">05_深 赋能</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251016054900 +0800" stop="20251016061300 +0800">
+		<title lang="zh">01_创新</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -52961,6 +52964,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251016051400 +0800" stop="20251016055800 +0800">
 		<title lang="zh">13_天行健</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251016055800 +0800" stop="20251016063800 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -53109,6 +53115,9 @@
 	<programme channel="newtv怡伴健康" start="20251016053600 +0800" stop="20251016054900 +0800">
 		<title lang="zh">小品《平凡之路》 表演：郑宏伟 张魁 等</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251016054900 +0800" stop="20251016063900 +0800">
+		<title lang="zh">小品《的哥嘚啵嘚》 表演：矫正健 李易衡 等</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -53168,6 +53177,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251016053900 +0800" stop="20251016060100 +0800">
 		<title lang="zh">百炼成钢 中国共产党的100年 胸中自有雄兵百万/千里跃进大别山/</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251016060100 +0800" stop="20251016062300 +0800">
+		<title lang="zh">渡江传奇</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -53234,6 +53246,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251016050900 +0800" stop="20251016054900 +0800">
 		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251016054900 +0800" stop="20251016073100 +0800">
+		<title lang="zh">怒火冲天</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -53318,6 +53333,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251016052200 +0800" stop="20251016055700 +0800">
 		<title lang="zh">拳王争霸赛：库里VS莫尔德</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251016055700 +0800" stop="20251016062700 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
