@@ -86076,6 +86076,9 @@
 	<programme channel="黑莓电影" start="20251016101900 +0800" stop="20251016120200 +0800">
 		<title lang="zh">十二公民</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251016120200 +0800" stop="20251016133600 +0800">
+		<title lang="zh">计时引爆摩天楼</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -86949,6 +86952,9 @@
 	<programme channel="newtv超级综艺" start="20251016104900 +0800" stop="20251016120600 +0800">
 		<title lang="zh">向幸福出发</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251016120600 +0800" stop="20251016133800 +0800">
+		<title lang="zh">一馔千年</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -87114,6 +87120,9 @@
 	<programme channel="newtv精品大剧" start="20251016112000 +0800" stop="20251016120600 +0800">
 		<title lang="zh">28_大秦帝国之裂变</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251016120600 +0800" stop="20251016123500 +0800">
+		<title lang="zh">书法视频</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -87221,6 +87230,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251016112700 +0800" stop="20251016121300 +0800">
 		<title lang="zh">05_长相思 第二季</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251016121300 +0800" stop="20251016125300 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -87381,6 +87393,9 @@
 	<programme channel="newtv热播精选" start="20251016112600 +0800" stop="20251016120600 +0800">
 		<title lang="zh">龙血树叶粉</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251016120600 +0800" stop="20251016133500 +0800">
+		<title lang="zh">终极硬汉</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -87462,6 +87477,9 @@
 	<programme channel="newtv动作电影" start="20251016103400 +0800" stop="20251016120700 +0800">
 		<title lang="zh">中国蓝盔</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20251016120700 +0800" stop="20251016124700 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -87515,6 +87533,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251016110000 +0800" stop="20251016121200 +0800">
 		<title lang="zh">28_红高粱</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251016121200 +0800" stop="20251016150900 +0800">
+		<title lang="zh">京剧《霍小玉》</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -87644,6 +87665,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251016114500 +0800" stop="20251016120900 +0800">
 		<title lang="zh">直击西藏定日县6.8级地震救援 第二集</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251016120900 +0800" stop="20251016123100 +0800">
+		<title lang="zh">军博里的秘密武器（上）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
