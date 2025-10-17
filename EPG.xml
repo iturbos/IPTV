@@ -62874,6 +62874,9 @@
 	<programme channel="爱情喜剧" start="20251017112400 +0800" stop="20251017121000 +0800">
 		<title lang="zh">21_似锦</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20251017121000 +0800" stop="20251017125000 +0800">
+		<title lang="zh">龙血树叶粉</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -86847,6 +86850,9 @@
 	<programme channel="newtv古装剧场" start="20251017112300 +0800" stop="20251017121000 +0800">
 		<title lang="zh">08_长相思 第二季</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251017121000 +0800" stop="20251017125000 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -87006,6 +87012,9 @@
 	<programme channel="newtv热播精选" start="20251017113200 +0800" stop="20251017120200 +0800">
 		<title lang="zh">龙血树叶粉</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251017120200 +0800" stop="20251017132000 +0800">
+		<title lang="zh">限时营救</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -87056,6 +87065,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251017112400 +0800" stop="20251017121000 +0800">
 		<title lang="zh">21_似锦</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251017121000 +0800" stop="20251017125000 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -87213,6 +87225,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251017113100 +0800" stop="20251017121100 +0800">
 		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251017121100 +0800" stop="20251017125600 +0800">
+		<title lang="zh">23_扶摇</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -87278,6 +87293,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251017114100 +0800" stop="20251017120700 +0800">
 		<title lang="zh">跨越万里的祝福</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251017120700 +0800" stop="20251017123200 +0800">
+		<title lang="zh">新春走军营之军营年味暖意浓 第一集 战风斗浪迎新春</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
