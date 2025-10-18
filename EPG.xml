@@ -44337,6 +44337,9 @@
 	<programme channel="明星大片" start="20251018103300 +0800" stop="20251018110200 +0800">
 		<title lang="zh">书法视频</title>
 	</programme>
+	<programme channel="明星大片" start="20251018110200 +0800" stop="20251018122900 +0800">
+		<title lang="zh">东北喜事之山炮扶上墙</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -68022,6 +68025,9 @@
 	<programme channel="纯享4K" start="20251018104600 +0800" stop="20251018111600 +0800">
 		<title lang="zh">美丽中国说4K 荒漠的呼唤</title>
 	</programme>
+	<programme channel="纯享4K" start="20251018111600 +0800" stop="20251018114600 +0800">
+		<title lang="zh">村庄故事4K 田舍延祥（上）</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -86241,6 +86247,9 @@
 	<programme channel="newtv军事评论" start="20251018105300 +0800" stop="20251018111500 +0800">
 		<title lang="zh">大国重器 决胜空天</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251018111500 +0800" stop="20251018113700 +0800">
+		<title lang="zh">重器锻造</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -86331,6 +86340,9 @@
 	<programme channel="newtv精品综合" start="20251018103300 +0800" stop="20251018110200 +0800">
 		<title lang="zh">书法视频</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251018110200 +0800" stop="20251018122900 +0800">
+		<title lang="zh">东北喜事之山炮扶上墙</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -86390,6 +86402,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251018104400 +0800" stop="20251018111300 +0800">
 		<title lang="zh">武夷山康养</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251018111300 +0800" stop="20251018122400 +0800">
+		<title lang="zh">哈哈哈哈哈第5季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
