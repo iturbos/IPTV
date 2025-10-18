@@ -28371,6 +28371,9 @@
 	<programme channel="咪咕综合体育" start="20251018183500 +0800" stop="20251018190000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251018190000 +0800" stop="20251018214000 +0800">
+		<title lang="zh">英超赛场-25/26赛季英超 第8轮 诺丁汉森林-切尔西 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28444,6 +28447,12 @@
 		<title lang="zh">睛彩圈圈点第十三期</title>
 	</programme>
 	<programme channel="咪咕足球" start="20251018184500 +0800" stop="20251018185000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251018185000 +0800" stop="20251018191500 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第十一期</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251018191500 +0800" stop="20251018193000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
@@ -68550,6 +68559,9 @@
 	<programme channel="纯享4K" start="20251018184300 +0800" stop="20251018191300 +0800">
 		<title lang="zh">美丽中国说4K 荒漠的呼唤</title>
 	</programme>
+	<programme channel="纯享4K" start="20251018191300 +0800" stop="20251018194300 +0800">
+		<title lang="zh">村庄故事4K 田舍延祥（上）</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -86148,6 +86160,9 @@
 	<programme channel="newtv超级综艺" start="20251018175000 +0800" stop="20251018191800 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251018191800 +0800" stop="20251018193000 +0800">
+		<title lang="zh">国家宝藏-周游季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -86198,6 +86213,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20251018180000 +0800" stop="20251018190500 +0800">
 		<title lang="zh">体育新闻</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20251018190500 +0800" stop="20251018193500 +0800">
+		<title lang="zh">2025/2026西班牙足球甲级联赛-第8轮集锦</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -86496,6 +86514,9 @@
 	<programme channel="newtv精品纪录" start="20251018181800 +0800" stop="20251018185300 +0800">
 		<title lang="zh">CRESIOENM钛健康餐具套组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251018185300 +0800" stop="20251018192400 +0800">
+		<title lang="zh">第4集：赶海b7潮来汐往</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -86576,6 +86597,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251018182100 +0800" stop="20251018190800 +0800">
 		<title lang="zh">20_折腰</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251018190800 +0800" stop="20251018195600 +0800">
+		<title lang="zh">21_折腰</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -86828,6 +86852,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251018183300 +0800" stop="20251018190300 +0800">
 		<title lang="zh">《超级美味》推荐第12期</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251018190300 +0800" stop="20251018194600 +0800">
+		<title lang="zh">26_藏海花</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -87258,6 +87285,9 @@
 	<programme channel="newtv军事评论" start="20251018183300 +0800" stop="20251018185500 +0800">
 		<title lang="zh">党史军史系列节目《红色记忆》 八路军经典战术 兵民同心 火力全开</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251018185500 +0800" stop="20251018191700 +0800">
+		<title lang="zh">党史军史系列节目《红色记忆》 八路军经典战术 浴血攻坚 破垒摧锋</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -87335,6 +87365,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251018175900 +0800" stop="20251018185500 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251018185500 +0800" stop="20251018201100 +0800">
+		<title lang="zh">粗缯大布裹生涯 腹有诗书气自华（20251013）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -87525,6 +87558,9 @@
 	<programme channel="newtv金牌综艺" start="20251018183000 +0800" stop="20251018190500 +0800">
 		<title lang="zh">CRESIOENM钛健康餐具套组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20251018190500 +0800" stop="20251018204500 +0800">
+		<title lang="zh">单排喜剧大赛</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -87671,6 +87707,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251018182200 +0800" stop="20251018190700 +0800">
 		<title lang="zh">04_长歌行</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251018190700 +0800" stop="20251018193700 +0800">
+		<title lang="zh">《超级美味》推荐第12期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
