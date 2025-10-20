@@ -41289,6 +41289,9 @@
 	<programme channel="纯享4K" start="20251021020400 +0800" stop="20251021024300 +0800">
 		<title lang="zh">探索b7发现4K 匠人b7匠心（38）</title>
 	</programme>
+	<programme channel="纯享4K" start="20251021024300 +0800" stop="20251021031300 +0800">
+		<title lang="zh">村庄故事4K 山水岩龙（下）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51789,6 +51792,9 @@
 	<programme channel="newtv超级体育" start="20251021010500 +0800" stop="20251021023600 +0800">
 		<title lang="zh">实况录像-2025年世乒联大满贯赛 中国站 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251021023600 +0800" stop="20251021040000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -51848,6 +51854,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251021023000 +0800" stop="20251021024400 +0800">
 		<title lang="zh">05_解码之路</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251021024400 +0800" stop="20251021030000 +0800">
+		<title lang="zh">第1集：饺子里的隐情</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
