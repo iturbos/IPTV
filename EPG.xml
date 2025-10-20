@@ -66151,6 +66151,9 @@
 	<programme channel="纯享4K" start="20251020202400 +0800" stop="20251020210500 +0800">
 		<title lang="zh">远方的家4K 大运河 运河之滨 潘安湖畔</title>
 	</programme>
+	<programme channel="纯享4K" start="20251020211500 +0800" stop="20251020220500 +0800">
+		<title lang="zh">曹雪芹与红楼梦4K 第1集 一局输赢料不真</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -82399,6 +82402,9 @@
 	<programme channel="newtv精品纪录" start="20251020204400 +0800" stop="20251020211400 +0800">
 		<title lang="zh">《八段锦》推荐第40期</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251020211400 +0800" stop="20251020214700 +0800">
+		<title lang="zh">第7集：拉萨，最后的远方</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82582,6 +82588,9 @@
 	<programme channel="newtv军旅剧场" start="20251020204000 +0800" stop="20251020211000 +0800">
 		<title lang="zh">《超级美味》推荐第12期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251020211000 +0800" stop="20251020215500 +0800">
+		<title lang="zh">22_危机迷雾</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -82675,6 +82684,9 @@
 	<programme channel="newtv家庭剧场" start="20251020203900 +0800" stop="20251020210900 +0800">
 		<title lang="zh">《超级美味》推荐第12期</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251020210900 +0800" stop="20251020215500 +0800">
+		<title lang="zh">10_生活就是家</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -82764,6 +82776,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251020202000 +0800" stop="20251020210500 +0800">
 		<title lang="zh">02_我的后半生</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251020210500 +0800" stop="20251020213500 +0800">
+		<title lang="zh">《超级美味》推荐第12期</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -83709,6 +83724,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251020202200 +0800" stop="20251020210800 +0800">
 		<title lang="zh">15_天龙八部</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251020210800 +0800" stop="20251020213800 +0800">
+		<title lang="zh">《超级美味》推荐第12期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
