@@ -28237,6 +28237,9 @@
 	<programme channel="咪咕足球" start="20251021155500 +0800" stop="20251021164000 +0800">
 		<title lang="zh">一球一城 博洛尼亚</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251021164500 +0800" stop="20251021182500 +0800">
+		<title lang="zh">当燃CBA-24/25赛季常规赛第29轮 浙江稠州金租-北京北汽</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -84853,6 +84856,9 @@
 	<programme channel="黑莓电影" start="20251021144800 +0800" stop="20251021163300 +0800">
 		<title lang="zh">叱咤风云</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251021163300 +0800" stop="20251021180200 +0800">
+		<title lang="zh">武动乾坤：九重符塔</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -85921,6 +85927,9 @@
 	<programme channel="newtv超级电视剧" start="20251021160600 +0800" stop="20251021165200 +0800">
 		<title lang="zh">16_平凡之路</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251021165200 +0800" stop="20251021173700 +0800">
+		<title lang="zh">36_亲爱的，你在哪里</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -86497,6 +86506,9 @@
 	<programme channel="newtv动作电影" start="20251021155500 +0800" stop="20251021164000 +0800">
 		<title lang="zh">康企红蓝光治疗仪劲爆组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20251021164000 +0800" stop="20251021180200 +0800">
+		<title lang="zh">特工使命</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -86641,6 +86653,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251021161200 +0800" stop="20251021164200 +0800">
 		<title lang="zh">武夷山康养</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251021164200 +0800" stop="20251021172500 +0800">
+		<title lang="zh">13_锦心似玉</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -86766,6 +86781,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251021161000 +0800" stop="20251021163200 +0800">
 		<title lang="zh">党史军史系列节目《红色记忆》 八路军经典战术 兵以诡道 地下长城</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251021163200 +0800" stop="20251021165400 +0800">
+		<title lang="zh">解放b7上海1</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
