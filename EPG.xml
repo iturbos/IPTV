@@ -28078,6 +28078,9 @@
 	<programme channel="咪咕综合体育" start="20251021120000 +0800" stop="20251021120500 +0800">
 		<title lang="zh">睛彩AI速报</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251021120500 +0800" stop="20251021123000 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第十一期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28122,6 +28125,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251021120000 +0800" stop="20251021120500 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251021120500 +0800" stop="20251021122000 +0800">
+		<title lang="zh">睛彩圈圈点第十三期</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -44310,6 +44316,9 @@
 	</programme>
 	<programme channel="明星大片" start="20251021110800 +0800" stop="20251021120700 +0800">
 		<title lang="zh">乒乓侠</title>
+	</programme>
+	<programme channel="明星大片" start="20251021120700 +0800" stop="20251021124700 +0800">
+		<title lang="zh">营养健康20新</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -85846,6 +85855,9 @@
 	<programme channel="newtv古装剧场" start="20251021111600 +0800" stop="20251021120200 +0800">
 		<title lang="zh">23_长相思 第二季</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251021120200 +0800" stop="20251021124200 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -85896,6 +85908,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251021111900 +0800" stop="20251021120400 +0800">
 		<title lang="zh">01_十送红军</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251021120400 +0800" stop="20251021123900 +0800">
+		<title lang="zh">CRESIOENM钛健康餐具套组-渠道（右）</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -86293,6 +86308,9 @@
 	<programme channel="newtv军事评论" start="20251021115500 +0800" stop="20251021121400 +0800">
 		<title lang="zh">高原之巅的忠诚（一）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251021121400 +0800" stop="20251021123300 +0800">
+		<title lang="zh">高原之巅的忠诚（二）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -86392,6 +86410,9 @@
 	<programme channel="newtv精品综合" start="20251021110800 +0800" stop="20251021120700 +0800">
 		<title lang="zh">乒乓侠</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251021120700 +0800" stop="20251021124700 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -86466,6 +86487,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251021104800 +0800" stop="20251021120100 +0800">
 		<title lang="zh">哈哈哈哈哈第5季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251021120100 +0800" stop="20251021124100 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -86577,6 +86601,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251021114300 +0800" stop="20251021121200 +0800">
 		<title lang="zh">武夷山康养</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251021121200 +0800" stop="20251021133200 +0800">
+		<title lang="zh">柳三变大笑京城</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
