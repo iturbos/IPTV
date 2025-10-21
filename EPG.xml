@@ -68374,6 +68374,9 @@
 	<programme channel="纯享4K" start="20251021141500 +0800" stop="20251021150500 +0800">
 		<title lang="zh">大地之上4K 第6集 城市与今天</title>
 	</programme>
+	<programme channel="纯享4K" start="20251021151000 +0800" stop="20251021155900 +0800">
+		<title lang="zh">玩的是古 第二季4K 第3集</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -85717,6 +85720,9 @@
 	<programme channel="newtv超级综艺" start="20251021133400 +0800" stop="20251021150400 +0800">
 		<title lang="zh">一馔千年</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251021150400 +0800" stop="20251021162300 +0800">
+		<title lang="zh">梦响中国b7音乐盛典</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -86215,6 +86221,9 @@
 	<programme channel="newtv家庭剧场" start="20251021141800 +0800" stop="20251021150500 +0800">
 		<title lang="zh">10_玫瑰的故事</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251021150500 +0800" stop="20251021154500 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -86634,6 +86643,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251021144200 +0800" stop="20251021150400 +0800">
 		<title lang="zh">党史军史系列节目《红色记忆》 八路军经典战术 兵无常势 伏击有道</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251021150400 +0800" stop="20251021152600 +0800">
+		<title lang="zh">党史军史系列节目《红色记忆》 八路军经典战术 伺夜而动 其声相闻</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
