@@ -86116,6 +86116,9 @@
 	<programme channel="newtv超级电视剧" start="20251021222000 +0800" stop="20251021230500 +0800">
 		<title lang="zh">02_折腰</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251021230500 +0800" stop="20251021235000 +0800">
+		<title lang="zh">03_折腰</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -87390,6 +87393,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251021224400 +0800" stop="20251021230500 +0800">
 		<title lang="zh">健身舞—弥渡山歌（20210509）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251021230500 +0800" stop="20251021003800 +0800">
+		<title lang="zh">非遗里的中国第三季（20250615）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
