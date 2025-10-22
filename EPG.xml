@@ -16599,6 +16599,9 @@
 	<programme channel="咪咕综合体育" start="20251023002000 +0800" stop="20251023031000 +0800">
 		<title lang="zh">一杆定音-2025斯诺克西安大奖赛半决赛 肖恩b7墨菲-加里b7威尔逊</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251023031000 +0800" stop="20251023040500 +0800">
+		<title lang="zh">纪录片利昂内尔b7梅西：最佳球员</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16607,6 +16610,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251023013000 +0800" stop="20251023030500 +0800">
 		<title lang="zh">2025NBL联赛 常规赛第2轮 石家庄翔蓝-湖北文旅</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251023030500 +0800" stop="20251023032000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251023032000 +0800" stop="20251023042000 +0800">
+		<title lang="zh">超级三对三-2025超三联赛</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -52263,6 +52272,9 @@
 	<programme channel="newtv超级电影" start="20251023014700 +0800" stop="20251023031200 +0800">
 		<title lang="zh">女侠旋风腿</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251023031200 +0800" stop="20251023045700 +0800">
+		<title lang="zh">西兰姑娘</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -52289,6 +52301,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251023020500 +0800" stop="20251023024900 +0800">
 		<title lang="zh">19_北国英雄</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251023024900 +0800" stop="20251023033200 +0800">
+		<title lang="zh">20_北国英雄</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -52320,6 +52335,9 @@
 	<programme channel="newtv古装剧场" start="20251023021400 +0800" stop="20251023030200 +0800">
 		<title lang="zh">35_有翡</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251023030200 +0800" stop="20251023035000 +0800">
+		<title lang="zh">36_有翡</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -52334,6 +52352,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251023021500 +0800" stop="20251023030000 +0800">
 		<title lang="zh">45_瞄准</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251023030000 +0800" stop="20251023034300 +0800">
+		<title lang="zh">46_瞄准</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -52371,6 +52392,9 @@
 	<programme channel="newtv爱情喜剧" start="20251023011700 +0800" stop="20251023025300 +0800">
 		<title lang="zh">难忘的岁月</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251023025300 +0800" stop="20251023033200 +0800">
+		<title lang="zh">30_你是我的荣耀</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -52397,6 +52421,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251023021100 +0800" stop="20251023030000 +0800">
 		<title lang="zh">动物家族b7鬣狗</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251023030000 +0800" stop="20251023034700 +0800">
+		<title lang="zh">动物的一天</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -52440,6 +52467,12 @@
 	<programme channel="newtv军事评论" start="20251023023300 +0800" stop="20251023025300 +0800">
 		<title lang="zh">二战空袭大揭秘（八）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251023025300 +0800" stop="20251023031500 +0800">
+		<title lang="zh">二战空袭大揭秘（九）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251023031500 +0800" stop="20251023033700 +0800">
+		<title lang="zh">二战空袭大揭秘（十）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -52475,6 +52508,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20251023011200 +0800" stop="20251023024700 +0800">
 		<title lang="zh">不速之客</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251023024700 +0800" stop="20251023040900 +0800">
+		<title lang="zh">九辫灵狐</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
