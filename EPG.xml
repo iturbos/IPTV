@@ -63159,6 +63159,9 @@
 	<programme channel="爱情喜剧" start="20251023121200 +0800" stop="20251023130200 +0800">
 		<title lang="zh">滋得洛夫俄罗斯白桦茸小分子精片-渠道（右）</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20251023130200 +0800" stop="20251023134600 +0800">
+		<title lang="zh">11_锦心似玉</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -69221,6 +69224,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20251023125900 +0800" stop="20251023130400 +0800">
 		<title lang="zh">美丽中国自然4K 精灵飞舞</title>
+	</programme>
+	<programme channel="纯享4K" start="20251023130400 +0800" stop="20251023135400 +0800">
+		<title lang="zh">曹雪芹与红楼梦4K 第4集 眼前春色梦中人</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -85701,6 +85707,9 @@
 	<programme channel="黑莓电影" start="20251023103800 +0800" stop="20251023131300 +0800">
 		<title lang="zh">宿敌</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251023131300 +0800" stop="20251023145900 +0800">
+		<title lang="zh">非法制裁</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -86877,6 +86886,9 @@
 	<programme channel="newtv精品纪录" start="20251023125700 +0800" stop="20251023131200 +0800">
 		<title lang="zh">第4集：云南松鹤村 酸梅和甜之味</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251023131200 +0800" stop="20251023132800 +0800">
+		<title lang="zh">第5集：贵州拉欧村 酸肉和婚礼</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -87158,6 +87170,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251023121200 +0800" stop="20251023130200 +0800">
 		<title lang="zh">滋得洛夫俄罗斯白桦茸小分子精片-渠道（右）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251023130200 +0800" stop="20251023134600 +0800">
+		<title lang="zh">11_锦心似玉</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
