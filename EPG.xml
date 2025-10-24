@@ -28360,6 +28360,9 @@
 	<programme channel="咪咕足球" start="20251024120500 +0800" stop="20251024122000 +0800">
 		<title lang="zh">睛彩圈圈点第十三期</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251024122500 +0800" stop="20251024140500 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA季后赛16进8第1轮 福建晋江众腾-上海浦发银行</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -86035,6 +86038,9 @@
 	<programme channel="newtv超级综艺" start="20251024113100 +0800" stop="20251024122100 +0800">
 		<title lang="zh">绽放吧！妈妈</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251024122100 +0800" stop="20251024140100 +0800">
+		<title lang="zh">跟着春晚游中国</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -86934,6 +86940,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251024110100 +0800" stop="20251024122400 +0800">
 		<title lang="zh">哈哈哈哈哈第5季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251024122400 +0800" stop="20251024130400 +0800">
+		<title lang="zh">太空骨王骨胶原新版</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
