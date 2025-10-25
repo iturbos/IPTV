@@ -27954,6 +27954,9 @@
 	<programme channel="咪咕综合体育" start="20251025184500 +0800" stop="20251025211500 +0800">
 		<title lang="zh">中超来噜-2025赛季中超 第28轮 河南俱乐部酒祖杜康-浙江俱乐部绿城 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251025211500 +0800" stop="20251025213000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28043,6 +28046,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251025193000 +0800" stop="20251025211000 +0800">
 		<title lang="zh">2025NBL联赛 常规赛第19轮 香港金牛-广西威壮</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251025211500 +0800" stop="20251025221500 +0800">
+		<title lang="zh">超级三对三-2025超三联赛</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -44360,6 +44366,9 @@
 	</programme>
 	<programme channel="明星大片" start="20251025202300 +0800" stop="20251025210900 +0800">
 		<title lang="zh">29_绽放的许开心</title>
+	</programme>
+	<programme channel="明星大片" start="20251025210900 +0800" stop="20251025213900 +0800">
+		<title lang="zh">《A咖秀》推荐第10期</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -68802,6 +68811,9 @@
 	<programme channel="纯享4K" start="20251025205900 +0800" stop="20251025210500 +0800">
 		<title lang="zh">美丽中国自然4K 克什克腾的春系列 春到克什克腾</title>
 	</programme>
+	<programme channel="纯享4K" start="20251025211000 +0800" stop="20251025215900 +0800">
+		<title lang="zh">曹雪芹与红楼梦4K 第6集 清砧怨笛送黄昏</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -86400,6 +86412,9 @@
 	<programme channel="newtv超级综艺" start="20251025193000 +0800" stop="20251025210900 +0800">
 		<title lang="zh">味你而来</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251025210900 +0800" stop="20251025220900 +0800">
+		<title lang="zh">选对健康</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -86970,6 +86985,9 @@
 	<programme channel="newtv军旅剧场" start="20251025204500 +0800" stop="20251025211500 +0800">
 		<title lang="zh">《A咖秀》推荐第10期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251025211500 +0800" stop="20251025220000 +0800">
+		<title lang="zh">刀光枪影第30集</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -87152,6 +87170,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251025203000 +0800" stop="20251025211500 +0800">
 		<title lang="zh">18_我的后半生</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251025211500 +0800" stop="20251025214500 +0800">
+		<title lang="zh">《A咖秀》推荐第10期</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -87645,6 +87666,9 @@
 	<programme channel="newtv军事评论" start="20251025205400 +0800" stop="20251025211600 +0800">
 		<title lang="zh">伟大的胜利 抗美援朝启示录 第四集 力量（下）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251025211600 +0800" stop="20251025213800 +0800">
+		<title lang="zh">伟大的胜利 抗美援朝启示录 第五集 血性（上）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -87824,6 +87848,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251025202300 +0800" stop="20251025210900 +0800">
 		<title lang="zh">29_绽放的许开心</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251025210900 +0800" stop="20251025213900 +0800">
+		<title lang="zh">《A咖秀》推荐第10期</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -88109,6 +88136,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251025201900 +0800" stop="20251025210500 +0800">
 		<title lang="zh">30_天龙八部</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251025210500 +0800" stop="20251025213500 +0800">
+		<title lang="zh">《A咖秀》推荐第10期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
