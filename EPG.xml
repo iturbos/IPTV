@@ -27900,6 +27900,9 @@
 	<programme channel="咪咕足球" start="20251026140500 +0800" stop="20251026141500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251026141500 +0800" stop="20251026154500 +0800">
+		<title lang="zh">2025国际篮联男篮亚洲杯 小组赛 中国男篮-约旦男篮</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
