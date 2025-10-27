@@ -82424,6 +82424,9 @@
 	<programme channel="newtv精品纪录" start="20251027224000 +0800" stop="20251027231000 +0800">
 		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251027231000 +0800" stop="20251027234800 +0800">
+		<title lang="zh">第6集：谎言还能说多久</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
