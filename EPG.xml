@@ -26333,6 +26333,9 @@
 	<programme channel="咪咕足球" start="20251027145000 +0800" stop="20251027145500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251027151500 +0800" stop="20251027165000 +0800">
+		<title lang="zh">2025全运会男篮资格赛 B组第1轮 天津-江苏</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -82112,6 +82115,9 @@
 	<programme channel="newtv超级电视剧" start="20251027142600 +0800" stop="20251027151200 +0800">
 		<title lang="zh">02_庆余年</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251027151200 +0800" stop="20251027155800 +0800">
+		<title lang="zh">03_庆余年</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -82378,6 +82384,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251027142400 +0800" stop="20251027150900 +0800">
 		<title lang="zh">12_功勋</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251027150900 +0800" stop="20251027153900 +0800">
+		<title lang="zh">武夷山康养</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -82759,6 +82768,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251027141900 +0800" stop="20251027150400 +0800">
 		<title lang="zh">64_扶摇</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251027150400 +0800" stop="20251027153900 +0800">
+		<title lang="zh">CRESIOENM钛健康餐具套组-渠道（右）</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -83218,6 +83230,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251027142300 +0800" stop="20251027150900 +0800">
 		<title lang="zh">37_长歌行</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251027150900 +0800" stop="20251027153800 +0800">
+		<title lang="zh">武夷山康养</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
