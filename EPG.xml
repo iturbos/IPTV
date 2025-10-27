@@ -26261,6 +26261,9 @@
 	<programme channel="咪咕综合体育" start="20251027130000 +0800" stop="20251027130500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251027130500 +0800" stop="20251027135000 +0800">
+		<title lang="zh">国球荣耀-2025WTT澳门冠军赛 女单半决赛 孙颖莎-蒯曼</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -42562,6 +42565,9 @@
 	</programme>
 	<programme channel="明星大片" start="20251027123400 +0800" stop="20251027131400 +0800">
 		<title lang="zh">营养健康20新</title>
+	</programme>
+	<programme channel="明星大片" start="20251027131400 +0800" stop="20251027132900 +0800">
+		<title lang="zh">40_喜羊羊与灰太狼之深海历险记</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -81947,6 +81953,9 @@
 	<programme channel="newtv超级体育" start="20251027120000 +0800" stop="20251027130500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251027130500 +0800" stop="20251027132800 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -82205,6 +82214,9 @@
 	<programme channel="newtv古装剧场" start="20251027121800 +0800" stop="20251027130400 +0800">
 		<title lang="zh">20_独孤天下</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251027130400 +0800" stop="20251027134400 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -82264,6 +82276,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251027122000 +0800" stop="20251027130400 +0800">
 		<title lang="zh">10_功勋</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251027130400 +0800" stop="20251027134900 +0800">
+		<title lang="zh">11_功勋</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -82700,6 +82715,9 @@
 	<programme channel="newtv军事评论" start="20251027124500 +0800" stop="20251027131100 +0800">
 		<title lang="zh">战地飘香</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251027131100 +0800" stop="20251027133800 +0800">
+		<title lang="zh">保障有术</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -82804,6 +82822,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251027123400 +0800" stop="20251027131400 +0800">
 		<title lang="zh">营养健康20新</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251027131400 +0800" stop="20251027132900 +0800">
+		<title lang="zh">40_喜羊羊与灰太狼之深海历险记</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
