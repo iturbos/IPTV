@@ -59975,6 +59975,9 @@
 	<programme channel="爱情喜剧" start="20251027175800 +0800" stop="20251027184400 +0800">
 		<title lang="zh">23_亲爱的，你在哪里</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20251027184400 +0800" stop="20251027190400 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -65932,6 +65935,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20251027180300 +0800" stop="20251027184300 +0800">
 		<title lang="zh">探索b7发现4K 揭秘史前“玉都”（上）</title>
+	</programme>
+	<programme channel="纯享4K" start="20251027184300 +0800" stop="20251027192800 +0800">
+		<title lang="zh">传承b7智慧篇4K 第5集 美学之码</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -81026,6 +81032,9 @@
 	<programme channel="黑莓动画" start="20251027160400 +0800" stop="20251027184000 +0800">
 		<title lang="zh">06_小马换礁石</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251027184000 +0800" stop="20251027200300 +0800">
+		<title lang="zh">01_小可爱娜斯佳第11季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82205,6 +82214,9 @@
 	<programme channel="newtv精品纪录" start="20251027175500 +0800" stop="20251027184000 +0800">
 		<title lang="zh">康企红蓝光治疗仪劲爆组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251027184000 +0800" stop="20251027191000 +0800">
+		<title lang="zh">陵之永固</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82610,6 +82622,9 @@
 	<programme channel="newtv爱情喜剧" start="20251027175800 +0800" stop="20251027184400 +0800">
 		<title lang="zh">23_亲爱的，你在哪里</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251027184400 +0800" stop="20251027190400 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -82660,6 +82675,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251027165300 +0800" stop="20251027183900 +0800">
 		<title lang="zh">警察故事2013</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251027183900 +0800" stop="20251027192400 +0800">
+		<title lang="zh">康企红蓝光治疗仪劲爆组-渠道（右）</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -82952,6 +82970,9 @@
 	<programme channel="newtv军事评论" start="20251027180500 +0800" stop="20251027183100 +0800">
 		<title lang="zh">水下攻防新科技 无人潜航器</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251027183100 +0800" stop="20251027185800 +0800">
+		<title lang="zh">透过054B观全球现役护卫舰发展</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -83035,6 +83056,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251027174600 +0800" stop="20251027184200 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251027184200 +0800" stop="20251027194200 +0800">
+		<title lang="zh">憨厚男人独有的爱</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
