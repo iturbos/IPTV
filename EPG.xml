@@ -60921,6 +60921,9 @@
 	<programme channel="newtv军旅剧场" start="20251028134900 +0800" stop="20251028143400 +0800">
 		<title lang="zh">15_功勋</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251028143400 +0800" stop="20251028151900 +0800">
+		<title lang="zh">16_功勋</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -61151,6 +61154,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251028140900 +0800" stop="20251028143900 +0800">
 		<title lang="zh">宝岛台湾高粱酒</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251028143900 +0800" stop="20251028155900 +0800">
+		<title lang="zh">踏破浮屠</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -61478,6 +61484,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251028141800 +0800" stop="20251028144000 +0800">
 		<title lang="zh">健身舞—弥渡山歌（20210505）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251028144000 +0800" stop="20251028150900 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
