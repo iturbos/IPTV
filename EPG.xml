@@ -16686,6 +16686,9 @@
 	<programme channel="咪咕综合体育" start="20251029022500 +0800" stop="20251029023500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251029023500 +0800" stop="20251029030000 +0800">
+		<title lang="zh">中超精华 第28轮</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16694,6 +16697,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251029010500 +0800" stop="20251029024500 +0800">
 		<title lang="zh">2025NBL联赛 常规赛第10轮 广西威壮-湖北文旅</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251029025000 +0800" stop="20251029041000 +0800">
+		<title lang="zh">村BA</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -52038,6 +52044,9 @@
 	<programme channel="newtv超级体育" start="20251029010500 +0800" stop="20251029023600 +0800">
 		<title lang="zh">实况录像-2025年世界羽毛球锦标赛 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251029023600 +0800" stop="20251029040000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 4</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52101,6 +52110,9 @@
 	<programme channel="newtv精品纪录" start="20251029022300 +0800" stop="20251029024400 +0800">
 		<title lang="zh">第9集：养育危机</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251029024400 +0800" stop="20251029030800 +0800">
+		<title lang="zh">第10集：回家回家</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -52128,6 +52140,9 @@
 	<programme channel="newtv军旅剧场" start="20251029015200 +0800" stop="20251029023600 +0800">
 		<title lang="zh">13_狐影</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251029023600 +0800" stop="20251029031900 +0800">
+		<title lang="zh">14_狐影</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -52139,6 +52154,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251029020000 +0800" stop="20251029024300 +0800">
 		<title lang="zh">08_欢乐颂2</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251029024300 +0800" stop="20251029032600 +0800">
+		<title lang="zh">09_欢乐颂2</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -52217,6 +52235,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251029015000 +0800" stop="20251029024300 +0800">
 		<title lang="zh">韩诚定：海岛缉毒先锋</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251029024300 +0800" stop="20251029033700 +0800">
+		<title lang="zh">徐文涛：一馆岁月守初心</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
