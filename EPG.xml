@@ -60411,6 +60411,9 @@
 	<programme channel="newtv超级综艺" start="20251029215700 +0800" stop="20251029231200 +0800">
 		<title lang="zh">中国唱将</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251029231200 +0800" stop="20251029235700 +0800">
+		<title lang="zh">05_乔家的儿女</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60726,6 +60729,9 @@
 	<programme channel="newtv精品大剧" start="20251029223300 +0800" stop="20251029230300 +0800">
 		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251029230300 +0800" stop="20251029234900 +0800">
+		<title lang="zh">25_独孤天下</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -60854,6 +60860,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251029224100 +0800" stop="20251029231100 +0800">
 		<title lang="zh">《八段锦》推荐第41期</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251029231100 +0800" stop="20251029002700 +0800">
+		<title lang="zh">02_缺</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -61166,6 +61175,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251029222500 +0800" stop="20251029230600 +0800">
 		<title lang="zh">18_索玛花开</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251029230600 +0800" stop="20251029234800 +0800">
+		<title lang="zh">19_索玛花开</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -61913,6 +61925,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251029225900 +0800" stop="20251029230600 +0800">
 		<title lang="zh">饶子龙带来健身舞《梦醉荷塘》</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251029230600 +0800" stop="20251029002300 +0800">
+		<title lang="zh">热爱诗词的国风博主玩飞花令挑战全场 即使是“撒贝宁”也难不倒她！（20250303）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
