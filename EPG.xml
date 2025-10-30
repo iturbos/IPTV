@@ -18381,6 +18381,9 @@
 	<programme channel="咪咕综合体育" start="20251030120000 +0800" stop="20251030120500 +0800">
 		<title lang="zh">睛彩AI速报</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251030120500 +0800" stop="20251030123000 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第六期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -49101,6 +49104,9 @@
 	<programme channel="纯享4K" start="20251030112400 +0800" stop="20251030120500 +0800">
 		<title lang="zh">远方的家4K 大运河 千里运河到通州</title>
 	</programme>
+	<programme channel="纯享4K" start="20251030120500 +0800" stop="20251030124600 +0800">
+		<title lang="zh">远方的家4K 大运河 运河与通州：起舞副中心</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60609,6 +60615,9 @@
 	<programme channel="黑莓动画" start="20251030093800 +0800" stop="20251030120800 +0800">
 		<title lang="zh">01_喜羊羊与灰太狼之羊羊小侦探</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251030120800 +0800" stop="20251030143900 +0800">
+		<title lang="zh">01_猪猪侠之光明守卫者（上部）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -61182,6 +61191,9 @@
 	<programme channel="newtv精品纪录" start="20251030112100 +0800" stop="20251030120900 +0800">
 		<title lang="zh">第4集：杂碎逆袭史</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251030120900 +0800" stop="20251030124900 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -61449,6 +61461,9 @@
 	<programme channel="newtv爱情喜剧" start="20251030112400 +0800" stop="20251030114400 +0800">
 		<title lang="zh">营养健康20新</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251030120400 +0800" stop="20251030125300 +0800">
+		<title lang="zh">45_锦心似玉</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -61557,6 +61572,9 @@
 	<programme channel="newtv怡伴健康" start="20251030113700 +0800" stop="20251030120600 +0800">
 		<title lang="zh">武夷山康养</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251030120600 +0800" stop="20251030121700 +0800">
+		<title lang="zh">相声《姥说》高晓攀、尤宪超</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -61610,6 +61628,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251030113200 +0800" stop="20251030121200 +0800">
 		<title lang="zh">营养健康20新</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251030121200 +0800" stop="20251030125800 +0800">
+		<title lang="zh">09_女特警</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -61700,6 +61721,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251030114200 +0800" stop="20251030120900 +0800">
 		<title lang="zh">红场铁流</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251030120900 +0800" stop="20251030123600 +0800">
+		<title lang="zh">云端砺剑</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
