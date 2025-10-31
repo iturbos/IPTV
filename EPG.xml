@@ -28573,6 +28573,9 @@
 	<programme channel="咪咕足球" start="20251031145500 +0800" stop="20251031151000 +0800">
 		<title lang="zh">巨星面对面对话林书豪</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251031151000 +0800" stop="20251031152000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -85681,6 +85684,9 @@
 	<programme channel="黑莓动画" start="20251031130600 +0800" stop="20251031150600 +0800">
 		<title lang="zh">13_猪猪侠之光明守卫者（上部）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251031150600 +0800" stop="20251031155600 +0800">
+		<title lang="zh">11_网</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -87115,6 +87121,9 @@
 	<programme channel="newtv家庭剧场" start="20251031142200 +0800" stop="20251031150900 +0800">
 		<title lang="zh">13_嫣语赋</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251031150900 +0800" stop="20251031153900 +0800">
+		<title lang="zh">宝岛台湾高粱酒</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -87177,6 +87186,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251031142200 +0800" stop="20251031150200 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251031150200 +0800" stop="20251031154500 +0800">
+		<title lang="zh">11_前夜</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -87423,6 +87435,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251031142300 +0800" stop="20251031150300 +0800">
 		<title lang="zh">营养健康20新</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251031150300 +0800" stop="20251031172400 +0800">
+		<title lang="zh">第8期下：泪目！广智小四爷完成交接</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
