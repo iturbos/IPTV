@@ -28492,6 +28492,9 @@
 	<programme channel="咪咕综合体育" start="20251031130500 +0800" stop="20251031141000 +0800">
 		<title lang="zh">国球荣耀-2025WTT欧洲大满贯瑞典站 女单决赛 孙颖莎-王曼昱</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251031141000 +0800" stop="20251031152000 +0800">
+		<title lang="zh">国球荣耀-2025WTT欧洲大满贯瑞典站 男单决赛 林诗栋-莫雷加德</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28560,6 +28563,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251031140500 +0800" stop="20251031141500 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251031141500 +0800" stop="20251031145000 +0800">
+		<title lang="zh">西班牙篮球黄金一代05 接班人们</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -41652,6 +41658,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20251031133600 +0800" stop="20251031141600 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20251031141600 +0800" stop="20251031153900 +0800">
+		<title lang="zh">变异危机</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -74221,6 +74230,9 @@
 	<programme channel="超级电影" start="20251031130800 +0800" stop="20251031143000 +0800">
 		<title lang="zh">电影《加油二师兄》</title>
 	</programme>
+	<programme channel="超级电影" start="20251031143000 +0800" stop="20251031160200 +0800">
+		<title lang="zh">电影《绝世古镇之九宫八卦门》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -86593,6 +86605,9 @@
 	<programme channel="newtv超级综艺" start="20251031132700 +0800" stop="20251031143300 +0800">
 		<title lang="zh">向幸福出发</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251031143300 +0800" stop="20251031155000 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -86664,6 +86679,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20251031130800 +0800" stop="20251031143000 +0800">
 		<title lang="zh">电影《加油二师兄》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20251031143000 +0800" stop="20251031160200 +0800">
+		<title lang="zh">电影《绝世古镇之九宫八卦门》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -86784,6 +86802,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251031132700 +0800" stop="20251031140700 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251031140700 +0800" stop="20251031144900 +0800">
+		<title lang="zh">31_热血青春</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -86917,6 +86938,9 @@
 	<programme channel="newtv古装剧场" start="20251031133300 +0800" stop="20251031140300 +0800">
 		<title lang="zh">武夷山康养</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251031140300 +0800" stop="20251031144800 +0800">
+		<title lang="zh">34_独孤天下</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -86979,6 +87003,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251031132700 +0800" stop="20251031140200 +0800">
 		<title lang="zh">CRESIOENM钛健康餐具套组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251031140200 +0800" stop="20251031144700 +0800">
+		<title lang="zh">26_功勋</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -87199,6 +87226,9 @@
 	<programme channel="newtv动作电影" start="20251031123000 +0800" stop="20251031140200 +0800">
 		<title lang="zh">独立日大电影</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20251031140200 +0800" stop="20251031143200 +0800">
+		<title lang="zh">宝岛台湾高粱酒</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -87418,6 +87448,9 @@
 	<programme channel="newtv军事评论" start="20251031131100 +0800" stop="20251031140400 +0800">
 		<title lang="zh">罗金芳：排爆是用生命守护生命</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251031140400 +0800" stop="20251031145800 +0800">
+		<title lang="zh">功臣夫妻：一起发光的人生伴侣</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -87570,6 +87603,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251031133600 +0800" stop="20251031141600 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251031141600 +0800" stop="20251031153900 +0800">
+		<title lang="zh">变异危机</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -87735,6 +87771,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251031133400 +0800" stop="20251031140400 +0800">
 		<title lang="zh">宝岛台湾高粱酒</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251031140400 +0800" stop="20251031144900 +0800">
+		<title lang="zh">04_大武当</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
