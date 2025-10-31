@@ -41680,6 +41680,9 @@
 	<programme channel="惊悚悬疑" start="20251031153900 +0800" stop="20251031161400 +0800">
 		<title lang="zh">CRESIOENM钛健康餐具套组-渠道（右）</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20251031161400 +0800" stop="20251031173900 +0800">
+		<title lang="zh">猫妖奇谭</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -62983,6 +62986,9 @@
 	<programme channel="爱情喜剧" start="20251031153100 +0800" stop="20251031161100 +0800">
 		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20251031161100 +0800" stop="20251031180400 +0800">
+		<title lang="zh">麦克白</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -69189,6 +69195,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20251031152400 +0800" stop="20251031161200 +0800">
 		<title lang="zh">智造美好生活4K 第2集 医 健康</title>
+	</programme>
+	<programme channel="纯享4K" start="20251031161200 +0800" stop="20251031164000 +0800">
+		<title lang="zh">记住乡愁 第八季4K 小穿芳峪村——文化添香 满院芬芳</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -86887,6 +86896,9 @@
 	<programme channel="newtv精品大剧" start="20251031152400 +0800" stop="20251031160500 +0800">
 		<title lang="zh">32_热血青春</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251031160500 +0800" stop="20251031164700 +0800">
+		<title lang="zh">33_热血青春</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -86968,6 +86980,9 @@
 	<programme channel="newtv精品纪录" start="20251031154700 +0800" stop="20251031161400 +0800">
 		<title lang="zh">第2集 苏轼：拣尽寒枝</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251031161400 +0800" stop="20251031165900 +0800">
+		<title lang="zh">康企红蓝光治疗仪劲爆组-渠道（右）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -87040,6 +87055,9 @@
 	<programme channel="newtv古装剧场" start="20251031152800 +0800" stop="20251031161600 +0800">
 		<title lang="zh">37_锦心似玉</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251031161600 +0800" stop="20251031165600 +0800">
+		<title lang="zh">太空骨王骨胶原新版</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -87111,6 +87129,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251031152700 +0800" stop="20251031161300 +0800">
 		<title lang="zh">27_功勋</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251031161300 +0800" stop="20251031164200 +0800">
+		<title lang="zh">武夷山康养</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -87319,6 +87340,9 @@
 	<programme channel="newtv爱情喜剧" start="20251031153100 +0800" stop="20251031161100 +0800">
 		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251031161100 +0800" stop="20251031180400 +0800">
+		<title lang="zh">麦克白</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -87366,6 +87390,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251031154300 +0800" stop="20251031161200 +0800">
 		<title lang="zh">武夷山康养</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251031161200 +0800" stop="20251031172700 +0800">
+		<title lang="zh">维和冲锋：绝境求生</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -87441,6 +87468,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251031154200 +0800" stop="20251031161200 +0800">
 		<title lang="zh">武夷山康养</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251031161200 +0800" stop="20251031162900 +0800">
+		<title lang="zh">小品《借伞》 表演：闫佩伦 阎鹤祥 陈丽君 等</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -87676,6 +87706,9 @@
 	<programme channel="newtv炫舞未来" start="20251031155400 +0800" stop="20251031161500 +0800">
 		<title lang="zh">民族风健身舞《新疆我爱你》（20230912）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251031161500 +0800" stop="20251031165500 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -87783,6 +87816,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251031153900 +0800" stop="20251031161400 +0800">
 		<title lang="zh">CRESIOENM钛健康餐具套组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251031161400 +0800" stop="20251031173900 +0800">
+		<title lang="zh">猫妖奇谭</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
