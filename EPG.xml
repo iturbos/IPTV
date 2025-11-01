@@ -15774,6 +15774,9 @@
 	<programme channel="咪咕综合体育" start="20251102011500 +0800" stop="20251102033000 +0800">
 		<title lang="zh">英超赛场-25/26赛季英超 第10轮 托特纳姆热刺-切尔西 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251102033000 +0800" stop="20251102061500 +0800">
+		<title lang="zh">英超赛场-25/26赛季英超 第10轮 利物浦-阿斯顿维拉 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -38445,6 +38448,9 @@
 	<programme channel="纯享4K" start="20251102025100 +0800" stop="20251102033100 +0800">
 		<title lang="zh">荣宝斋4K 第4集 文会知音</title>
 	</programme>
+	<programme channel="纯享4K" start="20251102033100 +0800" stop="20251102035700 +0800">
+		<title lang="zh">好吃客4K 京城洋厨房</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -47919,6 +47925,9 @@
 	<programme channel="newtv精品大剧" start="20251102023800 +0800" stop="20251102032400 +0800">
 		<title lang="zh">10_父亲的草原母亲的河</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251102032400 +0800" stop="20251102040900 +0800">
+		<title lang="zh">11_父亲的草原母亲的河</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -47937,6 +47946,9 @@
 	<programme channel="newtv精品纪录" start="20251102025400 +0800" stop="20251102034300 +0800">
 		<title lang="zh">第三集：贵州</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251102034300 +0800" stop="20251102043300 +0800">
+		<title lang="zh">第四集：山东</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -47951,6 +47963,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251102023700 +0800" stop="20251102032400 +0800">
 		<title lang="zh">23_大秦帝国之纵横</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251102032400 +0800" stop="20251102041000 +0800">
+		<title lang="zh">24_大秦帝国之纵横</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -47969,6 +47984,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251102024000 +0800" stop="20251102032300 +0800">
 		<title lang="zh">29_狐影</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251102032300 +0800" stop="20251102040600 +0800">
+		<title lang="zh">30_狐影</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -48015,6 +48033,9 @@
 	<programme channel="newtv爱情喜剧" start="20251102025700 +0800" stop="20251102034200 +0800">
 		<title lang="zh">12_穆桂英挂帅</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251102034200 +0800" stop="20251102042700 +0800">
+		<title lang="zh">13_穆桂英挂帅</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -48048,6 +48069,9 @@
 	<programme channel="newtv怡伴健康" start="20251102025100 +0800" stop="20251102033900 +0800">
 		<title lang="zh">超级动物家庭（7）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251102033900 +0800" stop="20251102042700 +0800">
+		<title lang="zh">园丁与建筑师</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -48065,6 +48089,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251102025100 +0800" stop="20251102033700 +0800">
 		<title lang="zh">07_大奉打更人</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251102033700 +0800" stop="20251102042400 +0800">
+		<title lang="zh">08_大奉打更人</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -48093,6 +48120,9 @@
 	<programme channel="newtv军事评论" start="20251102025600 +0800" stop="20251102032100 +0800">
 		<title lang="zh">美军紧急召回全球数百名高层开会 特朗普或对乌提供远程武器？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251102032100 +0800" stop="20251102040500 +0800">
+		<title lang="zh">战歌嘹亮 第1集 救亡悲歌</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -48113,6 +48143,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251102030900 +0800" stop="20251102033400 +0800">
 		<title lang="zh">第2集 陆游：亘古男儿</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251102033400 +0800" stop="20251102035900 +0800">
+		<title lang="zh">探秘中国奇特美食：贵州独特的“酸”与“汤”（20240506）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
