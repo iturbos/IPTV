@@ -86461,6 +86461,9 @@
 	<programme channel="newtv金牌综艺" start="20251101154200 +0800" stop="20251101161200 +0800">
 		<title lang="zh">健康推荐</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20251101161200 +0800" stop="20251101175200 +0800">
+		<title lang="zh">一笑一周</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
