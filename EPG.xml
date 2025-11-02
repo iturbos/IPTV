@@ -85367,6 +85367,9 @@
 	<programme channel="newtv金牌综艺" start="20251102112900 +0800" stop="20251102131000 +0800">
 		<title lang="zh">令人心动的offer第4季</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20251102131000 +0800" stop="20251102134000 +0800">
+		<title lang="zh">宝岛台湾高粱酒</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
