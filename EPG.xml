@@ -26012,6 +26012,9 @@
 	<programme channel="咪咕综合体育" start="20251103160000 +0800" stop="20251103160500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251103160500 +0800" stop="20251103180500 +0800">
+		<title lang="zh">网球世界-2025WTA500斯图加特站 决赛 萨巴伦卡-奥斯塔彭科</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -59225,6 +59228,9 @@
 	<programme channel="爱情喜剧" start="20251103152900 +0800" stop="20251103160700 +0800">
 		<title lang="zh">21_御赐小仵作</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20251103160700 +0800" stop="20251103164700 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -81050,6 +81056,9 @@
 	<programme channel="newtv精品纪录" start="20251103151400 +0800" stop="20251103160300 +0800">
 		<title lang="zh">03_大道集成</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251103160300 +0800" stop="20251103163200 +0800">
+		<title lang="zh">武夷山康养</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -81413,6 +81422,9 @@
 	<programme channel="newtv爱情喜剧" start="20251103152900 +0800" stop="20251103160700 +0800">
 		<title lang="zh">21_御赐小仵作</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251103160700 +0800" stop="20251103164700 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -81547,6 +81559,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251103153800 +0800" stop="20251103161400 +0800">
 		<title lang="zh">“胖爸爸”老师</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251103161400 +0800" stop="20251103162800 +0800">
+		<title lang="zh">小品《风雪饺子情》 表演：贾冰 秦岚 张若昀 沙溢 吴磊</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -81811,6 +81826,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251103154700 +0800" stop="20251103160900 +0800">
 		<title lang="zh">民族风健身舞《新疆我爱你》（20230912）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251103160900 +0800" stop="20251103165800 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -82108,6 +82126,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251103152600 +0800" stop="20251103161100 +0800">
 		<title lang="zh">17_大武当</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251103161100 +0800" stop="20251103164000 +0800">
+		<title lang="zh">武夷山康养</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
