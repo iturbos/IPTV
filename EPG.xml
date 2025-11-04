@@ -62270,6 +62270,9 @@
 	<programme channel="爱情喜剧" start="20251104182200 +0800" stop="20251104190200 +0800">
 		<title lang="zh">营养健康20新</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20251104190200 +0800" stop="20251104194700 +0800">
+		<title lang="zh">22_三生三世枕上书</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -68302,6 +68305,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20251104185800 +0800" stop="20251104190300 +0800">
 		<title lang="zh">如果国宝会说话4K 昭陵六骏 奔腾的纪念碑</title>
+	</programme>
+	<programme channel="纯享4K" start="20251104190300 +0800" stop="20251104193200 +0800">
+		<title lang="zh">好吃客4K 乌镇</title>
 	</programme>
 	<channel id="绍兴新闻综合">
 		<display-name lang="zh">绍兴新闻综合</display-name>
@@ -84644,6 +84650,9 @@
 	<programme channel="黑莓电影" start="20251104172800 +0800" stop="20251104190900 +0800">
 		<title lang="zh">杜拉拉升职记</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251104190900 +0800" stop="20251104210400 +0800">
+		<title lang="zh">疯狂的外星人</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -85982,6 +85991,9 @@
 	<programme channel="newtv古装剧场" start="20251104182200 +0800" stop="20251104191100 +0800">
 		<title lang="zh">10_星汉灿烂</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251104191100 +0800" stop="20251104194100 +0800">
+		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -86068,6 +86080,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251104183400 +0800" stop="20251104191500 +0800">
 		<title lang="zh">37_利刃出击</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251104191500 +0800" stop="20251104194500 +0800">
+		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -86159,6 +86174,9 @@
 	<programme channel="newtv家庭剧场" start="20251104182200 +0800" stop="20251104190700 +0800">
 		<title lang="zh">19_绽放的许开心</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251104190700 +0800" stop="20251104193700 +0800">
+		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -86246,6 +86264,9 @@
 	<programme channel="newtv热播精选" start="20251104183100 +0800" stop="20251104190100 +0800">
 		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251104190100 +0800" stop="20251104195400 +0800">
+		<title lang="zh">15_亲爱的仇敌</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -86323,6 +86344,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251104182200 +0800" stop="20251104190200 +0800">
 		<title lang="zh">营养健康20新</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251104190200 +0800" stop="20251104194700 +0800">
+		<title lang="zh">22_三生三世枕上书</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -86692,6 +86716,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251104184500 +0800" stop="20251104191200 +0800">
 		<title lang="zh">历久弥坚的螺旋桨战机</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251104191200 +0800" stop="20251104193800 +0800">
+		<title lang="zh">航向大洋</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
