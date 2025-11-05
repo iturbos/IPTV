@@ -17277,6 +17277,9 @@
 	<programme channel="咪咕综合体育" start="20251105120000 +0800" stop="20251105120500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251105120500 +0800" stop="20251105123000 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第八期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17336,6 +17339,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251105115000 +0800" stop="20251105120500 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251105120500 +0800" stop="20251105123000 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第四期</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -55962,6 +55968,9 @@
 	<programme channel="newtv超级电影" start="20251105102500 +0800" stop="20251105121400 +0800">
 		<title lang="zh">特警云豹</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251105121400 +0800" stop="20251105122200 +0800">
+		<title lang="zh">音乐电影欣赏</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -56792,6 +56801,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251105104000 +0800" stop="20251105121400 +0800">
 		<title lang="zh">非遗里的中国第三季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251105121400 +0800" stop="20251105124400 +0800">
+		<title lang="zh">美丽人生</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
