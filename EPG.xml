@@ -60042,6 +60042,9 @@
 	<programme channel="newtv超级综艺" start="20251106213100 +0800" stop="20251106231600 +0800">
 		<title lang="zh">味你而来</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251106231600 +0800" stop="20251106000300 +0800">
+		<title lang="zh">01_值得爱</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60254,6 +60257,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251106223000 +0800" stop="20251106231600 +0800">
 		<title lang="zh">17_大秦帝国之裂变</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251106231600 +0800" stop="20251106000200 +0800">
+		<title lang="zh">18_大秦帝国之裂变</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60798,6 +60804,9 @@
 	<programme channel="newtv家庭剧场" start="20251106223300 +0800" stop="20251106230300 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251106230300 +0800" stop="20251106234900 +0800">
+		<title lang="zh">10_亲爱的你</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -60999,6 +61008,9 @@
 	<programme channel="newtv爱情喜剧" start="20251106223600 +0800" stop="20251106230600 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251106230600 +0800" stop="20251106003800 +0800">
+		<title lang="zh">少女哪吒</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -61067,6 +61079,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251106223900 +0800" stop="20251106230900 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251106230900 +0800" stop="20251106003400 +0800">
+		<title lang="zh">猎仇者</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -61548,6 +61563,9 @@
 	<programme channel="newtv炫舞未来" start="20251106225400 +0800" stop="20251106231500 +0800">
 		<title lang="zh">民族健身舞《纳林湖等你》（20240205）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251106231500 +0800" stop="20251106003200 +0800">
+		<title lang="zh">美声版《素颜》你听过吗？（20251020）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -61790,6 +61808,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251106225000 +0800" stop="20251106232000 +0800">
 		<title lang="zh">《八段锦》推荐第41期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251106232000 +0800" stop="20251106000900 +0800">
+		<title lang="zh">半熟恋人第4季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
