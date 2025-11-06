@@ -17877,6 +17877,9 @@
 	<programme channel="咪咕足球" start="20251106151000 +0800" stop="20251106151500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251106151500 +0800" stop="20251106152000 +0800">
+		<title lang="zh">睛彩AI速报</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -60105,6 +60108,9 @@
 	<programme channel="newtv精品大剧" start="20251106141300 +0800" stop="20251106150200 +0800">
 		<title lang="zh">14_爱的二八定律</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251106150200 +0800" stop="20251106154200 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -60243,6 +60249,9 @@
 	<programme channel="newtv古装剧场" start="20251106142500 +0800" stop="20251106151000 +0800">
 		<title lang="zh">54_独孤天下</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251106151000 +0800" stop="20251106155000 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -60318,6 +60327,9 @@
 	<programme channel="newtv军旅剧场" start="20251106143200 +0800" stop="20251106151600 +0800">
 		<title lang="zh">48_功勋</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251106151600 +0800" stop="20251106155600 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -60386,6 +60398,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251106142300 +0800" stop="20251106151000 +0800">
 		<title lang="zh">03_梦中的那片海</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251106151000 +0800" stop="20251106155000 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -60518,6 +60533,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251106150100 +0800" stop="20251106151100 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251106151100 +0800" stop="20251106163600 +0800">
+		<title lang="zh">骑手杰克</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -60717,6 +60735,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251106142700 +0800" stop="20251106150700 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251106150700 +0800" stop="20251106153700 +0800">
+		<title lang="zh">健康推荐</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -60815,6 +60836,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251106144600 +0800" stop="20251106150800 +0800">
 		<title lang="zh">俄乌冲突中的空中角力</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251106150800 +0800" stop="20251106153000 +0800">
+		<title lang="zh">俄乌导弹战再升级</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -60941,6 +60965,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251106142700 +0800" stop="20251106151400 +0800">
 		<title lang="zh">23_我的妈妈是天使</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251106151400 +0800" stop="20251106155400 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
