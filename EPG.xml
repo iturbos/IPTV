@@ -27830,6 +27830,9 @@
 	<programme channel="咪咕综合体育" start="20251107124500 +0800" stop="20251107130000 +0800">
 		<title lang="zh">睛彩圈圈点第十五期</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251107130500 +0800" stop="20251107144500 +0800">
+		<title lang="zh">辽宁铁人冲超回顾-2025中甲第5轮 辽宁铁人-深圳青年人</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -44089,6 +44092,9 @@
 	</programme>
 	<programme channel="明星大片" start="20251107124600 +0800" stop="20251107131600 +0800">
 		<title lang="zh">热道水龙头</title>
+	</programme>
+	<programme channel="明星大片" start="20251107131600 +0800" stop="20251107133100 +0800">
+		<title lang="zh">02_喜羊羊与灰太狼之羊羊小侦探</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -68114,6 +68120,9 @@
 	<programme channel="纯享4K" start="20251107125900 +0800" stop="20251107130400 +0800">
 		<title lang="zh">美丽中国自然4K 皖南系列 山水画廊</title>
 	</programme>
+	<programme channel="纯享4K" start="20251107130900 +0800" stop="20251107135900 +0800">
+		<title lang="zh">国家公园：野生动物王国4K 第一集 野性的天堂</title>
+	</programme>
 	<channel id="绍兴新闻综合">
 		<display-name lang="zh">绍兴新闻综合</display-name>
 	</channel>
@@ -84335,6 +84344,9 @@
 	<programme channel="黑莓动画" start="20251107104100 +0800" stop="20251107131000 +0800">
 		<title lang="zh">41_喜羊羊与灰太狼之羊羊小侦探</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251107131000 +0800" stop="20251107154100 +0800">
+		<title lang="zh">11_猪猪侠之光明守卫者（下部）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -85301,6 +85313,9 @@
 	<programme channel="newtv超级体育" start="20251107120000 +0800" stop="20251107130000 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251107130000 +0800" stop="20251107173000 +0800">
+		<title lang="zh">第十五届全国运动会拳击-女子1/4决赛等</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -85441,6 +85456,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251107122400 +0800" stop="20251107131100 +0800">
 		<title lang="zh">32_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251107131100 +0800" stop="20251107134100 +0800">
+		<title lang="zh">健康推荐</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -85622,6 +85640,9 @@
 	<programme channel="newtv军旅剧场" start="20251107123100 +0800" stop="20251107131600 +0800">
 		<title lang="zh">01_赎仇</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251107131600 +0800" stop="20251107134600 +0800">
+		<title lang="zh">健康推荐</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -85681,6 +85702,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251107122600 +0800" stop="20251107131200 +0800">
 		<title lang="zh">06_梦中的那片海</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251107131200 +0800" stop="20251107134200 +0800">
+		<title lang="zh">健康推荐</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -86039,6 +86063,9 @@
 	<programme channel="newtv军事评论" start="20251107120900 +0800" stop="20251107130300 +0800">
 		<title lang="zh">董永山：硬核“兵王”的滚烫人生</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251107130300 +0800" stop="20251107135500 +0800">
+		<title lang="zh">王建华：从炊事员到金牌大厨</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -86143,6 +86170,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251107124600 +0800" stop="20251107131600 +0800">
 		<title lang="zh">热道水龙头</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251107131600 +0800" stop="20251107133100 +0800">
+		<title lang="zh">02_喜羊羊与灰太狼之羊羊小侦探</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
