@@ -68183,6 +68183,9 @@
 	<programme channel="纯享4K" start="20251107154300 +0800" stop="20251107160700 +0800">
 		<title lang="zh">了不起的冬天4K 第3集 捏一把汗的飞行</title>
 	</programme>
+	<programme channel="纯享4K" start="20251107160700 +0800" stop="20251107163500 +0800">
+		<title lang="zh">记住乡愁4K第九季 西霞口——踏浪归来霞满天</title>
+	</programme>
 	<channel id="绍兴新闻综合">
 		<display-name lang="zh">绍兴新闻综合</display-name>
 	</channel>
@@ -85367,6 +85370,9 @@
 	<programme channel="newtv超级综艺" start="20251107143700 +0800" stop="20251107160700 +0800">
 		<title lang="zh">“味”你而来</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251107160700 +0800" stop="20251107175600 +0800">
+		<title lang="zh">乐在旅途 第三季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -86063,6 +86069,9 @@
 	<programme channel="newtv动作电影" start="20251107153400 +0800" stop="20251107161400 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20251107161400 +0800" stop="20251107174500 +0800">
+		<title lang="zh">六扇门之绝战</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -86312,6 +86321,9 @@
 	<programme channel="newtv军事评论" start="20251107153700 +0800" stop="20251107160200 +0800">
 		<title lang="zh">武警队员巅峰对决</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251107160200 +0800" stop="20251107162900 +0800">
+		<title lang="zh">甲午沉舰的新发现</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -86383,6 +86395,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251107155200 +0800" stop="20251107161300 +0800">
 		<title lang="zh">髋关节灵活性训练（20250923）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251107161500 +0800" stop="20251107170400 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
