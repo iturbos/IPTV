@@ -27980,6 +27980,9 @@
 	<programme channel="咪咕足球" start="20251107220000 +0800" stop="20251107221500 +0800">
 		<title lang="zh">廿年一梦广厦夺冠全纪实03</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251107221500 +0800" stop="20251107222000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -40687,6 +40690,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20251107214100 +0800" stop="20251107221100 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20251107221100 +0800" stop="20251107233500 +0800">
+		<title lang="zh">变异危机</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -85901,6 +85907,9 @@
 	<programme channel="newtv精品纪录" start="20251107214200 +0800" stop="20251107220100 +0800">
 		<title lang="zh">第6集：噩梦惊醒15年</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251107220100 +0800" stop="20251107221700 +0800">
+		<title lang="zh">第7集：一岁男童死亡之谜</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -86302,6 +86311,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251107212100 +0800" stop="20251107220700 +0800">
 		<title lang="zh">04_女特警</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251107220700 +0800" stop="20251107223700 +0800">
+		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -86804,6 +86816,9 @@
 	<programme channel="newtv军事评论" start="20251107214600 +0800" stop="20251107220800 +0800">
 		<title lang="zh">天山赞歌</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251107220800 +0800" stop="20251107223000 +0800">
+		<title lang="zh">弹射向深蓝</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -87055,6 +87070,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251107214100 +0800" stop="20251107221100 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251107221100 +0800" stop="20251107233500 +0800">
+		<title lang="zh">变异危机</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
