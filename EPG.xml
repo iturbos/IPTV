@@ -59289,6 +59289,9 @@
 	<programme channel="newtv超级电影" start="20251108102700 +0800" stop="20251108121600 +0800">
 		<title lang="zh">1/2的魔法</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251108121600 +0800" stop="20251108122400 +0800">
+		<title lang="zh">音乐电影欣赏</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -59667,6 +59670,9 @@
 	<programme channel="newtv热播精选" start="20251108112800 +0800" stop="20251108120800 +0800">
 		<title lang="zh">营养健康40</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251108120800 +0800" stop="20251108133700 +0800">
+		<title lang="zh">无法证明</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -59709,6 +59715,9 @@
 	<programme channel="newtv爱情喜剧" start="20251108112000 +0800" stop="20251108120600 +0800">
 		<title lang="zh">07_值得爱</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251108120600 +0800" stop="20251108124600 +0800">
+		<title lang="zh">营养健康40</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -59744,6 +59753,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251108103200 +0800" stop="20251108121100 +0800">
 		<title lang="zh">女兵突击</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251108121100 +0800" stop="20251108125100 +0800">
+		<title lang="zh">营养健康40</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -59955,6 +59967,9 @@
 	<programme channel="newtv军事评论" start="20251108114300 +0800" stop="20251108120500 +0800">
 		<title lang="zh">舰载雄鹰</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251108120500 +0800" stop="20251108122700 +0800">
+		<title lang="zh">空天猎手</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -60128,6 +60143,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251108113700 +0800" stop="20251108121700 +0800">
 		<title lang="zh">营养健康40</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251108121700 +0800" stop="20251108132900 +0800">
+		<title lang="zh">令人心动的offer第4季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
