@@ -17574,6 +17574,9 @@
 	<programme channel="咪咕综合体育" start="20251108155500 +0800" stop="20251108162000 +0800">
 		<title lang="zh">欧陆足球版图-英超特辑</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251108162000 +0800" stop="20251108162500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -47490,6 +47493,9 @@
 	<programme channel="纯享4K" start="20251108154600 +0800" stop="20251108161000 +0800">
 		<title lang="zh">了不起的冬天4K 第4集 有“范儿”</title>
 	</programme>
+	<programme channel="纯享4K" start="20251108161000 +0800" stop="20251108163800 +0800">
+		<title lang="zh">记住乡愁4K第九季 紫鹊界——山高水长在 稻花满村香</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -59508,6 +59514,9 @@
 	<programme channel="newtv精品大剧" start="20251108151600 +0800" stop="20251108160400 +0800">
 		<title lang="zh">21_爱的二八定律</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251108160400 +0800" stop="20251108163400 +0800">
+		<title lang="zh">健康推荐</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -59579,6 +59588,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251108152600 +0800" stop="20251108161500 +0800">
 		<title lang="zh">06_洞天</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251108161500 +0800" stop="20251108163500 +0800">
+		<title lang="zh">健康推荐</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -59720,6 +59732,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251108151900 +0800" stop="20251108160400 +0800">
 		<title lang="zh">05_赎仇</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251108160400 +0800" stop="20251108163400 +0800">
+		<title lang="zh">健康推荐</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -59922,6 +59937,9 @@
 	<programme channel="newtv爱情喜剧" start="20251108152800 +0800" stop="20251108161400 +0800">
 		<title lang="zh">10_值得爱</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251108161400 +0800" stop="20251108164400 +0800">
+		<title lang="zh">健康推荐</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -59969,6 +59987,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251108144100 +0800" stop="20251108160700 +0800">
 		<title lang="zh">狙击者</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251108160700 +0800" stop="20251108163600 +0800">
+		<title lang="zh">健康推荐</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -60047,6 +60068,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251108153700 +0800" stop="20251108161300 +0800">
 		<title lang="zh">最后一公里的爱——非常全家福（上）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251108161300 +0800" stop="20251108165200 +0800">
+		<title lang="zh">数说阿尔茨海默病</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -60242,6 +60266,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251108154400 +0800" stop="20251108160500 +0800">
 		<title lang="zh">东线狙击英雄传（3）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251108160500 +0800" stop="20251108162700 +0800">
+		<title lang="zh">东线狙击英雄传（4）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
