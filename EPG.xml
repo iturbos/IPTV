@@ -59433,6 +59433,9 @@
 	<programme channel="黑莓电影" start="20251109101700 +0800" stop="20251109121200 +0800">
 		<title lang="zh">战栗的乐谱</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251109121200 +0800" stop="20251109133400 +0800">
+		<title lang="zh">猫王与尼克松</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -59772,6 +59775,9 @@
 	<programme channel="newtv超级综艺" start="20251109111200 +0800" stop="20251109121800 +0800">
 		<title lang="zh">中国唱将</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251109121800 +0800" stop="20251109135300 +0800">
+		<title lang="zh">非遗里的中国第三季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59934,6 +59940,9 @@
 	<programme channel="newtv精品大剧" start="20251109111900 +0800" stop="20251109120500 +0800">
 		<title lang="zh">01_三十而已</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251109120500 +0800" stop="20251109124500 +0800">
+		<title lang="zh">营养健康40</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -60041,6 +60050,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251109112100 +0800" stop="20251109120600 +0800">
 		<title lang="zh">07_穆桂英挂帅</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251109120600 +0800" stop="20251109124600 +0800">
+		<title lang="zh">营养健康40</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -60288,6 +60300,9 @@
 	<programme channel="newtv动作电影" start="20251109104100 +0800" stop="20251109121300 +0800">
 		<title lang="zh">血战残阳</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20251109121300 +0800" stop="20251109125300 +0800">
+		<title lang="zh">营养健康40</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -60402,6 +60417,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251109112700 +0800" stop="20251109121300 +0800">
 		<title lang="zh">24_加油！妈妈</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251109121300 +0800" stop="20251109125300 +0800">
+		<title lang="zh">营养健康40</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -60476,6 +60494,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251109114400 +0800" stop="20251109121000 +0800">
 		<title lang="zh">壮志搏苍穹</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251109121000 +0800" stop="20251109123600 +0800">
+		<title lang="zh">奋飞向未来</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -60614,6 +60635,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251109113500 +0800" stop="20251109121500 +0800">
 		<title lang="zh">营养健康40</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251109121500 +0800" stop="20251109135100 +0800">
+		<title lang="zh">果戈里b7恶灵</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -60761,6 +60785,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251109112800 +0800" stop="20251109120800 +0800">
 		<title lang="zh">营养健康40</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251109120800 +0800" stop="20251109133600 +0800">
+		<title lang="zh">猛虎嗅蔷薇之龙凤大盗</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
