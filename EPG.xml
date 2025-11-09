@@ -60045,6 +60045,9 @@
 	<programme channel="newtv超级体育" start="20251109220000 +0800" stop="20251109230500 +0800">
 		<title lang="zh">2024/2025赛季斯诺克国际锦标赛-决赛 第二阶段</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251109230500 +0800" stop="20251109013000 +0800">
+		<title lang="zh">2025/2026西班牙足球甲级联赛-第12轮(巴列卡诺-皇家马德里)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -60291,6 +60294,9 @@
 	<programme channel="newtv精品大剧" start="20251109223600 +0800" stop="20251109230600 +0800">
 		<title lang="zh">《超级美味》推荐第16期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251109230600 +0800" stop="20251109235300 +0800">
+		<title lang="zh">01_安家</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -60492,6 +60498,9 @@
 	<programme channel="newtv古装剧场" start="20251109223500 +0800" stop="20251109230500 +0800">
 		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251109230500 +0800" stop="20251109235000 +0800">
+		<title lang="zh">25_国子监来了个女弟子</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -60593,6 +60602,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251109223400 +0800" stop="20251109230400 +0800">
 		<title lang="zh">《超级美味》推荐第16期</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251109230400 +0800" stop="20251109235600 +0800">
+		<title lang="zh">37_台湾往事</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -60792,6 +60804,9 @@
 	<programme channel="newtv热播精选" start="20251109223200 +0800" stop="20251109230200 +0800">
 		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251109230200 +0800" stop="20251109005000 +0800">
+		<title lang="zh">令人心动的offer第6季</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -60887,6 +60902,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251109223600 +0800" stop="20251109230600 +0800">
 		<title lang="zh">《八段锦》推荐第41期</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251109230600 +0800" stop="20251109235100 +0800">
+		<title lang="zh">50_三生三世枕上书</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -61580,6 +61598,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251109220100 +0800" stop="20251109231600 +0800">
 		<title lang="zh">怪谈五命河</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251109231600 +0800" stop="20251109234600 +0800">
+		<title lang="zh">健康推荐</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
