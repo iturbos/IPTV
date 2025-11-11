@@ -41466,6 +41466,9 @@
 	<programme channel="纯享4K" start="20251112000700 +0800" stop="20251112003500 +0800">
 		<title lang="zh">记住乡愁4K第九季 岚山头——黄海之畔 向海而兴</title>
 	</programme>
+	<programme channel="纯享4K" start="20251112003500 +0800" stop="20251112010300 +0800">
+		<title lang="zh">记住乡愁4K第九季 富平——岁岁年年柿柿红</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52065,6 +52068,9 @@
 	<programme channel="newtv精品大剧" start="20251112000400 +0800" stop="20251112003400 +0800">
 		<title lang="zh">健康推荐</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251112003400 +0800" stop="20251112012000 +0800">
+		<title lang="zh">13_值得爱</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -52086,47 +52092,17 @@
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
-	<programme channel="newtv家庭剧场" start="20251112000000 +0800" stop="20251112020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv家庭剧场" start="20251112020000 +0800" stop="20251112040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv家庭剧场" start="20251112060000 +0800" stop="20251112080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv家庭剧场" start="20251112080000 +0800" stop="20251112100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv家庭剧场" start="20251112100600 +0800" stop="20251112120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv家庭剧场" start="20251112120000 +0800" stop="20251112140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv家庭剧场" start="20251112140000 +0800" stop="20251112160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv家庭剧场" start="20251112160000 +0800" stop="20251112180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv家庭剧场" start="20251112180000 +0800" stop="20251112190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv家庭剧场" start="20251112190000 +0800" stop="20251112200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv家庭剧场" start="20251112200000 +0800" stop="20251112220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv家庭剧场" start="20251112220000 +0800" stop="20251112235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv家庭剧场" start="20251112004000 +0800" stop="20251112012700 +0800">
+		<title lang="zh">03_三十而已</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
 	<programme channel="newtv热播精选" start="20251112000400 +0800" stop="20251112004400 +0800">
 		<title lang="zh">营养健康40</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251112004400 +0800" stop="20251112021200 +0800">
+		<title lang="zh">珍宝大战</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -52172,6 +52148,9 @@
 	</channel>
 	<programme channel="newtv动作电影" start="20251112000400 +0800" stop="20251112003400 +0800">
 		<title lang="zh">健康推荐</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251112003400 +0800" stop="20251112015500 +0800">
+		<title lang="zh">兰若行者</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
