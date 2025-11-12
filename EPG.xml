@@ -17871,6 +17871,9 @@
 	<programme channel="咪咕综合体育" start="20251112120000 +0800" stop="20251112120500 +0800">
 		<title lang="zh">睛彩全运会AI速报</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251112120500 +0800" stop="20251112123000 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第七期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -47643,6 +47646,9 @@
 	<programme channel="纯享4K" start="20251112112500 +0800" stop="20251112120600 +0800">
 		<title lang="zh">远方的家4K 大运河特辑（15） 运河水看北京</title>
 	</programme>
+	<programme channel="纯享4K" start="20251112120600 +0800" stop="20251112124800 +0800">
+		<title lang="zh">远方的家4K 三江源国家级自然保护区 狂野黄河源（下）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -59187,6 +59193,9 @@
 	<programme channel="newtv超级综艺" start="20251112105500 +0800" stop="20251112121200 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251112121200 +0800" stop="20251112134200 +0800">
+		<title lang="zh">“味”你而来</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59406,6 +59415,9 @@
 	<programme channel="newtv精品纪录" start="20251112112600 +0800" stop="20251112121000 +0800">
 		<title lang="zh">第5集 香料：大型桂花采摘现场，香飘十里~</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251112121000 +0800" stop="20251112125000 +0800">
+		<title lang="zh">营养健康40</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -59507,6 +59519,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251112112100 +0800" stop="20251112120400 +0800">
 		<title lang="zh">05_黎明决战</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251112120400 +0800" stop="20251112124400 +0800">
+		<title lang="zh">营养健康40</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -59793,6 +59808,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251112112300 +0800" stop="20251112120900 +0800">
 		<title lang="zh">35_加油！妈妈</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251112120900 +0800" stop="20251112124900 +0800">
+		<title lang="zh">营养健康40</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -59861,6 +59879,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251112114900 +0800" stop="20251112121500 +0800">
 		<title lang="zh">雪域高原的家国印记</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251112121500 +0800" stop="20251112124000 +0800">
+		<title lang="zh">英雄之路 第一集 白山黑水除敌寇</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -60038,6 +60059,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251112111000 +0800" stop="20251112121600 +0800">
 		<title lang="zh">哈哈哈哈哈第4季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251112121600 +0800" stop="20251112125600 +0800">
+		<title lang="zh">营养健康40</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
