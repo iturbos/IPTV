@@ -17970,6 +17970,9 @@
 	<programme channel="咪咕足球" start="20251112213500 +0800" stop="20251112221000 +0800">
 		<title lang="zh">一球一城 贝尔格莱德</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251112221000 +0800" stop="20251112222000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -59736,6 +59739,9 @@
 	<programme channel="newtv精品纪录" start="20251112214300 +0800" stop="20251112220800 +0800">
 		<title lang="zh">07_笔墨丹青与瓷韵之约</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251112220800 +0800" stop="20251112223800 +0800">
+		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -59831,6 +59837,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251112212100 +0800" stop="20251112220700 +0800">
 		<title lang="zh">05_柳舟记</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251112220700 +0800" stop="20251112223700 +0800">
+		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -60026,6 +60035,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251112214000 +0800" stop="20251112221000 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251112221000 +0800" stop="20251112225600 +0800">
+		<title lang="zh">15_林深见鹿</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -60366,6 +60378,9 @@
 	<programme channel="newtv怡伴健康" start="20251112215500 +0800" stop="20251112221200 +0800">
 		<title lang="zh">山东好哥哥vs四川天门淘一街-第7局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251112221200 +0800" stop="20251112224200 +0800">
+		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -60458,6 +60473,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251112212200 +0800" stop="20251112220800 +0800">
 		<title lang="zh">05_灼灼风流</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251112220800 +0800" stop="20251112223800 +0800">
+		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -61121,6 +61139,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251112211600 +0800" stop="20251112220200 +0800">
 		<title lang="zh">36_庆余年</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251112220200 +0800" stop="20251112223200 +0800">
+		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
