@@ -41808,6 +41808,9 @@
 	<programme channel="纯享4K" start="20251113020400 +0800" stop="20251113024400 +0800">
 		<title lang="zh">探索b7发现4K 海州西汉墓</title>
 	</programme>
+	<programme channel="纯享4K" start="20251113024400 +0800" stop="20251113025100 +0800">
+		<title lang="zh">千秋诗颂4K 别董大</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52710,6 +52713,9 @@
 	<programme channel="newtv家庭剧场" start="20251113015000 +0800" stop="20251113023700 +0800">
 		<title lang="zh">08_三十而已</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251113023700 +0800" stop="20251113032200 +0800">
+		<title lang="zh">09_三十而已</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -52739,6 +52745,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251113012300 +0800" stop="20251113024000 +0800">
 		<title lang="zh">幽灵毒枭</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251113024000 +0800" stop="20251113032000 +0800">
+		<title lang="zh">营养健康40</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -52794,6 +52803,9 @@
 	<programme channel="newtv军事评论" start="20251113021700 +0800" stop="20251113023900 +0800">
 		<title lang="zh">中国力量 空中雄鹰</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251113023900 +0800" stop="20251113030100 +0800">
+		<title lang="zh">中国力量 天空利剑</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -52808,6 +52820,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251113020400 +0800" stop="20251113024500 +0800">
 		<title lang="zh">远方的家（20240502）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251113024500 +0800" stop="20251113030600 +0800">
+		<title lang="zh">健身舞—雪恋（20210613）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
