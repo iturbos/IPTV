@@ -44595,6 +44595,9 @@
 	<programme channel="明星大片" start="20251113223800 +0800" stop="20251113230800 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme>
+	<programme channel="明星大片" start="20251113230800 +0800" stop="20251113002300 +0800">
+		<title lang="zh">捕快卜曼</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -68976,6 +68979,9 @@
 	<programme channel="纯享4K" start="20251113225000 +0800" stop="20251113231400 +0800">
 		<title lang="zh">了不起的冬天4K 第9集 瞬间的奥秘</title>
 	</programme>
+	<programme channel="纯享4K" start="20251113231400 +0800" stop="20251113233900 +0800">
+		<title lang="zh">在乡村4K 第5集 理想的房子</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -86619,6 +86625,9 @@
 	<programme channel="newtv超级电视剧" start="20251113222900 +0800" stop="20251113231500 +0800">
 		<title lang="zh">38_大秦帝国之裂变</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251113231500 +0800" stop="20251113000100 +0800">
+		<title lang="zh">39_大秦帝国之裂变</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -86831,6 +86840,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251113224100 +0800" stop="20251113230600 +0800">
 		<title lang="zh">05_贵州从江侗乡 稻鱼鸭系统</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251113231600 +0800" stop="20251113232100 +0800">
+		<title lang="zh">03_“天问一号”发射记</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -87399,6 +87411,9 @@
 	<programme channel="newtv动作电影" start="20251113223500 +0800" stop="20251113230500 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20251113230500 +0800" stop="20251113003000 +0800">
+		<title lang="zh">黑色特警</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -87506,6 +87521,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251113223600 +0800" stop="20251113230600 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251113230600 +0800" stop="20251113234500 +0800">
+		<title lang="zh">重庆一针见血vs天津狼图腾-第1局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -87882,6 +87900,9 @@
 	<programme channel="newtv炫舞未来" start="20251113224800 +0800" stop="20251113230900 +0800">
 		<title lang="zh">健身舞—天南地北唱中华（20210207）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251113230900 +0800" stop="20251113002600 +0800">
+		<title lang="zh">聚焦爱乐之人背后的温暖故事（20251110）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -87971,6 +87992,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251113223800 +0800" stop="20251113230800 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251113230800 +0800" stop="20251113002300 +0800">
+		<title lang="zh">捕快卜曼</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -88166,6 +88190,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20251113214200 +0800" stop="20251113231500 +0800">
 		<title lang="zh">NBA季后赛5月5日：勇士VS火箭</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20251113231500 +0800" stop="20251113011600 +0800">
+		<title lang="zh">NBA季后赛4月26日：湖人VS森林狼</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
