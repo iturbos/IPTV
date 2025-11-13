@@ -27978,6 +27978,9 @@
 	<programme channel="咪咕综合体育" start="20251113130000 +0800" stop="20251113130500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251113130500 +0800" stop="20251113143500 +0800">
+		<title lang="zh">国球荣耀-2025WTT澳门冠军赛 女单决赛 孙颖莎-王曼昱</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -68664,6 +68667,9 @@
 	<programme channel="纯享4K" start="20251113130000 +0800" stop="20251113130500 +0800">
 		<title lang="zh">美丽中国自然4K 环青海湖系列 雪雀与艾鼬</title>
 	</programme>
+	<programme channel="纯享4K" start="20251113130500 +0800" stop="20251113135400 +0800">
+		<title lang="zh">大敦煌4K 第1集 何以敦煌</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -85020,6 +85026,9 @@
 	<programme channel="黑莓动画" start="20251113123500 +0800" stop="20251113130200 +0800">
 		<title lang="zh">01_世界陪我一起长大</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251113131100 +0800" stop="20251113154100 +0800">
+		<title lang="zh">01_喜羊羊与灰太狼之羊羊小侦探</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -86088,6 +86097,9 @@
 	<programme channel="newtv超级电视剧" start="20251113123400 +0800" stop="20251113132000 +0800">
 		<title lang="zh">07_西北岁月</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251113132000 +0800" stop="20251113140700 +0800">
+		<title lang="zh">23_庆余年第二季</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -86141,6 +86153,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251113122500 +0800" stop="20251113130500 +0800">
 		<title lang="zh">营养健康40</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251113130500 +0800" stop="20251113135000 +0800">
+		<title lang="zh">18_三十而已</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -86306,6 +86321,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251113123200 +0800" stop="20251113131500 +0800">
 		<title lang="zh">10_黎明决战</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251113131500 +0800" stop="20251113134500 +0800">
+		<title lang="zh">健康推荐</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -86630,6 +86648,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251113121900 +0800" stop="20251113130400 +0800">
 		<title lang="zh">40_加油！妈妈</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251113130400 +0800" stop="20251113133400 +0800">
+		<title lang="zh">健康推荐</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
