@@ -41130,6 +41130,9 @@
 	<programme channel="纯享4K" start="20251115020600 +0800" stop="20251115024600 +0800">
 		<title lang="zh">探索b7发现4K 博物馆里的东汉大墓</title>
 	</programme>
+	<programme channel="纯享4K" start="20251115024600 +0800" stop="20251115025100 +0800">
+		<title lang="zh">如果国宝会说话4K 敦煌经变画 出尘入画</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51573,6 +51576,9 @@
 	<programme channel="newtv超级电视剧" start="20251115015800 +0800" stop="20251115024300 +0800">
 		<title lang="zh">35_好事成双</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251115024300 +0800" stop="20251115032900 +0800">
+		<title lang="zh">36_好事成双</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -51609,6 +51615,9 @@
 	<programme channel="newtv古装剧场" start="20251115020000 +0800" stop="20251115024000 +0800">
 		<title lang="zh">营养健康40</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251115024000 +0800" stop="20251115032800 +0800">
+		<title lang="zh">24_燕云台</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -51633,6 +51642,9 @@
 	<programme channel="newtv家庭剧场" start="20251115015100 +0800" stop="20251115023600 +0800">
 		<title lang="zh">16_三十而已</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251115023600 +0800" stop="20251115032100 +0800">
+		<title lang="zh">17_三十而已</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -51656,6 +51668,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251115020000 +0800" stop="20251115024000 +0800">
 		<title lang="zh">营养健康40</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251115024000 +0800" stop="20251115032500 +0800">
+		<title lang="zh">18_烟火人家</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -51696,6 +51711,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251115014600 +0800" stop="20251115023100 +0800">
 		<title lang="zh">18_亲爱的你</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251115023100 +0800" stop="20251115031700 +0800">
+		<title lang="zh">19_亲爱的你</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -51732,6 +51750,9 @@
 	<programme channel="newtv炫舞未来" start="20251115015700 +0800" stop="20251115023700 +0800">
 		<title lang="zh">远方的家（20240502）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251115023700 +0800" stop="20251115025900 +0800">
+		<title lang="zh">健身舞—雪恋（20210613）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -51743,6 +51764,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251115015800 +0800" stop="20251115023800 +0800">
 		<title lang="zh">营养健康40</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251115023800 +0800" stop="20251115033800 +0800">
+		<title lang="zh">喜人奇妙夜</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -51824,6 +51848,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251115011000 +0800" stop="20251115023600 +0800">
 		<title lang="zh">陈真之拳镇山河</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251115023600 +0800" stop="20251115031600 +0800">
+		<title lang="zh">营养健康40</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
