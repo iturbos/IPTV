@@ -24615,6 +24615,156 @@
 	<programme channel="广东珠江" start="20251115235000 +0800" stop="20251115235900 +0800">
 		<title lang="zh">王牌剧场:锻刀19</title>
 	</programme>
+	<channel id="广东移动">
+		<display-name lang="zh">广东移动</display-name>
+	</channel>
+	<programme channel="广东移动" start="20251115001100 +0800" stop="20251115010100 +0800">
+		<title lang="zh">很高兴认识你</title>
+	</programme>
+	<programme channel="广东移动" start="20251115060000 +0800" stop="20251115064800 +0800">
+		<title lang="zh">很高兴认识你</title>
+	</programme>
+	<programme channel="广东移动" start="20251115064800 +0800" stop="20251115065200 +0800">
+		<title lang="zh">移动创星音乐榜</title>
+	</programme>
+	<programme channel="广东移动" start="20251115065200 +0800" stop="20251115072700 +0800">
+		<title lang="zh">岭南博物</title>
+	</programme>
+	<programme channel="广东移动" start="20251115072700 +0800" stop="20251115073900 +0800">
+		<title lang="zh">文化能人的小康故事</title>
+	</programme>
+	<programme channel="广东移动" start="20251115073900 +0800" stop="20251115074500 +0800">
+		<title lang="zh">山河见证-我们的抗战记忆</title>
+	</programme>
+	<programme channel="广东移动" start="20251115074500 +0800" stop="20251115080100 +0800">
+		<title lang="zh">可爱香港</title>
+	</programme>
+	<programme channel="广东移动" start="20251115080100 +0800" stop="20251115081000 +0800">
+		<title lang="zh">潮玩迷你剧</title>
+	</programme>
+	<programme channel="广东移动" start="20251115081000 +0800" stop="20251115083900 +0800">
+		<title lang="zh">民俗百千万</title>
+	</programme>
+	<programme channel="广东移动" start="20251115083900 +0800" stop="20251115092800 +0800">
+		<title lang="zh">很高兴认识你</title>
+	</programme>
+	<programme channel="广东移动" start="20251115092800 +0800" stop="20251115093100 +0800">
+		<title lang="zh">移动创星音乐榜</title>
+	</programme>
+	<programme channel="广东移动" start="20251115093100 +0800" stop="20251115100600 +0800">
+		<title lang="zh">岭南博物</title>
+	</programme>
+	<programme channel="广东移动" start="20251115100600 +0800" stop="20251115101900 +0800">
+		<title lang="zh">文化能人的小康故事</title>
+	</programme>
+	<programme channel="广东移动" start="20251115101900 +0800" stop="20251115102500 +0800">
+		<title lang="zh">山河见证-我们的抗战记忆</title>
+	</programme>
+	<programme channel="广东移动" start="20251115102500 +0800" stop="20251115104100 +0800">
+		<title lang="zh">可爱香港</title>
+	</programme>
+	<programme channel="广东移动" start="20251115104100 +0800" stop="20251115104700 +0800">
+		<title lang="zh">潮玩迷你剧</title>
+	</programme>
+	<programme channel="广东移动" start="20251115104700 +0800" stop="20251115111900 +0800">
+		<title lang="zh">民俗百千万</title>
+	</programme>
+	<programme channel="广东移动" start="20251115111900 +0800" stop="20251115120900 +0800">
+		<title lang="zh">很高兴认识你</title>
+	</programme>
+	<programme channel="广东移动" start="20251115120900 +0800" stop="20251115121300 +0800">
+		<title lang="zh">移动创星音乐榜</title>
+	</programme>
+	<programme channel="广东移动" start="20251115121300 +0800" stop="20251115124800 +0800">
+		<title lang="zh">岭南博物</title>
+	</programme>
+	<programme channel="广东移动" start="20251115124800 +0800" stop="20251115130000 +0800">
+		<title lang="zh">文化能人的小康故事</title>
+	</programme>
+	<programme channel="广东移动" start="20251115130000 +0800" stop="20251115130400 +0800">
+		<title lang="zh">山河见证-我们的抗战记忆</title>
+	</programme>
+	<programme channel="广东移动" start="20251115130400 +0800" stop="20251115132000 +0800">
+		<title lang="zh">可爱香港</title>
+	</programme>
+	<programme channel="广东移动" start="20251115132000 +0800" stop="20251115132900 +0800">
+		<title lang="zh">潮玩迷你剧</title>
+	</programme>
+	<programme channel="广东移动" start="20251115132900 +0800" stop="20251115135800 +0800">
+		<title lang="zh">民俗百千万</title>
+	</programme>
+	<programme channel="广东移动" start="20251115135800 +0800" stop="20251115144700 +0800">
+		<title lang="zh">很高兴认识你</title>
+	</programme>
+	<programme channel="广东移动" start="20251115144700 +0800" stop="20251115145000 +0800">
+		<title lang="zh">移动创星音乐榜</title>
+	</programme>
+	<programme channel="广东移动" start="20251115145000 +0800" stop="20251115152500 +0800">
+		<title lang="zh">岭南博物</title>
+	</programme>
+	<programme channel="广东移动" start="20251115152500 +0800" stop="20251115153800 +0800">
+		<title lang="zh">文化能人的小康故事</title>
+	</programme>
+	<programme channel="广东移动" start="20251115153800 +0800" stop="20251115154100 +0800">
+		<title lang="zh">山河见证-我们的抗战记忆</title>
+	</programme>
+	<programme channel="广东移动" start="20251115154100 +0800" stop="20251115155700 +0800">
+		<title lang="zh">可爱香港</title>
+	</programme>
+	<programme channel="广东移动" start="20251115155700 +0800" stop="20251115160300 +0800">
+		<title lang="zh">潮玩迷你剧</title>
+	</programme>
+	<programme channel="广东移动" start="20251115160300 +0800" stop="20251115162900 +0800">
+		<title lang="zh">民俗百千万</title>
+	</programme>
+	<programme channel="广东移动" start="20251115162900 +0800" stop="20251115170000 +0800">
+		<title lang="zh">岭南博物</title>
+	</programme>
+	<programme channel="广东移动" start="20251115170000 +0800" stop="20251115173500 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="广东移动" start="20251115173500 +0800" stop="20251115174100 +0800">
+		<title lang="zh">文化能人的小康故事</title>
+	</programme>
+	<programme channel="广东移动" start="20251115174100 +0800" stop="20251115174700 +0800">
+		<title lang="zh">山河见证-我们的抗战记忆</title>
+	</programme>
+	<programme channel="广东移动" start="20251115174700 +0800" stop="20251115180000 +0800">
+		<title lang="zh">可爱香港</title>
+	</programme>
+	<programme channel="广东移动" start="20251115180000 +0800" stop="20251115183400 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="广东移动" start="20251115183400 +0800" stop="20251115184500 +0800">
+		<title lang="zh">潮玩迷你剧</title>
+	</programme>
+	<programme channel="广东移动" start="20251115184500 +0800" stop="20251115190000 +0800">
+		<title lang="zh">文化能人的小康故事</title>
+	</programme>
+	<programme channel="广东移动" start="20251115190000 +0800" stop="20251115193000 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="广东移动" start="20251115193000 +0800" stop="20251115200000 +0800">
+		<title lang="zh">岭南博物</title>
+	</programme>
+	<programme channel="广东移动" start="20251115200000 +0800" stop="20251115203100 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="广东移动" start="20251115203100 +0800" stop="20251115210000 +0800">
+		<title lang="zh">消失的太空密码</title>
+	</programme>
+	<programme channel="广东移动" start="20251115210000 +0800" stop="20251115213000 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="广东移动" start="20251115213000 +0800" stop="20251115220000 +0800">
+		<title lang="zh">民俗百千万</title>
+	</programme>
+	<programme channel="广东移动" start="20251115220000 +0800" stop="20251115233400 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="广东移动" start="20251115233400 +0800" stop="20251115235900 +0800">
+		<title lang="zh">岭南博物</title>
+	</programme>
 	<channel id="广东综艺">
 		<display-name lang="zh">广东综艺</display-name>
 	</channel>
@@ -46893,6 +47043,9 @@
 	<programme channel="纯享4K" start="20251115064900 +0800" stop="20251115071300 +0800">
 		<title lang="zh">了不起的冬天4K 第3集 捏一把汗的飞行</title>
 	</programme>
+	<programme channel="纯享4K" start="20251115071300 +0800" stop="20251115073700 +0800">
+		<title lang="zh">了不起的冬天4K 第4集 有“范儿”</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -47903,6 +48056,282 @@
 	</programme>
 	<programme channel="荆门科教文旅" start="20251115230000 +0800" stop="20251115235900 +0800">
 		<title lang="zh">传奇</title>
+	</programme>
+	<channel id="莆田一套">
+		<display-name lang="zh">莆田一套</display-name>
+	</channel>
+	<programme channel="莆田一套" start="20251115060000 +0800" stop="20251115061200 +0800">
+		<title lang="zh">系列片《天下妈祖》</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115061200 +0800" stop="20251115063200 +0800">
+		<title lang="zh">秋生讲古</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115063200 +0800" stop="20251115065300 +0800">
+		<title lang="zh">健康生活</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115065300 +0800" stop="20251115070000 +0800">
+		<title lang="zh">莆阳文脉兴化府</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115070000 +0800" stop="20251115070100 +0800">
+		<title lang="zh">国歌</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115070100 +0800" stop="20251115072500 +0800">
+		<title lang="zh">重播莆田新闻联播</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115072500 +0800" stop="20251115074000 +0800">
+		<title lang="zh">有味有醋（重播）</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115074000 +0800" stop="20251115114600 +0800">
+		<title lang="zh">阳光剧场</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115114600 +0800" stop="20251115120000 +0800">
+		<title lang="zh">公益在身边</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115120000 +0800" stop="20251115123000 +0800">
+		<title lang="zh">重播莆田新闻联播</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115123000 +0800" stop="20251115125500 +0800">
+		<title lang="zh">系列片《天下妈祖》</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115125500 +0800" stop="20251115131500 +0800">
+		<title lang="zh">有味有醋</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115131500 +0800" stop="20251115134500 +0800">
+		<title lang="zh">健康生活</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115134500 +0800" stop="20251115171000 +0800">
+		<title lang="zh">午间剧场</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115171000 +0800" stop="20251115174800 +0800">
+		<title lang="zh">动画天地</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115174800 +0800" stop="20251115180500 +0800">
+		<title lang="zh">2025光影福建新故事</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115180500 +0800" stop="20251115181000 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115181000 +0800" stop="20251115183000 +0800">
+		<title lang="zh">秋生讲古</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115183000 +0800" stop="20251115184800 +0800">
+		<title lang="zh">系列片《天下妈祖》</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115184800 +0800" stop="20251115190000 +0800">
+		<title lang="zh">专题节目</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115190000 +0800" stop="20251115193500 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115193500 +0800" stop="20251115200300 +0800">
+		<title lang="zh">转播福建新闻联播</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115200300 +0800" stop="20251115202800 +0800">
+		<title lang="zh">莆田新闻联播</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115202800 +0800" stop="20251115204000 +0800">
+		<title lang="zh">系列片《天下妈祖》</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115204000 +0800" stop="20251115211500 +0800">
+		<title lang="zh">专题节目</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115211500 +0800" stop="20251115215200 +0800">
+		<title lang="zh">大家说法</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115215200 +0800" stop="20251115220000 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115220000 +0800" stop="20251115222300 +0800">
+		<title lang="zh">莆田新闻联播</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115222300 +0800" stop="20251115223000 +0800">
+		<title lang="zh">莆阳文脉兴化府</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115223000 +0800" stop="20251115230500 +0800">
+		<title lang="zh">青廉说</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115230500 +0800" stop="20251115233000 +0800">
+		<title lang="zh">有味有醋</title>
+	</programme>
+	<programme channel="莆田一套" start="20251115233000 +0800" stop="20251115235900 +0800">
+		<title lang="zh">海洋气象预报</title>
+	</programme>
+	<channel id="莆田二套">
+		<display-name lang="zh">莆田二套</display-name>
+	</channel>
+	<programme channel="莆田二套" start="20251115060500 +0800" stop="20251115061400 +0800">
+		<title lang="zh">仙游新闻（重播）</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115061400 +0800" stop="20251115062200 +0800">
+		<title lang="zh">荔城新闻（重播）</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115062200 +0800" stop="20251115063100 +0800">
+		<title lang="zh">城厢新闻（重播）</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115063100 +0800" stop="20251115063900 +0800">
+		<title lang="zh">涵江新闻（重播）</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115063900 +0800" stop="20251115064800 +0800">
+		<title lang="zh">秀屿新闻（重播）</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115064800 +0800" stop="20251115070000 +0800">
+		<title lang="zh">湄洲新闻（重播）</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115070000 +0800" stop="20251115070100 +0800">
+		<title lang="zh">国歌</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115070100 +0800" stop="20251115072600 +0800">
+		<title lang="zh">健康生活</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115072600 +0800" stop="20251115073600 +0800">
+		<title lang="zh">莆阳文脉兴化府</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115073600 +0800" stop="20251115080300 +0800">
+		<title lang="zh">秋生讲古</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115080300 +0800" stop="20251115082100 +0800">
+		<title lang="zh">2025光影福建新故事</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115082100 +0800" stop="20251115084400 +0800">
+		<title lang="zh">健康生活</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115084400 +0800" stop="20251115085700 +0800">
+		<title lang="zh">探寻古树名木</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115085700 +0800" stop="20251115093000 +0800">
+		<title lang="zh">大家说法（重播）</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115093000 +0800" stop="20251115093800 +0800">
+		<title lang="zh">莆阳文脉兴化府</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115093800 +0800" stop="20251115100500 +0800">
+		<title lang="zh">秋生讲古</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115100500 +0800" stop="20251115102300 +0800">
+		<title lang="zh">有味有醋</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115102300 +0800" stop="20251115104600 +0800">
+		<title lang="zh">健康生活</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115104600 +0800" stop="20251115105900 +0800">
+		<title lang="zh">探寻古树名木</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115105900 +0800" stop="20251115113200 +0800">
+		<title lang="zh">大家说法</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115113200 +0800" stop="20251115114000 +0800">
+		<title lang="zh">莆阳文脉兴化府</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115114000 +0800" stop="20251115115500 +0800">
+		<title lang="zh">2025光影福建新故事</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115115500 +0800" stop="20251115120200 +0800">
+		<title lang="zh">主播带你游绶溪</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115120200 +0800" stop="20251115121100 +0800">
+		<title lang="zh">仙游新闻（重播）</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115121100 +0800" stop="20251115121900 +0800">
+		<title lang="zh">荔城新闻（重播）</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115121900 +0800" stop="20251115122800 +0800">
+		<title lang="zh">城厢新闻（重播）</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115122800 +0800" stop="20251115123600 +0800">
+		<title lang="zh">涵江新闻（重播）</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115123600 +0800" stop="20251115124300 +0800">
+		<title lang="zh">秀屿新闻（重播）</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115124300 +0800" stop="20251115125700 +0800">
+		<title lang="zh">湄洲新闻（重播）</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115125700 +0800" stop="20251115130000 +0800">
+		<title lang="zh">主播带你游绶溪</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115130000 +0800" stop="20251115131800 +0800">
+		<title lang="zh">秋生讲古</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115131800 +0800" stop="20251115164700 +0800">
+		<title lang="zh">莆仙戏</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115164700 +0800" stop="20251115172000 +0800">
+		<title lang="zh">大家说法（重播）</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115172000 +0800" stop="20251115173000 +0800">
+		<title lang="zh">探寻古树名木</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115173000 +0800" stop="20251115175000 +0800">
+		<title lang="zh">2025光影福建新故事</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115175000 +0800" stop="20251115182500 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115182500 +0800" stop="20251115183400 +0800">
+		<title lang="zh">仙游新闻</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115183400 +0800" stop="20251115184600 +0800">
+		<title lang="zh">荔城新闻</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115184600 +0800" stop="20251115185500 +0800">
+		<title lang="zh">城厢新闻</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115185500 +0800" stop="20251115190300 +0800">
+		<title lang="zh">涵江新闻</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115190300 +0800" stop="20251115191300 +0800">
+		<title lang="zh">秀屿新闻</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115191300 +0800" stop="20251115191800 +0800">
+		<title lang="zh">湄洲新闻</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115191800 +0800" stop="20251115192500 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115192500 +0800" stop="20251115193000 +0800">
+		<title lang="zh">主播带你游绶溪</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115193000 +0800" stop="20251115194800 +0800">
+		<title lang="zh">有味有醋</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115194800 +0800" stop="20251115200600 +0800">
+		<title lang="zh">秋生讲古</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115200600 +0800" stop="20251115203000 +0800">
+		<title lang="zh">健康生活</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115203000 +0800" stop="20251115210200 +0800">
+		<title lang="zh">青廉说</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115210200 +0800" stop="20251115211000 +0800">
+		<title lang="zh">海洋气象</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115211000 +0800" stop="20251115211900 +0800">
+		<title lang="zh">仙游新闻</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115211900 +0800" stop="20251115212800 +0800">
+		<title lang="zh">荔城新闻</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115212800 +0800" stop="20251115213700 +0800">
+		<title lang="zh">城厢新闻</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115213700 +0800" stop="20251115214500 +0800">
+		<title lang="zh">涵江新闻</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115214500 +0800" stop="20251115215500 +0800">
+		<title lang="zh">秀屿新闻</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115215500 +0800" stop="20251115220700 +0800">
+		<title lang="zh">湄洲新闻</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115220700 +0800" stop="20251115221000 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115221000 +0800" stop="20251115235000 +0800">
+		<title lang="zh">晚间剧场</title>
+	</programme>
+	<programme channel="莆田二套" start="20251115235000 +0800" stop="20251115235900 +0800">
+		<title lang="zh">旅游气象</title>
 	</programme>
 	<channel id="襄阳公共">
 		<display-name lang="zh">襄阳公共</display-name>
@@ -58104,6 +58533,9 @@
 	<programme channel="newtv超级电视剧" start="20251115063100 +0800" stop="20251115071600 +0800">
 		<title lang="zh">34_潜行者</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251115071600 +0800" stop="20251115080400 +0800">
+		<title lang="zh">35_雪中悍刀行</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -58163,6 +58595,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251115065500 +0800" stop="20251115071100 +0800">
 		<title lang="zh">第1集：酸菜和素描画</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251115071100 +0800" stop="20251115072600 +0800">
+		<title lang="zh">第2集：广西大兆村 酸笋和三姐妹</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -58374,6 +58809,9 @@
 	<programme channel="newtv怡伴健康" start="20251115065600 +0800" stop="20251115070200 +0800">
 		<title lang="zh">八段锦之调理脾胃须单举</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251115070800 +0800" stop="20251115071800 +0800">
+		<title lang="zh">八段锦之摇头摆尾去心火</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -58403,6 +58841,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251115061600 +0800" stop="20251115070400 +0800">
 		<title lang="zh">05_长相思</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251115070400 +0800" stop="20251115074800 +0800">
+		<title lang="zh">伏湿丸</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -58458,6 +58899,9 @@
 	<programme channel="newtv军事评论" start="20251115065100 +0800" stop="20251115071300 +0800">
 		<title lang="zh">九三阅兵装备盘点 1</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251115071300 +0800" stop="20251115073500 +0800">
+		<title lang="zh">九三阅兵装备盘点 2</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -58500,6 +58944,9 @@
 	<programme channel="newtv炫舞未来" start="20251115065000 +0800" stop="20251115071200 +0800">
 		<title lang="zh">民族健身舞《纳林湖等你》（20230403）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251115071200 +0800" stop="20251115073400 +0800">
+		<title lang="zh">爵士风健身舞《Wrecking Ball》（20230404）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -58532,6 +58979,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251115065800 +0800" stop="20251115071100 +0800">
 		<title lang="zh">18_赛尔号合集</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251115071100 +0800" stop="20251115075500 +0800">
+		<title lang="zh">伏湿丸</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -58589,6 +59039,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20251115053100 +0800" stop="20251115071000 +0800">
 		<title lang="zh">2025-26赛季法甲联赛第8轮：朗斯VS巴黎FC</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20251115071000 +0800" stop="20251115090700 +0800">
+		<title lang="zh">2025赛季中超联赛第19轮：北京国安VS天津津门虎</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
