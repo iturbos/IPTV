@@ -59844,6 +59844,9 @@
 	<programme channel="newtv超级电影" start="20251114120100 +0800" stop="20251114120900 +0800">
 		<title lang="zh">音乐电影欣赏</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251114120900 +0800" stop="20251114133800 +0800">
+		<title lang="zh">电影《鲨鱼星球》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -59894,6 +59897,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251114113100 +0800" stop="20251114121700 +0800">
 		<title lang="zh">10_西北岁月</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251114121700 +0800" stop="20251114130200 +0800">
+		<title lang="zh">11_西北岁月</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
