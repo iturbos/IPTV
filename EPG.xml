@@ -17706,6 +17706,9 @@
 	<programme channel="咪咕综合体育" start="20251115120000 +0800" stop="20251115120500 +0800">
 		<title lang="zh">睛彩全运会AI速报</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251115120500 +0800" stop="20251115123000 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第六期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -47799,6 +47802,9 @@
 	<programme channel="纯享4K" start="20251115113400 +0800" stop="20251115121500 +0800">
 		<title lang="zh">远方的家4K 行走海岸线（3） 龙楼——逐梦星辰的航天小镇</title>
 	</programme>
+	<programme channel="纯享4K" start="20251115121500 +0800" stop="20251115125700 +0800">
+		<title lang="zh">远方的家4K 行走海岸线（4） 活力之海 动感万宁</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -59544,6 +59550,9 @@
 	<programme channel="newtv精品大剧" start="20251115113500 +0800" stop="20251115120500 +0800">
 		<title lang="zh">健康推荐</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251115120500 +0800" stop="20251115125100 +0800">
+		<title lang="zh">25_三十而已</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -59613,6 +59622,9 @@
 	<programme channel="newtv精品纪录" start="20251115113900 +0800" stop="20251115120900 +0800">
 		<title lang="zh">健康推荐</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251115120900 +0800" stop="20251115125800 +0800">
+		<title lang="zh">01_中国这么美</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -59664,6 +59676,9 @@
 	<programme channel="newtv古装剧场" start="20251115111700 +0800" stop="20251115120100 +0800">
 		<title lang="zh">59_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251115120100 +0800" stop="20251115122100 +0800">
+		<title lang="zh">健康推荐</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -59714,6 +59729,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251115112100 +0800" stop="20251115120400 +0800">
 		<title lang="zh">18_黎明决战</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251115120400 +0800" stop="20251115123400 +0800">
+		<title lang="zh">健康推荐</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -59867,6 +59885,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251115112000 +0800" stop="20251115120700 +0800">
 		<title lang="zh">23_值得爱</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251115120700 +0800" stop="20251115123700 +0800">
+		<title lang="zh">健康推荐</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -60413,6 +60434,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251115113300 +0800" stop="20251115120300 +0800">
 		<title lang="zh">健康推荐</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251115120300 +0800" stop="20251115133000 +0800">
+		<title lang="zh">锦衣卫之初露锋芒</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
