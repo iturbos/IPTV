@@ -27076,6 +27076,9 @@
 	<programme channel="咪咕综合体育" start="20251116142500 +0800" stop="20251116160500 +0800">
 		<title lang="zh">英超赛场-25/26赛季英超 第11轮 托特纳姆热刺-曼联</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251116161000 +0800" stop="20251116163500 +0800">
+		<title lang="zh">欧陆足球版图-英超特辑</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -43233,6 +43236,9 @@
 	</programme>
 	<programme channel="明星大片" start="20251116154000 +0800" stop="20251116161000 +0800">
 		<title lang="zh">健康推荐</title>
+	</programme>
+	<programme channel="明星大片" start="20251116161000 +0800" stop="20251116165600 +0800">
+		<title lang="zh">17_致1999年的自己</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -67690,6 +67696,9 @@
 	<programme channel="纯享4K" start="20251116153200 +0800" stop="20251116160200 +0800">
 		<title lang="zh">传承 第三季4K 第三集 生技</title>
 	</programme>
+	<programme channel="纯享4K" start="20251116160200 +0800" stop="20251116163000 +0800">
+		<title lang="zh">记住乡愁4K第九季 石堰——竹纸之乡 纸薄情深</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -83797,6 +83806,9 @@
 	<programme channel="黑莓动画" start="20251116152600 +0800" stop="20251116160900 +0800">
 		<title lang="zh">第1话 女孩们的聚会</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251116160900 +0800" stop="20251116174100 +0800">
+		<title lang="zh">21_奶龙之奇妙冒险</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -85024,6 +85036,9 @@
 	<programme channel="newtv精品纪录" start="20251116154400 +0800" stop="20251116160900 +0800">
 		<title lang="zh">02_新手</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251116160900 +0800" stop="20251116163400 +0800">
+		<title lang="zh">03_隐身</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -85092,6 +85107,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251116152900 +0800" stop="20251116161500 +0800">
 		<title lang="zh">56_星汉灿烂b7月升沧海</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251116161500 +0800" stop="20251116165500 +0800">
+		<title lang="zh">营养健康40</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -85164,6 +85182,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251116152400 +0800" stop="20251116161000 +0800">
 		<title lang="zh">01_侦察英雄</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251116161000 +0800" stop="20251116165000 +0800">
+		<title lang="zh">营养健康40</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -85483,6 +85504,9 @@
 	<programme channel="newtv怡伴健康" start="20251116140000 +0800" stop="20251116161200 +0800">
 		<title lang="zh">评剧《花为媒》</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251116161200 +0800" stop="20251116164200 +0800">
+		<title lang="zh">健康推荐</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -85660,6 +85684,9 @@
 	<programme channel="newtv军事评论" start="20251116153700 +0800" stop="20251116160400 +0800">
 		<title lang="zh">背水一战 绝地反击</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251116160400 +0800" stop="20251116163000 +0800">
+		<title lang="zh">重器护河山</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85815,6 +85842,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251116154000 +0800" stop="20251116161000 +0800">
 		<title lang="zh">健康推荐</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251116161000 +0800" stop="20251116165600 +0800">
+		<title lang="zh">17_致1999年的自己</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
