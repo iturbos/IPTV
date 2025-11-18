@@ -85516,6 +85516,9 @@
 	<programme channel="newtv军旅剧场" start="20251118224500 +0800" stop="20251118231500 +0800">
 		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251118231500 +0800" stop="20251118235600 +0800">
+		<title lang="zh">15_特赦1959_</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -85989,6 +85992,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251118223500 +0800" stop="20251118230500 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251118230500 +0800" stop="20251118234900 +0800">
+		<title lang="zh">四川天门淘一街vs山西清徐学栋-第2局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -86793,6 +86799,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251118223300 +0800" stop="20251118230300 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251118230300 +0800" stop="20251118002700 +0800">
+		<title lang="zh">黄飞鸿之武神林世荣</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
