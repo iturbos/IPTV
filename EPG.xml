@@ -85899,6 +85899,9 @@
 	<programme channel="newtv精品大剧" start="20251119223400 +0800" stop="20251119230400 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251119230400 +0800" stop="20251119235000 +0800">
+		<title lang="zh">26_安家</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -86024,6 +86027,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251119223900 +0800" stop="20251119230900 +0800">
 		<title lang="zh">《八段锦》推荐第42期</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251119230900 +0800" stop="20251119233700 +0800">
+		<title lang="zh">第8集 李清照：寻寻觅觅</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -86324,6 +86330,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251119223400 +0800" stop="20251119231100 +0800">
 		<title lang="zh">04_兰闺喜事</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251119231100 +0800" stop="20251119235700 +0800">
+		<title lang="zh">28_亲爱的你</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -86931,6 +86940,9 @@
 	<programme channel="newtv军事评论" start="20251119224300 +0800" stop="20251119230800 +0800">
 		<title lang="zh">换将领 增军援 特朗普发力台海</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251119230800 +0800" stop="20251119233300 +0800">
+		<title lang="zh">联手监视解放军 日菲各有所图</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -87044,6 +87056,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251119224000 +0800" stop="20251119230100 +0800">
 		<title lang="zh">民族健身舞《纳林湖等你》（20231127）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251119230100 +0800" stop="20251119001800 +0800">
+		<title lang="zh">谁给航天员做过烤鸭（20250820）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
