@@ -41373,6 +41373,9 @@
 	<programme channel="惊悚悬疑" start="20251119140200 +0800" stop="20251119144200 +0800">
 		<title lang="zh">营养健康40</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20251119144200 +0800" stop="20251119155300 +0800">
+		<title lang="zh">六扇门之血手奇谭</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -44645,6 +44648,9 @@
 	</programme>
 	<programme channel="明星大片" start="20251119134800 +0800" stop="20251119143200 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="明星大片" start="20251119143200 +0800" stop="20251119144700 +0800">
+		<title lang="zh">27_喜羊羊与灰太狼之羊羊小侦探</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -85800,6 +85806,9 @@
 	<programme channel="newtv精品纪录" start="20251119141500 +0800" stop="20251119143200 +0800">
 		<title lang="zh">第1集：柳州螺蛳粉</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251119143200 +0800" stop="20251119144700 +0800">
+		<title lang="zh">第2集：宾阳酸粉</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -85860,6 +85869,9 @@
 	<programme channel="newtv古装剧场" start="20251119135200 +0800" stop="20251119143600 +0800">
 		<title lang="zh">伏湿丸</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251119143600 +0800" stop="20251119152100 +0800">
+		<title lang="zh">39_穆桂英挂帅</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -85919,6 +85931,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251119135600 +0800" stop="20251119144000 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251119144000 +0800" stop="20251119152600 +0800">
+		<title lang="zh">09_侦察英雄</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -86037,6 +86052,9 @@
 	<programme channel="newtv热播精选" start="20251119135600 +0800" stop="20251119144000 +0800">
 		<title lang="zh">伏湿丸</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251119144000 +0800" stop="20251119152600 +0800">
+		<title lang="zh">34_潜行者</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -86138,6 +86156,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251119130500 +0800" stop="20251119144200 +0800">
 		<title lang="zh">目击者</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251119144200 +0800" stop="20251119152200 +0800">
+		<title lang="zh">营养健康40</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -86355,6 +86376,9 @@
 	<programme channel="newtv军事评论" start="20251119142300 +0800" stop="20251119144500 +0800">
 		<title lang="zh">印度航展上的五代机争锋</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251119144500 +0800" stop="20251119150600 +0800">
+		<title lang="zh">从伊朗无人机航母看全球战舰发展</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -86484,6 +86508,9 @@
 	<programme channel="newtv精品综合" start="20251119134800 +0800" stop="20251119143200 +0800">
 		<title lang="zh">伏湿丸</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251119143200 +0800" stop="20251119144700 +0800">
+		<title lang="zh">27_喜羊羊与灰太狼之羊羊小侦探</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -86528,6 +86555,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251119140200 +0800" stop="20251119144200 +0800">
 		<title lang="zh">营养健康40</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251119144200 +0800" stop="20251119155300 +0800">
+		<title lang="zh">六扇门之血手奇谭</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
