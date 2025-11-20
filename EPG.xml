@@ -86181,6 +86181,9 @@
 	<programme channel="newtv精品纪录" start="20251120160400 +0800" stop="20251120163600 +0800">
 		<title lang="zh">第2集：甜b7能量的蜜语</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251120163600 +0800" stop="20251120171600 +0800">
+		<title lang="zh">营养健康40</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -86319,6 +86322,9 @@
 	<programme channel="newtv军旅剧场" start="20251120155200 +0800" stop="20251120163800 +0800">
 		<title lang="zh">12_侦察英雄</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251120163800 +0800" stop="20251120171800 +0800">
+		<title lang="zh">营养健康40</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -86384,6 +86390,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251120155200 +0800" stop="20251120163300 +0800">
 		<title lang="zh">13_娘亲舅大</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251120163300 +0800" stop="20251120171300 +0800">
+		<title lang="zh">营养健康40</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -86703,6 +86712,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251120160000 +0800" stop="20251120164500 +0800">
 		<title lang="zh">30_人生若如初相见</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251120164500 +0800" stop="20251120172500 +0800">
+		<title lang="zh">营养健康40</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -86897,6 +86909,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251120162600 +0800" stop="20251120163100 +0800">
 		<title lang="zh">北同凝百年辅酶5min</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251120163400 +0800" stop="20251120175100 +0800">
+		<title lang="zh">沙漠铁路穿越“死亡之海” 网红打卡地如何建成（20220315）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
