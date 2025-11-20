@@ -86349,6 +86349,9 @@
 	<programme channel="newtv超级电视剧" start="20251120222200 +0800" stop="20251120230700 +0800">
 		<title lang="zh">15_刑警的日子</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251120230700 +0800" stop="20251120235300 +0800">
+		<title lang="zh">16_刑警的日子</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -86745,6 +86748,9 @@
 	<programme channel="newtv军旅剧场" start="20251120224000 +0800" stop="20251120231000 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251120231000 +0800" stop="20251120235200 +0800">
+		<title lang="zh">19_特赦1959_</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -86934,6 +86940,9 @@
 	<programme channel="newtv热播精选" start="20251120223200 +0800" stop="20251120230200 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251120230200 +0800" stop="20251120000600 +0800">
+		<title lang="zh">令人心动的offer第6季</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -87095,6 +87104,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251120224400 +0800" stop="20251120231400 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251120231400 +0800" stop="20251120003200 +0800">
+		<title lang="zh">奇门异人</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -87452,6 +87464,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251120224500 +0800" stop="20251120231200 +0800">
 		<title lang="zh">钢铁长城的荣耀征程</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251120231200 +0800" stop="20251120233800 +0800">
+		<title lang="zh">见证 从历届阅兵看武器装备的跃迁</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
