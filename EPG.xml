@@ -41001,6 +41001,9 @@
 	<programme channel="惊悚悬疑" start="20251121105400 +0800" stop="20251121120600 +0800">
 		<title lang="zh">蟒山</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20251121120600 +0800" stop="20251121124600 +0800">
+		<title lang="zh">营养健康40</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -73179,6 +73182,9 @@
 	<programme channel="超级电影" start="20251121103300 +0800" stop="20251121121700 +0800">
 		<title lang="zh">心急吃不了热豆腐</title>
 	</programme>
+	<programme channel="超级电影" start="20251121121700 +0800" stop="20251121122200 +0800">
+		<title lang="zh">音乐电影欣赏</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -84933,6 +84939,9 @@
 	<programme channel="newtv超级综艺" start="20251121103500 +0800" stop="20251121120500 +0800">
 		<title lang="zh">神采正飞扬——中国郎之夜</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251121120500 +0800" stop="20251121135400 +0800">
+		<title lang="zh">国家宝藏 第四季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -84989,6 +84998,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20251121103300 +0800" stop="20251121121700 +0800">
 		<title lang="zh">心急吃不了热豆腐</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20251121121700 +0800" stop="20251121122200 +0800">
+		<title lang="zh">音乐电影欣赏</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -85317,6 +85329,9 @@
 	<programme channel="newtv家庭剧场" start="20251121111800 +0800" stop="20251121120500 +0800">
 		<title lang="zh">25_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251121120500 +0800" stop="20251121125500 +0800">
+		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -85364,6 +85379,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251121111800 +0800" stop="20251121120900 +0800">
 		<title lang="zh">水溶植物欧米伽3微囊粉</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251121120900 +0800" stop="20251121133600 +0800">
+		<title lang="zh">血战狙击岭</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -85553,6 +85571,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251121113100 +0800" stop="20251121121500 +0800">
 		<title lang="zh">31_人生若如初相见</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251121121500 +0800" stop="20251121130600 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -85766,6 +85787,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251121105400 +0800" stop="20251121120600 +0800">
 		<title lang="zh">蟒山</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251121120600 +0800" stop="20251121124600 +0800">
+		<title lang="zh">营养健康40</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
