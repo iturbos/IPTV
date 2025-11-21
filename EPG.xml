@@ -28323,6 +28323,9 @@
 	<programme channel="咪咕足球" start="20251121210000 +0800" stop="20251121211500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251121211500 +0800" stop="20251121221500 +0800">
+		<title lang="zh">最后之舞09</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -44708,6 +44711,9 @@
 	</programme>
 	<programme channel="明星大片" start="20251121201700 +0800" stop="20251121210200 +0800">
 		<title lang="zh">06_焕羽</title>
+	</programme>
+	<programme channel="明星大片" start="20251121210200 +0800" stop="20251121213200 +0800">
+		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -68802,6 +68808,9 @@
 	<programme channel="纯享4K" start="20251121210000 +0800" stop="20251121210500 +0800">
 		<title lang="zh">美丽中国自然4K 察青松多系列 山神的宠物</title>
 	</programme>
+	<programme channel="纯享4K" start="20251121211100 +0800" stop="20251121220000 +0800">
+		<title lang="zh">跟着唐诗去旅行 第二季4K 第3集 出塞曲</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -85335,6 +85344,9 @@
 	<programme channel="黑莓动画" start="20251121194200 +0800" stop="20251121210600 +0800">
 		<title lang="zh">01_小可爱娜斯佳第11季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251121210600 +0800" stop="20251121222700 +0800">
+		<title lang="zh">黑猫警长之翡翠之星</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -86766,6 +86778,9 @@
 	<programme channel="newtv古装剧场" start="20251121201800 +0800" stop="20251121210400 +0800">
 		<title lang="zh">21_似锦</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251121210400 +0800" stop="20251121213400 +0800">
+		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -86852,6 +86867,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251121202300 +0800" stop="20251121210800 +0800">
 		<title lang="zh">06_参工传奇</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251121210800 +0800" stop="20251121213800 +0800">
+		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -86943,6 +86961,9 @@
 	<programme channel="newtv家庭剧场" start="20251121202600 +0800" stop="20251121210600 +0800">
 		<title lang="zh">10_兰闺喜事</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251121210600 +0800" stop="20251121213600 +0800">
+		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -87026,6 +87047,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251121202300 +0800" stop="20251121210600 +0800">
 		<title lang="zh">22_和平之舟</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251121210600 +0800" stop="20251121213600 +0800">
+		<title lang="zh">《八段锦》推荐第42期</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -87659,6 +87683,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251121201700 +0800" stop="20251121210200 +0800">
 		<title lang="zh">06_焕羽</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251121210200 +0800" stop="20251121213200 +0800">
+		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
