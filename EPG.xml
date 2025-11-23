@@ -1,5 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv info-name="by spark " info-url="https://epg.112114.xyz">
+	<channel id="1905环球经典">
+		<display-name lang="zh">1905环球经典</display-name>
+	</channel>
+	<programme channel="1905环球经典" start="20251124000000 +0800" stop="20251124010700 +0800">
+		<title lang="zh">杀死一只知更鸟</title>
+	</programme>
+	<programme channel="1905环球经典" start="20251124010700 +0800" stop="20251124025100 +0800">
+		<title lang="zh">呼啸山庄</title>
+	</programme>
+	<programme channel="1905环球经典" start="20251124025100 +0800" stop="20251124061100 +0800">
+		<title lang="zh">日瓦戈医生</title>
+	</programme>
+	<programme channel="1905环球经典" start="20251124061100 +0800" stop="20251124092900 +0800">
+		<title lang="zh">巨人传</title>
+	</programme>
+	<programme channel="1905环球经典" start="20251124092900 +0800" stop="20251124113300 +0800">
+		<title lang="zh">天涯何处觅知音</title>
+	</programme>
+	<programme channel="1905环球经典" start="20251124113300 +0800" stop="20251124152600 +0800">
+		<title lang="zh">乱世佳人</title>
+	</programme>
+	<programme channel="1905环球经典" start="20251124152600 +0800" stop="20251124165200 +0800">
+		<title lang="zh">一封陌生女子的来信</title>
+	</programme>
+	<programme channel="1905环球经典" start="20251124165200 +0800" stop="20251124200000 +0800">
+		<title lang="zh">悲惨世界</title>
+	</programme>
+	<programme channel="1905环球经典" start="20251124200000 +0800" stop="20251124220000 +0800">
+		<title lang="zh">巴黎圣母院</title>
+	</programme>
+	<programme channel="1905环球经典" start="20251124220000 +0800" stop="20251124233500 +0800">
+		<title lang="zh">大话西游之大圣娶亲</title>
+	</programme>
+	<programme channel="1905环球经典" start="20251124233500 +0800" stop="20251124235900 +0800">
+		<title lang="zh">乞力马扎罗的雪</title>
+	</programme>
+	<channel id="BTV体育">
+		<display-name lang="zh">BTV体育</display-name>
+	</channel>
+	<programme channel="BTV体育" start="20251124001000 +0800" stop="20251124004000 +0800">
+		<title lang="zh">BRTV赛场：2025中超联赛第1轮集锦</title>
+	</programme>
+	<programme channel="BTV体育" start="20251124004000 +0800" stop="20251124011000 +0800">
+		<title lang="zh">天天体育（2025-11-24）</title>
+	</programme>
+	<programme channel="BTV体育" start="20251124011000 +0800" stop="20251124015000 +0800">
+		<title lang="zh">BRTV赛场：2025-2026德甲集锦（1）</title>
+	</programme>
+	<programme channel="BTV体育" start="20251124015000 +0800" stop="20251124024000 +0800">
+		<title lang="zh">欢乐二打一（2025-11-24）</title>
+	</programme>
+	<programme channel="BTV体育" start="20251124024000 +0800" stop="20251124042000 +0800">
+		<title lang="zh">BRTV赛场：全运会赛事精选</title>
+	</programme>
+	<programme channel="BTV体育" start="20251124042000 +0800" stop="20251124051000 +0800">
+		<title lang="zh">重返经典（新1）</title>
+	</programme>
+	<programme channel="BTV体育" start="20251124051000 +0800" stop="20251124054000 +0800">
+		<title lang="zh">天天体育（2025-11-24）</title>
+	</programme>
+	<programme channel="BTV体育" start="20251124054000 +0800" stop="20251124055500 +0800">
+		<title lang="zh">2024-2025德甲进球集锦（2）</title>
+	</programme>
+	<programme channel="BTV体育" start="20251124055500 +0800" stop="20251124060000 +0800">
+		<title lang="zh">全运会精彩时刻（2）</title>
+	</programme>
+	<programme channel="BTV体育" start="20251124060500 +0800" stop="20251124061500 +0800">
+		<title lang="zh">全运会精彩时刻（2）</title>
+	</programme>
+	<programme channel="BTV体育" start="20251124061500 +0800" stop="20251124075500 +0800">
+		<title lang="zh">BRTV赛场：2026亚足联U17亚洲杯预选赛（巴林-中国）</title>
+	</programme>
+	<programme channel="BTV体育" start="20251124080000 +0800" stop="20251124083000 +0800">
+		<title lang="zh">天天体育（2025-11-23）</title>
+	</programme>
+	<programme channel="BTV体育" start="20251124083000 +0800" stop="20251124092000 +0800">
+		<title lang="zh">欢乐二打一（2025-11-23）</title>
+	</programme>
+	<programme channel="BTV体育" start="20251124092000 +0800" stop="20251124100500 +0800">
+		<title lang="zh">乐活北京247（11-23）</title>
+	</programme>
+	<programme channel="BTV体育" start="20251124100800 +0800" stop="20251124103800 +0800">
+		<title lang="zh">BRTV赛场：2025中超联赛第1轮集锦</title>
+	</programme>
+	<programme channel="BTV体育" start="20251124103800 +0800" stop="20251124110800 +0800">
+		<title lang="zh">BRTV赛场：2025中超联赛第2轮集锦</title>
+	</programme>
+	<programme channel="BTV体育" start="20251124111000 +0800" stop="20251124114000 +0800">
+		<title lang="zh">天天体育（2025-11-23）</title>
+	</programme>
+	<programme channel="BTV体育" start="20251124114000 +0800" stop="20251124123000 +0800">
+		<title lang="zh">欢乐二打一（2025-11-23）</title>
+	</programme>
+	<programme channel="BTV体育" start="20251124123000 +0800" stop="20251124131500 +0800">
+		<title lang="zh">乐活北京248（11-24）</title>
+	</programme>
+	<programme channel="BTV体育" start="20251124132000 +0800" stop="20251124150000 +0800">
+		<title lang="zh">BRTV赛场：全运会赛事精选</title>
+	</programme>
+	<programme channel="BTV体育" start="20251124150500 +0800" stop="20251124151500 +0800">
+		<title lang="zh">全运会精彩时刻（2）</title>
+	</programme>
+	<programme channel="BTV体育" start="20251124152000 +0800" stop="20251124170000 +0800">
+		<title lang="zh">BRTV赛场：2025赛季中超联赛(北京国安-梅州客家)</title>
+	</programme>
+	<programme channel="BTV体育" start="20251124171000 +0800" stop="20251124175500 +0800">
+		<title lang="zh">乐活北京248（11-24）</title>
+	</programme>
+	<programme channel="BTV体育" start="20251124175500 +0800" stop="20251124184500 +0800">
+		<title lang="zh">欢乐二打一（2025-11-24）</title>
+	</programme>
+	<programme channel="BTV体育" start="20251124185000 +0800" stop="20251124192000 +0800">
+		<title lang="zh">直播：天天体育</title>
+	</programme>
+	<programme channel="BTV体育" start="20251124192500 +0800" stop="20251124213000 +0800">
+		<title lang="zh">直播：2026亚足联U17亚洲杯预选赛（中国-东帝汶）</title>
+	</programme>
+	<programme channel="BTV体育" start="20251124213500 +0800" stop="20251124222500 +0800">
+		<title lang="zh">欢乐二打一（2025-11-24）</title>
+	</programme>
 	<channel id="BTV影视">
 		<display-name lang="zh">BTV影视</display-name>
 	</channel>
@@ -14699,6 +14819,9 @@
 	</channel>
 	<programme channel="咪咕综合体育" start="20251124000000 +0800" stop="20251124001000 +0800">
 		<title lang="zh">英超赛场-25/26赛季英超 第12轮 利兹联-阿斯顿维拉 直播</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20251124001000 +0800" stop="20251124003000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
@@ -46971,41 +47094,8 @@
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
-	<programme channel="newtv超级电视剧" start="20251124000000 +0800" stop="20251124020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20251124020000 +0800" stop="20251124040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20251124060000 +0800" stop="20251124080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20251124080000 +0800" stop="20251124100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20251124100600 +0800" stop="20251124120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20251124120000 +0800" stop="20251124140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20251124140000 +0800" stop="20251124160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20251124160000 +0800" stop="20251124180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20251124180000 +0800" stop="20251124190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20251124190000 +0800" stop="20251124200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20251124200000 +0800" stop="20251124220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20251124220000 +0800" stop="20251124235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv超级电视剧" start="20251124000900 +0800" stop="20251124005400 +0800">
+		<title lang="zh">21_绽放的许开心</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
