@@ -44613,6 +44613,9 @@
 	<programme channel="明星大片" start="20251123125800 +0800" stop="20251123131300 +0800">
 		<title lang="zh">35_喜羊羊与灰太狼之羊羊小侦探</title>
 	</programme>
+	<programme channel="明星大片" start="20251123131300 +0800" stop="20251123134300 +0800">
+		<title lang="zh">健康推荐新码</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -69510,6 +69513,9 @@
 	<programme channel="纯享4K" start="20251123130000 +0800" stop="20251123130500 +0800">
 		<title lang="zh">美丽中国自然4K 察青松多系列 高原仙子</title>
 	</programme>
+	<programme channel="纯享4K" start="20251123130500 +0800" stop="20251123135400 +0800">
+		<title lang="zh">跟着唐诗去旅行 第二季4K 第5集 双星会</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -88056,6 +88062,9 @@
 	<programme channel="newtv怡伴健康" start="20251123122300 +0800" stop="20251123131300 +0800">
 		<title lang="zh">水溶植物欧米伽3微囊粉</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251123131300 +0800" stop="20251123132900 +0800">
+		<title lang="zh">小品《同学会》</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -88194,6 +88203,9 @@
 	<programme channel="newtv军事评论" start="20251123124400 +0800" stop="20251123131000 +0800">
 		<title lang="zh">智战 智寻蜂影守平安</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251123131000 +0800" stop="20251123133700 +0800">
+		<title lang="zh">逐梦深蓝最青春 探访第十届全国学生军事训练营</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -88316,6 +88328,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251123125800 +0800" stop="20251123131300 +0800">
 		<title lang="zh">35_喜羊羊与灰太狼之羊羊小侦探</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251123131300 +0800" stop="20251123134300 +0800">
+		<title lang="zh">健康推荐新码</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
