@@ -44745,6 +44745,9 @@
 	<programme channel="明星大片" start="20251123223300 +0800" stop="20251123230300 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme>
+	<programme channel="明星大片" start="20251123230300 +0800" stop="20251123001100 +0800">
+		<title lang="zh">机械玩家</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -87810,6 +87813,9 @@
 	<programme channel="newtv超级体育" start="20251123210500 +0800" stop="20251123231500 +0800">
 		<title lang="zh">2025/2026赛季短道速滑世界巡回赛(波兰站)-女子1500米决赛等</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251123231500 +0800" stop="20251123013000 +0800">
+		<title lang="zh">2025/2026西班牙足球甲级联赛-第13轮(皇家贝蒂斯-赫罗纳)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -88344,6 +88350,9 @@
 	<programme channel="newtv军旅剧场" start="20251123223900 +0800" stop="20251123230900 +0800">
 		<title lang="zh">《八段锦》推荐第42期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251123230900 +0800" stop="20251123235000 +0800">
+		<title lang="zh">25_特赦1959_</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -88443,6 +88452,9 @@
 	<programme channel="newtv家庭剧场" start="20251123223400 +0800" stop="20251123231500 +0800">
 		<title lang="zh">19_兰闺喜事</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251123231500 +0800" stop="20251123235700 +0800">
+		<title lang="zh">20_兰闺喜事</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -88541,6 +88553,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251123224100 +0800" stop="20251123231100 +0800">
 		<title lang="zh">《八段锦》推荐第42期</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251123231100 +0800" stop="20251123000300 +0800">
+		<title lang="zh">令人心动的offer第6季</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -88893,6 +88908,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251123223100 +0800" stop="20251123230100 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251123230100 +0800" stop="20251123234700 +0800">
+		<title lang="zh">07_独孤天下</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -89046,6 +89064,9 @@
 	<programme channel="newtv军事评论" start="20251123224600 +0800" stop="20251123230800 +0800">
 		<title lang="zh">拿破仑战争的终结b7进军巴黎（上）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251123230800 +0800" stop="20251123233000 +0800">
+		<title lang="zh">拿破仑战争的终结b7进军巴黎（下）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -89160,6 +89181,9 @@
 	<programme channel="newtv炫舞未来" start="20251123225400 +0800" stop="20251123231500 +0800">
 		<title lang="zh">民族健身舞《纳林湖等你》（20231127）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251123231500 +0800" stop="20251123003200 +0800">
+		<title lang="zh">谁给航天员做过烤鸭（20250820）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -89261,6 +89285,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251123223300 +0800" stop="20251123230300 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251123230300 +0800" stop="20251123001100 +0800">
+		<title lang="zh">机械玩家</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
