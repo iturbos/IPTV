@@ -82203,6 +82203,9 @@
 	<programme channel="newtv精品大剧" start="20251124223600 +0800" stop="20251124230600 +0800">
 		<title lang="zh">《八段锦》推荐第42期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251124230600 +0800" stop="20251124235200 +0800">
+		<title lang="zh">39_安家</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -83316,6 +83319,9 @@
 	<programme channel="newtv炫舞未来" start="20251124224600 +0800" stop="20251124230700 +0800">
 		<title lang="zh">广场舞—喜气洋洋（20210316）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251124230700 +0800" stop="20251124002400 +0800">
+		<title lang="zh">李思思走进女足 张杰现身秒变演唱会（20220329）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -83568,6 +83574,9 @@
 	<programme channel="newtv金牌综艺" start="20251124214000 +0800" stop="20251124230800 +0800">
 		<title lang="zh">第3期上：新人出场！感情线被搅乱</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20251124230800 +0800" stop="20251124233800 +0800">
+		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -83609,6 +83618,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20251124214800 +0800" stop="20251124231200 +0800">
 		<title lang="zh">25-26赛季NBA杯11月1日：掘金VS开拓者</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20251124231200 +0800" stop="20251124005300 +0800">
+		<title lang="zh">25-26赛季NBA常规赛10月22日：勇士VS湖人</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
