@@ -28590,6 +28590,9 @@
 	<programme channel="咪咕足球" start="20251127211500 +0800" stop="20251127221500 +0800">
 		<title lang="zh">最后之舞04</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251127222000 +0800" stop="20251127235000 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA季后赛1/4决赛第1轮 山东赤水河酒-东莞新彤盛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -41564,6 +41567,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20251127213800 +0800" stop="20251127220800 +0800">
 		<title lang="zh">《八段锦》推荐第43期</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20251127220800 +0800" stop="20251127233400 +0800">
+		<title lang="zh">镇魔司：四象伏魔</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -87888,6 +87894,9 @@
 	<programme channel="newtv精品纪录" start="20251127212000 +0800" stop="20251127220500 +0800">
 		<title lang="zh">03_归队</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251127220500 +0800" stop="20251127223500 +0800">
+		<title lang="zh">《健康生活》推荐第二期</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -88077,6 +88086,9 @@
 	<programme channel="newtv军旅剧场" start="20251127212800 +0800" stop="20251127221000 +0800">
 		<title lang="zh">33_特赦1959_</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251127221000 +0800" stop="20251127224000 +0800">
+		<title lang="zh">《八段锦》推荐第43期</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -88169,6 +88181,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251127213000 +0800" stop="20251127221500 +0800">
 		<title lang="zh">09_儿女情更长</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251127221500 +0800" stop="20251127224500 +0800">
+		<title lang="zh">《健康生活》推荐第二期</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -88265,6 +88280,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251127213100 +0800" stop="20251127220100 +0800">
 		<title lang="zh">《健康生活》推荐第二期</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251127220100 +0800" stop="20251127002800 +0800">
+		<title lang="zh">令人心动的offer第6季</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -88785,6 +88803,9 @@
 	<programme channel="newtv军事评论" start="20251127214400 +0800" stop="20251127220900 +0800">
 		<title lang="zh">【海峡两岸】赖清德吹嘘“台湾之盾” 难掩三大致命伤</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251127220900 +0800" stop="20251127223400 +0800">
+		<title lang="zh">【海峡两岸】日本新潜艇配新导弹 全冲解放军来</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -89066,6 +89087,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251127213800 +0800" stop="20251127220800 +0800">
 		<title lang="zh">《八段锦》推荐第43期</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251127220800 +0800" stop="20251127233400 +0800">
+		<title lang="zh">镇魔司：四象伏魔</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
