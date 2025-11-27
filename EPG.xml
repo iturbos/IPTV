@@ -69159,6 +69159,9 @@
 	<programme channel="纯享4K" start="20251127155200 +0800" stop="20251127160200 +0800">
 		<title lang="zh">秘境之眼4K 鹤舞高原</title>
 	</programme>
+	<programme channel="纯享4K" start="20251127160200 +0800" stop="20251127163000 +0800">
+		<title lang="zh">记住乡愁4K第九季 清流——闽西山乡 林茂粮丰</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -87132,6 +87135,9 @@
 	<programme channel="newtv超级综艺" start="20251127132900 +0800" stop="20251127161900 +0800">
 		<title lang="zh">中国唱将</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251127161900 +0800" stop="20251127175400 +0800">
+		<title lang="zh">非遗里的中国第三季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -87570,6 +87576,9 @@
 	<programme channel="newtv军旅剧场" start="20251127152000 +0800" stop="20251127160400 +0800">
 		<title lang="zh">02_秋蝉</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251127160400 +0800" stop="20251127164700 +0800">
+		<title lang="zh">03_秋蝉</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -87635,6 +87644,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251127153400 +0800" stop="20251127161400 +0800">
 		<title lang="zh">41_娘亲舅大</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251127161400 +0800" stop="20251127165900 +0800">
+		<title lang="zh">伏湿丸</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -87704,6 +87716,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251127154400 +0800" stop="20251127161400 +0800">
 		<title lang="zh">健康推荐新码</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251127161400 +0800" stop="20251127165300 +0800">
+		<title lang="zh">10_双探</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -88079,6 +88094,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251127154600 +0800" stop="20251127161100 +0800">
 		<title lang="zh">我与边关共山河</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251127161100 +0800" stop="20251127163600 +0800">
+		<title lang="zh">我与边关共山河 第二集 西南秘境巡边路</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
