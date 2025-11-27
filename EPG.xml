@@ -44802,6 +44802,9 @@
 	<programme channel="明星大片" start="20251127142300 +0800" stop="20251127150900 +0800">
 		<title lang="zh">11_谢谢你医生</title>
 	</programme>
+	<programme channel="明星大片" start="20251127150900 +0800" stop="20251127153900 +0800">
+		<title lang="zh">健康推荐新码</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -62879,6 +62882,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20251127143700 +0800" stop="20251127150700 +0800">
 		<title lang="zh">健康推荐新码</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20251127150700 +0800" stop="20251127162900 +0800">
+		<title lang="zh">大话西游：至尊宝</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -87378,6 +87384,9 @@
 	<programme channel="newtv精品纪录" start="20251127143600 +0800" stop="20251127150600 +0800">
 		<title lang="zh">健康推荐新码</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251127150600 +0800" stop="20251127155200 +0800">
+		<title lang="zh">10_亮剑</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -87440,6 +87449,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251127144600 +0800" stop="20251127151500 +0800">
 		<title lang="zh">华北辅酶Q10</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251127151500 +0800" stop="20251127160100 +0800">
+		<title lang="zh">38_似锦</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -87567,6 +87579,9 @@
 	<programme channel="newtv家庭剧场" start="20251127141800 +0800" stop="20251127150500 +0800">
 		<title lang="zh">50_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251127150500 +0800" stop="20251127153400 +0800">
+		<title lang="zh">华北辅酶Q10</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -87629,6 +87644,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251127143500 +0800" stop="20251127150500 +0800">
 		<title lang="zh">健康推荐新码</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251127150500 +0800" stop="20251127154400 +0800">
+		<title lang="zh">09_双探</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -87695,6 +87713,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251127143700 +0800" stop="20251127150700 +0800">
 		<title lang="zh">健康推荐新码</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251127150700 +0800" stop="20251127162900 +0800">
+		<title lang="zh">大话西游：至尊宝</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -87872,6 +87893,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251127142300 +0800" stop="20251127150900 +0800">
 		<title lang="zh">07_谢谢你医生</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251127150900 +0800" stop="20251127153800 +0800">
+		<title lang="zh">华北辅酶Q10</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -88062,6 +88086,9 @@
 	<programme channel="newtv炫舞未来" start="20251127142600 +0800" stop="20251127151500 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251127151500 +0800" stop="20251127153700 +0800">
+		<title lang="zh">健身舞—新疆人的魅力（20210903）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -88130,6 +88157,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251127142300 +0800" stop="20251127150900 +0800">
 		<title lang="zh">11_谢谢你医生</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251127150900 +0800" stop="20251127153900 +0800">
+		<title lang="zh">健康推荐新码</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
