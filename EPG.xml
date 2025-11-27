@@ -41256,6 +41256,9 @@
 	<programme channel="惊悚悬疑" start="20251127114100 +0800" stop="20251127121100 +0800">
 		<title lang="zh">健康推荐新码</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20251127121100 +0800" stop="20251127135200 +0800">
+		<title lang="zh">烈血狂沙</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -44741,6 +44744,9 @@
 	</programme>
 	<programme channel="明星大片" start="20251127103400 +0800" stop="20251127120800 +0800">
 		<title lang="zh">笑傲神探</title>
+	</programme>
+	<programme channel="明星大片" start="20251127120800 +0800" stop="20251127123800 +0800">
+		<title lang="zh">健康推荐新码</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -62805,6 +62811,9 @@
 	<programme channel="爱情喜剧" start="20251127112100 +0800" stop="20251127120600 +0800">
 		<title lang="zh">23_致1999年的自己</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20251127120600 +0800" stop="20251127123600 +0800">
+		<title lang="zh">健康推荐新码</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -69044,6 +69053,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20251127113000 +0800" stop="20251127121100 +0800">
 		<title lang="zh">远方的家4K 行走海岸线（28）山海之间品钦州</title>
+	</programme>
+	<programme channel="纯享4K" start="20251127121100 +0800" stop="20251127125300 +0800">
+		<title lang="zh">远方的家4K 行走海岸线（29） 生命之海——三娘湾</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -86988,6 +87000,9 @@
 	<programme channel="newtv超级综艺" start="20251127111800 +0800" stop="20251127121200 +0800">
 		<title lang="zh">2025中国乡村音乐大会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251127121200 +0800" stop="20251127132900 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -87102,6 +87117,9 @@
 	<programme channel="newtv超级电视剧" start="20251127113300 +0800" stop="20251127121800 +0800">
 		<title lang="zh">24_归途</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251127121800 +0800" stop="20251127130300 +0800">
+		<title lang="zh">25_归途</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -87207,6 +87225,9 @@
 	<programme channel="newtv精品纪录" start="20251127111900 +0800" stop="20251127120500 +0800">
 		<title lang="zh">07_亮剑</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251127120500 +0800" stop="20251127123500 +0800">
+		<title lang="zh">健康推荐新码</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -87308,6 +87329,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251127112500 +0800" stop="20251127120900 +0800">
 		<title lang="zh">15_谍战深海之惊蛰[DVD版]</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251127120900 +0800" stop="20251127123900 +0800">
+		<title lang="zh">华北辅酶Q10</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -87465,6 +87489,9 @@
 	<programme channel="newtv爱情喜剧" start="20251127112100 +0800" stop="20251127120600 +0800">
 		<title lang="zh">23_致1999年的自己</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251127120600 +0800" stop="20251127123600 +0800">
+		<title lang="zh">健康推荐新码</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -87555,6 +87582,9 @@
 	<programme channel="newtv怡伴健康" start="20251127112300 +0800" stop="20251127120400 +0800">
 		<title lang="zh">生活圈</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251127120400 +0800" stop="20251127123300 +0800">
+		<title lang="zh">华北辅酶Q10</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -87608,6 +87638,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251127113900 +0800" stop="20251127120800 +0800">
 		<title lang="zh">华北辅酶Q10</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251127120800 +0800" stop="20251127125400 +0800">
+		<title lang="zh">05_谢谢你医生</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -87810,6 +87843,9 @@
 	<programme channel="newtv精品综合" start="20251127103400 +0800" stop="20251127120800 +0800">
 		<title lang="zh">笑傲神探</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251127120800 +0800" stop="20251127123800 +0800">
+		<title lang="zh">健康推荐新码</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -87845,6 +87881,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251127114100 +0800" stop="20251127121100 +0800">
 		<title lang="zh">健康推荐新码</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251127121100 +0800" stop="20251127135200 +0800">
+		<title lang="zh">烈血狂沙</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
