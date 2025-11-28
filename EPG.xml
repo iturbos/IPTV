@@ -41298,6 +41298,9 @@
 	<programme channel="纯享4K" start="20251129020700 +0800" stop="20251129024600 +0800">
 		<title lang="zh">探索b7发现4K 消失的金代行宫</title>
 	</programme>
+	<programme channel="纯享4K" start="20251129024600 +0800" stop="20251129032600 +0800">
+		<title lang="zh">探索b7发现4K 闻喜商墓</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51594,6 +51597,9 @@
 	<programme channel="黑莓动画" start="20251129004200 +0800" stop="20251129024400 +0800">
 		<title lang="zh">01_谷围南亭</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251129024400 +0800" stop="20251129043600 +0800">
+		<title lang="zh">01_我在天庭收废品</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -51939,6 +51945,9 @@
 	<programme channel="newtv精品大剧" start="20251129014000 +0800" stop="20251129023100 +0800">
 		<title lang="zh">水溶植物欧米伽3微囊粉</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251129023100 +0800" stop="20251129031700 +0800">
+		<title lang="zh">19_婆婆来了</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -51965,6 +51974,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251129014900 +0800" stop="20251129023900 +0800">
 		<title lang="zh">水溶植物欧米伽3微囊粉</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251129023900 +0800" stop="20251129032600 +0800">
+		<title lang="zh">01_三生三世枕上书</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -52001,6 +52013,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251129004900 +0800" stop="20251129023200 +0800">
 		<title lang="zh">终极胜利</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251129023200 +0800" stop="20251129031600 +0800">
+		<title lang="zh">伏湿丸</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -52086,6 +52101,9 @@
 	<programme channel="newtv炫舞未来" start="20251129021400 +0800" stop="20251129023500 +0800">
 		<title lang="zh">广场舞—绽放（20220126）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251129023500 +0800" stop="20251129031400 +0800">
+		<title lang="zh">补肾先补脾（20241117）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -52121,6 +52139,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251129015400 +0800" stop="20251129024000 +0800">
 		<title lang="zh">17_梅花红桃</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251129024000 +0800" stop="20251129032600 +0800">
+		<title lang="zh">18_梅花红桃</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
