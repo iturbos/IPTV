@@ -28266,6 +28266,12 @@
 	<programme channel="咪咕综合体育" start="20251129205000 +0800" stop="20251129220000 +0800">
 		<title lang="zh">网球世界-2025中国网球公开赛 女单半决赛 阿尼西莫娃-高芙</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251129220000 +0800" stop="20251129222500 +0800">
+		<title lang="zh">中超精华 第30轮</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20251129223000 +0800" stop="20251129000000 +0800">
+		<title lang="zh">英超赛场-25/26赛季英超 第13轮 曼城-利兹联 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28376,6 +28382,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251129211500 +0800" stop="20251129221500 +0800">
 		<title lang="zh">最后之舞05</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251129222000 +0800" stop="20251129235000 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA季后赛1/4决赛第2轮 四川蜀道远达-江苏南钢</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -41046,6 +41055,12 @@
 	<programme channel="惊悚悬疑" start="20251129203600 +0800" stop="20251129215600 +0800">
 		<title lang="zh">铁血护卫之异种入侵</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20251129215600 +0800" stop="20251129222600 +0800">
+		<title lang="zh">《健康生活》推荐第二期</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20251129222600 +0800" stop="20251129235200 +0800">
+		<title lang="zh">摸金玦之天星陵</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -44600,6 +44615,12 @@
 	</programme>
 	<programme channel="明星大片" start="20251129211900 +0800" stop="20251129220400 +0800">
 		<title lang="zh">09_值得爱</title>
+	</programme>
+	<programme channel="明星大片" start="20251129220400 +0800" stop="20251129223400 +0800">
+		<title lang="zh">《健康生活》推荐第二期</title>
+	</programme>
+	<programme channel="明星大片" start="20251129223400 +0800" stop="20251129000000 +0800">
+		<title lang="zh">包公传奇之天长案</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -62940,6 +62961,15 @@
 	<programme channel="爱情喜剧" start="20251129212300 +0800" stop="20251129215300 +0800">
 		<title lang="zh">《健康生活》推荐第二期</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20251129215300 +0800" stop="20251129223200 +0800">
+		<title lang="zh">07_西出玉门</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20251129223200 +0800" stop="20251129230200 +0800">
+		<title lang="zh">《健康生活》推荐第二期</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20251129230200 +0800" stop="20251129234000 +0800">
+		<title lang="zh">08_西出玉门</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -67356,39 +67386,6 @@
 	<programme channel="福建旅游" start="20251129073000 +0800" stop="20251129074000 +0800">
 		<title lang="zh">旅游气象站</title>
 	</programme>
-	<programme channel="�13000 +0800" stop="20251129220000 +0800">
-		<title lang="zh">刚好一周</title>
-	</programme>
-	<programme channel="福建新闻" start="20251129220000 +0800" stop="20251129221500 +0800">
-		<title lang="zh">财经这些事</title>
-	</programme>
-	<programme channel="福建新闻" start="20251129221500 +0800" stop="20251129230000 +0800">
-		<title lang="zh">环球报道</title>
-	</programme>
-	<programme channel="福建新闻" start="20251129230000 +0800" stop="20251129232500 +0800">
-		<title lang="zh">福建卫视新闻</title>
-	</programme>
-	<programme channel="福建新闻" start="20251129232500 +0800" stop="20251129233000 +0800">
-		<title lang="zh">晚间天气快报</title>
-	</programme>
-	<programme channel="福建新闻" start="20251129233000 +0800" stop="20251129234500 +0800">
-		<title lang="zh">自游自在</title>
-	</programme>
-	<programme channel="福建新闻" start="20251129234500 +0800" stop="20251129235900 +0800">
-		<title lang="zh">人生旅途</title>
-	</programme>
-	<programme channel="福建新闻" start="20251129235900 +0800" stop="20251129235900 +0800">
-		<title lang="zh">结束</title>
-	</programme>
-	<channel id="福建旅游">
-		<display-name lang="zh">福建旅游</display-name>
-	</channel>
-	<programme channel="福建旅游" start="20251129052000 +0800" stop="20251129073000 +0800">
-		<title lang="zh">寰宇地理</title>
-	</programme>
-	<programme channel="福建旅游" start="20251129073000 +0800" stop="20251129074000 +0800">
-		<title lang="zh">旅游气象站</title>
-	</programme>
 	<programme channel="福建旅游" start="20251129074000 +0800" stop="20251129092500 +0800">
 		<title lang="zh">清新剧场</title>
 	</programme>
@@ -69059,6 +69056,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20251129221300 +0800" stop="20251129230600 +0800">
 		<title lang="zh">乘火车看中国4K 第二集 丝绸之路</title>
+	</programme>
+	<programme channel="纯享4K" start="20251129230600 +0800" stop="20251129232100 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 油画b7棋赛</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -85944,6 +85944,9 @@
 	<programme channel="黑莓动画" start="20251129214600 +0800" stop="20251129230800 +0800">
 		<title lang="zh">黑猫警长之翡翠之星</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251129230800 +0800" stop="20251129001300 +0800">
+		<title lang="zh">狐妖小红娘b7月红2</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -87225,6 +87228,9 @@
 	<programme channel="newtv精品大剧" start="20251129223200 +0800" stop="20251129230200 +0800">
 		<title lang="zh">《A咖秀》推荐第13期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251129230200 +0800" stop="20251129235000 +0800">
+		<title lang="zh">48_安家</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -87627,6 +87633,9 @@
 	<programme channel="newtv家庭剧场" start="20251129223600 +0800" stop="20251129230600 +0800">
 		<title lang="zh">《健康生活》推荐第二期</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251129230600 +0800" stop="20251129235200 +0800">
+		<title lang="zh">18_儿女情更长</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -87816,6 +87825,9 @@
 	<programme channel="newtv爱情喜剧" start="20251129223200 +0800" stop="20251129230200 +0800">
 		<title lang="zh">《健康生活》推荐第二期</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251129230200 +0800" stop="20251129234000 +0800">
+		<title lang="zh">08_西出玉门</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -87980,6 +87992,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251129224300 +0800" stop="20251129231300 +0800">
 		<title lang="zh">《健康生活》推荐第二期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251129231300 +0800" stop="20251129235200 +0800">
+		<title lang="zh">四川天门淘一街vs山西清徐学栋-第4局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -88817,6 +88832,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251129221500 +0800" stop="20251129230400 +0800">
 		<title lang="zh">12_雪中悍刀行</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251129230400 +0800" stop="20251129233300 +0800">
+		<title lang="zh">《健康生活》推荐第二期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
