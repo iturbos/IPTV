@@ -27738,6 +27738,9 @@
 	<programme channel="咪咕综合体育" start="20251202093000 +0800" stop="20251202111000 +0800">
 		<title lang="zh">英超赛场-25/26赛季英超 第13轮 水晶宫-曼联</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251202111500 +0800" stop="20251202113500 +0800">
+		<title lang="zh">全运金牌时刻第一期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -61716,6 +61719,9 @@
 	<programme channel="爱情喜剧" start="20251202104600 +0800" stop="20251202113000 +0800">
 		<title lang="zh">伏湿丸</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20251202113000 +0800" stop="20251202121800 +0800">
+		<title lang="zh">13_庆余年第二季</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -67901,6 +67907,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20251202104200 +0800" stop="20251202112200 +0800">
 		<title lang="zh">探索b7发现4K 张家口四台遗址</title>
+	</programme>
+	<programme channel="纯享4K" start="20251202112200 +0800" stop="20251202113200 +0800">
+		<title lang="zh">秘境之眼4K 大漠生灵</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -85698,6 +85707,9 @@
 	<programme channel="newtv精品大剧" start="20251202102800 +0800" stop="20251202111300 +0800">
 		<title lang="zh">伏湿丸</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251202111300 +0800" stop="20251202115800 +0800">
+		<title lang="zh">04_一代枭雄</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -85974,6 +85986,9 @@
 	<programme channel="newtv爱情喜剧" start="20251202104600 +0800" stop="20251202113000 +0800">
 		<title lang="zh">伏湿丸</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251202113000 +0800" stop="20251202121800 +0800">
+		<title lang="zh">13_庆余年第二季</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -86006,6 +86021,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251202103400 +0800" stop="20251202111400 +0800">
 		<title lang="zh">营养健康人生</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251202111400 +0800" stop="20251202123100 +0800">
+		<title lang="zh">特别有种：致命行动</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -86057,6 +86075,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251202101700 +0800" stop="20251202110200 +0800">
 		<title lang="zh">36_平凡之路</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251202110200 +0800" stop="20251202114400 +0800">
+		<title lang="zh">生活圈</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -86193,6 +86214,9 @@
 	<programme channel="newtv军事评论" start="20251202104100 +0800" stop="20251202110600 +0800">
 		<title lang="zh">港湾“勤务兵”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251202110600 +0800" stop="20251202113200 +0800">
+		<title lang="zh">粤港澳青少年军营初体验</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -86246,6 +86270,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251202095100 +0800" stop="20251202110800 +0800">
 		<title lang="zh">谁用画笔将乡村改造成潮流打卡地（20251112）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251202110800 +0800" stop="20251202111800 +0800">
+		<title lang="zh">百年辅酶</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
