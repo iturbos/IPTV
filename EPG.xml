@@ -85047,6 +85047,9 @@
 	<programme channel="黑莓动画" start="20251202192500 +0800" stop="20251202231400 +0800">
 		<title lang="zh">01_假面骑士艾克赛德 （普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251202231400 +0800" stop="20251202002000 +0800">
+		<title lang="zh">狐妖小红娘b7月红2</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -85956,6 +85959,9 @@
 	<programme channel="newtv超级综艺" start="20251202221300 +0800" stop="20251202231000 +0800">
 		<title lang="zh">绽放吧！妈妈</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251202231000 +0800" stop="20251202235700 +0800">
+		<title lang="zh">27_折腰</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -86169,6 +86175,9 @@
 	<programme channel="newtv超级电视剧" start="20251202223300 +0800" stop="20251202231700 +0800">
 		<title lang="zh">04_谍战深海之惊蛰[DVD版]</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251202231700 +0800" stop="20251202000200 +0800">
+		<title lang="zh">05_谍战深海之惊蛰[DVD版]</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -86267,6 +86276,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251202224100 +0800" stop="20251202231100 +0800">
 		<title lang="zh">《A咖秀》推荐第13期</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251202231100 +0800" stop="20251202235700 +0800">
+		<title lang="zh">02_父辈的荣耀</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -86369,6 +86381,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251202222100 +0800" stop="20251202230200 +0800">
 		<title lang="zh">35_特赦1959_</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251202230200 +0800" stop="20251202233200 +0800">
+		<title lang="zh">《健康生活》推荐第二期</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -87287,6 +87302,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251202223500 +0800" stop="20251202230200 +0800">
 		<title lang="zh">破浪前行</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251202230200 +0800" stop="20251202232900 +0800">
+		<title lang="zh">全新挑战</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
