@@ -28488,6 +28488,9 @@
 	<programme channel="咪咕综合体育" start="20251203170500 +0800" stop="20251203184500 +0800">
 		<title lang="zh">足球世界-25/26赛季意甲 第13轮 AC米兰-拉齐奥</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251203184500 +0800" stop="20251203185500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -41309,6 +41312,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20251203175700 +0800" stop="20251203183700 +0800">
 		<title lang="zh">营养健康人生</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20251203183800 +0800" stop="20251203200200 +0800">
+		<title lang="zh">怪兽2：史前异种</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -68685,6 +68691,9 @@
 	<programme channel="纯享4K" start="20251203180500 +0800" stop="20251203183500 +0800">
 		<title lang="zh">味道4K 原味乡间b7襄阳篇（2）</title>
 	</programme>
+	<programme channel="纯享4K" start="20251203183500 +0800" stop="20251203191500 +0800">
+		<title lang="zh">探索b7发现4K 草原太平公主之谜（2）刺鹅锥</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -86502,6 +86511,9 @@
 	<programme channel="newtv超级电视剧" start="20251203180400 +0800" stop="20251203184900 +0800">
 		<title lang="zh">03_我们队伍向太阳</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251203184900 +0800" stop="20251203193400 +0800">
+		<title lang="zh">16_山花烂漫时</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -87372,6 +87384,9 @@
 	<programme channel="newtv军事评论" start="20251203182300 +0800" stop="20251203184500 +0800">
 		<title lang="zh">那个瞬间的年代（6）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251203184500 +0800" stop="20251203190700 +0800">
+		<title lang="zh">那个瞬间的年代（7）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -87470,6 +87485,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251203181400 +0800" stop="20251203182400 +0800">
 		<title lang="zh">百年辅酶</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251203184400 +0800" stop="20251203200100 +0800">
+		<title lang="zh">乡村教师坚守大山 跟张韬一起体验家访（20220322）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -87602,6 +87620,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251203175700 +0800" stop="20251203183700 +0800">
 		<title lang="zh">营养健康人生</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251203183800 +0800" stop="20251203200200 +0800">
+		<title lang="zh">怪兽2：史前异种</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
