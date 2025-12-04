@@ -87834,6 +87834,9 @@
 	<programme channel="newtv古装剧场" start="20251204223600 +0800" stop="20251204230600 +0800">
 		<title lang="zh">《健康生活》推荐第二期</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251204230600 +0800" stop="20251204234900 +0800">
+		<title lang="zh">02_雁回时</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -88653,6 +88656,9 @@
 	<programme channel="newtv军事评论" start="20251204225000 +0800" stop="20251204231600 +0800">
 		<title lang="zh">【海峡两岸】网络神曲走红两岸 民进党连滚带爬</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251204231600 +0800" stop="20251204234200 +0800">
+		<title lang="zh">【海峡两岸】郑丽文当选党主席 国民党要举什么旗？</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -89055,6 +89061,9 @@
 	<programme channel="newtv金牌综艺" start="20251204223100 +0800" stop="20251204231700 +0800">
 		<title lang="zh">45_谍战深海之惊蛰[DVD版]</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20251204231700 +0800" stop="20251204235700 +0800">
+		<title lang="zh">23_红蔷薇</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -89228,6 +89237,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251204223900 +0800" stop="20251204230900 +0800">
 		<title lang="zh">《健康生活》推荐第二期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251204230900 +0800" stop="20251204003200 +0800">
+		<title lang="zh">大偃术师</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
