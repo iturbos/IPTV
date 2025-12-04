@@ -28683,6 +28683,9 @@
 	<programme channel="咪咕综合体育" start="20251204123000 +0800" stop="20251204124500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251204124500 +0800" stop="20251204130000 +0800">
+		<title lang="zh">睛彩圈圈点第十九期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -62964,6 +62967,9 @@
 	<programme channel="爱情喜剧" start="20251204115700 +0800" stop="20251204124400 +0800">
 		<title lang="zh">23_庆余年第二季</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20251204124400 +0800" stop="20251204132400 +0800">
+		<title lang="zh">营养健康人生</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -87069,6 +87075,9 @@
 	<programme channel="newtv超级电视剧" start="20251204120100 +0800" stop="20251204124600 +0800">
 		<title lang="zh">22_珠江人家</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251204124600 +0800" stop="20251204132800 +0800">
+		<title lang="zh">21_运河边的人们</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -87227,6 +87236,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251204115200 +0800" stop="20251204123200 +0800">
 		<title lang="zh">营养健康人生</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251204123200 +0800" stop="20251204131900 +0800">
+		<title lang="zh">12_嫣语赋</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -87429,6 +87441,9 @@
 	<programme channel="newtv爱情喜剧" start="20251204115700 +0800" stop="20251204124400 +0800">
 		<title lang="zh">23_庆余年第二季</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251204124400 +0800" stop="20251204132400 +0800">
+		<title lang="zh">营养健康人生</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -87584,6 +87599,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251204115200 +0800" stop="20251204123300 +0800">
 		<title lang="zh">营养健康人生</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251204123300 +0800" stop="20251204131800 +0800">
+		<title lang="zh">34_谢谢你医生</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
