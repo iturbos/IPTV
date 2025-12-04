@@ -28731,6 +28731,9 @@
 	<programme channel="咪咕综合体育" start="20251204160000 +0800" stop="20251204184000 +0800">
 		<title lang="zh">国球荣耀-2025国际乒联混团世界杯 第二阶段循环赛第三轮 中国-法国 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251204184500 +0800" stop="20251204202500 +0800">
+		<title lang="zh">英超赛场-25/26赛季英超 第13轮 切尔西-阿森纳</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28811,6 +28814,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251204183000 +0800" stop="20251204183500 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251204183500 +0800" stop="20251204185000 +0800">
+		<title lang="zh">睛彩圈圈点第十九期</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -41576,6 +41582,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20251204175800 +0800" stop="20251204183800 +0800">
 		<title lang="zh">营养健康人生</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20251204183900 +0800" stop="20251204200100 +0800">
+		<title lang="zh">民俗怪闻录之出马仙</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -69462,6 +69471,9 @@
 	<programme channel="纯享4K" start="20251204175900 +0800" stop="20251204183900 +0800">
 		<title lang="zh">探索b7发现4K 草原太平公主之谜（3）盛世芳华</title>
 	</programme>
+	<programme channel="纯享4K" start="20251204183900 +0800" stop="20251204191800 +0800">
+		<title lang="zh">探索b7发现4K 文物里的唐代戍边生活（上）</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -87498,6 +87510,9 @@
 	<programme channel="newtv精品纪录" start="20251204174800 +0800" stop="20251204183200 +0800">
 		<title lang="zh">伏湿丸</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251204183200 +0800" stop="20251204191400 +0800">
+		<title lang="zh">15_跨过鸭绿江</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -87572,6 +87587,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251204175200 +0800" stop="20251204183600 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251204183600 +0800" stop="20251204192200 +0800">
+		<title lang="zh">28_梦华录</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -88005,6 +88023,9 @@
 	<programme channel="newtv怡伴健康" start="20251204180600 +0800" stop="20251204184600 +0800">
 		<title lang="zh">营养健康人生</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251204184600 +0800" stop="20251204192300 +0800">
+		<title lang="zh">管控血压你做对了吗（下）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -88214,6 +88235,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251204180800 +0800" stop="20251204183500 +0800">
 		<title lang="zh">云端王牌</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251204183500 +0800" stop="20251204190100 +0800">
+		<title lang="zh">反坦克的解题思路</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -88439,6 +88463,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251204175800 +0800" stop="20251204183800 +0800">
 		<title lang="zh">营养健康人生</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251204183900 +0800" stop="20251204200100 +0800">
+		<title lang="zh">民俗怪闻录之出马仙</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
