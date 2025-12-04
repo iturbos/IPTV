@@ -28689,6 +28689,9 @@
 	<programme channel="咪咕综合体育" start="20251204130500 +0800" stop="20251204150000 +0800">
 		<title lang="zh">网球世界-2025WTA年终总决赛女双决赛 巴博斯/史蒂芬妮-库德梅托娃/梅尔滕斯</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251204150500 +0800" stop="20251204155500 +0800">
+		<title lang="zh">英超精华-25/26赛季英超第12轮</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28748,6 +28751,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251204143000 +0800" stop="20251204151000 +0800">
 		<title lang="zh">西班牙篮球黄金一代01 屏障</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251204151000 +0800" stop="20251204151500 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -63012,6 +63018,9 @@
 	<programme channel="爱情喜剧" start="20251204141200 +0800" stop="20251204150200 +0800">
 		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20251204150200 +0800" stop="20251204154900 +0800">
+		<title lang="zh">25_庆余年第二季</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -69279,6 +69288,9 @@
 	<programme channel="纯享4K" start="20251204145300 +0800" stop="20251204150800 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 岁华纪胜图b7秋千</title>
 	</programme>
+	<programme channel="纯享4K" start="20251204150800 +0800" stop="20251204153800 +0800">
+		<title lang="zh">村庄故事4K 寻根右龙</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -74366,6 +74378,9 @@
 	</programme>
 	<programme channel="超级电影" start="20251204135000 +0800" stop="20251204150100 +0800">
 		<title lang="zh">电影《石榴熟了之一拍到底》</title>
+	</programme>
+	<programme channel="超级电影" start="20251204150100 +0800" stop="20251204160400 +0800">
+		<title lang="zh">电影《蛇形行动》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -86172,6 +86187,9 @@
 	<programme channel="黑莓电影" start="20251204131600 +0800" stop="20251204150700 +0800">
 		<title lang="zh">长江图</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251204150700 +0800" stop="20251204170100 +0800">
+		<title lang="zh">大黄蜂</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -87015,6 +87033,9 @@
 	<programme channel="newtv超级综艺" start="20251204122100 +0800" stop="20251204150600 +0800">
 		<title lang="zh">中国唱将</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251204150600 +0800" stop="20251204162400 +0800">
+		<title lang="zh">国风超有戏b7寻风季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -87060,6 +87081,9 @@
 	<programme channel="newtv超级体育" start="20251204132800 +0800" stop="20251204150000 +0800">
 		<title lang="zh">2025/2026西班牙足球甲级联赛-第14轮(塞维利亚-皇家贝蒂斯)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251204150000 +0800" stop="20251204160000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季短道速滑世界巡回赛 荷兰站 1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -87092,6 +87116,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20251204135000 +0800" stop="20251204150100 +0800">
 		<title lang="zh">电影《石榴熟了之一拍到底》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20251204150100 +0800" stop="20251204160400 +0800">
+		<title lang="zh">电影《蛇形行动》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -87414,6 +87441,9 @@
 	<programme channel="newtv军旅剧场" start="20251204143100 +0800" stop="20251204151500 +0800">
 		<title lang="zh">22_秋蝉</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251204151500 +0800" stop="20251204155600 +0800">
+		<title lang="zh">营养健康人生</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -87584,6 +87614,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251204141200 +0800" stop="20251204150200 +0800">
 		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251204150200 +0800" stop="20251204154900 +0800">
+		<title lang="zh">25_庆余年第二季</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -87879,6 +87912,9 @@
 	<programme channel="newtv军事评论" start="20251204144600 +0800" stop="20251204151100 +0800">
 		<title lang="zh">我的战友是“老兵”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251204151100 +0800" stop="20251204153600 +0800">
+		<title lang="zh">女兵的硬核青春</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -87956,6 +87992,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251204142500 +0800" stop="20251204150400 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251204150400 +0800" stop="20251204162100 +0800">
+		<title lang="zh">西红柿鸡蛋馅、榴莲馅 这样的饺子你吃过吗？（20251201）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -88139,6 +88178,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251204143400 +0800" stop="20251204150400 +0800">
 		<title lang="zh">健康推荐新码</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251204150400 +0800" stop="20251204154900 +0800">
+		<title lang="zh">25_无间</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
