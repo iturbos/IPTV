@@ -62769,6 +62769,9 @@
 	<programme channel="爱情喜剧" start="20251205185900 +0800" stop="20251205190200 +0800">
 		<title lang="zh">渠道-小麻花</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20251205190200 +0800" stop="20251205194700 +0800">
+		<title lang="zh">伏湿丸</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -74012,6 +74015,9 @@
 	</programme>
 	<programme channel="超级电影" start="20251205173200 +0800" stop="20251205191700 +0800">
 		<title lang="zh">电影《捍卫者》</title>
+	</programme>
+	<programme channel="超级电影" start="20251205191700 +0800" stop="20251205205100 +0800">
+		<title lang="zh">电影《生死96小时》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -86745,6 +86751,9 @@
 	<programme channel="newtv超级综艺" start="20251205173900 +0800" stop="20251205190500 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251205192200 +0800" stop="20251205193000 +0800">
+		<title lang="zh">国家宝藏-周游季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -86843,6 +86852,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20251205173200 +0800" stop="20251205191700 +0800">
 		<title lang="zh">电影《捍卫者》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20251205191700 +0800" stop="20251205205100 +0800">
+		<title lang="zh">电影《生死96小时》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -87002,6 +87014,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251205182600 +0800" stop="20251205190700 +0800">
 		<title lang="zh">营养健康人生</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251205190700 +0800" stop="20251205194800 +0800">
+		<title lang="zh">20_大唐荣耀</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -87324,6 +87339,9 @@
 	<programme channel="newtv家庭剧场" start="20251205182900 +0800" stop="20251205191500 +0800">
 		<title lang="zh">19_非常有喜</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251205191500 +0800" stop="20251205194500 +0800">
+		<title lang="zh">《健康生活》推荐第二期</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -87471,6 +87489,9 @@
 	<programme channel="newtv爱情喜剧" start="20251205185900 +0800" stop="20251205190200 +0800">
 		<title lang="zh">渠道-小麻花</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251205190200 +0800" stop="20251205194700 +0800">
+		<title lang="zh">伏湿丸</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -87608,6 +87629,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251205183100 +0800" stop="20251205191100 +0800">
 		<title lang="zh">营养健康人生</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251205191100 +0800" stop="20251205194900 +0800">
+		<title lang="zh">筑牢“免疫墙”（上）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -87812,6 +87836,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251205184800 +0800" stop="20251205191000 +0800">
 		<title lang="zh">大国重器 铁甲洪流</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251205191000 +0800" stop="20251205193200 +0800">
+		<title lang="zh">大国重器 苍穹基石</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -88148,6 +88175,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251205183700 +0800" stop="20251205192200 +0800">
 		<title lang="zh">01_风暴舞</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251205192200 +0800" stop="20251205192400 +0800">
+		<title lang="zh">渠道-小麻花</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
