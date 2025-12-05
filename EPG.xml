@@ -28689,6 +28689,9 @@
 	<programme channel="咪咕足球" start="20251205220500 +0800" stop="20251205221500 +0800">
 		<title lang="zh">掘金之路</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251205221500 +0800" stop="20251205222000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -88466,6 +88469,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251205212400 +0800" stop="20251205220700 +0800">
 		<title lang="zh">04_风暴舞</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251205220700 +0800" stop="20251205223700 +0800">
+		<title lang="zh">《超级美味》推荐第20期</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
