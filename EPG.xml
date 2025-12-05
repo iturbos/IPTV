@@ -16404,6 +16404,9 @@
 	<programme channel="咪咕综合体育" start="20251206000000 +0800" stop="20251206004000 +0800">
 		<title lang="zh">UFC格斗之夜261期 主赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251206004500 +0800" stop="20251206013500 +0800">
+		<title lang="zh">纪录片拜仁慕尼黑：传奇背后 第五集</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -52110,11 +52113,17 @@
 	<programme channel="newtv超级电影" start="20251206003100 +0800" stop="20251206004500 +0800">
 		<title lang="zh">今日影评</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251206004500 +0800" stop="20251206020700 +0800">
+		<title lang="zh">十兄弟</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
 	<programme channel="newtv超级电视剧" start="20251206001000 +0800" stop="20251206005100 +0800">
 		<title lang="zh">02_热血青春</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251206005100 +0800" stop="20251206013300 +0800">
+		<title lang="zh">03_热血青春</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -52247,6 +52256,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251206000600 +0800" stop="20251206003600 +0800">
 		<title lang="zh">健康推荐新码</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251206003600 +0800" stop="20251206011900 +0800">
+		<title lang="zh">19_秋蝉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
