@@ -45048,6 +45048,9 @@
 	<programme channel="明星大片" start="20251205224400 +0800" stop="20251205231500 +0800">
 		<title lang="zh">《健康生活》推荐第二期</title>
 	</programme>
+	<programme channel="明星大片" start="20251205231500 +0800" stop="20251205002100 +0800">
+		<title lang="zh">龙胆荡</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -69078,6 +69081,9 @@
 	<programme channel="纯享4K" start="20251205225500 +0800" stop="20251205231000 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 油画b7佩洛塔游戏</title>
 	</programme>
+	<programme channel="纯享4K" start="20251205231000 +0800" stop="20251205234000 +0800">
+		<title lang="zh">村庄故事4K 山庄玉露香</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -86880,6 +86886,9 @@
 	<programme channel="newtv超级综艺" start="20251205224300 +0800" stop="20251205231800 +0800">
 		<title lang="zh">慕名而来</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251205231800 +0800" stop="20251205235500 +0800">
+		<title lang="zh">05_锦月如歌</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -87585,6 +87594,9 @@
 	<programme channel="newtv家庭剧场" start="20251205223200 +0800" stop="20251205230200 +0800">
 		<title lang="zh">《健康生活》推荐第二期</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251205230200 +0800" stop="20251205234800 +0800">
+		<title lang="zh">41_儿女情更长</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -87839,6 +87851,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251205223600 +0800" stop="20251205230600 +0800">
 		<title lang="zh">《健康生活》推荐第二期</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251205230600 +0800" stop="20251205002600 +0800">
+		<title lang="zh">西部慢调</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -88194,6 +88209,9 @@
 	<programme channel="newtv军事评论" start="20251205224700 +0800" stop="20251205231300 +0800">
 		<title lang="zh">福建舰 来时路漫济沧海</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251205231300 +0800" stop="20251205234000 +0800">
+		<title lang="zh">扶摇“直”上</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -88403,6 +88421,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251205224400 +0800" stop="20251205231500 +0800">
 		<title lang="zh">《健康生活》推荐第二期</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251205231500 +0800" stop="20251205002100 +0800">
+		<title lang="zh">龙胆荡</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
