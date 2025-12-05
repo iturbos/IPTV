@@ -68811,6 +68811,9 @@
 	<programme channel="纯享4K" start="20251205145800 +0800" stop="20251205151300 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 油画b7佩洛塔游戏</title>
 	</programme>
+	<programme channel="纯享4K" start="20251205151300 +0800" stop="20251205154300 +0800">
+		<title lang="zh">村庄故事4K 山庄玉露香</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -86922,6 +86925,9 @@
 	<programme channel="newtv古装剧场" start="20251205142500 +0800" stop="20251205151100 +0800">
 		<title lang="zh">18_嫣语赋</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251205151100 +0800" stop="20251205155100 +0800">
+		<title lang="zh">营养健康人生</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -87342,6 +87348,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251205142200 +0800" stop="20251205150800 +0800">
 		<title lang="zh">39_谢谢你医生</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251205150800 +0800" stop="20251205154900 +0800">
+		<title lang="zh">营养健康人生</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -87512,6 +87521,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251205142300 +0800" stop="20251205150200 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251205150200 +0800" stop="20251205161800 +0800">
+		<title lang="zh">西红柿鸡蛋馅、榴莲馅 这样的饺子你吃过吗？（20251201）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -87701,6 +87713,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251205135600 +0800" stop="20251205144100 +0800">
 		<title lang="zh">29_无间</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251205144100 +0800" stop="20251205151100 +0800">
+		<title lang="zh">健康推荐新码</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251205151100 +0800" stop="20251205155700 +0800">
+		<title lang="zh">30_无间</title>
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251205144100 +0800" stop="20251205151100 +0800">
 		<title lang="zh">健康推荐新码</title>
