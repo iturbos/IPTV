@@ -86766,6 +86766,9 @@
 	<programme channel="newtv超级电视剧" start="20251207115100 +0800" stop="20251207123700 +0800">
 		<title lang="zh">34_珠江人家</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251207123700 +0800" stop="20251207131900 +0800">
+		<title lang="zh">03_好妻子</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -86943,6 +86946,9 @@
 	<programme channel="newtv古装剧场" start="20251207114300 +0800" stop="20251207123300 +0800">
 		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251207123300 +0800" stop="20251207131900 +0800">
+		<title lang="zh">26_嫣语赋</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -87056,6 +87062,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251207115700 +0800" stop="20251207124100 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251207124100 +0800" stop="20251207132700 +0800">
+		<title lang="zh">25_非常有喜</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -87327,6 +87336,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251207120400 +0800" stop="20251207123400 +0800">
 		<title lang="zh">健康推荐渠道</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251207123400 +0800" stop="20251207131900 +0800">
+		<title lang="zh">08_激情的岁月</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -87404,6 +87416,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251207120800 +0800" stop="20251207123400 +0800">
 		<title lang="zh">背水一战 绝地反击</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251207123400 +0800" stop="20251207130100 +0800">
+		<title lang="zh">重器护河山</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
