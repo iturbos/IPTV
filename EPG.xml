@@ -26318,6 +26318,9 @@
 	<programme channel="咪咕足球" start="20251208214500 +0800" stop="20251208220000 +0800">
 		<title lang="zh">睛彩圈圈点第十九期</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251208221500 +0800" stop="20251208222000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -38905,6 +38908,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20251208213800 +0800" stop="20251208220800 +0800">
 		<title lang="zh">《健康生活》推荐第三期</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20251208220900 +0800" stop="20251208232900 +0800">
+		<title lang="zh">白云斋怪话</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -65318,6 +65324,9 @@
 	<programme channel="纯享4K" start="20251208211400 +0800" stop="20251208220200 +0800">
 		<title lang="zh">黄河之歌4K 第4集 大浪淘沙</title>
 	</programme>
+	<programme channel="纯享4K" start="20251208220200 +0800" stop="20251208225100 +0800">
+		<title lang="zh">大数据时代4K 第2集 转型之路</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -81641,6 +81650,9 @@
 	<programme channel="newtv超级电视剧" start="20251208211600 +0800" stop="20251208220000 +0800">
 		<title lang="zh">26_谍战深海之惊蛰[DVD版]</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251208220000 +0800" stop="20251208224400 +0800">
+		<title lang="zh">27_谍战深海之惊蛰[DVD版]</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -82043,6 +82055,9 @@
 	<programme channel="newtv军旅剧场" start="20251208213000 +0800" stop="20251208221600 +0800">
 		<title lang="zh">21_小站风云</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251208221600 +0800" stop="20251208224600 +0800">
+		<title lang="zh">《健康生活》推荐第三期</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -82138,6 +82153,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251208214300 +0800" stop="20251208221300 +0800">
 		<title lang="zh">《健康生活》推荐第三期</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251208221300 +0800" stop="20251208225800 +0800">
+		<title lang="zh">23_山花烂漫时</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -83018,6 +83036,9 @@
 	<programme channel="newtv惊悚悬疑" start="20251208213800 +0800" stop="20251208220800 +0800">
 		<title lang="zh">《健康生活》推荐第三期</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251208220900 +0800" stop="20251208232900 +0800">
+		<title lang="zh">白云斋怪话</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -83125,6 +83146,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251208214200 +0800" stop="20251208221200 +0800">
 		<title lang="zh">《健康生活》推荐第三期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251208221200 +0800" stop="20251208225500 +0800">
+		<title lang="zh">33_红蔷薇</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
