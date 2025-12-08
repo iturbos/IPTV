@@ -41990,6 +41990,9 @@
 	<programme channel="明星大片" start="20251208223100 +0800" stop="20251208230100 +0800">
 		<title lang="zh">《健康生活》推荐第三期</title>
 	</programme>
+	<programme channel="明星大片" start="20251208230100 +0800" stop="20251208001900 +0800">
+		<title lang="zh">春娘</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -81476,6 +81479,9 @@
 	<programme channel="newtv超级综艺" start="20251208223200 +0800" stop="20251208230700 +0800">
 		<title lang="zh">23_锦月如歌</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251208230700 +0800" stop="20251208235100 +0800">
+		<title lang="zh">24_锦月如歌</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -81896,6 +81902,9 @@
 	<programme channel="newtv精品纪录" start="20251208223200 +0800" stop="20251208230200 +0800">
 		<title lang="zh">《健康生活》推荐第三期</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251208230200 +0800" stop="20251208234700 +0800">
+		<title lang="zh">21_归队</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -81997,6 +82006,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251208223400 +0800" stop="20251208230400 +0800">
 		<title lang="zh">《健康生活》推荐第三期</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251208230400 +0800" stop="20251208235500 +0800">
+		<title lang="zh">17_雁回时</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -82670,6 +82682,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251208223900 +0800" stop="20251208230900 +0800">
 		<title lang="zh">《健康生活》推荐第三期</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251208230900 +0800" stop="20251208000800 +0800">
+		<title lang="zh">追梦人小酒馆</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -82946,6 +82961,9 @@
 	<programme channel="newtv炫舞未来" start="20251208224200 +0800" stop="20251208230400 +0800">
 		<title lang="zh">健身舞—雪恋（20210613）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251208230400 +0800" stop="20251208002600 +0800">
+		<title lang="zh">信马游疆（20251130）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -83044,6 +83062,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251208223100 +0800" stop="20251208230100 +0800">
 		<title lang="zh">《健康生活》推荐第三期</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251208230100 +0800" stop="20251208001900 +0800">
+		<title lang="zh">春娘</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
