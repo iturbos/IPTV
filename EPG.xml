@@ -48066,6 +48066,9 @@
 	<programme channel="纯享4K" start="20251209230000 +0800" stop="20251209231500 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 油画b7比格林兄弟的比赛</title>
 	</programme>
+	<programme channel="纯享4K" start="20251209231500 +0800" stop="20251209234000 +0800">
+		<title lang="zh">东方新科幻4K 第3集 未来人类</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60396,6 +60399,9 @@
 	<programme channel="newtv超级电视剧" start="20251209223200 +0800" stop="20251209231600 +0800">
 		<title lang="zh">32_谍战深海之惊蛰[DVD版]</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251209231600 +0800" stop="20251209000000 +0800">
+		<title lang="zh">33_谍战深海之惊蛰[DVD版]</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -60608,6 +60614,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251209223600 +0800" stop="20251209230600 +0800">
 		<title lang="zh">《健康生活》推荐第三期</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251209230600 +0800" stop="20251209235100 +0800">
+		<title lang="zh">24_归队</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
