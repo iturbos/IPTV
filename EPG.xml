@@ -60099,6 +60099,9 @@
 	<programme channel="newtv超级综艺" start="20251209175100 +0800" stop="20251209192000 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251209192000 +0800" stop="20251209193000 +0800">
+		<title lang="zh">国家宝藏-周游季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60366,6 +60369,9 @@
 	<programme channel="newtv精品大剧" start="20251209183000 +0800" stop="20251209191300 +0800">
 		<title lang="zh">32_大唐荣耀</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251209191300 +0800" stop="20251209194200 +0800">
+		<title lang="zh">《健康生活》推荐第三期</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -60624,6 +60630,9 @@
 	<programme channel="newtv军旅剧场" start="20251209181900 +0800" stop="20251209190900 +0800">
 		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251209190900 +0800" stop="20251209195400 +0800">
+		<title lang="zh">45_参工传奇</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -60704,6 +60713,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251209182000 +0800" stop="20251209190600 +0800">
 		<title lang="zh">04_承欢记</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251209190600 +0800" stop="20251209193600 +0800">
+		<title lang="zh">《健康生活》推荐第三期</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -60857,6 +60869,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251209181900 +0800" stop="20251209190300 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251209190300 +0800" stop="20251209194800 +0800">
+		<title lang="zh">01_扶摇</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -61431,6 +61446,9 @@
 	<programme channel="newtv精品综合" start="20251209182500 +0800" stop="20251209190900 +0800">
 		<title lang="zh">伏湿丸</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251209190900 +0800" stop="20251209195400 +0800">
+		<title lang="zh">09_树下有片红房子</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -61745,6 +61763,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251209182000 +0800" stop="20251209190500 +0800">
 		<title lang="zh">04_天龙八部</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251209190500 +0800" stop="20251209193500 +0800">
+		<title lang="zh">《健康生活》推荐第三期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
