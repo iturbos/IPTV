@@ -51303,6 +51303,9 @@
 	<programme channel="newtv超级综艺" start="20251210002800 +0800" stop="20251210011000 +0800">
 		<title lang="zh">31_锦月如歌</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251210011000 +0800" stop="20251210015400 +0800">
+		<title lang="zh">32_锦月如歌</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
