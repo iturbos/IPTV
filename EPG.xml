@@ -28148,6 +28148,9 @@
 	<programme channel="咪咕综合体育" start="20251210130000 +0800" stop="20251210131000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251210131000 +0800" stop="20251210141000 +0800">
+		<title lang="zh">国球荣耀-2025成都国际乒联混团世界杯 铜牌赛</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -44095,6 +44098,9 @@
 	</programme>
 	<programme channel="明星大片" start="20251210123300 +0800" stop="20251210130300 +0800">
 		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="明星大片" start="20251210130300 +0800" stop="20251210131800 +0800">
+		<title lang="zh">23_喜羊羊与灰太狼之发明大作战</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -67637,6 +67643,9 @@
 	<programme channel="纯享4K" start="20251210125900 +0800" stop="20251210130500 +0800">
 		<title lang="zh">美丽中国自然4K 北部湾系列 近岸生态</title>
 	</programme>
+	<programme channel="纯享4K" start="20251210131500 +0800" stop="20251210140400 +0800">
+		<title lang="zh">黄河之歌4K 第6集 海晏河清</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -85352,6 +85361,9 @@
 	<programme channel="newtv超级电视剧" start="20251210123300 +0800" stop="20251210131500 +0800">
 		<title lang="zh">15_好妻子</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251210131500 +0800" stop="20251210135700 +0800">
+		<title lang="zh">16_好妻子</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -85652,6 +85664,9 @@
 	<programme channel="newtv家庭剧场" start="20251210121600 +0800" stop="20251210130200 +0800">
 		<title lang="zh">28_兰桐花开</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251210130200 +0800" stop="20251210134800 +0800">
+		<title lang="zh">05_承欢记</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -85928,6 +85943,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251210123400 +0800" stop="20251210131500 +0800">
 		<title lang="zh">20_激情的岁月</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251210131500 +0800" stop="20251210134500 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -86005,6 +86023,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251210124800 +0800" stop="20251210131000 +0800">
 		<title lang="zh">揭秘伊朗首艘无人机航母</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251210131000 +0800" stop="20251210133200 +0800">
+		<title lang="zh">俄乌冲突深观察 法制“幻影”2000首次参战</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -86122,6 +86143,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251210123300 +0800" stop="20251210130300 +0800">
 		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251210130300 +0800" stop="20251210131800 +0800">
+		<title lang="zh">23_喜羊羊与灰太狼之发明大作战</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
