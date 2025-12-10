@@ -61475,6 +61475,9 @@
 	<programme channel="爱情喜剧" start="20251210183200 +0800" stop="20251210191100 +0800">
 		<title lang="zh">男士营养健康推荐</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20251210191100 +0800" stop="20251210195600 +0800">
+		<title lang="zh">04_扶摇</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -67756,6 +67759,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20251210183400 +0800" stop="20251210191200 +0800">
 		<title lang="zh">探索b7发现4K 探秘三星堆 第4集</title>
+	</programme>
+	<programme channel="纯享4K" start="20251210191200 +0800" stop="20251210191700 +0800">
+		<title lang="zh">5亿年，岩石里的生命奇迹 第一季4K 第2集 浙江曙鱼</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -85481,6 +85487,9 @@
 	<programme channel="newtv超级电视剧" start="20251210182200 +0800" stop="20251210190700 +0800">
 		<title lang="zh">16_面具背后</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251210190700 +0800" stop="20251210195300 +0800">
+		<title lang="zh">17_面具背后</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -85654,6 +85663,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251210181800 +0800" stop="20251210190300 +0800">
 		<title lang="zh">04_雪狼谷</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251210190300 +0800" stop="20251210193300 +0800">
+		<title lang="zh">《健康生活》推荐第三期</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -85913,6 +85925,9 @@
 	<programme channel="newtv家庭剧场" start="20251210182200 +0800" stop="20251210190800 +0800">
 		<title lang="zh">09_我的后半生</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251210190800 +0800" stop="20251210193800 +0800">
+		<title lang="zh">《健康生活》推荐第三期</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -85997,6 +86012,9 @@
 	<programme channel="newtv热播精选" start="20251210181600 +0800" stop="20251210190400 +0800">
 		<title lang="zh">17_爱的二八定律</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251210190400 +0800" stop="20251210195200 +0800">
+		<title lang="zh">18_爱的二八定律</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -86069,6 +86087,9 @@
 	<programme channel="newtv爱情喜剧" start="20251210183200 +0800" stop="20251210191100 +0800">
 		<title lang="zh">男士营养健康推荐</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251210191100 +0800" stop="20251210195600 +0800">
+		<title lang="zh">04_扶摇</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -86125,6 +86146,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251210174900 +0800" stop="20251210191500 +0800">
 		<title lang="zh">神偷谍影</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251210191500 +0800" stop="20251210194500 +0800">
+		<title lang="zh">《健康生活》推荐第三期</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -86926,6 +86950,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251210182200 +0800" stop="20251210190800 +0800">
 		<title lang="zh">08_天龙八部</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251210190800 +0800" stop="20251210193800 +0800">
+		<title lang="zh">《健康生活》推荐第三期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
