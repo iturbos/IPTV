@@ -67850,6 +67850,9 @@
 	<programme channel="纯享4K" start="20251210224900 +0800" stop="20251210231300 +0800">
 		<title lang="zh">东方新科幻4K 第4集 家园遥望</title>
 	</programme>
+	<programme channel="纯享4K" start="20251210231300 +0800" stop="20251210233900 +0800">
+		<title lang="zh">好吃客4K 京城洋厨房</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -86539,6 +86542,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251210223200 +0800" stop="20251210230200 +0800">
 		<title lang="zh">《健康生活》推荐第三期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251210230200 +0800" stop="20251210234200 +0800">
+		<title lang="zh">北京源莱慧精英vs四川剑开天门 第4局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
