@@ -48549,6 +48549,9 @@
 	<programme channel="纯享4K" start="20251213154100 +0800" stop="20251213161000 +0800">
 		<title lang="zh">好吃客4K 乌镇</title>
 	</programme>
+	<programme channel="纯享4K" start="20251213161000 +0800" stop="20251213163800 +0800">
+		<title lang="zh">记住乡愁4K第十季 乍洋——闽东山乡茶韵绵长</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -61107,6 +61110,9 @@
 	<programme channel="newtv超级电视剧" start="20251213152000 +0800" stop="20251213160600 +0800">
 		<title lang="zh">10_雾都魅影</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251213160600 +0800" stop="20251213165100 +0800">
+		<title lang="zh">11_雾都魅影</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -61475,6 +61481,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251213153000 +0800" stop="20251213161600 +0800">
 		<title lang="zh">19_承欢记</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251213161600 +0800" stop="20251213165500 +0800">
+		<title lang="zh">男士营养健康推荐</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -61935,6 +61944,9 @@
 	<programme channel="newtv军事评论" start="20251213154700 +0800" stop="20251213160800 +0800">
 		<title lang="zh">东线狙击英雄传（4）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251213160800 +0800" stop="20251213163000 +0800">
+		<title lang="zh">二战彩色影像（1）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -62087,6 +62099,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251213153000 +0800" stop="20251213161600 +0800">
 		<title lang="zh">08_非常有喜</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251213161600 +0800" stop="20251213164600 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
