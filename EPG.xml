@@ -47388,6 +47388,9 @@
 	<programme channel="newtv超级综艺" start="20251215001500 +0800" stop="20251215010800 +0800">
 		<title lang="zh">16_启航：当风起时</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251215010800 +0800" stop="20251215015700 +0800">
+		<title lang="zh">17_启航：当风起时</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -47406,6 +47409,9 @@
 	<programme channel="newtv超级电视剧" start="20251215003100 +0800" stop="20251215011900 +0800">
 		<title lang="zh">06_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251215011900 +0800" stop="20251215020400 +0800">
+		<title lang="zh">07_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -47414,6 +47420,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251215003100 +0800" stop="20251215011500 +0800">
 		<title lang="zh">02_危机迷雾</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251215011500 +0800" stop="20251215014500 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -47430,11 +47439,17 @@
 	<programme channel="newtv古装剧场" start="20251215002000 +0800" stop="20251215010700 +0800">
 		<title lang="zh">07_国子监来了个女弟子</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251215010700 +0800" stop="20251215014200 +0800">
+		<title lang="zh">08_国子监来了个女弟子</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
 	<programme channel="newtv军旅剧场" start="20251215002800 +0800" stop="20251215011300 +0800">
 		<title lang="zh">20_东江英雄刘黑仔</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251215011300 +0800" stop="20251215014300 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -47486,6 +47501,9 @@
 	</channel>
 	<programme channel="newtv潮妈辣婆" start="20251215001900 +0800" stop="20251215010400 +0800">
 		<title lang="zh">06_香水佳人</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251215010400 +0800" stop="20251215013400 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
