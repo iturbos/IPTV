@@ -41136,6 +41136,9 @@
 	<programme channel="newtv精品大剧" start="20251217023100 +0800" stop="20251217031500 +0800">
 		<title lang="zh">12_危机迷雾</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251217031500 +0800" stop="20251217040000 +0800">
+		<title lang="zh">13_危机迷雾</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -41150,6 +41153,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251217022400 +0800" stop="20251217031000 +0800">
 		<title lang="zh">34_地雷战</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251217031000 +0800" stop="20251217035500 +0800">
+		<title lang="zh">35_地雷战</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -41168,6 +41174,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251217023600 +0800" stop="20251217031300 +0800">
 		<title lang="zh">17_国子监来了个女弟子</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251217031300 +0800" stop="20251217035700 +0800">
+		<title lang="zh">18_国子监来了个女弟子</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -41216,6 +41225,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251217023900 +0800" stop="20251217030900 +0800">
 		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251217030900 +0800" stop="20251217035600 +0800">
+		<title lang="zh">45_安家</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -41280,6 +41292,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251217022800 +0800" stop="20251217031300 +0800">
 		<title lang="zh">16_香水佳人</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251217031300 +0800" stop="20251217035900 +0800">
+		<title lang="zh">17_香水佳人</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -41322,6 +41337,9 @@
 	<programme channel="newtv精品综合" start="20251217012700 +0800" stop="20251217030100 +0800">
 		<title lang="zh">花花型警</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251217030100 +0800" stop="20251217040200 +0800">
+		<title lang="zh">哈哈哈哈哈第4季</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -41348,6 +41366,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251217022200 +0800" stop="20251217030800 +0800">
 		<title lang="zh">25_面具背后</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251217030800 +0800" stop="20251217035300 +0800">
+		<title lang="zh">26_面具背后</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
