@@ -13017,6 +13017,9 @@
 	<programme channel="咪咕足球" start="20251217050000 +0800" stop="20251217051000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251217051000 +0800" stop="20251217065000 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA常规赛第28轮 河南豫光金铅-黑龙江上东</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -32550,6 +32553,9 @@
 	<programme channel="纯享4K" start="20251217045900 +0800" stop="20251217050400 +0800">
 		<title lang="zh">美丽中国自然4K 江西鄱阳湖系列 何以为家</title>
 	</programme>
+	<programme channel="纯享4K" start="20251217051400 +0800" stop="20251217051900 +0800">
+		<title lang="zh">大国小鲜 石榴说4K 第2集 送您一个多子又多福</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -40539,6 +40545,9 @@
 	<programme channel="黑莓电影" start="20251217034400 +0800" stop="20251217051100 +0800">
 		<title lang="zh">绝命狙击</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251217051100 +0800" stop="20251217065100 +0800">
+		<title lang="zh">燃冬</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -41271,6 +41280,9 @@
 	<programme channel="newtv超级电视剧" start="20251217041700 +0800" stop="20251217050300 +0800">
 		<title lang="zh">44_生活就是家</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251217050300 +0800" stop="20251217054900 +0800">
+		<title lang="zh">45_生活就是家</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -41445,6 +41457,9 @@
 	<programme channel="newtv爱情喜剧" start="20251217042900 +0800" stop="20251217051500 +0800">
 		<title lang="zh">23_星汉灿烂</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251217051500 +0800" stop="20251217055900 +0800">
+		<title lang="zh">24_星汉灿烂</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -41534,6 +41549,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251217043600 +0800" stop="20251217050300 +0800">
 		<title lang="zh">长空铁翼</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251217050300 +0800" stop="20251217052900 +0800">
+		<title lang="zh">香江遇“舰”</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
