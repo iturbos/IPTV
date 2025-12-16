@@ -59769,6 +59769,9 @@
 	<programme channel="黑莓电影" start="20251216173900 +0800" stop="20251216190900 +0800">
 		<title lang="zh">绣春刀：无间炼狱</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251216190900 +0800" stop="20251216203800 +0800">
+		<title lang="zh">驱魔龙族马小玲</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -60933,6 +60936,9 @@
 	<programme channel="newtv古装剧场" start="20251216181900 +0800" stop="20251216190400 +0800">
 		<title lang="zh">11_锦心似玉</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251216190400 +0800" stop="20251216193400 +0800">
+		<title lang="zh">《八段锦》推荐第45期</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -61191,6 +61197,9 @@
 	<programme channel="newtv热播精选" start="20251216182000 +0800" stop="20251216190400 +0800">
 		<title lang="zh">伏湿丸</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251216190400 +0800" stop="20251216195200 +0800">
+		<title lang="zh">40_爱的二八定律</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -61328,6 +61337,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251216175200 +0800" stop="20251216190600 +0800">
 		<title lang="zh">维和女警：暴力安全区</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251216190600 +0800" stop="20251216202500 +0800">
+		<title lang="zh">沙鹰行动</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -61503,6 +61515,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251216182900 +0800" stop="20251216190800 +0800">
 		<title lang="zh">男士营养健康推荐</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251216190800 +0800" stop="20251216195300 +0800">
+		<title lang="zh">02_蔷薇风暴</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -61646,6 +61661,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251216184600 +0800" stop="20251216191300 +0800">
 		<title lang="zh">历久弥坚的螺旋桨战机</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251216191300 +0800" stop="20251216194000 +0800">
+		<title lang="zh">航向大洋</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -61971,6 +61989,9 @@
 	<programme channel="newtv金牌综艺" start="20251216182400 +0800" stop="20251216190900 +0800">
 		<title lang="zh">14_欢颜</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20251216190900 +0800" stop="20251216195400 +0800">
+		<title lang="zh">15_欢颜</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -62120,6 +62141,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251216182500 +0800" stop="20251216191000 +0800">
 		<title lang="zh">32_天龙八部</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251216191000 +0800" stop="20251216194000 +0800">
+		<title lang="zh">《健康生活》推荐第三期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
