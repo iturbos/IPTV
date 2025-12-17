@@ -41301,6 +41301,9 @@
 	<programme channel="纯享4K" start="20251218045900 +0800" stop="20251218050500 +0800">
 		<title lang="zh">美丽中国自然4K 江西鄱阳湖系列 潜鸭入梦</title>
 	</programme>
+	<programme channel="纯享4K" start="20251218051500 +0800" stop="20251218051900 +0800">
+		<title lang="zh">大国小鲜 石榴说4K 第4集 为我写诗，不止为相思</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52146,6 +52149,9 @@
 	<programme channel="newtv超级综艺" start="20251218050900 +0800" stop="20251218051800 +0800">
 		<title lang="zh">国家宝藏b7周游季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251218051800 +0800" stop="20251218064700 +0800">
+		<title lang="zh">中央广播电视总台主持人大赛 新闻主播季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -52302,6 +52308,9 @@
 	<programme channel="newtv军旅剧场" start="20251218042700 +0800" stop="20251218051300 +0800">
 		<title lang="zh">30_蓝盔特战队</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251218051300 +0800" stop="20251218055900 +0800">
+		<title lang="zh">31_蓝盔特战队</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -52344,6 +52353,9 @@
 	<programme channel="newtv热播精选" start="20251218041400 +0800" stop="20251218050100 +0800">
 		<title lang="zh">51_安家</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251218050100 +0800" stop="20251218054800 +0800">
+		<title lang="zh">52_安家</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -52361,6 +52373,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251218041700 +0800" stop="20251218050600 +0800">
 		<title lang="zh">27_星汉灿烂</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251218050600 +0800" stop="20251218055300 +0800">
+		<title lang="zh">28_星汉灿烂b7月升沧海</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
