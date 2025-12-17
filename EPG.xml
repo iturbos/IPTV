@@ -63587,6 +63587,9 @@
 	<programme channel="纯享4K" start="20251217225800 +0800" stop="20251217231300 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 壁画b7射九重鼓图</title>
 	</programme>
+	<programme channel="纯享4K" start="20251217231300 +0800" stop="20251217233700 +0800">
+		<title lang="zh">爱上博物馆4K 第1集 辛追夫人的一天</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -68134,6 +68137,9 @@
 	</programme>
 	<programme channel="超级电影" start="20251217212700 +0800" stop="20251217230900 +0800">
 		<title lang="zh">电影《捕风捉影》</title>
+	</programme>
+	<programme channel="超级电影" start="20251217230900 +0800" stop="20251217001000 +0800">
+		<title lang="zh">电影《特种兵王》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -80063,6 +80069,9 @@
 	<programme channel="newtv超级电影" start="20251217212700 +0800" stop="20251217230900 +0800">
 		<title lang="zh">电影《捕风捉影》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251217230900 +0800" stop="20251217001000 +0800">
+		<title lang="zh">电影《特种兵王》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -80161,6 +80170,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251217223300 +0800" stop="20251217231700 +0800">
 		<title lang="zh">17_黑白森林</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251217231700 +0800" stop="20251217000100 +0800">
+		<title lang="zh">18_黑白森林</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -80696,6 +80708,9 @@
 	<programme channel="newtv家庭剧场" start="20251217222700 +0800" stop="20251217231200 +0800">
 		<title lang="zh">16_生活就是家</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251217231200 +0800" stop="20251217235800 +0800">
+		<title lang="zh">17_生活就是家</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -80957,6 +80972,9 @@
 	<programme channel="newtv动作电影" start="20251217223500 +0800" stop="20251217230500 +0800">
 		<title lang="zh">《八段锦》推荐第45期</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20251217230500 +0800" stop="20251217003500 +0800">
+		<title lang="zh">终极硬汉</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -81064,6 +81082,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251217223300 +0800" stop="20251217230300 +0800">
 		<title lang="zh">《美丽俏佳人》推荐第二期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251217230300 +0800" stop="20251217234200 +0800">
+		<title lang="zh">山西清徐学栋vs北京源莱慧精英 第6局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -81889,6 +81910,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251217223700 +0800" stop="20251217230700 +0800">
 		<title lang="zh">《美丽俏佳人》推荐第二期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251217230700 +0800" stop="20251217002800 +0800">
+		<title lang="zh">后羿之逐日之战</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
