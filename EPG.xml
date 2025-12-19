@@ -48729,6 +48729,9 @@
 	<programme channel="纯享4K" start="20251219225900 +0800" stop="20251219231400 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 壁画b7少年拳击手</title>
 	</programme>
+	<programme channel="纯享4K" start="20251219231400 +0800" stop="20251219233900 +0800">
+		<title lang="zh">爱上博物馆4K 第3集 时尚唐“潮”人</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -61134,6 +61137,9 @@
 	<programme channel="newtv爱情喜剧" start="20251219223100 +0800" stop="20251219230100 +0800">
 		<title lang="zh">《美丽俏佳人》推荐第二期</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251219230100 +0800" stop="20251219002300 +0800">
+		<title lang="zh">人类削减计划</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -61422,6 +61428,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251219224200 +0800" stop="20251219231200 +0800">
 		<title lang="zh">《美丽俏佳人》推荐第二期</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251219231200 +0800" stop="20251219233400 +0800">
+		<title lang="zh">第12集：妻子失踪引发的祸事</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -61571,6 +61580,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251219224300 +0800" stop="20251219230800 +0800">
 		<title lang="zh">高市政府谋求打造远程打击体系 日本过量囤积核材料暗藏“核武野心”</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251219230800 +0800" stop="20251219233300 +0800">
+		<title lang="zh">美乌提“缩水版”和平计划 俄称拒绝任何让步 入冬后俄乌战事反升温？</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
