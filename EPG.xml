@@ -40560,6 +40560,9 @@
 	<programme channel="纯享4K" start="20251220003400 +0800" stop="20251220010200 +0800">
 		<title lang="zh">记住乡愁4K第十季 漠川——种下黄金树 结出幸福果</title>
 	</programme>
+	<programme channel="纯享4K" start="20251220010200 +0800" stop="20251220013200 +0800">
+		<title lang="zh">味道4K 我的家乡菜b7南县篇（上）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51509,6 +51512,9 @@
 	</channel>
 	<programme channel="newtv家庭剧场" start="20251220002900 +0800" stop="20251220010900 +0800">
 		<title lang="zh">13_亲爱的仇敌</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251220010900 +0800" stop="20251220013900 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
