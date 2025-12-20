@@ -17682,6 +17682,9 @@
 	<programme channel="咪咕足球" start="20251220193000 +0800" stop="20251220211000 +0800">
 		<title lang="zh">当燃CBA-25/26赛季俱乐部杯 小组赛 广厦-北京</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251220211500 +0800" stop="20251220221500 +0800">
+		<title lang="zh">中国榜样篮球季对话郭士强</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -48219,6 +48222,9 @@
 	<programme channel="纯享4K" start="20251220205800 +0800" stop="20251220210300 +0800">
 		<title lang="zh">美丽中国自然4K 神农架系列 高山精灵</title>
 	</programme>
+	<programme channel="纯享4K" start="20251220211300 +0800" stop="20251220211800 +0800">
+		<title lang="zh">香港之味 第3集</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60369,6 +60375,9 @@
 	<programme channel="newtv超级综艺" start="20251220193000 +0800" stop="20251220211200 +0800">
 		<title lang="zh">味你而来</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251220211200 +0800" stop="20251220230500 +0800">
+		<title lang="zh">笑有新生</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60966,6 +60975,9 @@
 	<programme channel="newtv军旅剧场" start="20251220201700 +0800" stop="20251220210300 +0800">
 		<title lang="zh">29_瞄准</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251220210300 +0800" stop="20251220213300 +0800">
+		<title lang="zh">《美丽俏佳人》推荐第二期</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -61061,6 +61073,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251220203000 +0800" stop="20251220211500 +0800">
 		<title lang="zh">16_六姊妹</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251220211500 +0800" stop="20251220214500 +0800">
+		<title lang="zh">《A咖秀》推荐第13期</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -61244,6 +61259,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251220203900 +0800" stop="20251220210900 +0800">
 		<title lang="zh">《A咖秀》推荐第13期</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251220210900 +0800" stop="20251220215400 +0800">
+		<title lang="zh">35_扶摇</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -61518,6 +61536,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251220194900 +0800" stop="20251220210700 +0800">
 		<title lang="zh">春娘</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251220210700 +0800" stop="20251220213700 +0800">
+		<title lang="zh">《美丽俏佳人》推荐第二期</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -61640,6 +61661,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251220203800 +0800" stop="20251220210300 +0800">
 		<title lang="zh">【防务新观察】俄称已控制“绝佳前哨” 五角大楼寻求增加关键武器产量</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251220210300 +0800" stop="20251220212800 +0800">
+		<title lang="zh">【防务新观察】多方与哈马斯举行会谈商讨“20点计划”</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -62195,6 +62219,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251220202300 +0800" stop="20251220210900 +0800">
 		<title lang="zh">50_天龙八部</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251220210900 +0800" stop="20251220213900 +0800">
+		<title lang="zh">《A咖秀》推荐第13期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
