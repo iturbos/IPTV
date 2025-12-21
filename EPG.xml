@@ -47850,6 +47850,9 @@
 	<programme channel="纯享4K" start="20251221145300 +0800" stop="20251221150800 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 油画b7冬</title>
 	</programme>
+	<programme channel="纯享4K" start="20251221150800 +0800" stop="20251221153300 +0800">
+		<title lang="zh">爱上博物馆4K 第5集 穿越七千年的服饰展</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -58974,6 +58977,9 @@
 	<programme channel="黑莓动画" start="20251221123200 +0800" stop="20251221150200 +0800">
 		<title lang="zh">01_喜羊羊与灰太狼之羊羊小侦探</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251221150200 +0800" stop="20251221173300 +0800">
+		<title lang="zh">01_猪猪侠之光明守卫者（上部）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -59931,6 +59937,9 @@
 	<programme channel="newtv精品大剧" start="20251221143800 +0800" stop="20251221150800 +0800">
 		<title lang="zh">健康推荐3</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251221150800 +0800" stop="20251221155300 +0800">
+		<title lang="zh">41_大江大河</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -60078,6 +60087,9 @@
 	<programme channel="newtv古装剧场" start="20251221143900 +0800" stop="20251221150900 +0800">
 		<title lang="zh">健康推荐3</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251221150900 +0800" stop="20251221155800 +0800">
+		<title lang="zh">33_锦心似玉</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -60218,6 +60230,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251221142000 +0800" stop="20251221150200 +0800">
 		<title lang="zh">13_索玛花开</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251221150200 +0800" stop="20251221153200 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -60389,6 +60404,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251221143100 +0800" stop="20251221150100 +0800">
 		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251221150100 +0800" stop="20251221160800 +0800">
+		<title lang="zh">特种兵归来3：绝密战场</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
