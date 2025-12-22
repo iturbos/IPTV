@@ -65357,6 +65357,9 @@
 	<programme channel="纯享4K" start="20251222225700 +0800" stop="20251222231200 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 赛马图卷</title>
 	</programme>
+	<programme channel="纯享4K" start="20251222231200 +0800" stop="20251222233700 +0800">
+		<title lang="zh">爱上博物馆4K 第6集 镇馆之宝的前世今生</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -81719,6 +81722,9 @@
 	<programme channel="newtv超级电视剧" start="20251222223500 +0800" stop="20251222232000 +0800">
 		<title lang="zh">08_画眉</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251222232000 +0800" stop="20251222000600 +0800">
+		<title lang="zh">09_画眉</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -81826,6 +81832,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251222224000 +0800" stop="20251222231000 +0800">
 		<title lang="zh">《美丽俏佳人》推荐第二期</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251222231000 +0800" stop="20251222235500 +0800">
+		<title lang="zh">39_多大点事儿</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -82043,6 +82052,9 @@
 	<programme channel="newtv古装剧场" start="20251222223900 +0800" stop="20251222230800 +0800">
 		<title lang="zh">《八段锦》推荐第45期</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251222230800 +0800" stop="20251222235200 +0800">
+		<title lang="zh">48_星汉灿烂b7月升沧海</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -82154,6 +82166,9 @@
 	<programme channel="newtv军旅剧场" start="20251222223500 +0800" stop="20251222230500 +0800">
 		<title lang="zh">《美丽俏佳人》推荐第二期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251222230500 +0800" stop="20251222235000 +0800">
+		<title lang="zh">42_瞄准</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -82261,6 +82276,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251222222100 +0800" stop="20251222230700 +0800">
 		<title lang="zh">28_生活就是家</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251222230700 +0800" stop="20251222235300 +0800">
+		<title lang="zh">29_生活就是家</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -82531,6 +82549,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251222223600 +0800" stop="20251222230600 +0800">
 		<title lang="zh">《美丽俏佳人》推荐第二期</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251222230600 +0800" stop="20251222002600 +0800">
+		<title lang="zh">街区大作战</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -82882,6 +82903,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251222224500 +0800" stop="20251222231200 +0800">
 		<title lang="zh">云端砺</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251222231200 +0800" stop="20251222233800 +0800">
+		<title lang="zh">揭秘“金穹”计划/六代机 未来“空战风暴”？</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
