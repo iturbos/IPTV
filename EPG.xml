@@ -48165,6 +48165,9 @@
 	<programme channel="纯享4K" start="20251223183700 +0800" stop="20251223191600 +0800">
 		<title lang="zh">探索b7发现4K 梁带村芮国遗址（1）</title>
 	</programme>
+	<programme channel="纯享4K" start="20251223191600 +0800" stop="20251223192600 +0800">
+		<title lang="zh">秘境之眼4K 高原清道夫</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60807,6 +60810,9 @@
 	<programme channel="newtv军旅剧场" start="20251223182500 +0800" stop="20251223191100 +0800">
 		<title lang="zh">41_孤战</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251223191100 +0800" stop="20251223194100 +0800">
+		<title lang="zh">《八段锦》推荐第45期</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -61119,6 +61125,9 @@
 	<programme channel="newtv动作电影" start="20251223174500 +0800" stop="20251223191100 +0800">
 		<title lang="zh">速度与激战</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20251223191100 +0800" stop="20251223204000 +0800">
+		<title lang="zh">夺宝家庭</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -61196,6 +61205,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251223182000 +0800" stop="20251223190100 +0800">
 		<title lang="zh">上海天行奔源vs天津格调研学-第1局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251223190100 +0800" stop="20251223195300 +0800">
+		<title lang="zh">上海天行奔源vs天津格调研学-第2局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -61901,6 +61913,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251223182400 +0800" stop="20251223191100 +0800">
 		<title lang="zh">10_倚天屠龙记</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251223191100 +0800" stop="20251223194100 +0800">
+		<title lang="zh">《美丽俏佳人》推荐第二期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
