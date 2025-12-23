@@ -51306,6 +51306,9 @@
 	<programme channel="黑莓电影" start="20251224011700 +0800" stop="20251224030500 +0800">
 		<title lang="zh">疾风回旋曲</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251224030500 +0800" stop="20251224045300 +0800">
+		<title lang="zh">喊b7山</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -52040,6 +52043,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251224022200 +0800" stop="20251224030300 +0800">
 		<title lang="zh">10_春天里的人们</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251224030300 +0800" stop="20251224034500 +0800">
+		<title lang="zh">11_春天里的人们</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
