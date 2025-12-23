@@ -48219,6 +48219,9 @@
 	<programme channel="纯享4K" start="20251223225200 +0800" stop="20251223231600 +0800">
 		<title lang="zh">爱上博物馆4K 第7集 笔墨丹青与瓷韵之约</title>
 	</programme>
+	<programme channel="纯享4K" start="20251223231600 +0800" stop="20251223234500 +0800">
+		<title lang="zh">好吃客4K 药食同源</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -61368,6 +61371,9 @@
 	<programme channel="newtv动作电影" start="20251223223900 +0800" stop="20251223230900 +0800">
 		<title lang="zh">《美丽俏佳人》推荐第二期</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20251223230900 +0800" stop="20251223003100 +0800">
+		<title lang="zh">北海屠龙记</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -61704,6 +61710,9 @@
 	<programme channel="newtv军事评论" start="20251223224200 +0800" stop="20251223230900 +0800">
 		<title lang="zh">明星装备 硬核出海</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251223230900 +0800" stop="20251223233500 +0800">
+		<title lang="zh">非对称作战密码/以小博大 出奇制胜</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -61820,6 +61829,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251223224700 +0800" stop="20251223230900 +0800">
 		<title lang="zh">普拉提训练（20240318）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251223230900 +0800" stop="20251223002600 +0800">
+		<title lang="zh">4岁男孩现场飙歌 杨帆疯狂点歌逗笑众人（20220209）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
