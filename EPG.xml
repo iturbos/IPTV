@@ -61452,6 +61452,9 @@
 	<programme channel="newtv超级电视剧" start="20251225223500 +0800" stop="20251225232000 +0800">
 		<title lang="zh">19_画眉</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251225232000 +0800" stop="20251225000600 +0800">
+		<title lang="zh">20_画眉</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -61559,6 +61562,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251225223200 +0800" stop="20251225230200 +0800">
 		<title lang="zh">《八段锦》推荐第46期</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251225230200 +0800" stop="20251225235000 +0800">
+		<title lang="zh">09_乐游原</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -62003,6 +62009,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251225223900 +0800" stop="20251225230900 +0800">
 		<title lang="zh">《八段锦》推荐第46期</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251225230900 +0800" stop="20251225235500 +0800">
+		<title lang="zh">40_生活就是家</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -62637,6 +62646,9 @@
 	<programme channel="newtv军事评论" start="20251225224300 +0800" stop="20251225230900 +0800">
 		<title lang="zh">利剑出鞘</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251225230900 +0800" stop="20251225233600 +0800">
+		<title lang="zh">透视大阅兵新型装备（上）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -63054,6 +63066,9 @@
 	<programme channel="newtv金牌综艺" start="20251225223300 +0800" stop="20251225231800 +0800">
 		<title lang="zh">40_孤战</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20251225231800 +0800" stop="20251225000400 +0800">
+		<title lang="zh">41_孤战</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -63230,6 +63245,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251225223500 +0800" stop="20251225230500 +0800">
 		<title lang="zh">《八段锦》推荐第46期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251225230500 +0800" stop="20251225002900 +0800">
+		<title lang="zh">雪鹰领主</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
