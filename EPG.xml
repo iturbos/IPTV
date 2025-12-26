@@ -28119,6 +28119,9 @@
 	<programme channel="咪咕综合体育" start="20251226220000 +0800" stop="20251226221000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251226221000 +0800" stop="20251226000000 +0800">
+		<title lang="zh">网球世界-2025中国网球公开赛 女单决赛 诺斯科娃-阿尼西莫娃</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28205,6 +28208,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251226211500 +0800" stop="20251226221500 +0800">
 		<title lang="zh">最后之舞05</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251226221500 +0800" stop="20251226222000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -41204,6 +41210,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20251226214200 +0800" stop="20251226221200 +0800">
 		<title lang="zh">《八段锦》推荐第46期</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20251226221200 +0800" stop="20251226231500 +0800">
+		<title lang="zh">危情风云</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -62784,6 +62793,9 @@
 	<programme channel="爱情喜剧" start="20251226211900 +0800" stop="20251226220400 +0800">
 		<title lang="zh">56_扶摇</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20251226220400 +0800" stop="20251226223400 +0800">
+		<title lang="zh">《八段锦》推荐第46期</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -68948,6 +68960,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20251226211500 +0800" stop="20251226220400 +0800">
 		<title lang="zh">舌尖上的中国 第四季4K 第2集 烟火</title>
+	</programme>
+	<programme channel="纯享4K" start="20251226220400 +0800" stop="20251226225400 +0800">
+		<title lang="zh">大运河之歌4K 第1集 整理河山</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -86832,6 +86847,9 @@
 	<programme channel="newtv精品大剧" start="20251226212100 +0800" stop="20251226220600 +0800">
 		<title lang="zh">10_乐游原</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251226220600 +0800" stop="20251226223600 +0800">
+		<title lang="zh">《八段锦》推荐第46期</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -86936,6 +86954,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251226212300 +0800" stop="20251226220800 +0800">
 		<title lang="zh">25_参工传奇</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251226220800 +0800" stop="20251226223800 +0800">
+		<title lang="zh">《八段锦》推荐第46期</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -87150,6 +87171,9 @@
 	<programme channel="newtv军旅剧场" start="20251226212200 +0800" stop="20251226220700 +0800">
 		<title lang="zh">56_瞄准</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251226220700 +0800" stop="20251226223700 +0800">
+		<title lang="zh">《八段锦》推荐第46期</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -87260,6 +87284,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251226212700 +0800" stop="20251226221300 +0800">
 		<title lang="zh">43_生活就是家</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251226221300 +0800" stop="20251226224300 +0800">
+		<title lang="zh">《八段锦》推荐第46期</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -87456,6 +87483,9 @@
 	<programme channel="newtv爱情喜剧" start="20251226211900 +0800" stop="20251226220400 +0800">
 		<title lang="zh">56_扶摇</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251226220400 +0800" stop="20251226223400 +0800">
+		<title lang="zh">《八段锦》推荐第46期</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -87521,6 +87551,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251226205200 +0800" stop="20251226221100 +0800">
 		<title lang="zh">枪神赵子龙</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251226221100 +0800" stop="20251226224100 +0800">
+		<title lang="zh">《八段锦》推荐第46期</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -87732,6 +87765,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251226213500 +0800" stop="20251226220500 +0800">
 		<title lang="zh">《A咖秀》推荐第13期</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251226220500 +0800" stop="20251226223500 +0800">
+		<title lang="zh">第九集：乌金奇迹</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -87861,6 +87897,9 @@
 	<programme channel="newtv军事评论" start="20251226214900 +0800" stop="20251226221500 +0800">
 		<title lang="zh">解码新锐战力</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251226221500 +0800" stop="20251226224200 +0800">
+		<title lang="zh">福建舰和它的伙伴们</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -87965,6 +88004,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251226213700 +0800" stop="20251226220700 +0800">
 		<title lang="zh">健康生活-氨糖</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251226220700 +0800" stop="20251226222000 +0800">
+		<title lang="zh">广场舞《相思草》-乌兰图雅、王广成</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -88128,6 +88170,9 @@
 	<programme channel="newtv惊悚悬疑" start="20251226214200 +0800" stop="20251226221200 +0800">
 		<title lang="zh">《八段锦》推荐第46期</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251226221200 +0800" stop="20251226231500 +0800">
+		<title lang="zh">危情风云</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -88238,6 +88283,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251226214600 +0800" stop="20251226221600 +0800">
 		<title lang="zh">《八段锦》推荐第46期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251226221600 +0800" stop="20251226230100 +0800">
+		<title lang="zh">43_孤战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
