@@ -52647,6 +52647,9 @@
 	<programme channel="newtv精品纪录" start="20251227015400 +0800" stop="20251227024000 +0800">
 		<title lang="zh">07_猎狼刀</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251227024000 +0800" stop="20251227032500 +0800">
+		<title lang="zh">08_猎狼刀</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -52677,6 +52680,9 @@
 	<programme channel="newtv军旅剧场" start="20251227015100 +0800" stop="20251227023500 +0800">
 		<title lang="zh">29_英雄使命</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251227023500 +0800" stop="20251227031900 +0800">
+		<title lang="zh">30_英雄使命</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -52691,6 +52697,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251227015700 +0800" stop="20251227023900 +0800">
 		<title lang="zh">20_锦月如歌</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251227023900 +0800" stop="20251227032300 +0800">
+		<title lang="zh">21_锦月如歌</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -52718,6 +52727,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251227021300 +0800" stop="20251227024300 +0800">
 		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251227024300 +0800" stop="20251227033000 +0800">
+		<title lang="zh">15_三十而已</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -52785,6 +52797,9 @@
 	<programme channel="newtv军事评论" start="20251227021400 +0800" stop="20251227023600 +0800">
 		<title lang="zh">代号“白鼠”（下）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251227023600 +0800" stop="20251227032700 +0800">
+		<title lang="zh">烽火兵工 第1集 黄崖深处砺兵戈</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -52817,6 +52832,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20251227010800 +0800" stop="20251227023500 +0800">
 		<title lang="zh">异形：汇合</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251227023500 +0800" stop="20251227030500 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -52892,6 +52910,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251227021300 +0800" stop="20251227024300 +0800">
 		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251227024300 +0800" stop="20251227040200 +0800">
+		<title lang="zh">搜神记：南海美人鲛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
