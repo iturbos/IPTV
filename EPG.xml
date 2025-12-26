@@ -18519,6 +18519,9 @@
 	<programme channel="咪咕足球" start="20251226143000 +0800" stop="20251226151500 +0800">
 		<title lang="zh">一球一城 巴黎</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251226152000 +0800" stop="20251226162000 +0800">
+		<title lang="zh">全运时刻-第十五届全运会 三人篮球小组赛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -60345,6 +60348,9 @@
 	<programme channel="黑莓电影" start="20251226134300 +0800" stop="20251226150600 +0800">
 		<title lang="zh">极斗6之飘移都市</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251226150600 +0800" stop="20251226163900 +0800">
+		<title lang="zh">天才诗童</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -61218,6 +61224,9 @@
 	<programme channel="newtv超级电视剧" start="20251226142800 +0800" stop="20251226151100 +0800">
 		<title lang="zh">25_红高粱</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251226151100 +0800" stop="20251226155400 +0800">
+		<title lang="zh">26_红高粱</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -61368,6 +61377,9 @@
 	<programme channel="newtv精品纪录" start="20251226142100 +0800" stop="20251226150700 +0800">
 		<title lang="zh">06_归队</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251226150700 +0800" stop="20251226153700 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -61515,6 +61527,9 @@
 	<programme channel="newtv军旅剧场" start="20251226142700 +0800" stop="20251226150800 +0800">
 		<title lang="zh">07_惊蛰</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251226150800 +0800" stop="20251226153800 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -61592,6 +61607,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251226142300 +0800" stop="20251226150900 +0800">
 		<title lang="zh">37_六姊妹</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251226150900 +0800" stop="20251226153900 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -62399,6 +62417,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251226143200 +0800" stop="20251226150200 +0800">
 		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251226150200 +0800" stop="20251226154900 +0800">
+		<title lang="zh">36_有翡</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
