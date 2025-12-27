@@ -18324,6 +18324,9 @@
 	<programme channel="咪咕足球" start="20251227193000 +0800" stop="20251227210500 +0800">
 		<title lang="zh">当燃CBA-25/26赛季俱乐部杯 小组赛 吉林-深圳</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251227211500 +0800" stop="20251227221500 +0800">
+		<title lang="zh">最后之舞06</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -48873,6 +48876,9 @@
 	<programme channel="纯享4K" start="20251227210100 +0800" stop="20251227210600 +0800">
 		<title lang="zh">美丽中国自然4K 黄河之水系列 天鹅之约</title>
 	</programme>
+	<programme channel="纯享4K" start="20251227210600 +0800" stop="20251227215600 +0800">
+		<title lang="zh">舌尖上的中国 第四季4K 第3集 焕发</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -61149,6 +61155,9 @@
 	<programme channel="newtv超级综艺" start="20251227193000 +0800" stop="20251227211000 +0800">
 		<title lang="zh">味你而来</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251227211000 +0800" stop="20251227230200 +0800">
+		<title lang="zh">笑有新生</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -61439,6 +61448,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251227202000 +0800" stop="20251227210600 +0800">
 		<title lang="zh">31_爱情而已</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251227210600 +0800" stop="20251227213600 +0800">
+		<title lang="zh">《A咖秀》推荐第16期</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -61743,6 +61755,9 @@
 	<programme channel="newtv军旅剧场" start="20251227204400 +0800" stop="20251227211400 +0800">
 		<title lang="zh">《A咖秀》推荐第16期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251227211400 +0800" stop="20251227220000 +0800">
+		<title lang="zh">02_皮b7影</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -61845,6 +61860,9 @@
 	<programme channel="newtv家庭剧场" start="20251227202000 +0800" stop="20251227210600 +0800">
 		<title lang="zh">45_生活就是家</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251227210600 +0800" stop="20251227213600 +0800">
+		<title lang="zh">《A咖秀》推荐第16期</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -61943,6 +61961,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251227204200 +0800" stop="20251227211200 +0800">
 		<title lang="zh">《美丽飞扬》第六期</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251227211200 +0800" stop="20251227215700 +0800">
+		<title lang="zh">16_女特警</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -62429,6 +62450,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251227204300 +0800" stop="20251227210800 +0800">
 		<title lang="zh">【防务新观察】美防长连访亚太四国 核潜艇议题搅动韩国</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251227210800 +0800" stop="20251227213300 +0800">
+		<title lang="zh">【防务新观察】俄军猛攻乌“第三首都”？</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
