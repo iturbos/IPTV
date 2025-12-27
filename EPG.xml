@@ -48774,6 +48774,9 @@
 	<programme channel="纯享4K" start="20251227160700 +0800" stop="20251227163500 +0800">
 		<title lang="zh">记住乡愁——门楣之上4K 义门陈氏——千古人间义字香</title>
 	</programme>
+	<programme channel="纯享4K" start="20251227163500 +0800" stop="20251227170300 +0800">
+		<title lang="zh">记住乡愁——门楣之上4K 湘阴左氏——天地之间有正气</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60264,6 +60267,9 @@
 	<programme channel="黑莓动画" start="20251227150500 +0800" stop="20251227163800 +0800">
 		<title lang="zh">蜡笔小新：梦境世界大突击</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251227163800 +0800" stop="20251227180000 +0800">
+		<title lang="zh">神奇乐园历险记（普通话版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -61263,6 +61269,9 @@
 	<programme channel="newtv精品大剧" start="20251227163100 +0800" stop="20251227170100 +0800">
 		<title lang="zh">健康推荐3</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251227170100 +0800" stop="20251227174700 +0800">
+		<title lang="zh">28_爱情而已</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -61340,6 +61349,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251227161200 +0800" stop="20251227164200 +0800">
 		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251227164200 +0800" stop="20251227172700 +0800">
+		<title lang="zh">15_赎仇</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -61422,6 +61434,9 @@
 	<programme channel="newtv古装剧场" start="20251227161500 +0800" stop="20251227164500 +0800">
 		<title lang="zh">健康推荐3</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251227164500 +0800" stop="20251227172700 +0800">
+		<title lang="zh">20_锦月如歌</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -61502,6 +61517,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251227161400 +0800" stop="20251227164400 +0800">
 		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251227164400 +0800" stop="20251227172900 +0800">
+		<title lang="zh">52_孤战</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -61584,6 +61602,9 @@
 	<programme channel="newtv家庭剧场" start="20251227154900 +0800" stop="20251227163400 +0800">
 		<title lang="zh">03_四喜</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251227163400 +0800" stop="20251227170400 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -61661,6 +61682,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251227161100 +0800" stop="20251227164000 +0800">
 		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251227164000 +0800" stop="20251227172500 +0800">
+		<title lang="zh">24_旗袍美探</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -61781,6 +61805,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251227161100 +0800" stop="20251227164100 +0800">
 		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251227164100 +0800" stop="20251227180200 +0800">
+		<title lang="zh">西部慢调</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -61935,6 +61962,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251227154800 +0800" stop="20251227163300 +0800">
 		<title lang="zh">04_下一站婚姻</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251227163300 +0800" stop="20251227170300 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -62031,6 +62061,12 @@
 	<programme channel="newtv军事评论" start="20251227160500 +0800" stop="20251227163100 +0800">
 		<title lang="zh">向战而行</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251227163100 +0800" stop="20251227165800 +0800">
+		<title lang="zh">单兵突入</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251227165800 +0800" stop="20251227172500 +0800">
+		<title lang="zh">战斗堡垒</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -62112,6 +62148,9 @@
 	<programme channel="newtv炫舞未来" start="20251227152300 +0800" stop="20251227164000 +0800">
 		<title lang="zh">美声版《素颜》你听过吗？（20251020）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251227164000 +0800" stop="20251227171000 +0800">
+		<title lang="zh">健康生活-氨糖</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -62187,6 +62226,9 @@
 	<programme channel="newtv精品综合" start="20251227162300 +0800" stop="20251227165300 +0800">
 		<title lang="zh">健康推荐3</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251227165300 +0800" stop="20251227182500 +0800">
+		<title lang="zh">开始推理吧第3季</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -62234,6 +62276,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251227150900 +0800" stop="20251227163400 +0800">
 		<title lang="zh">八卦掌之鹰飞</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251227163400 +0800" stop="20251227170400 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -62312,6 +62357,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251227162000 +0800" stop="20251227165000 +0800">
 		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251227165000 +0800" stop="20251227173400 +0800">
+		<title lang="zh">13_谍战深海之惊蛰[DVD版]</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
