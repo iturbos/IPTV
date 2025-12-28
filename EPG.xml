@@ -17835,6 +17835,9 @@
 	<programme channel="咪咕综合体育" start="20251228225000 +0800" stop="20251228231500 +0800">
 		<title lang="zh">中超精华 第30轮</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251228231500 +0800" stop="20251228232000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -60171,6 +60174,9 @@
 	<programme channel="黑莓动画" start="20251228205100 +0800" stop="20251228231500 +0800">
 		<title lang="zh">01_咒术回战全集</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251228231500 +0800" stop="20251228000400 +0800">
+		<title lang="zh">第二集：安徽</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -60957,6 +60963,9 @@
 	<programme channel="newtv超级综艺" start="20251228223600 +0800" stop="20251228230700 +0800">
 		<title lang="zh">艺熠生辉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251228230700 +0800" stop="20251228235200 +0800">
+		<title lang="zh">15_照亮你</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -61064,6 +61073,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20251228220000 +0800" stop="20251228230800 +0800">
 		<title lang="zh">电影《使命营救》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20251228230800 +0800" stop="20251228001800 +0800">
+		<title lang="zh">电影《新封神之二郎神》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -61268,6 +61280,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251228224300 +0800" stop="20251228231300 +0800">
 		<title lang="zh">《八段锦》推荐第46期</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251228231300 +0800" stop="20251228000500 +0800">
+		<title lang="zh">17_乐游原</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -61601,6 +61616,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251228223900 +0800" stop="20251228230900 +0800">
 		<title lang="zh">《八段锦》推荐第46期</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251228230900 +0800" stop="20251228235500 +0800">
+		<title lang="zh">07_皮b7影</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -62106,6 +62124,9 @@
 	<programme channel="newtv怡伴健康" start="20251228223600 +0800" stop="20251228230600 +0800">
 		<title lang="zh">《八段锦》推荐第46期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251228230600 +0800" stop="20251228234200 +0800">
+		<title lang="zh">山西清徐学栋vs湖南星火燎原-第4局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -62207,6 +62228,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251228223600 +0800" stop="20251228230600 +0800">
 		<title lang="zh">《A咖秀》推荐第16期</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251228230600 +0800" stop="20251228233500 +0800">
+		<title lang="zh">第十二集：一江碧水</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -62762,6 +62786,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251228223000 +0800" stop="20251228231600 +0800">
 		<title lang="zh">51_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251228231600 +0800" stop="20251228000100 +0800">
+		<title lang="zh">52_孤战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
