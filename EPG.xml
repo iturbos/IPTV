@@ -38433,6 +38433,9 @@
 	<programme channel="纯享4K" start="20251229020400 +0800" stop="20251229024400 +0800">
 		<title lang="zh">探索b7发现4K 严仓古墓探秘（1）</title>
 	</programme>
+	<programme channel="纯享4K" start="20251229024400 +0800" stop="20251229032400 +0800">
+		<title lang="zh">探索b7发现4K 严仓古墓探秘（2）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -46956,6 +46959,9 @@
 	<programme channel="黑莓动画" start="20251229000400 +0800" stop="20251229024200 +0800">
 		<title lang="zh">05_一念永恒合集篇</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251229024200 +0800" stop="20251229035500 +0800">
+		<title lang="zh">南国篇（3）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -47565,6 +47571,9 @@
 	<programme channel="newtv超级体育" start="20251229010500 +0800" stop="20251229023600 +0800">
 		<title lang="zh">实况录像(奥林匹克)-第十五届全国运动会 羽毛球女子团体决赛(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251229023600 +0800" stop="20251229040000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第5轮</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47718,6 +47727,9 @@
 	<programme channel="newtv怡伴健康" start="20251229015100 +0800" stop="20251229023200 +0800">
 		<title lang="zh">03_前夜</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251229023200 +0800" stop="20251229031700 +0800">
+		<title lang="zh">04_前夜</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -47757,6 +47769,9 @@
 	<programme channel="newtv军事评论" start="20251229021600 +0800" stop="20251229023800 +0800">
 		<title lang="zh">角逐地中海（上）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251229023800 +0800" stop="20251229032600 +0800">
+		<title lang="zh">伟大转折（下集）力挽狂澜</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -47768,6 +47783,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251229021300 +0800" stop="20251229023500 +0800">
 		<title lang="zh">健身舞—弥渡山歌（20210509）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251229023500 +0800" stop="20251229035500 +0800">
+		<title lang="zh">信马游疆（20251214）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -47826,11 +47844,17 @@
 	<programme channel="newtv金牌综艺" start="20251229014600 +0800" stop="20251229023200 +0800">
 		<title lang="zh">19_画眉</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20251229023200 +0800" stop="20251229031700 +0800">
+		<title lang="zh">20_画眉</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
 	<programme channel="newtv精品体育" start="20251229010400 +0800" stop="20251229024400 +0800">
 		<title lang="zh">2025-26赛季英超联赛第10轮：诺丁汉森林VS曼联</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20251229024400 +0800" stop="20251229042400 +0800">
+		<title lang="zh">2025-26赛季法甲联赛第11轮：巴黎圣日耳曼VS尼斯</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
