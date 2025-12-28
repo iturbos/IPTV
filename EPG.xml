@@ -17826,6 +17826,9 @@
 	<programme channel="咪咕综合体育" start="20251228220000 +0800" stop="20251228221000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251228221000 +0800" stop="20251228224500 +0800">
+		<title lang="zh">中国力量2-苏炳添特辑（下）-忆趣事谈短跑未来</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17921,6 +17924,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251228211500 +0800" stop="20251228221500 +0800">
 		<title lang="zh">最后之舞07</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251228222000 +0800" stop="20251228000000 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第6轮 山东赤水河酒-新疆天山</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -48651,6 +48657,9 @@
 	<programme channel="纯享4K" start="20251228211500 +0800" stop="20251228220500 +0800">
 		<title lang="zh">舌尖上的中国 第四季4K 第4集 天作</title>
 	</programme>
+	<programme channel="纯享4K" start="20251228220500 +0800" stop="20251228225400 +0800">
+		<title lang="zh">大运河之歌4K 第3集 运河中心时代</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -61665,6 +61674,9 @@
 	<programme channel="newtv家庭剧场" start="20251228212400 +0800" stop="20251228221000 +0800">
 		<title lang="zh">02_外乡人</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251228221000 +0800" stop="20251228224000 +0800">
+		<title lang="zh">《八段锦》推荐第46期</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -61860,6 +61872,9 @@
 	<programme channel="newtv爱情喜剧" start="20251228212700 +0800" stop="20251228221200 +0800">
 		<title lang="zh">63_扶摇</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251228221200 +0800" stop="20251228224200 +0800">
+		<title lang="zh">《八段锦》推荐第46期</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -61928,6 +61943,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251228214500 +0800" stop="20251228221500 +0800">
 		<title lang="zh">《美丽飞扬》第六期</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251228221500 +0800" stop="20251228001900 +0800">
+		<title lang="zh">迫降航班</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -62379,6 +62397,9 @@
 	<programme channel="newtv炫舞未来" start="20251228214600 +0800" stop="20251228220700 +0800">
 		<title lang="zh">健身舞《新年快乐》（20240219）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251228220700 +0800" stop="20251228222900 +0800">
+		<title lang="zh">健身舞《天边》（20220529）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -62481,6 +62502,9 @@
 	<programme channel="newtv精品综合" start="20251228211700 +0800" stop="20251228220300 +0800">
 		<title lang="zh">05_春色寄情人</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251228220300 +0800" stop="20251228223300 +0800">
+		<title lang="zh">《八段锦》推荐第46期</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -62549,6 +62573,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251228203300 +0800" stop="20251228220800 +0800">
 		<title lang="zh">九纹龙史进之除恶史家村</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251228220800 +0800" stop="20251228223800 +0800">
+		<title lang="zh">《美丽飞扬》第六期</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
