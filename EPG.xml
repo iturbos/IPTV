@@ -14445,6 +14445,9 @@
 	<programme channel="咪咕足球" start="20251229050000 +0800" stop="20251229051000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251229051000 +0800" stop="20251229065000 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA常规赛第32轮 上海浦发银行-北京首钢园</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -38661,6 +38664,9 @@
 	<programme channel="纯享4K" start="20251229045700 +0800" stop="20251229050200 +0800">
 		<title lang="zh">美丽中国自然4K 紫荆白莲系列 澳门古树</title>
 	</programme>
+	<programme channel="纯享4K" start="20251229050800 +0800" stop="20251229055700 +0800">
+		<title lang="zh">舌尖上的中国 第四季4K 第5集 风物</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -47907,6 +47913,9 @@
 	<programme channel="newtv精品纪录" start="20251229042600 +0800" stop="20251229051200 +0800">
 		<title lang="zh">20_猎狼刀</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251229051200 +0800" stop="20251229055700 +0800">
+		<title lang="zh">06_功勋</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -47958,6 +47967,9 @@
 	<programme channel="newtv军旅剧场" start="20251229043300 +0800" stop="20251229051500 +0800">
 		<title lang="zh">35_北国英雄</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251229051500 +0800" stop="20251229055700 +0800">
+		<title lang="zh">36_北国英雄</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -47981,6 +47993,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251229042400 +0800" stop="20251229050300 +0800">
 		<title lang="zh">20_毒舌家庭</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251229050300 +0800" stop="20251229054100 +0800">
+		<title lang="zh">21_毒舌家庭</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -48023,6 +48038,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251229042800 +0800" stop="20251229051400 +0800">
 		<title lang="zh">26_三十而已</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251229051400 +0800" stop="20251229060100 +0800">
+		<title lang="zh">27_三十而已</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -48128,6 +48146,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251229041300 +0800" stop="20251229050300 +0800">
 		<title lang="zh">烽火传奇 第3集 长空铁翼</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251229050300 +0800" stop="20251229055000 +0800">
+		<title lang="zh">烽火传奇 第2集 烈火永生</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
