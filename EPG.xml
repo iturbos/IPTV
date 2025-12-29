@@ -54660,6 +54660,9 @@
 	<programme channel="newtv超级电影" start="20251229213700 +0800" stop="20251229231400 +0800">
 		<title lang="zh">电影《特种兵归来之绝地营救》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251229231400 +0800" stop="20251229003000 +0800">
+		<title lang="zh">电影《侏罗纪崛起》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
