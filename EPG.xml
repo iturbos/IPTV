@@ -51345,6 +51345,9 @@
 	<programme channel="newtv超级体育" start="20251230002000 +0800" stop="20251230010500 +0800">
 		<title lang="zh">实况录像(奥林匹克)-第十五届全国运动会 射击比赛1(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251230010500 +0800" stop="20251230023600 +0800">
+		<title lang="zh">实况录像-2025年世界田联钻石联赛 尤金站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -51420,6 +51423,9 @@
 	<programme channel="newtv爱情喜剧" start="20251230004500 +0800" stop="20251230011500 +0800">
 		<title lang="zh">健康推荐3</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251230011500 +0800" stop="20251230024300 +0800">
+		<title lang="zh">混世四猴：神猴归来</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -51444,6 +51450,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251230002200 +0800" stop="20251230010600 +0800">
 		<title lang="zh">06_千古玦尘</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251230010600 +0800" stop="20251230013600 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -51455,6 +51464,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251230004900 +0800" stop="20251230011100 +0800">
 		<title lang="zh">欧洲胜利日（上）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251230011100 +0800" stop="20251230013300 +0800">
+		<title lang="zh">欧洲胜利日（下）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
