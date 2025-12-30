@@ -16305,6 +16305,9 @@
 	<programme channel="咪咕足球" start="20251231050000 +0800" stop="20251231051000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251231051000 +0800" stop="20251231065000 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA季后赛16进8第1轮 新疆天山-浙江稠州银行</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -41040,6 +41043,9 @@
 	<programme channel="纯享4K" start="20251231042400 +0800" stop="20251231050600 +0800">
 		<title lang="zh">远方的家4K 行走山水间 壮美长江源</title>
 	</programme>
+	<programme channel="纯享4K" start="20251231051600 +0800" stop="20251231060600 +0800">
+		<title lang="zh">舌尖上的中国 第四季4K 第7集 华流</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52053,6 +52059,9 @@
 	<programme channel="newtv热播精选" start="20251231043400 +0800" stop="20251231051400 +0800">
 		<title lang="zh">05_闪耀的她</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251231051400 +0800" stop="20251231055300 +0800">
+		<title lang="zh">06_闪耀的她</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -52070,6 +52079,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251231041700 +0800" stop="20251231050300 +0800">
 		<title lang="zh">36_三十而已</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251231050300 +0800" stop="20251231054900 +0800">
+		<title lang="zh">37_三十而已</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -52203,6 +52215,9 @@
 	<programme channel="newtv炫舞未来" start="20251231044700 +0800" stop="20251231051100 +0800">
 		<title lang="zh">06_天团来“砸”场</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251231051100 +0800" stop="20251231053200 +0800">
+		<title lang="zh">膝关节伸展（20240319）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -52271,6 +52286,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251231042400 +0800" stop="20251231050900 +0800">
 		<title lang="zh">32_画眉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251231050900 +0800" stop="20251231055500 +0800">
+		<title lang="zh">30_潜行者</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
