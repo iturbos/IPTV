@@ -59832,6 +59832,9 @@
 	<programme channel="newtv古装剧场" start="20251230224500 +0800" stop="20251230231500 +0800">
 		<title lang="zh">《八段锦》推荐第46期</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251230231500 +0800" stop="20251230000100 +0800">
+		<title lang="zh">30_清平乐</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -60261,6 +60264,9 @@
 	<programme channel="newtv爱情喜剧" start="20251230221500 +0800" stop="20251230230300 +0800">
 		<title lang="zh">04_空姐日记</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251230230300 +0800" stop="20251230003200 +0800">
+		<title lang="zh">你的样子</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -60453,6 +60459,9 @@
 	<programme channel="newtv怡伴健康" start="20251230224000 +0800" stop="20251230231000 +0800">
 		<title lang="zh">《八段锦》推荐第46期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251230231000 +0800" stop="20251230234900 +0800">
+		<title lang="zh">山西清徐学栋vs四川蓉城-第2局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -60554,6 +60563,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251230224400 +0800" stop="20251230231400 +0800">
 		<title lang="zh">01_三跨天山</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251230231400 +0800" stop="20251230234400 +0800">
+		<title lang="zh">《八段锦》推荐第46期</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -60698,6 +60710,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251230225100 +0800" stop="20251230231300 +0800">
 		<title lang="zh">谁是军营厨王（51）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251230231300 +0800" stop="20251230233500 +0800">
+		<title lang="zh">谁是军营厨王（52）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
