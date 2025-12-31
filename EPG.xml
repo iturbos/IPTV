@@ -44127,6 +44127,9 @@
 	<programme channel="明星大片" start="20251231223200 +0800" stop="20251231230200 +0800">
 		<title lang="zh">《八段锦》推荐第46期</title>
 	</programme>
+	<programme channel="明星大片" start="20251231230200 +0800" stop="20251231002100 +0800">
+		<title lang="zh">大话西游之缘起</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -85197,6 +85200,9 @@
 	<programme channel="黑莓动画" start="20251231221600 +0800" stop="20251231230300 +0800">
 		<title lang="zh">第一集 肯尼亚</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251231230300 +0800" stop="20251231003200 +0800">
+		<title lang="zh">金猴降妖</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -86139,6 +86145,9 @@
 	<programme channel="newtv超级体育" start="20251231214500 +0800" stop="20251231232000 +0800">
 		<title lang="zh">体育世界</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251231232000 +0800" stop="20251231002000 +0800">
+		<title lang="zh">实况录像-2025年世界羽毛球巡回赛总决赛 4</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -86292,6 +86301,9 @@
 	<programme channel="newtv超级电视剧" start="20251231223200 +0800" stop="20251231231700 +0800">
 		<title lang="zh">34_画眉</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251231231700 +0800" stop="20251231000300 +0800">
+		<title lang="zh">35_画眉</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -86399,6 +86411,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251231223800 +0800" stop="20251231230800 +0800">
 		<title lang="zh">《八段锦》推荐第46期</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251231230800 +0800" stop="20251231235700 +0800">
+		<title lang="zh">25_乐游原</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -87612,6 +87627,9 @@
 	<programme channel="newtv炫舞未来" start="20251231225500 +0800" stop="20251231230400 +0800">
 		<title lang="zh">广场舞《女人是老虎》-乌兰图雅、王广成</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251231231300 +0800" stop="20251231003000 +0800">
+		<title lang="zh">三代邮政人 “长征邮路”单边108公里（20251208）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -87716,6 +87734,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251231223200 +0800" stop="20251231230200 +0800">
 		<title lang="zh">《八段锦》推荐第46期</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251231230200 +0800" stop="20251231002100 +0800">
+		<title lang="zh">大话西游之缘起</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -87908,6 +87929,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251231223000 +0800" stop="20251231231600 +0800">
 		<title lang="zh">09_宿敌</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251231231600 +0800" stop="20251231000200 +0800">
+		<title lang="zh">10_宿敌</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
