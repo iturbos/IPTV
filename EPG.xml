@@ -27798,6 +27798,9 @@
 	<programme channel="咪咕足球" start="20251231211500 +0800" stop="20251231221500 +0800">
 		<title lang="zh">最后之舞10</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251231221500 +0800" stop="20251231222000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -85173,6 +85176,9 @@
 	<programme channel="黑莓动画" start="20251231193000 +0800" stop="20251231221600 +0800">
 		<title lang="zh">31_间谍过家家全集中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251231221600 +0800" stop="20251231230300 +0800">
+		<title lang="zh">第一集 肯尼亚</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -86469,6 +86475,9 @@
 	<programme channel="newtv精品纪录" start="20251231212200 +0800" stop="20251231220700 +0800">
 		<title lang="zh">11_东江英雄刘黑仔</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251231220700 +0800" stop="20251231223700 +0800">
+		<title lang="zh">《八段锦》推荐第46期</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -86679,6 +86688,9 @@
 	<programme channel="newtv军旅剧场" start="20251231212500 +0800" stop="20251231221100 +0800">
 		<title lang="zh">15_皮b7影</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251231221100 +0800" stop="20251231224100 +0800">
+		<title lang="zh">《八段锦》推荐第46期</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -86783,6 +86795,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251231212000 +0800" stop="20251231220600 +0800">
 		<title lang="zh">14_外乡人</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251231220600 +0800" stop="20251231225200 +0800">
+		<title lang="zh">15_外乡人</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -87153,6 +87168,9 @@
 	<programme channel="newtv怡伴健康" start="20251231213300 +0800" stop="20251231220900 +0800">
 		<title lang="zh">湖南星火燎原vs北京睿翼精英-第2局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251231220900 +0800" stop="20251231224800 +0800">
+		<title lang="zh">湖南星火燎原vs北京睿翼精英-第3局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -87512,6 +87530,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251231212400 +0800" stop="20251231221200 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251231221200 +0800" stop="20251231222500 +0800">
+		<title lang="zh">广场舞《送你一首吉祥的歌》-乌兰图雅、王广成</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
