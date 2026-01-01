@@ -55950,6 +55950,9 @@
 	<programme channel="newtv超级电视剧" start="20260101223000 +0800" stop="20260101231500 +0800">
 		<title lang="zh">37_画眉</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260101231500 +0800" stop="20260101000100 +0800">
+		<title lang="zh">38_画眉</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -57470,6 +57473,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260101222600 +0800" stop="20260101231600 +0800">
 		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260101231600 +0800" stop="20260101000000 +0800">
+		<title lang="zh">42_谍战深海之惊蛰[DVD版]</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
