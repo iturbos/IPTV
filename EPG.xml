@@ -83767,6 +83767,9 @@
 	<programme channel="newtv超级电视剧" start="20260102223100 +0800" stop="20260102231700 +0800">
 		<title lang="zh">02_烟火人家</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260102231700 +0800" stop="20260102000300 +0800">
+		<title lang="zh">03_烟火人家</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -84631,6 +84634,9 @@
 	<programme channel="newtv怡伴健康" start="20260102221800 +0800" stop="20260102230200 +0800">
 		<title lang="zh">伏湿丸</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20260102230200 +0800" stop="20260102234800 +0800">
+		<title lang="zh">安徽星尘vs广东瑜满珠江-第1局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -84726,6 +84732,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20260102221600 +0800" stop="20260102230100 +0800">
 		<title lang="zh">31_下一站婚姻</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260102230100 +0800" stop="20260102234200 +0800">
+		<title lang="zh">益健堂半导体激光表</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -85446,6 +85455,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260102221100 +0800" stop="20260102230100 +0800">
 		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260102230100 +0800" stop="20260102000700 +0800">
+		<title lang="zh">夺宝同盟之神秘笔记</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
