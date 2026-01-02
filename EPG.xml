@@ -16578,6 +16578,9 @@
 	<programme channel="咪咕综合体育" start="20260103022500 +0800" stop="20260103025000 +0800">
 		<title lang="zh">欧陆足球版图-英超特辑</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260103025000 +0800" stop="20260103031500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -52878,6 +52881,9 @@
 	<programme channel="newtv超级体育" start="20260103010500 +0800" stop="20260103023600 +0800">
 		<title lang="zh">实况录像-2025年世界田联钻石联赛 洛桑站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260103023600 +0800" stop="20260103040000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第8轮</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -53007,6 +53013,9 @@
 	<programme channel="newtv爱情喜剧" start="20260103005400 +0800" stop="20260103023300 +0800">
 		<title lang="zh">熊猫计划</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20260103023300 +0800" stop="20260103030800 +0800">
+		<title lang="zh">BURRSAIL荣耀真钻机械腕表尊享组-渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -53133,11 +53142,17 @@
 	<programme channel="newtv金牌综艺" start="20260103020300 +0800" stop="20260103024700 +0800">
 		<title lang="zh">06_风声</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20260103024700 +0800" stop="20260103033300 +0800">
+		<title lang="zh">07_风声</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
 	<programme channel="newtv精品体育" start="20260103005200 +0800" stop="20260103023600 +0800">
 		<title lang="zh">2025-26赛季西甲联赛第3轮：皇家马德里VS马略卡</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20260103023600 +0800" stop="20260103042100 +0800">
+		<title lang="zh">2025-26赛季法甲联赛第3轮：里昂VS马赛</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
@@ -53189,6 +53204,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260103020800 +0800" stop="20260103024300 +0800">
 		<title lang="zh">BURRSAIL荣耀真钻机械腕表尊享组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260103024300 +0800" stop="20260103040100 +0800">
+		<title lang="zh">兵临城下-虎贲</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
