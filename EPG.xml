@@ -48783,6 +48783,9 @@
 	<programme channel="纯享4K" start="20260104205700 +0800" stop="20260104210200 +0800">
 		<title lang="zh">美丽中国自然4K 汗马系列 融冰倒木</title>
 	</programme>
+	<programme channel="纯享4K" start="20260104210200 +0800" stop="20260104213100 +0800">
+		<title lang="zh">好吃客4K 绍兴</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -59916,6 +59919,9 @@
 	<programme channel="黑莓电影" start="20260104193400 +0800" stop="20260104211100 +0800">
 		<title lang="zh">根本停不下来</title>
 	</programme>
+	<programme channel="黑莓电影" start="20260104211100 +0800" stop="20260104225000 +0800">
+		<title lang="zh">熊猫计划</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -60681,6 +60687,9 @@
 	<programme channel="newtv超级电影" start="20260104201300 +0800" stop="20260104211400 +0800">
 		<title lang="zh">电影《一路囧途》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260104211400 +0800" stop="20260104224100 +0800">
+		<title lang="zh">电影《红番区》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -60767,6 +60776,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260104202200 +0800" stop="20260104210800 +0800">
 		<title lang="zh">07_珠江人家</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260104210800 +0800" stop="20260104215300 +0800">
+		<title lang="zh">08_珠江人家</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60951,6 +60963,9 @@
 	<programme channel="newtv精品纪录" start="20260104202100 +0800" stop="20260104210700 +0800">
 		<title lang="zh">28_东江英雄刘黑仔</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20260104210700 +0800" stop="20260104215700 +0800">
+		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -61040,6 +61055,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20260104202500 +0800" stop="20260104211100 +0800">
 		<title lang="zh">45_清平乐</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20260104211100 +0800" stop="20260104215500 +0800">
+		<title lang="zh">伏湿丸</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -61133,6 +61151,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20260104202200 +0800" stop="20260104210700 +0800">
 		<title lang="zh">31_尖锋之烈焰青春</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20260104210700 +0800" stop="20260104215800 +0800">
+		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -61464,6 +61485,9 @@
 	<programme channel="newtv动作电影" start="20260104202300 +0800" stop="20260104210700 +0800">
 		<title lang="zh">伏湿丸</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20260104210700 +0800" stop="20260104223200 +0800">
+		<title lang="zh">一个人的突围</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -61559,6 +61583,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20260104201700 +0800" stop="20260104210300 +0800">
 		<title lang="zh">浙江杭州汉资vs江西滕王阁-第1局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20260104210300 +0800" stop="20260104214300 +0800">
+		<title lang="zh">益健堂半导体激光表</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -61775,6 +61802,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20260104204100 +0800" stop="20260104210400 +0800">
 		<title lang="zh">国安家好 看山东舰航母编队首次访港</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20260104210400 +0800" stop="20260104212600 +0800">
+		<title lang="zh">“锋刃”对决 谁是2025枪王之王</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -62147,6 +62177,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260104202900 +0800" stop="20260104211500 +0800">
 		<title lang="zh">04_无间</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260104211500 +0800" stop="20260104215900 +0800">
+		<title lang="zh">伏湿丸</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
