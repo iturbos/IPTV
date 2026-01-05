@@ -50973,6 +50973,9 @@
 	<programme channel="黑莓电影" start="20260106011800 +0800" stop="20260106030700 +0800">
 		<title lang="zh">花漾少女杀人事件</title>
 	</programme>
+	<programme channel="黑莓电影" start="20260106030700 +0800" stop="20260106043400 +0800">
+		<title lang="zh">举起手来！</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -51741,6 +51744,9 @@
 	<programme channel="newtv古装剧场" start="20260106022900 +0800" stop="20260106031400 +0800">
 		<title lang="zh">32_包青天之七侠五义</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20260106031400 +0800" stop="20260106035900 +0800">
+		<title lang="zh">33_包青天之七侠五义</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -51792,6 +51798,9 @@
 	<programme channel="newtv热播精选" start="20260106021900 +0800" stop="20260106030400 +0800">
 		<title lang="zh">08_承欢记</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20260106030400 +0800" stop="20260106035000 +0800">
+		<title lang="zh">09_承欢记</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -51815,6 +51824,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20260106023900 +0800" stop="20260106031400 +0800">
 		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20260106031400 +0800" stop="20260106044400 +0800">
+		<title lang="zh">鲨卷风2</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -51875,6 +51887,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20260106024300 +0800" stop="20260106030500 +0800">
 		<title lang="zh">决胜利器b7陆战先锋</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20260106030500 +0800" stop="20260106032700 +0800">
+		<title lang="zh">决胜利器b7海天利刃</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
