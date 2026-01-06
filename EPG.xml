@@ -17946,6 +17946,9 @@
 	<programme channel="咪咕足球" start="20260106183500 +0800" stop="20260106185000 +0800">
 		<title lang="zh">睛彩圈圈点第二十四期</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260106190000 +0800" stop="20260106192500 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第十二期</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -59874,6 +59877,9 @@
 	<programme channel="newtv超级体育" start="20260106183000 +0800" stop="20260106190000 +0800">
 		<title lang="zh">2025/2026法国足球甲级联赛- 第17轮集锦</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260106190000 +0800" stop="20260106200000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季自由式滑雪世界杯 加拿大卡尔加里站 U型场地</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59915,6 +59921,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260106171800 +0800" stop="20260106184500 +0800">
 		<title lang="zh">粉碎罪恶</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260106184500 +0800" stop="20260106205500 +0800">
+		<title lang="zh">一代宗师</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59993,6 +60002,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260106180400 +0800" stop="20260106184800 +0800">
 		<title lang="zh">10_亲爱的爸妈</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260106184800 +0800" stop="20260106193300 +0800">
+		<title lang="zh">13_珠江人家</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60399,6 +60411,9 @@
 	<programme channel="newtv家庭剧场" start="20260106180200 +0800" stop="20260106184600 +0800">
 		<title lang="zh">36_四喜</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20260106184600 +0800" stop="20260106192600 +0800">
+		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -60479,6 +60494,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20260106174800 +0800" stop="20260106183600 +0800">
 		<title lang="zh">美国DoctorAchraf鲨鱼油神经酸-渠道（右）</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20260106183600 +0800" stop="20260106191900 +0800">
+		<title lang="zh">24_和平之舟</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -60602,6 +60620,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20260106170600 +0800" stop="20260106184200 +0800">
 		<title lang="zh">皇牌空战</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20260106184200 +0800" stop="20260106191700 +0800">
+		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -60897,6 +60918,9 @@
 	<programme channel="newtv军事评论" start="20260106181000 +0800" stop="20260106183600 +0800">
 		<title lang="zh">水下攻防新科技 无人潜航器</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260106183600 +0800" stop="20260106190300 +0800">
+		<title lang="zh">透过054B观全球现役护卫舰发展</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -60998,6 +61022,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20260106180300 +0800" stop="20260106183300 +0800">
 		<title lang="zh">健康生活——鱼油</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20260106183300 +0800" stop="20260106193300 +0800">
+		<title lang="zh">我不要无爱的婚姻</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -61223,6 +61250,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260106180200 +0800" stop="20260106183700 +0800">
 		<title lang="zh">泰国Napattiga人参健发养护洗发水-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260106183700 +0800" stop="20260106192300 +0800">
+		<title lang="zh">11_无间</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
