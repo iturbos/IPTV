@@ -47967,6 +47967,9 @@
 	<programme channel="纯享4K" start="20260106222600 +0800" stop="20260106231100 +0800">
 		<title lang="zh">传承b7智慧篇4K 第6集 动静之力</title>
 	</programme>
+	<programme channel="纯享4K" start="20260106231100 +0800" stop="20260106235100 +0800">
+		<title lang="zh">荣宝斋4K 第3集 斋藏绝技</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -59094,6 +59097,9 @@
 	<programme channel="黑莓动画" start="20260106222700 +0800" stop="20260106231300 +0800">
 		<title lang="zh">第三集 蒙古国</title>
 	</programme>
+	<programme channel="黑莓动画" start="20260106231300 +0800" stop="20260106004800 +0800">
+		<title lang="zh">火影忍者疾风传剧场版：火之意志的继承者</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -60101,6 +60107,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260106223500 +0800" stop="20260106232000 +0800">
 		<title lang="zh">14_烟火人家</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260106232000 +0800" stop="20260106000500 +0800">
+		<title lang="zh">15_烟火人家</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -61326,6 +61335,9 @@
 	<programme channel="newtv炫舞未来" start="20260106223300 +0800" stop="20260106231100 +0800">
 		<title lang="zh">养胃你做对了吗（中）（20250118）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20260106231100 +0800" stop="20260106231800 +0800">
+		<title lang="zh">广场舞《心恋》-乌兰图雅、王广成</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -61599,6 +61611,9 @@
 	<programme channel="newtv金牌综艺" start="20260106222800 +0800" stop="20260106231200 +0800">
 		<title lang="zh">伏湿丸</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20260106231200 +0800" stop="20260106235800 +0800">
+		<title lang="zh">14_无间</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -61640,6 +61655,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20260106213100 +0800" stop="20260106231300 +0800">
 		<title lang="zh">NBA季后赛5月16日：雷霆VS掘金</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20260106231300 +0800" stop="20260106005500 +0800">
+		<title lang="zh">NBA季后赛5月10日：雷霆VS掘金</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
@@ -61766,6 +61784,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260106222100 +0800" stop="20260106230500 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260106230500 +0800" stop="20260106002800 +0800">
+		<title lang="zh">大偃术师</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
