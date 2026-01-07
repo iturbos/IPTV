@@ -40134,6 +40134,9 @@
 	<programme channel="黑莓电影" start="20260108012000 +0800" stop="20260108030200 +0800">
 		<title lang="zh">养蜂人</title>
 	</programme>
+	<programme channel="黑莓电影" start="20260108030200 +0800" stop="20260108045300 +0800">
+		<title lang="zh">三线轮洄</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -40812,6 +40815,9 @@
 	<programme channel="newtv超级综艺" start="20260108022600 +0800" stop="20260108031200 +0800">
 		<title lang="zh">35_你比星光美丽</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260108031200 +0800" stop="20260108035900 +0800">
+		<title lang="zh">36_你比星光美丽</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -40869,6 +40875,9 @@
 	<programme channel="newtv精品大剧" start="20260108022800 +0800" stop="20260108031000 +0800">
 		<title lang="zh">34_好妻子</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20260108031000 +0800" stop="20260108035300 +0800">
+		<title lang="zh">35_好妻子</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -40883,6 +40892,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20260108021600 +0800" stop="20260108030200 +0800">
 		<title lang="zh">36_大决战</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20260108030200 +0800" stop="20260108034700 +0800">
+		<title lang="zh">37_大决战</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -40913,6 +40925,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20260108022000 +0800" stop="20260108030600 +0800">
 		<title lang="zh">36_天狼星行动</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20260108030600 +0800" stop="20260108035100 +0800">
+		<title lang="zh">37_天狼星行动</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -41019,6 +41034,9 @@
 	<programme channel="newtv军事评论" start="20260108020800 +0800" stop="20260108030100 +0800">
 		<title lang="zh">你们的样子 2025年清明节特别节目</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260108030100 +0800" stop="20260108035500 +0800">
+		<title lang="zh">兵心照吕梁：从合格兵到带头人</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -41048,6 +41066,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20260108014700 +0800" stop="20260108031400 +0800">
 		<title lang="zh">迷毒之天命圈</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20260108031400 +0800" stop="20260108042300 +0800">
+		<title lang="zh">现在就出发第2季</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -41132,6 +41153,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260108023800 +0800" stop="20260108031200 +0800">
 		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260108031200 +0800" stop="20260108043900 +0800">
+		<title lang="zh">酒剑</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
