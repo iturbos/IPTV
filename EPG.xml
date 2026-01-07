@@ -48825,6 +48825,9 @@
 	<programme channel="newtv超级综艺" start="20260107175400 +0800" stop="20260107192300 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260107192300 +0800" stop="20260107193000 +0800">
+		<title lang="zh">国家宝藏-周游季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49344,6 +49347,9 @@
 	<programme channel="newtv军旅剧场" start="20260107182100 +0800" stop="20260107190900 +0800">
 		<title lang="zh">11_梅花红桃</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20260107190900 +0800" stop="20260107195900 +0800">
+		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -49803,6 +49809,9 @@
 	<programme channel="newtv潮妈辣婆" start="20260107182200 +0800" stop="20260107190600 +0800">
 		<title lang="zh">伏湿丸</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260107190600 +0800" stop="20260107195800 +0800">
+		<title lang="zh">14_爱的阶梯</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -50258,6 +50267,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260107182700 +0800" stop="20260107191300 +0800">
 		<title lang="zh">16_无间</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260107191300 +0800" stop="20260107195700 +0800">
+		<title lang="zh">伏湿丸</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
