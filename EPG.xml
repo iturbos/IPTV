@@ -39426,6 +39426,9 @@
 	<programme channel="纯享4K" start="20260108122800 +0800" stop="20260108131000 +0800">
 		<title lang="zh">远方的家4K 我家那片海 大海是故乡</title>
 	</programme>
+	<programme channel="纯享4K" start="20260108131500 +0800" stop="20260108132100 +0800">
+		<title lang="zh">美丽中国自然4K 最美大湾区系列 仙八色鸫</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -49260,6 +49263,9 @@
 	<programme channel="newtv超级综艺" start="20260108121300 +0800" stop="20260108131900 +0800">
 		<title lang="zh">雏凤新声 总台首届少儿戏曲大会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260108131900 +0800" stop="20260108161900 +0800">
+		<title lang="zh">中国唱将</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49455,6 +49461,9 @@
 	<programme channel="newtv精品大剧" start="20260108122400 +0800" stop="20260108130900 +0800">
 		<title lang="zh">36_爱的理想生活[DVD版]</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20260108130900 +0800" stop="20260108135400 +0800">
+		<title lang="zh">东贡堂蜂王浆冻干粉片升级庆生组-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -49628,6 +49637,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20260108122000 +0800" stop="20260108130500 +0800">
 		<title lang="zh">29_猎狼刀</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20260108130500 +0800" stop="20260108134000 +0800">
+		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -49832,6 +49844,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20260108123100 +0800" stop="20260108131100 +0800">
 		<title lang="zh">太空航天刺梨益生菌粉-渠道（右）</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20260108131100 +0800" stop="20260108143900 +0800">
+		<title lang="zh">火线追凶2之爱本无罪</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -50162,6 +50177,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20260108123700 +0800" stop="20260108131200 +0800">
 		<title lang="zh">BC99太空航天活性益生菌粉-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20260108131200 +0800" stop="20260108133600 +0800">
+		<title lang="zh">21_樱桃小丸子 第二季普通话版</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
