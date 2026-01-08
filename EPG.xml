@@ -12816,6 +12816,9 @@
 	<programme channel="咪咕足球" start="20260109050000 +0800" stop="20260109051000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260109051000 +0800" stop="20260109065000 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA季后赛半决赛第2轮 内蒙古农信-东莞新彤盛</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -31884,6 +31887,9 @@
 	<programme channel="纯享4K" start="20260109042400 +0800" stop="20260109050600 +0800">
 		<title lang="zh">远方的家4K 我家那片海 寻味山海间</title>
 	</programme>
+	<programme channel="纯享4K" start="20260109051100 +0800" stop="20260109051700 +0800">
+		<title lang="zh">美丽中国自然4K 最美大湾区系列 白鹇</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -39753,6 +39759,9 @@
 	<programme channel="黑莓电影" start="20260109030800 +0800" stop="20260109051100 +0800">
 		<title lang="zh">冒牌大哥</title>
 	</programme>
+	<programme channel="黑莓电影" start="20260109051100 +0800" stop="20260109064900 +0800">
+		<title lang="zh">克莱泽的圣诞节</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -40479,6 +40488,9 @@
 	<programme channel="newtv超级电视剧" start="20260109042700 +0800" stop="20260109051300 +0800">
 		<title lang="zh">35_那座城这家人（DVD版）</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260109051300 +0800" stop="20260109055800 +0800">
+		<title lang="zh">36_那座城这家人（DVD版）</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -40599,6 +40611,9 @@
 	<programme channel="newtv家庭剧场" start="20260109041600 +0800" stop="20260109050100 +0800">
 		<title lang="zh">31_六姊妹</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20260109050100 +0800" stop="20260109053600 +0800">
+		<title lang="zh">BC99太空航天活性益生菌粉-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -40641,6 +40656,9 @@
 	<programme channel="newtv爱情喜剧" start="20260109042400 +0800" stop="20260109050900 +0800">
 		<title lang="zh">29_你比星光美丽</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20260109050900 +0800" stop="20260109055500 +0800">
+		<title lang="zh">30_你比星光美丽</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -40655,6 +40673,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20260109033100 +0800" stop="20260109051600 +0800">
 		<title lang="zh">叱咤风云</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20260109051600 +0800" stop="20260109055100 +0800">
+		<title lang="zh">BC99太空航天活性益生菌粉-渠道（右）</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -40703,6 +40724,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20260109042300 +0800" stop="20260109050800 +0800">
 		<title lang="zh">51_大秦赋</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260109050800 +0800" stop="20260109055400 +0800">
+		<title lang="zh">52_大秦赋</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
