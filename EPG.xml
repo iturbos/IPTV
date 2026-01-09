@@ -40221,6 +40221,9 @@
 	<programme channel="newtv超级电影" start="20260110014900 +0800" stop="20260110030800 +0800">
 		<title lang="zh">冰火凤</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260110030800 +0800" stop="20260110041200 +0800">
+		<title lang="zh">大狂蜂：起源</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -40269,6 +40272,9 @@
 	<programme channel="newtv精品纪录" start="20260110022000 +0800" stop="20260110030600 +0800">
 		<title lang="zh">44_大决战</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20260110030600 +0800" stop="20260110035100 +0800">
+		<title lang="zh">45_大决战</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -40298,6 +40304,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20260110021600 +0800" stop="20260110030600 +0800">
 		<title lang="zh">03_利刃出击</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20260110030600 +0800" stop="20260110040000 +0800">
+		<title lang="zh">04_利刃出击</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -40331,6 +40340,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20260110023000 +0800" stop="20260110031500 +0800">
 		<title lang="zh">24_承欢记</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20260110031500 +0800" stop="20260110040000 +0800">
+		<title lang="zh">25_承欢记</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -40374,6 +40386,9 @@
 	<programme channel="newtv怡伴健康" start="20260110022800 +0800" stop="20260110031300 +0800">
 		<title lang="zh">08_相亲相爱一家人</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20260110031300 +0800" stop="20260110035800 +0800">
+		<title lang="zh">09_相亲相爱一家人</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -40388,6 +40403,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20260110022300 +0800" stop="20260110030500 +0800">
 		<title lang="zh">03_小别离</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260110030500 +0800" stop="20260110034700 +0800">
+		<title lang="zh">04_小别离</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -40410,6 +40428,9 @@
 	<programme channel="newtv军事评论" start="20260110024000 +0800" stop="20260110030700 +0800">
 		<title lang="zh">武器装备的“怪咖”设计</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260110030700 +0800" stop="20260110035800 +0800">
+		<title lang="zh">血与火：第一次世界大战启示录 ① 点燃导火索</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -40430,6 +40451,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20260110025600 +0800" stop="20260110030400 +0800">
 		<title lang="zh">广场舞《我的蒙古马》-乌兰图雅、王广成</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20260110031300 +0800" stop="20260110031800 +0800">
+		<title lang="zh">广场舞《乌兰牧骑之恋》-乌兰图雅、王广成</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -40532,6 +40556,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260110023700 +0800" stop="20260110031200 +0800">
 		<title lang="zh">泰国Napattiga人参健发养护洗发水-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260110031200 +0800" stop="20260110044400 +0800">
+		<title lang="zh">绝世低手之夺命玉玺</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
