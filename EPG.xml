@@ -79225,6 +79225,9 @@
 	<programme channel="newtv精品大剧" start="20260109182600 +0800" stop="20260109191100 +0800">
 		<title lang="zh">30_清平乐[DVD版]</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20260109191100 +0800" stop="20260109195500 +0800">
+		<title lang="zh">伏湿丸</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -79845,6 +79848,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20260109182400 +0800" stop="20260109190800 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20260109190800 +0800" stop="20260109194800 +0800">
+		<title lang="zh">四川天门淘一街vs浙江杭州汉资-第1局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -80520,6 +80526,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260109182400 +0800" stop="20260109191000 +0800">
 		<title lang="zh">20_雪中悍刀行</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260109191000 +0800" stop="20260109195400 +0800">
+		<title lang="zh">伏湿丸</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
