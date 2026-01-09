@@ -12855,6 +12855,9 @@
 	<programme channel="咪咕足球" start="20260110050000 +0800" stop="20260110051000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260110051000 +0800" stop="20260110065000 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA季后赛半决赛第3轮 内蒙古农信-东莞新彤盛</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -31386,6 +31389,9 @@
 	<programme channel="纯享4K" start="20260110042100 +0800" stop="20260110050300 +0800">
 		<title lang="zh">远方的家4K 我家那片海 辽阔海洋 物产丰饶</title>
 	</programme>
+	<programme channel="纯享4K" start="20260110051400 +0800" stop="20260110054400 +0800">
+		<title lang="zh">信仰的感召4K 政工楷模 刘伯坚</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -40395,6 +40401,9 @@
 	<programme channel="newtv超级电视剧" start="20260110042700 +0800" stop="20260110051200 +0800">
 		<title lang="zh">39_那座城这家人（DVD版）</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260110051200 +0800" stop="20260110055800 +0800">
+		<title lang="zh">40_那座城这家人（DVD版）</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -40415,6 +40424,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20260110041800 +0800" stop="20260110050100 +0800">
 		<title lang="zh">18_最好的时代</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20260110050100 +0800" stop="20260110054500 +0800">
+		<title lang="zh">19_最好的时代</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -40512,6 +40524,9 @@
 	<programme channel="newtv家庭剧场" start="20260110042800 +0800" stop="20260110051400 +0800">
 		<title lang="zh">35_六姊妹</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20260110051400 +0800" stop="20260110054900 +0800">
+		<title lang="zh">杨洪昌白花蛇颈腰椎膏-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -40556,6 +40571,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20260110041700 +0800" stop="20260110050200 +0800">
 		<title lang="zh">34_你比星光美丽</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20260110050200 +0800" stop="20260110054700 +0800">
+		<title lang="zh">35_你比星光美丽</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -40619,6 +40637,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20260110042400 +0800" stop="20260110050900 +0800">
 		<title lang="zh">55_大秦赋</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260110050900 +0800" stop="20260110055500 +0800">
+		<title lang="zh">56_大秦赋</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -40695,6 +40716,9 @@
 	<programme channel="newtv精品综合" start="20260110042800 +0800" stop="20260110051200 +0800">
 		<title lang="zh">地道英雄 第3集</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20260110051200 +0800" stop="20260110055600 +0800">
+		<title lang="zh">地道英雄 第4集</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -40739,6 +40763,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260110042200 +0800" stop="20260110050700 +0800">
 		<title lang="zh">05_画眉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260110050700 +0800" stop="20260110055000 +0800">
+		<title lang="zh">11_风暴舞</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
