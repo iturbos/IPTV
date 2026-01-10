@@ -38697,6 +38697,9 @@
 	<programme channel="纯享4K" start="20260110155300 +0800" stop="20260110160300 +0800">
 		<title lang="zh">秘境之眼4K 南岭精灵</title>
 	</programme>
+	<programme channel="纯享4K" start="20260110160300 +0800" stop="20260110163100 +0800">
+		<title lang="zh">记住乡愁——门楣之上4K 东平梁氏——状元故里 久久为功</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -48948,6 +48951,9 @@
 	<programme channel="newtv精品纪录" start="20260110152800 +0800" stop="20260110161300 +0800">
 		<title lang="zh">10_归队</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20260110161300 +0800" stop="20260110164800 +0800">
+		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -49086,6 +49092,9 @@
 	<programme channel="newtv军旅剧场" start="20260110152400 +0800" stop="20260110161000 +0800">
 		<title lang="zh">18_梅花红桃</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20260110161000 +0800" stop="20260110164500 +0800">
+		<title lang="zh">泰国Napattiga人参健发养护洗发水-渠道（右）</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -49157,6 +49166,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20260110153700 +0800" stop="20260110161200 +0800">
 		<title lang="zh">杨洪昌白花蛇颈腰椎膏-渠道（右）</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20260110161200 +0800" stop="20260110165800 +0800">
+		<title lang="zh">12_绽放的许开心</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -49230,6 +49242,9 @@
 	<programme channel="newtv热播精选" start="20260110152700 +0800" stop="20260110160600 +0800">
 		<title lang="zh">05_黑白密码</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20260110160600 +0800" stop="20260110164700 +0800">
+		<title lang="zh">06_黑白密码</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -49292,6 +49307,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20260110154000 +0800" stop="20260110161500 +0800">
 		<title lang="zh">杨洪昌白花蛇颈腰椎膏-渠道（右）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20260110161500 +0800" stop="20260110170100 +0800">
+		<title lang="zh">17_长相思 第二季</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -49569,6 +49587,9 @@
 	<programme channel="newtv军事评论" start="20260110154200 +0800" stop="20260110160900 +0800">
 		<title lang="zh">极限飞驰</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260110160900 +0800" stop="20260110163500 +0800">
+		<title lang="zh">塞外尖兵</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -49652,6 +49673,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20260110154300 +0800" stop="20260110161300 +0800">
 		<title lang="zh">健康生活-辅酶</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20260110161300 +0800" stop="20260110164100 +0800">
+		<title lang="zh">《文物保护法》修订特别策划 守护长城（20241110）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -49773,6 +49797,9 @@
 	<programme channel="newtv惊悚悬疑" start="20260110152500 +0800" stop="20260110160900 +0800">
 		<title lang="zh">伏湿丸</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20260110160900 +0800" stop="20260110172600 +0800">
+		<title lang="zh">狄仁杰之骷髅将军</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -49880,6 +49907,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20260110135900 +0800" stop="20260110160900 +0800">
 		<title lang="zh">CBA季后赛4月13日：辽宁VS新疆</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20260110160900 +0800" stop="20260110180500 +0800">
+		<title lang="zh">CBA季后赛4月4日：青岛VS浙江</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
