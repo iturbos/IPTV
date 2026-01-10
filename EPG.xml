@@ -12861,6 +12861,9 @@
 	<programme channel="咪咕足球" start="20260111050000 +0800" stop="20260111051000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260111051000 +0800" stop="20260111064500 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA季后赛排位赛第1轮 河南豫光金铅-石家庄英励</title>
+	</programme>
 	<channel id="四川卫视">
 		<display-name lang="zh">四川卫视</display-name>
 	</channel>
@@ -40107,6 +40110,9 @@
 	<programme channel="newtv超级电视剧" start="20260111042400 +0800" stop="20260111050900 +0800">
 		<title lang="zh">43_那座城这家人（DVD版）</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260111050900 +0800" stop="20260111055500 +0800">
+		<title lang="zh">44_那座城这家人（DVD版）</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -40202,6 +40208,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20260111042500 +0800" stop="20260111051000 +0800">
 		<title lang="zh">08_维和步兵营</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20260111051000 +0800" stop="20260111055500 +0800">
+		<title lang="zh">09_维和步兵营</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -40398,6 +40407,9 @@
 	<programme channel="newtv炫舞未来" start="20260111044900 +0800" stop="20260111051100 +0800">
 		<title lang="zh">爵士风健身舞《Summer Taste》（20220923）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20260111051500 +0800" stop="20260111053600 +0800">
+		<title lang="zh">爵士风健身舞《LA DI DA》（20220906）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -40457,6 +40469,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260111043600 +0800" stop="20260111052100 +0800">
 		<title lang="zh">10_画眉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260111052100 +0800" stop="20260111060500 +0800">
+		<title lang="zh">16_风暴舞</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
