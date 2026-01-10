@@ -38655,6 +38655,9 @@
 	<programme channel="纯享4K" start="20260110122100 +0800" stop="20260110130200 +0800">
 		<title lang="zh">远方的家4K 我家那片海 辽阔海洋 物产丰饶</title>
 	</programme>
+	<programme channel="纯享4K" start="20260110131300 +0800" stop="20260110134300 +0800">
+		<title lang="zh">信仰的感召4K 政工楷模 刘伯坚</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -47838,6 +47841,9 @@
 	<programme channel="黑莓动画" start="20260110104100 +0800" stop="20260110130600 +0800">
 		<title lang="zh">13_间谍过家家全集中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20260110130600 +0800" stop="20260110153300 +0800">
+		<title lang="zh">07_一人之下第5季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -49281,6 +49287,9 @@
 	<programme channel="newtv潮妈辣婆" start="20260110121700 +0800" stop="20260110130300 +0800">
 		<title lang="zh">52_三生三世枕上书</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260110130300 +0800" stop="20260110134300 +0800">
+		<title lang="zh">礼贡堂二十一味全鹿丸-渠道（右）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -49346,6 +49355,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20260110123800 +0800" stop="20260110130400 +0800">
 		<title lang="zh">汽修老兵的装备乐园</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20260110130400 +0800" stop="20260110133100 +0800">
+		<title lang="zh">探访晋冀鲁豫烈士陵园</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -49478,6 +49490,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20260110123300 +0800" stop="20260110131300 +0800">
 		<title lang="zh">礼贡堂二十一味全鹿丸-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20260110131300 +0800" stop="20260110133700 +0800">
+		<title lang="zh">25_樱桃小丸子 第二季普通话版</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
