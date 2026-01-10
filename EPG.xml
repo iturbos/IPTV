@@ -49746,6 +49746,9 @@
 	<programme channel="newtv怡伴健康" start="20260110221600 +0800" stop="20260110230700 +0800">
 		<title lang="zh">水溶植物欧米伽3微囊粉</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20260110230700 +0800" stop="20260110234400 +0800">
+		<title lang="zh">广东瑜满珠江vs浙江杭州汉资-第2局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -49841,6 +49844,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20260110221900 +0800" stop="20260110231000 +0800">
 		<title lang="zh">水溶植物欧米伽3微囊粉</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260110231000 +0800" stop="20260110234000 +0800">
+		<title lang="zh">11_连接无界</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -49977,6 +49983,9 @@
 	<programme channel="newtv军事评论" start="20260110223600 +0800" stop="20260110230200 +0800">
 		<title lang="zh">红场铁流</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260110230200 +0800" stop="20260110232900 +0800">
+		<title lang="zh">云端砺剑</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -50096,6 +50105,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20260110225700 +0800" stop="20260110230500 +0800">
 		<title lang="zh">广场舞《路灯下的小姑娘》-乌兰图雅、王广成</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20260110230500 +0800" stop="20260110234400 +0800">
+		<title lang="zh">透过文物看中医5（20240103）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -50537,6 +50549,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260110221900 +0800" stop="20260110230400 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260110230400 +0800" stop="20260110003000 +0800">
+		<title lang="zh">镇魔司：四象伏魔</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
