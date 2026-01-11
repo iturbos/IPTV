@@ -38979,6 +38979,9 @@
 	<programme channel="纯享4K" start="20260111222800 +0800" stop="20260111231600 +0800">
 		<title lang="zh">传承 第二季4K 第四集 师徒</title>
 	</programme>
+	<programme channel="纯享4K" start="20260111231600 +0800" stop="20260111234600 +0800">
+		<title lang="zh">美丽中国说4K 高山精灵</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -49158,6 +49161,9 @@
 	<programme channel="newtv精品大剧" start="20260111223500 +0800" stop="20260111231500 +0800">
 		<title lang="zh">益健堂半导体激光表</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20260111231500 +0800" stop="20260111000600 +0800">
+		<title lang="zh">09_无尽的尽头</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -49458,6 +49464,9 @@
 	<programme channel="newtv军旅剧场" start="20260111222600 +0800" stop="20260111230600 +0800">
 		<title lang="zh">益健堂半导体激光表</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20260111230600 +0800" stop="20260111235200 +0800">
+		<title lang="zh">40_皮b7影</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -49659,6 +49668,9 @@
 	<programme channel="newtv热播精选" start="20260111221500 +0800" stop="20260111230600 +0800">
 		<title lang="zh">水溶植物欧米伽3微囊粉</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20260111230600 +0800" stop="20260111235100 +0800">
+		<title lang="zh">06_淬火丹心</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -49814,6 +49826,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20260111222100 +0800" stop="20260111230600 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20260111230600 +0800" stop="20260111000900 +0800">
+		<title lang="zh">狄仁杰之九层妖楼</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -50270,6 +50285,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20260111225300 +0800" stop="20260111230600 +0800">
 		<title lang="zh">广场舞《相思草》-乌兰图雅、王广成</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20260111231300 +0800" stop="20260111235100 +0800">
+		<title lang="zh">透过文物看中医6（20240104）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
