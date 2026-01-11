@@ -14508,6 +14508,9 @@
 	<programme channel="咪咕足球" start="20260111211500 +0800" stop="20260111221500 +0800">
 		<title lang="zh">最后之舞01</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260111221500 +0800" stop="20260111222000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四川卫视">
 		<display-name lang="zh">四川卫视</display-name>
 	</channel>
@@ -49608,6 +49611,9 @@
 	<programme channel="newtv热播精选" start="20260111213100 +0800" stop="20260111221500 +0800">
 		<title lang="zh">09_铁血淞沪</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20260111221500 +0800" stop="20260111230600 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -50076,6 +50082,9 @@
 	<programme channel="newtv军事评论" start="20260111214100 +0800" stop="20260111220600 +0800">
 		<title lang="zh">【防务新观察】特朗普呼吁俄乌立即停火 欧盟做与俄开战准备？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260111220600 +0800" stop="20260111223300 +0800">
+		<title lang="zh">揭秘“金穹”计划/六代机 未来“空战风暴”？</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -50453,6 +50462,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260111211700 +0800" stop="20260111220800 +0800">
 		<title lang="zh">水溶植物欧米伽3微囊粉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260111220800 +0800" stop="20260111225300 +0800">
+		<title lang="zh">38_无间</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
