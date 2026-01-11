@@ -14400,6 +14400,9 @@
 	<programme channel="咪咕综合体育" start="20260111185500 +0800" stop="20260111191500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260111191500 +0800" stop="20260111214500 +0800">
+		<title lang="zh">足球世界-2026U23亚洲杯 D组第2轮 中国U23-澳大利亚U23 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -14486,6 +14489,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260111190000 +0800" stop="20260111192000 +0800">
 		<title lang="zh">数聚赛场</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260111192000 +0800" stop="20260111193000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="四川卫视">
 		<display-name lang="zh">四川卫视</display-name>
@@ -48948,6 +48954,9 @@
 	<programme channel="newtv超级电视剧" start="20260111183700 +0800" stop="20260111192300 +0800">
 		<title lang="zh">29_珠江人家</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260111192300 +0800" stop="20260111200800 +0800">
+		<title lang="zh">30_珠江人家</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -50186,6 +50195,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260111182000 +0800" stop="20260111190600 +0800">
 		<title lang="zh">35_无间</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260111190600 +0800" stop="20260111194600 +0800">
+		<title lang="zh">益健堂半导体激光表</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
