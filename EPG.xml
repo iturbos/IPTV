@@ -33855,6 +33855,9 @@
 	<programme channel="惊悚悬疑" start="20260112181800 +0800" stop="20260112190200 +0800">
 		<title lang="zh">伏湿丸</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20260112190200 +0800" stop="20260112202500 +0800">
+		<title lang="zh">兴安岭猎人传说</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -57804,6 +57807,9 @@
 	<programme channel="纯享4K" start="20260112183400 +0800" stop="20260112191300 +0800">
 		<title lang="zh">探索b7发现4K 修复千年浮雕彩绘石椁</title>
 	</programme>
+	<programme channel="纯享4K" start="20260112191300 +0800" stop="20260112192800 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 五童纸鸢图</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -73992,6 +73998,9 @@
 	<programme channel="newtv惊悚悬疑" start="20260112181800 +0800" stop="20260112190200 +0800">
 		<title lang="zh">伏湿丸</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20260112190200 +0800" stop="20260112202500 +0800">
+		<title lang="zh">兴安岭猎人传说</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -74075,6 +74084,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260112182900 +0800" stop="20260112191500 +0800">
 		<title lang="zh">40_无间</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260112191500 +0800" stop="20260112195500 +0800">
+		<title lang="zh">益健堂半导体激光表</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
