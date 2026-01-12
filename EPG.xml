@@ -12654,6 +12654,9 @@
 	<programme channel="咪咕综合体育" start="20260113010500 +0800" stop="20260113030500 +0800">
 		<title lang="zh">UFC格斗之夜261期 主赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260113031500 +0800" stop="20260113060000 +0800">
+		<title lang="zh">足球世界-25/26赛季意甲 第20轮 尤文图斯-克雷莫内塞 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -39833,6 +39836,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260113013400 +0800" stop="20260113031100 +0800">
 		<title lang="zh">隐婚男女</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260113031100 +0800" stop="20260113045100 +0800">
+		<title lang="zh">零点定理</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
