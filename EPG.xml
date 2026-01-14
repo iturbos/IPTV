@@ -25051,6 +25051,9 @@
 	<programme channel="咪咕综合体育" start="20260114185500 +0800" stop="20260114191500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260114191500 +0800" stop="20260114214000 +0800">
+		<title lang="zh">足球世界-2026U23亚洲杯 D组第3轮 泰国U23-中国U23 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -39567,6 +39570,9 @@
 	</programme>
 	<programme channel="明星大片" start="20260114182900 +0800" stop="20260114190400 +0800">
 		<title lang="zh">BC99太空航天活性益生菌粉-渠道（右）</title>
+	</programme>
+	<programme channel="明星大片" start="20260114190400 +0800" stop="20260114194400 +0800">
+		<title lang="zh">08_只是结婚的关系</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -56488,6 +56494,9 @@
 	<programme channel="爱情喜剧" start="20260114181600 +0800" stop="20260114190400 +0800">
 		<title lang="zh">10_玫瑰的故事</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20260114190400 +0800" stop="20260114194700 +0800">
+		<title lang="zh">东贡堂蜂王浆冻干粉升级组</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -62349,6 +62358,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20260114183600 +0800" stop="20260114191600 +0800">
 		<title lang="zh">探索b7发现4K 南京祖堂山明代大墓（下）</title>
+	</programme>
+	<programme channel="纯享4K" start="20260114191600 +0800" stop="20260114193100 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 骑射形金饰片</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -78259,6 +78271,9 @@
 	<programme channel="黑莓电影" start="20260114171200 +0800" stop="20260114190100 +0800">
 		<title lang="zh">轻于鸿毛</title>
 	</programme>
+	<programme channel="黑莓电影" start="20260114190100 +0800" stop="20260114212500 +0800">
+		<title lang="zh">变形金刚</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -79294,6 +79309,9 @@
 	<programme channel="newtv超级电视剧" start="20260114182500 +0800" stop="20260114190700 +0800">
 		<title lang="zh">42_亲爱的爸妈</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260114190700 +0800" stop="20260114194700 +0800">
+		<title lang="zh">05_台湾往事</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -79374,6 +79392,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20260114182700 +0800" stop="20260114191200 +0800">
 		<title lang="zh">40_清平乐[DVD版]</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20260114191200 +0800" stop="20260114195600 +0800">
+		<title lang="zh">东贡堂蜂王浆冻干粉升级组</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -79717,6 +79738,9 @@
 	<programme channel="newtv家庭剧场" start="20260114183000 +0800" stop="20260114191200 +0800">
 		<title lang="zh">17_余生有涯</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20260114191200 +0800" stop="20260114195600 +0800">
+		<title lang="zh">东贡堂蜂王浆冻干粉升级组</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -79879,6 +79903,9 @@
 	<programme channel="newtv爱情喜剧" start="20260114181600 +0800" stop="20260114190400 +0800">
 		<title lang="zh">10_玫瑰的故事</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20260114190400 +0800" stop="20260114194700 +0800">
+		<title lang="zh">东贡堂蜂王浆冻干粉升级组</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -80019,6 +80046,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20260114183200 +0800" stop="20260114190700 +0800">
 		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20260114190700 +0800" stop="20260114192900 +0800">
+		<title lang="zh">天津狼图腾vs四川天门淘一街-第7局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -80212,6 +80242,9 @@
 	<programme channel="newtv军事评论" start="20260114185400 +0800" stop="20260114191600 +0800">
 		<title lang="zh">铸剑苍穹（2）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260114191600 +0800" stop="20260114193800 +0800">
+		<title lang="zh">铸剑苍穹（3）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -80388,6 +80421,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20260114182900 +0800" stop="20260114190400 +0800">
 		<title lang="zh">BC99太空航天活性益生菌粉-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20260114190400 +0800" stop="20260114194400 +0800">
+		<title lang="zh">08_只是结婚的关系</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
