@@ -13032,6 +13032,9 @@
 	<programme channel="咪咕足球" start="20260115050000 +0800" stop="20260115051000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260115051000 +0800" stop="20260115064500 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第2轮 陕西榆林天泽-浙江稠州银行</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -40245,6 +40248,9 @@
 	<programme channel="黑莓动画" start="20260115005400 +0800" stop="20260115051000 +0800">
 		<title lang="zh">31_雷欧奥特曼 重制版 普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20260115051000 +0800" stop="20260115065100 +0800">
+		<title lang="zh">画江湖之天罡</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -40995,6 +41001,9 @@
 	<programme channel="newtv超级电视剧" start="20260115043400 +0800" stop="20260115051500 +0800">
 		<title lang="zh">15_热血青春</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260115051500 +0800" stop="20260115055700 +0800">
+		<title lang="zh">16_热血青春</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -41064,6 +41073,9 @@
 	<programme channel="newtv古装剧场" start="20260115041500 +0800" stop="20260115050100 +0800">
 		<title lang="zh">30_三国机密之潜龙在渊</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20260115050100 +0800" stop="20260115054700 +0800">
+		<title lang="zh">09_似锦</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -41087,6 +41099,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20260115041600 +0800" stop="20260115050100 +0800">
 		<title lang="zh">24_维和步兵营</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20260115050100 +0800" stop="20260115054700 +0800">
+		<title lang="zh">25_维和步兵营</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -41136,6 +41151,9 @@
 	<programme channel="newtv热播精选" start="20260115042300 +0800" stop="20260115050400 +0800">
 		<title lang="zh">01_春色寄情人</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20260115050400 +0800" stop="20260115054400 +0800">
+		<title lang="zh">02_春色寄情人</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -41174,6 +41192,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20260115040100 +0800" stop="20260115051400 +0800">
 		<title lang="zh">杀戮部队</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20260115051400 +0800" stop="20260115055800 +0800">
+		<title lang="zh">东贡堂蜂王浆冻干粉升级组</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -41225,6 +41246,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20260115041800 +0800" stop="20260115050300 +0800">
 		<title lang="zh">75_大秦赋</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260115050300 +0800" stop="20260115054900 +0800">
+		<title lang="zh">76_大秦赋</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -41297,6 +41321,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20260115042600 +0800" stop="20260115051000 +0800">
 		<title lang="zh">地道英雄 第17集</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20260115051000 +0800" stop="20260115055400 +0800">
+		<title lang="zh">地道英雄 第18集</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
