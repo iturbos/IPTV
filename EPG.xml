@@ -14634,6 +14634,9 @@
 	<programme channel="咪咕综合体育" start="20260115190000 +0800" stop="20260115190500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260115190500 +0800" stop="20260115204500 +0800">
+		<title lang="zh">英超赛场-25/26赛季英超 第21轮 伯恩茅斯-托特纳姆热刺</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -14723,6 +14726,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260115190000 +0800" stop="20260115192000 +0800">
 		<title lang="zh">数聚赛场</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260115192000 +0800" stop="20260115193000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -50996,6 +51002,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260115182300 +0800" stop="20260115190900 +0800">
 		<title lang="zh">16_宿敌</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260115190900 +0800" stop="20260115195200 +0800">
+		<title lang="zh">东贡堂蜂王浆冻干粉升级组</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
