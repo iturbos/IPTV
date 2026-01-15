@@ -14631,6 +14631,9 @@
 	<programme channel="咪咕综合体育" start="20260115182500 +0800" stop="20260115190000 +0800">
 		<title lang="zh">中国力量2-陈梦特辑-寻找温柔的落脚点</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260115190000 +0800" stop="20260115190500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -14714,6 +14717,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260115183500 +0800" stop="20260115185000 +0800">
 		<title lang="zh">睛彩圈圈点第二十五期</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260115185000 +0800" stop="20260115190000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260115190000 +0800" stop="20260115192000 +0800">
+		<title lang="zh">数聚赛场</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -49752,6 +49761,9 @@
 	<programme channel="newtv超级电视剧" start="20260115181100 +0800" stop="20260115185800 +0800">
 		<title lang="zh">03_亲爱的，你在哪里</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260115185800 +0800" stop="20260115193700 +0800">
+		<title lang="zh">08_台湾往事</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -49998,6 +50010,9 @@
 	<programme channel="newtv古装剧场" start="20260115181700 +0800" stop="20260115185200 +0800">
 		<title lang="zh">泰国Napattiga人参健发养护洗发水-渠道（右）</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20260115185200 +0800" stop="20260115193800 +0800">
+		<title lang="zh">12_嫣语赋</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -50162,6 +50177,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20260115180600 +0800" stop="20260115185100 +0800">
 		<title lang="zh">28_绽放的许开心</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20260115185100 +0800" stop="20260115193500 +0800">
+		<title lang="zh">东贡堂蜂王浆冻干粉升级组</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -50541,6 +50559,9 @@
 	<programme channel="newtv潮妈辣婆" start="20260115182000 +0800" stop="20260115190000 +0800">
 		<title lang="zh">45_爱的阶梯</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260115190000 +0800" stop="20260115193500 +0800">
+		<title lang="zh">泰国Napattiga人参健发养护洗发水-渠道（右）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -50646,6 +50667,9 @@
 	<programme channel="newtv军事评论" start="20260115182400 +0800" stop="20260115184600 +0800">
 		<title lang="zh">走向深蓝（2）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260115184600 +0800" stop="20260115190800 +0800">
+		<title lang="zh">走向深蓝（3）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -50739,6 +50763,9 @@
 	<programme channel="newtv炫舞未来" start="20260115180100 +0800" stop="20260115183300 +0800">
 		<title lang="zh">老人为何偏心4</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20260115183300 +0800" stop="20260115190300 +0800">
+		<title lang="zh">健康生活-鱼油</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -50816,6 +50843,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20260115180400 +0800" stop="20260115183900 +0800">
 		<title lang="zh">BC99太空航天活性益生菌粉-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20260115183900 +0800" stop="20260115192100 +0800">
+		<title lang="zh">11_只是结婚的关系</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
