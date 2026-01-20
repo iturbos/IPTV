@@ -14307,6 +14307,9 @@
 	<programme channel="咪咕综合体育" start="20260120150500 +0800" stop="20260120155500 +0800">
 		<title lang="zh">国球荣耀-2026WTT多哈冠军赛 男单决赛 张禹珍-林昀儒</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260120155500 +0800" stop="20260120160000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -48126,6 +48129,9 @@
 	<programme channel="黑莓动画" start="20260120125900 +0800" stop="20260120154000 +0800">
 		<title lang="zh">01_一人之下第3季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20260120154000 +0800" stop="20260120181700 +0800">
+		<title lang="zh">01_星辰变 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -49113,6 +49119,9 @@
 	<programme channel="newtv精品大剧" start="20260120151000 +0800" stop="20260120155500 +0800">
 		<title lang="zh">东贡堂蜂王浆冻干粉片升级庆生组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20260120155500 +0800" stop="20260120164000 +0800">
+		<title lang="zh">04_大秦帝国之纵横</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -49178,6 +49187,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20260120145900 +0800" stop="20260120153400 +0800">
 		<title lang="zh">泰国Napattiga人参健发养护洗发水-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20260120153400 +0800" stop="20260120161800 +0800">
+		<title lang="zh">26_雪狼谷</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -49247,6 +49259,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20260120145900 +0800" stop="20260120153400 +0800">
 		<title lang="zh">BC99太空航天活性益生菌粉-渠道（右）</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20260120153400 +0800" stop="20260120162000 +0800">
+		<title lang="zh">19_长歌行</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -49566,6 +49581,9 @@
 	<programme channel="newtv动作电影" start="20260120153000 +0800" stop="20260120155900 +0800">
 		<title lang="zh">土家1号祛痛贴</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20260120155900 +0800" stop="20260120172300 +0800">
+		<title lang="zh">纵横千里之一发千钧</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -49797,6 +49815,9 @@
 	<programme channel="newtv军事评论" start="20260120151300 +0800" stop="20260120154000 +0800">
 		<title lang="zh">铁甲探奇 走进法国索缪尔战车博物馆</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260120154000 +0800" stop="20260120160700 +0800">
+		<title lang="zh">春节特别节目 舰艇探奇 走进澳大利亚悉尼国家海事博物馆</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -49878,6 +49899,12 @@
 	<programme channel="newtv炫舞未来" start="20260120152900 +0800" stop="20260120153500 +0800">
 		<title lang="zh">尹志雪教练《养生系列——调理肝经 胆经》（4K）【炫舞未来健身动起来20191003】</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20260120153500 +0800" stop="20260120155600 +0800">
+		<title lang="zh">爵士风健身舞（20220807）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20260120160000 +0800" stop="20260120162800 +0800">
+		<title lang="zh">拉链厂的秘密（20241111）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -49946,6 +49973,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20260120151500 +0800" stop="20260120160100 +0800">
 		<title lang="zh">19_外乡人</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20260120160100 +0800" stop="20260120164100 +0800">
+		<title lang="zh">礼贡堂二十一味全鹿丸-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -50069,6 +50099,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260120151300 +0800" stop="20260120154800 +0800">
 		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260120154800 +0800" stop="20260120163300 +0800">
+		<title lang="zh">29_潜行者</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -50201,6 +50234,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260120145900 +0800" stop="20260120154400 +0800">
 		<title lang="zh">18_大武当</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260120154400 +0800" stop="20260120162800 +0800">
+		<title lang="zh">东贡堂蜂王浆冻干粉升级组</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
