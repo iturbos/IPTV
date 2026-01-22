@@ -12819,6 +12819,9 @@
 	<programme channel="咪咕足球" start="20260123050000 +0800" stop="20260123051000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260123051000 +0800" stop="20260123065000 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第5轮 新疆天山-江苏南钢</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -40847,6 +40850,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260123042800 +0800" stop="20260123051300 +0800">
 		<title lang="zh">06_天下正道</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260123051300 +0800" stop="20260123055900 +0800">
+		<title lang="zh">07_天下正道</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
